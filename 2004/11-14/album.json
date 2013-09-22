@@ -1,0 +1,188 @@
+{
+    "children": {
+        "fall1": {
+            "description": "Papa's little helper.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/14/images/fall1.jpg",
+                "width": null
+            },
+            "pathComponent": "fall1.jpg",
+            "title": "Fall 1"
+        },
+        "fall2": {
+            "description": "San Francisco doesn't do fall.  We're still surprised by the fact that Berkeley does.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/14/images/fall2.jpg",
+                "width": null
+            },
+            "pathComponent": "fall2.jpg",
+            "title": "Fall 2"
+        },
+        "fall3": {
+            "description": "Whee!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/14/images/fall3.jpg",
+                "width": null
+            },
+            "pathComponent": "fall3.jpg",
+            "title": "Fall 3"
+        },
+        "felix_room1": {
+            "description": "We had all of our trees trimmed, to let more light into the house.  The view from Felix's room lenghthened considerably.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/14/images/felix_room1.jpg",
+                "width": null
+            },
+            "pathComponent": "felix_room1.jpg",
+            "title": "Felix Room 1"
+        },
+        "felix_room2": {
+            "description": "There's lots more sky in Felix's room now.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/14/images/felix_room2.jpg",
+                "width": null
+            },
+            "pathComponent": "felix_room2.jpg",
+            "title": "Felix Room 2"
+        },
+        "housewarming1": {
+            "description": "We <i>finally</i> got around to having a housewarming party. \n \n<p>\nHere, Felix investigates the stuff growing out of Jeremey's face.\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/14/images/housewarming1.jpg",
+                "width": null
+            },
+            "pathComponent": "housewarming1.jpg",
+            "title": "Housewarming 1"
+        },
+        "housewarming2": {
+            "description": "Classic Evan.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/14/images/housewarming2.jpg",
+                "width": null
+            },
+            "pathComponent": "housewarming2.jpg",
+            "title": "Housewarming 2"
+        },
+        "housewarming3": {
+            "description": "Classic Felix.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/14/images/housewarming3.jpg",
+                "width": null
+            },
+            "pathComponent": "housewarming3.jpg",
+            "title": "Housewarming 3"
+        },
+        "housewarming4": {
+            "description": "Classic Ezekiel.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/14/images/housewarming4.jpg",
+                "width": null
+            },
+            "pathComponent": "housewarming4.jpg",
+            "title": "Housewarming 4"
+        },
+        "hug": {
+            "description": "Felix and Milo share a tender moment.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/14/images/hug.jpg",
+                "width": null
+            },
+            "pathComponent": "hug.jpg",
+            "title": "Hug"
+        },
+        "jasper1": {
+            "description": "We ran into schoolmate Jasper at the local basketball court.  They immediately set to comparing tricycles.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/14/images/jasper1.jpg",
+                "width": null
+            },
+            "pathComponent": "jasper1.jpg",
+            "title": "Jasper 1"
+        },
+        "jasper2": {
+            "description": "An impromptu parade ensued.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/14/images/jasper2.jpg",
+                "width": null
+            },
+            "pathComponent": "jasper2.jpg",
+            "title": "Jasper 2"
+        },
+        "letter": {
+            "description": "Lucie and Felix peruse a letter from Babushka.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/14/images/letter.jpg",
+                "width": null
+            },
+            "pathComponent": "letter.jpg",
+            "title": "Letter"
+        },
+        "milo1": {
+            "description": "Milo's favorite spot to catch a few zzzz's.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/14/images/milo1.jpg",
+                "width": null
+            },
+            "pathComponent": "milo1.jpg",
+            "title": "Milo 1"
+        },
+        "milo2": {
+            "description": "His grasp extends beyond the borders of consciousness.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/14/images/milo2.jpg",
+                "width": null
+            },
+            "pathComponent": "milo2.jpg",
+            "title": "Milo 2"
+        },
+        "playstation": {
+            "description": "Dean and Felix play video games.  Felix demands that we drive carefully.  \"Papa, get a slow car!\".",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/14/images/playstation.jpg",
+                "width": null
+            },
+            "pathComponent": "playstation.jpg",
+            "title": "Playstation"
+        }
+    },
+    "childrenOrder": [
+        "fall1",
+        "fall2",
+        "fall3",
+        "felix_room1",
+        "felix_room2",
+        "housewarming1",
+        "housewarming2",
+        "housewarming3",
+        "housewarming4",
+        "hug",
+        "jasper1",
+        "jasper2",
+        "letter",
+        "milo1",
+        "milo2",
+        "playstation"
+    ],
+    "creationTimestamp": 1100419200,
+    "description": "</TD>\n</TR>\n</TABLE>\n<P>\n<P>\nFelix is wearing underwear!  Not for sleeping or school, but most of the rest of the time.  We have to remind him to try to go potty or else there's um, consequences, but it's generally going smoothly.\n\n<p>\nFelix is aware of his upcoming birthday and Christmas.  He's putting serious thought into what booty he wants, and is studying up on the whole \"Papa Noel\" thing.   At naptime he asks for <i>The Night Before Christmas</i> (the English-speaking world's most famous Christmas story).\n</p>\n\n<p>\nMilo's starting grabbing.  Hair, noses, video game controllers.  Also, he's seriously attempting to crawl, though without much success yet.  When he's on his belly he tries to push himself along with his legs.\n</p>",
+    "pathComponent": "2004/11-14",
+    "summary": "",
+    "thumbnailChild": "milo2",
+    "title": "November 14"
+}

@@ -1,0 +1,177 @@
+{
+    "children": {
+        "bike1": {
+            "description": "One fine day our kid trailer collected, more or less by accident, Felix's best friend Jasper.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/07/04/slides/bike1.jpg",
+                "width": null
+            },
+            "pathComponent": "bike1.jpg",
+            "title": "Bike 1"
+        },
+        "bike2": {
+            "description": "Jasper and Felix have been constant companions at the Snuggery for a few months.  It's the hardest part of moving him to a new school.  We'll definitely be having playdates since Jasper only lives a few blocks away.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/07/04/slides/bike2.jpg",
+                "width": null
+            },
+            "pathComponent": "bike2.jpg",
+            "title": "Bike 2"
+        },
+        "food": {
+            "description": "Milo's developed an interest in using utensils.  Dean gives him some pointers.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/07/04/slides/food.jpg",
+                "width": null
+            },
+            "pathComponent": "food.jpg",
+            "title": "Food"
+        },
+        "parade1": {
+            "description": "Independence Day.   Not wanting another year of foggy fireworks, we headed inland to Danville, California.  We got hot summer weather and classic small town America.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/07/04/slides/parade1.jpg",
+                "width": null
+            },
+            "pathComponent": "parade1.jpg",
+            "title": "Parade 1"
+        },
+        "parade2": {
+            "description": "100% American.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/07/04/slides/parade2.jpg",
+                "width": null
+            },
+            "pathComponent": "parade2.jpg",
+            "title": "Parade 2"
+        },
+        "parade3": {
+            "description": "The army deployed their tubas.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/07/04/slides/parade3.jpg",
+                "width": null
+            },
+            "pathComponent": "parade3.jpg",
+            "title": "Parade 3"
+        },
+        "parade4": {
+            "description": "The army reserves deployed their bellies.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/07/04/slides/parade4.jpg",
+                "width": null
+            },
+            "pathComponent": "parade4.jpg",
+            "title": "Parade 4"
+        },
+        "parade5": {
+            "description": "We were in Danville because our friend Amy grew up there.   She was even a cheerleader at Danville High.   Topside is her son Wyatt.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/07/04/slides/parade5.jpg",
+                "width": null
+            },
+            "pathComponent": "parade5.jpg",
+            "title": "Parade 5"
+        },
+        "parade6": {
+            "description": "The air force deployed their lone remaining Vietnam helicopter.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/07/04/slides/parade6.jpg",
+                "width": null
+            },
+            "pathComponent": "parade6.jpg",
+            "title": "Parade 6"
+        },
+        "parade7": {
+            "description": "Captain America graciously took time from his hectic crime-fighting schedule.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/07/04/slides/parade7.jpg",
+                "width": null
+            },
+            "pathComponent": "parade7.jpg",
+            "title": "Parade 7"
+        },
+        "parade8": {
+            "description": "Milo, a bit sick, seemed dubious of the whole deal but at least he was willing to people-watch and whack Dean with a flag.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/07/04/slides/parade8.jpg",
+                "width": null
+            },
+            "pathComponent": "parade8.jpg",
+            "title": "Parade 8"
+        },
+        "parade9": {
+            "description": "Nobody stuck their toes in the parade route.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/07/04/slides/parade9.jpg",
+                "width": null
+            },
+            "pathComponent": "parade9.jpg",
+            "title": "Parade 9"
+        },
+        "parade9b": {
+            "description": "Every small town has a crack lawn care team ready to parade at a moment's notice.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/07/04/slides/parade9b.jpg",
+                "width": null
+            },
+            "pathComponent": "parade9b.jpg",
+            "title": "Parade9b"
+        },
+        "summer1": {
+            "description": "After the parade we did summery things at Wyatt's house.   Dean loved the Slip & Slide, but the under 5 set wasn't so bold.  In fact, it scared Milo to tears to see Dean on it.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/07/04/slides/summer1.jpg",
+                "width": null
+            },
+            "pathComponent": "summer1.jpg",
+            "title": "Summer 1"
+        },
+        "summer2": {
+            "description": "Felix contemplates the murky depths.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/07/04/slides/summer2.jpg",
+                "width": null
+            },
+            "pathComponent": "summer2.jpg",
+            "title": "Summer 2"
+        }
+    },
+    "childrenOrder": [
+        "bike1",
+        "bike2",
+        "food",
+        "parade1",
+        "parade2",
+        "parade3",
+        "parade4",
+        "parade5",
+        "parade6",
+        "parade7",
+        "parade8",
+        "parade9",
+        "parade9b",
+        "summer1",
+        "summer2"
+    ],
+    "creationTimestamp": 1120460400,
+    "description": "Felix started his new school, the <a href=\"http://newschoolofberkeley.org/\">New School of Berkeley</a>, on Friday. It's going well. The teachers are all very cool and there are lots of things to do.  Felix's class even has a pet rat that crawls all over them!  Felix hasn't made friends yet, but he understands it can take time.  He's showing a lot of good will.\n<p>\nLucie, Felix and Milo have been a little sick. Milo is teething. Despite it all, we had a first rate 4th of July in a small and wholesome little town called Danville.\n</p>\nNew words and baby signs this week:\n<ul>\n<li> <u>boo!</u>: as in \"peekaboo\". Milo LOVES playing peekaboo. He hides behind a door then opens it and goes \"boo!!!\"\n<li> <u>papa</u>: No doubt about it now, he really means Dean when he says it.\n<li> <u>[flapping one arm]</u>: <i>bird</i>. \n<li> <u>[toungue in and out of mouth]</u>: <i>frog</i>. In the process of learning this sign, Milo discovered his toungue. He was fascinated.\n</ul>",
+    "pathComponent": "2005/07-04",
+    "summary": "",
+    "thumbnailChild": "summer2",
+    "title": "July 4"
+}

@@ -1,0 +1,111 @@
+{
+    "children": {
+        "chinatown1": {
+            "description": "On the way to meet the Frasiers for dim sum in Chinatown, we picked up some goodies at the fortune cookie factory.  Yum!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/12/slides/chinatown1.jpg",
+                "width": null
+            },
+            "pathComponent": "chinatown1.jpg",
+            "title": "Chinatown 1"
+        },
+        "chinatown2": {
+            "description": "Felix and Evan don't get to see each other often. It's a pity, because they fall together like drunken sailors.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/12/slides/chinatown2.jpg",
+                "width": null
+            },
+            "pathComponent": "chinatown2.jpg",
+            "title": "Chinatown 2"
+        },
+        "chinatown3": {
+            "description": "The big white wheels pull all the cables that pull San Francisco's cable cars.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/12/slides/chinatown3.jpg",
+                "width": null
+            },
+            "pathComponent": "chinatown3.jpg",
+            "title": "Chinatown 3"
+        },
+        "chinatown4": {
+            "description": "Evan practices cable car ring-a-linging.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/12/slides/chinatown4.jpg",
+                "width": null
+            },
+            "pathComponent": "chinatown4.jpg",
+            "title": "Chinatown 4"
+        },
+        "joyce1": {
+            "description": "With the Joyces on Indian Rock.  It's only been a month since Felix last visited, but this was the first time he was sure-footed enough to roam all over it by himself.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/12/slides/joyce1.jpg",
+                "width": null
+            },
+            "pathComponent": "joyce1.jpg",
+            "title": "Joyce 1"
+        },
+        "joyce2": {
+            "description": "Milo insisted on bringing a backpack and remote control car, just like his big brother.  So far Felix has loved being a role model.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/12/slides/joyce2.jpg",
+                "width": null
+            },
+            "pathComponent": "joyce2.jpg",
+            "title": "Joyce 2"
+        },
+        "joyce3": {
+            "description": "Amanda.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/12/slides/joyce3.jpg",
+                "width": null
+            },
+            "pathComponent": "joyce3.jpg",
+            "title": "Joyce 3"
+        },
+        "joyce4": {
+            "description": "Amanda?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/12/slides/joyce4.jpg",
+                "width": null
+            },
+            "pathComponent": "joyce4.jpg",
+            "title": "Joyce 4"
+        },
+        "writing": {
+            "description": "Felix has started writing his name!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/12/slides/writing.jpg",
+                "width": null
+            },
+            "pathComponent": "writing.jpg",
+            "title": "Writing"
+        }
+    },
+    "childrenOrder": [
+        "chinatown1",
+        "chinatown2",
+        "chinatown3",
+        "chinatown4",
+        "joyce1",
+        "joyce2",
+        "joyce3",
+        "joyce4",
+        "writing"
+    ],
+    "creationTimestamp": 1163318400,
+    "description": "Lucie takes Felix to the Lawrence Hall of Science for a science class on Mondays.  They stepped into the latest session and it turned out to be a kids only class -- no grownups allowed.  Felix managed to keep it together when Mom left, and had a blast.  The next session, he was VERY proud to march in by himself and wave bye to Lucie.  Lucie brought Milo to see the museum while waiting for Felix, and <i>Milo</i> was very proud be included in the previously Felix-only outing.  He understood it was a big boy thing.  Except he had been mis-hearing what Lucie and Felix had been going to, and kept yelling, \"Iron Giant! Iron Giant!\" instead of Lawerence Hall of Science.\n\n<p>\nDean and Felix are reading <cite>Stuart Little</cite> at bedtime, two chapters a night.  There's hardly any pictures.  Felix loves it.  Dean's already thinking of when they can read <cite>Harry Potter</cite> together.\n</p>\n\nMilo's adding more and more grammar. In the last week, \"I Superman!\" has become \"Papa, I Superman.  You bad guy.\" So far the grammar is mostly English.",
+    "pathComponent": "2006/11-12",
+    "summary": "",
+    "thumbnailChild": "joyce1",
+    "title": "November 12"
+}

@@ -1,0 +1,166 @@
+{
+    "children": {
+        "everybody": {
+            "description": "Not only does our neigbhorhood garden store have an excellent horticultural reputation, one obliging fellow on their staff took several group photos of us, on multiple cameras, when we just happened to wander in.  Left to right:  Mary, John, Lucie, Milo, Linda, Kay, Ron, Dean, Felix.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/10/images/everybody.jpg",
+                "width": null
+            },
+            "pathComponent": "everybody.jpg",
+            "title": "Everybody"
+        },
+        "kay": {
+            "description": "Kay and the boys share a convivial moment.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/10/images/kay.jpg",
+                "width": null
+            },
+            "pathComponent": "kay.jpg",
+            "title": "Kay"
+        },
+        "linda": {
+            "description": "Linda and Felix discuss apples.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/10/images/linda.jpg",
+                "width": null
+            },
+            "pathComponent": "linda.jpg",
+            "title": "Linda"
+        },
+        "mary1": {
+            "description": "Mary charms Milo, or vice versa.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/10/images/mary1.jpg",
+                "width": null
+            },
+            "pathComponent": "mary1.jpg",
+            "title": "Mary 1"
+        },
+        "mary2": {
+            "description": "Felix dug Mary.  Our attempt to call her \"Aunt Mary\" didn't take off because Felix doesn't like ants.  He thought Dean was calling her names.  He's just getting into the concept of name-calling:  he thinks calling Dean a \"crazy duck\" is a hilarious insult for some reason, but gets his feelings hurt a bit when Dean calls him the same thing.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/10/images/mary2.jpg",
+                "width": null
+            },
+            "pathComponent": "mary2.jpg",
+            "title": "Mary 2"
+        },
+        "papajohn1": {
+            "description": "Milo shows Papajohn his best smile.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/10/images/papajohn1.jpg",
+                "width": null
+            },
+            "pathComponent": "papajohn1.jpg",
+            "title": "Papajohn 1"
+        },
+        "papajohn2": {
+            "description": "Papajohn shows Milo his best grandpa face.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/10/images/papajohn2.jpg",
+                "width": null
+            },
+            "pathComponent": "papajohn2.jpg",
+            "title": "Papajohn 2"
+        },
+        "papajohn3": {
+            "description": "Everything comes up smiles.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/10/images/papajohn3.jpg",
+                "width": null
+            },
+            "pathComponent": "papajohn3.jpg",
+            "title": "Papajohn 3"
+        },
+        "papajohn4": {
+            "description": "Felix understands that Papajohn is Dean's dad.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/10/images/papajohn4.jpg",
+                "width": null
+            },
+            "pathComponent": "papajohn4.jpg",
+            "title": "Papajohn 4"
+        },
+        "pumpkin": {
+            "description": "Halloween day is October 31, but some yards in the neighborhood are already decorated with spider webs and skeletons.  We can tell this will be a fabulous neighborhood for trick-or-treating.   We made a little jack o' lantern, just to get into the sprit.\n\n<p>\nFelix still thinks Halloween is a place, not a time, and asks to go there.\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/10/images/pumpkin.jpg",
+                "width": null
+            },
+            "pathComponent": "pumpkin.jpg",
+            "title": "Pumpkin"
+        },
+        "ron": {
+            "description": "Wherever Ron is, there's equipment.  Gear.  Mechanical oddments.  And at least one truck.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/10/images/ron.jpg",
+                "width": null
+            },
+            "pathComponent": "ron.jpg",
+            "title": "Ron"
+        },
+        "zane1": {
+            "description": "Milo keeps getting smilier.  He's one darn smiley baby.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/10/images/zane1.jpg",
+                "width": null
+            },
+            "pathComponent": "zane1.jpg",
+            "title": "Zane 1"
+        },
+        "zane2": {
+            "description": "However, when he starts to yawn, watch out.  Tiredness is just a few smiles down the road.  Then he turns into Mr. Crankypants, a.k.a. The Fussbucket.  It's the normal baby fussiness, which pretty predictably peaks at two months.  Indeed, Milo is definitely getting less fussy as he leaves his two month birthday in the forgotten past.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/10/images/zane2.jpg",
+                "width": null
+            },
+            "pathComponent": "zane2.jpg",
+            "title": "Zane 2"
+        },
+        "zed": {
+            "description": "The doctor says that Felix has pneumonia, but it's hard to believe.  He only had a fever for one day, and since it went down he hasn't complained about anything.   He's mainly just been more cuddly, and coughing.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/10/images/zed.jpg",
+                "width": null
+            },
+            "pathComponent": "zed.jpg",
+            "title": "Zed"
+        }
+    },
+    "childrenOrder": [
+        "everybody",
+        "mary1",
+        "mary2",
+        "kay",
+        "ron",
+        "linda",
+        "papajohn4",
+        "papajohn1",
+        "papajohn2",
+        "papajohn3",
+        "pumpkin",
+        "zane1",
+        "zane2",
+        "zed"
+    ],
+    "creationTimestamp": 1097391600,
+    "description": "For a few days this week, the serene tranquility of the Moses household was shattered like a stack of cheap plates at a Greek wedding.   We had 5 houseguests:  Mary (Dean's aunt), Papajohn (Dean's dad), Linda (Papajohn's wife), Ron and Kay (friends of the family).   Okay, so maybe we didn't actually have any tranquility to begin with, and our guests more than pulled their own weight around the house, but several things <i>were</i> shattered over the course of the weekend.\n\n<p>\nWe had a great time and believe they did, though we're sure a few more bedrooms and bathrooms would have been appreciated.  That we had fun was somewhat remarkable because Lucie is sick and Felix actually has pneumonia.  He's been on antibiotics since Wednesday and has been amazingly chipper, if a little low energy.\n</p>\n\n<p>\nFelix was quite happy with the crowd.  The few times he and Dean found themselves alone, Felix would look around and ask, \"Where mes amis?\"\n</p>\n\n<p>\nMilo is proving to be a very social baby, and was interested and involved in all the commotion in the times he wasn't hungry, tired, or pooping.\n</p>",
+    "pathComponent": "2004/10-10",
+    "summary": "",
+    "thumbnailChild": "everybody",
+    "title": "October 10"
+}

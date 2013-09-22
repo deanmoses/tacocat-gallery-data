@@ -1,0 +1,155 @@
+{
+    "children": {
+        "a_kneeling": {
+            "description": "Felix started kneeling this week.  So far, noone's knighted him.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/22/images/a_kneeling.jpg",
+                "width": null
+            },
+            "pathComponent": "a_kneeling.jpg",
+            "title": "A Kneeling"
+        },
+        "boogie": {
+            "description": "Felix is fascinated by Boogie.  Boogie is Dan and Jennifer's cat. Notice his outstretched finger, which looks suspiciously like pointing.  He does this semi-pointing thing a lot now.  He also lifts his arms when he wants to be picked up from his high chair.  He does other gestures which we haven't yet deciphered:  it may just be \"hand babbling\".",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/22/images/boogie.jpg",
+                "width": null
+            },
+            "pathComponent": "boogie.jpg",
+            "title": "Boogie"
+        },
+        "car": {
+            "description": "Grandma Harriet came to town loaded with presents, including Felix's first wheels.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/22/images/car.jpg",
+                "width": null
+            },
+            "pathComponent": "car.jpg",
+            "title": "Car"
+        },
+        "first_shoes": {
+            "description": "Grandma took Felix on his very first trip to the shoe store. They selected a pair of nice, soft-soled leather shoes.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/22/images/first_shoes.jpg",
+                "width": null
+            },
+            "pathComponent": "first_shoes.jpg",
+            "title": "First Shoes"
+        },
+        "gym1": {
+            "description": "Felix tries out his new shoes at Noe Valley's baby gym.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/22/images/gym1.jpg",
+                "width": null
+            },
+            "pathComponent": "gym1.jpg",
+            "title": "Gym 1"
+        },
+        "gym2": {
+            "description": "Felix begins his Olympic speed mowing career. Harriet says he is practically walking. Lucie says he is falling with style.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/22/images/gym2.jpg",
+                "width": null
+            },
+            "pathComponent": "gym2.jpg",
+            "title": "Gym 2"
+        },
+        "gym3": {
+            "description": "For a comfier and easier ride, Felix settles down in a mom-powered sedan.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/22/images/gym3.jpg",
+                "width": null
+            },
+            "pathComponent": "gym3.jpg",
+            "title": "Gym 3"
+        },
+        "mashed_potatoes": {
+            "description": "After such an eventful day, Felix gladly gobbles down a rare treat: his first chicken, mashed potatoes and gravy. Yum! Bring it on, Grandma!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/22/images/mashed_potatoes.jpg",
+                "width": null
+            },
+            "pathComponent": "mashed_potatoes.jpg",
+            "title": "Mashed Potatoes"
+        },
+        "park1": {
+            "description": "Felix has so much energy, we go to the playground pretty much every day now. For diversity, we visit the different parks around town. Pictured here: the Mission playground at 19th and Valencia.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/22/images/park1.jpg",
+                "width": null
+            },
+            "pathComponent": "park1.jpg",
+            "title": "Park 1"
+        },
+        "park2": {
+            "description": "A new favorite: the playground in Duboce park.  Lucie and Grandma Harriet double-team Felix on the swings.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/22/images/park2.jpg",
+                "width": null
+            },
+            "pathComponent": "park2.jpg",
+            "title": "Park 2"
+        },
+        "park3": {
+            "description": "The best thing about playgounds is that you get to play with other babies and their parents.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/22/images/park3.jpg",
+                "width": null
+            },
+            "pathComponent": "park3.jpg",
+            "title": "Park 3"
+        },
+        "park4": {
+            "description": "Felix orders up three kisses, to go.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/22/images/park4.jpg",
+                "width": null
+            },
+            "pathComponent": "park4.jpg",
+            "title": "Park 4"
+        },
+        "sleeping": {
+            "description": "What a weekend! Time for a break. Grandma's lap is warm and cozy.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/22/images/sleeping.jpg",
+                "width": null
+            },
+            "pathComponent": "sleeping.jpg",
+            "title": "Sleeping"
+        }
+    },
+    "childrenOrder": [
+        "a_kneeling",
+        "boogie",
+        "car",
+        "first_shoes",
+        "gym1",
+        "gym2",
+        "gym3",
+        "mashed_potatoes",
+        "park1",
+        "park2",
+        "park3",
+        "park4",
+        "sleeping"
+    ],
+    "creationTimestamp": 1032678000,
+    "description": "<P>\n<P>\nSeptember and October are the <i>real</i> summer months in San Francisco.   The fog goes away and all the computer programmers emerge, blinking, into the sunlight. \n\n<p>\nGrandma Harriet visited this weekend to get some of the good weather, and to do a little doting.  Among other things, she got Felix some:\n<ul>\n\t<li>wheels</li>\n\t<li>shoes</li>\n\t<li>mashed potatoes and gravy</li>\n</ul>\n</p>\n\n<p>",
+    "pathComponent": "2002/09-22",
+    "summary": "",
+    "thumbnailChild": "car",
+    "title": "September 22"
+}

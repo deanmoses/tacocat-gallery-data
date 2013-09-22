@@ -1,0 +1,364 @@
+{
+    "children": {
+        "buns": {
+            "description": "Check out my buns.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/buns.jpg",
+                "width": null
+            },
+            "pathComponent": "buns.jpg",
+            "title": "Buns"
+        },
+        "layla1": {
+            "description": "Leyla and mom Aisha visited one afternoon.  Leyla is 13 months old.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/layla1.jpg",
+                "width": null
+            },
+            "pathComponent": "layla1.jpg",
+            "title": "Layla 1"
+        },
+        "layla2": {
+            "description": "Leyla isn't quite walking yet. Felix shows her some simple exercises to build up strength and balance.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/layla2.jpg",
+                "width": null
+            },
+            "pathComponent": "layla2.jpg",
+            "title": "Layla 2"
+        },
+        "layla3": {
+            "description": "Leyla <i>loves</i> to cuddle.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/layla3.jpg",
+                "width": null
+            },
+            "pathComponent": "layla3.jpg",
+            "title": "Layla 3"
+        },
+        "layla4": {
+            "description": "Leyla gives a bear hug.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/layla4.jpg",
+                "width": null
+            },
+            "pathComponent": "layla4.jpg",
+            "title": "Layla 4"
+        },
+        "lex1": {
+            "description": "Lucie and Felix also visited Alex and mom Anna.  Alex was 6 weeks premature, and is now 1 month old, which makes him still 2 weeks shy of his due date.  He spent a good 2 weeks in a neonatal unit, but now he is doing just fine.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/lex1.jpg",
+                "width": null
+            },
+            "pathComponent": "lex1.jpg",
+            "title": "Lex 1"
+        },
+        "lex2": {
+            "description": "Felix was never, ever, ever this tiny.  Notice Felix is a social user of pacifiers:  he only uses other kids' pacifiers.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/lex2.jpg",
+                "width": null
+            },
+            "pathComponent": "lex2.jpg",
+            "title": "Lex 2"
+        },
+        "sanluis_0": {
+            "description": "The route to San Luis Obispo is a lot of hilly open road.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/sanluis_0.jpg",
+                "width": null
+            },
+            "pathComponent": "sanluis_0.jpg",
+            "title": "Sanluis"
+        },
+        "sanluis_1house1": {
+            "description": "Ron and Kay finished building their house in the country earlier this year.  We visited it almost exactly a year ago.  See <a href=\"..\\..\\2002.7.12-21\\html\\1_zammit02.htm\">those pictures</a>.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/sanluis_1house1.jpg",
+                "width": null
+            },
+            "pathComponent": "sanluis_1house1.jpg",
+            "title": "Sanluis 1house 1"
+        },
+        "sanluis_1house2": {
+            "description": "It has a very nice wrap-around balcony on the upper floor.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/sanluis_1house2.jpg",
+                "width": null
+            },
+            "pathComponent": "sanluis_1house2.jpg",
+            "title": "Sanluis 1house 2"
+        },
+        "sanluis_1house3": {
+            "description": "View from the porch.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/sanluis_1house3.jpg",
+                "width": null
+            },
+            "pathComponent": "sanluis_1house3.jpg",
+            "title": "Sanluis 1house 3"
+        },
+        "sanluis_1house4": {
+            "description": "More view.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/sanluis_1house4.jpg",
+                "width": null
+            },
+            "pathComponent": "sanluis_1house4.jpg",
+            "title": "Sanluis 1house 4"
+        },
+        "sanluis_1house5": {
+            "description": "If you know Ron, you'll be asking now, \"Only a two car garage?\"",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/sanluis_1house5.jpg",
+                "width": null
+            },
+            "pathComponent": "sanluis_1house5.jpg",
+            "title": "Sanluis 1house 5"
+        },
+        "sanluis_1house6": {
+            "description": "Don't worry about Ron's car-storage capacity:  down the hill is a huge shed filled with railcars, and is surrounded by even more automotive/railroad detritus.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/sanluis_1house6.jpg",
+                "width": null
+            },
+            "pathComponent": "sanluis_1house6.jpg",
+            "title": "Sanluis 1house 6"
+        },
+        "sanluis_2": {
+            "description": "To get to the house, you have to open <i>two</i> cow-stopping fences.  Moo.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/sanluis_2.jpg",
+                "width": null
+            },
+            "pathComponent": "sanluis_2.jpg",
+            "title": "Sanluis 2"
+        },
+        "sanluis_3": {
+            "description": "Every house in the country comes with a John Deere tractor.  The sissy yellow car behind it is Lucie's.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/sanluis_3.jpg",
+                "width": null
+            },
+            "pathComponent": "sanluis_3.jpg",
+            "title": "Sanluis 3"
+        },
+        "sanluis_3a": {
+            "description": "Everybody gets a ride on Ron's big tractor.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/sanluis_3a.jpg",
+                "width": null
+            },
+            "pathComponent": "sanluis_3a.jpg",
+            "title": "Sanluis 3a"
+        },
+        "sanluis_3b": {
+            "description": "Some get a better seat than others.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/sanluis_3b.jpg",
+                "width": null
+            },
+            "pathComponent": "sanluis_3b.jpg",
+            "title": "Sanluis 3b"
+        },
+        "sanluis_3c": {
+            "description": "Felix kept asking for the keys.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/sanluis_3c.jpg",
+                "width": null
+            },
+            "pathComponent": "sanluis_3c.jpg",
+            "title": "Sanluis 3c"
+        },
+        "sanluis_4": {
+            "description": "Ron, Kay, Linda, John.  And the cat.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/sanluis_4.jpg",
+                "width": null
+            },
+            "pathComponent": "sanluis_4.jpg",
+            "title": "Sanluis 4"
+        },
+        "sanluis_5": {
+            "description": "We had a great salmon dinner for Grandpa's birthday.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/sanluis_5.jpg",
+                "width": null
+            },
+            "pathComponent": "sanluis_5.jpg",
+            "title": "Sanluis 5"
+        },
+        "sanluis_beach1a": {
+            "description": "The San Luis area has many beaches.  This one was fabulous.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/sanluis_beach1a.jpg",
+                "width": null
+            },
+            "pathComponent": "sanluis_beach1a.jpg",
+            "title": "Sanluis Beach1a"
+        },
+        "sanluis_beach1b": {
+            "description": "Baseball hats are the key to looking cool at the beach.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/sanluis_beach1b.jpg",
+                "width": null
+            },
+            "pathComponent": "sanluis_beach1b.jpg",
+            "title": "Sanluis Beach1b"
+        },
+        "sanluis_beach2": {
+            "description": "Lucie has a new swimsuit.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/sanluis_beach2.jpg",
+                "width": null
+            },
+            "pathComponent": "sanluis_beach2.jpg",
+            "title": "Sanluis Beach 2"
+        },
+        "sanluis_beach3": {
+            "description": "Felix tries to convince Lucie that she, too, would enjoy digging in the sand.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/sanluis_beach3.jpg",
+                "width": null
+            },
+            "pathComponent": "sanluis_beach3.jpg",
+            "title": "Sanluis Beach 3"
+        },
+        "sanluis_beach4": {
+            "description": "Grandpaw and Linda.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/sanluis_beach4.jpg",
+                "width": null
+            },
+            "pathComponent": "sanluis_beach4.jpg",
+            "title": "Sanluis Beach 4"
+        },
+        "sanluis_beach6": {
+            "description": "Kay.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/sanluis_beach6.jpg",
+                "width": null
+            },
+            "pathComponent": "sanluis_beach6.jpg",
+            "title": "Sanluis Beach 6"
+        },
+        "sanluis_beach7": {
+            "description": "Gramps.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/sanluis_beach7.jpg",
+                "width": null
+            },
+            "pathComponent": "sanluis_beach7.jpg",
+            "title": "Sanluis Beach 7"
+        },
+        "sanluis_beach8": {
+            "description": "Linda.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/sanluis_beach8.jpg",
+                "width": null
+            },
+            "pathComponent": "sanluis_beach8.jpg",
+            "title": "Sanluis Beach 8"
+        },
+        "sanluis_beach9a": {
+            "description": "Lucie.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/sanluis_beach9a.jpg",
+                "width": null
+            },
+            "pathComponent": "sanluis_beach9a.jpg",
+            "title": "Sanluis Beach9a"
+        },
+        "sanluis_beach9b": {
+            "description": "Dean and a mischievous pepper shaker.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/sanluis_beach9b.jpg",
+                "width": null
+            },
+            "pathComponent": "sanluis_beach9b.jpg",
+            "title": "Sanluis Beach9b"
+        },
+        "sanluis_beach9c": {
+            "description": "Felix!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/29/images/sanluis_beach9c.jpg",
+                "width": null
+            },
+            "pathComponent": "sanluis_beach9c.jpg",
+            "title": "Sanluis Beach9c"
+        }
+    },
+    "childrenOrder": [
+        "buns",
+        "layla1",
+        "layla2",
+        "layla3",
+        "layla4",
+        "lex1",
+        "lex2",
+        "sanluis_0",
+        "sanluis_1house1",
+        "sanluis_1house2",
+        "sanluis_1house3",
+        "sanluis_1house4",
+        "sanluis_1house5",
+        "sanluis_1house6",
+        "sanluis_2",
+        "sanluis_3",
+        "sanluis_3a",
+        "sanluis_3b",
+        "sanluis_3c",
+        "sanluis_4",
+        "sanluis_5",
+        "sanluis_beach1a",
+        "sanluis_beach1b",
+        "sanluis_beach2",
+        "sanluis_beach3",
+        "sanluis_beach4",
+        "sanluis_beach6",
+        "sanluis_beach7",
+        "sanluis_beach8",
+        "sanluis_beach9a",
+        "sanluis_beach9b",
+        "sanluis_beach9c"
+    ],
+    "creationTimestamp": 1056870000,
+    "description": "<P>\n<P>\n<P>\nThis weekend we went to San Luis Obsipo, to visit Ron and Kay.  Putting in special guest appearances were Grandpa John and Linda.   It was Grandpa's birthday.  Happy birthday, Grandpa!  Felix somehow got a stomach virus on the way down, and barfed nonstop in the car, on Ron and Kay's sofa, on their floors, on their bed, and on us.  We'd like to take this chance to apologize for the smelly mess.  Despite it, we had a great time.\n<p>\nOn the language side, this may be the last week we list every single new word.  They're coming too fast.  One odd thing is that he's started to mix parts of French and English words in ways that are unique to him.  For instance, he sometimes says \"kay\" for key, which is a mix of the English \"key\" and the French \"clef\".\n</p>\n<p>\nNew words:\n<ul>\n\t<li>\n\t\t[<u>hands twirling</u>]: bridge. This is the sign for turning but, on his own, he started using it for bridges and highway overpasses.\n\t</li>\n\t<li>\n\t\t[<u>patting head</u>]: hat. Looks the same as his sign for shower, but it's clear which one he means, depending on the context.\n\t<li>\n\t\t<u>food</u> He uses it as a reinforcement of his favorite baby sign.\n\t</li>\n\t<li>\n\t\t<u>down</u>: as in, going downstairs. He may be saying \"up\" as well, but it's not clear.\n\t</li>\n\t<li>\n\t\t<u>more</u> Felix still does his baby sign for more all the time, but it has evolved to mean \"help me\". When he wants more of something, he uses the baby sign + the spoken word.\t</li>\n\t<li>\n\t\t<u>shoe-shoe</u>:  When talking about shoes, Felix sometimes says shoe and sometimes shoe-shoe.  Shoe-shoe is very close to the French word for shoe, \"chaussure\".\n\t</li>\n\t<li>\n\t\t<u>bo</u>: boat.  He also sometimes says \"babeau\", close to the French word for boat, \"bateau\".\n\t</li>\n\t<li>\n\t\t<u>key</u>: Pronounced more like \"kay\", sort of a mix between \"key\" and the French \"clef\". Felix <i>loves</i> keys.  Give him the car keys and he'll run as fast as he can to the car.  So far he hasn't managed to get it into the door correctly, but it's just a matter of time.\n\t</li>\n\t<li>\n\t\t<u>main</u>: hand, in French\n\t</li>\n\t<li>\n\t\t<u>nez</u>: nose, in French\n\t</li>\n\t<li>\n\t\t<u>zizi</u>: another body part\n\t</li>\n\t\t\n\n</ul>\n</p>\n\n<p>",
+    "pathComponent": "2003/06-29",
+    "summary": "",
+    "thumbnailChild": "sanluis_3a",
+    "title": "June 29"
+}

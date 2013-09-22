@@ -1,0 +1,210 @@
+{
+    "children": {
+        "cafe1": {
+            "description": "One of the best things about warm weather is outdoor cafes.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/04/images/cafe1.jpg",
+                "width": null
+            },
+            "pathComponent": "cafe1.jpg",
+            "title": "Cafe 1"
+        },
+        "cafe2": {
+            "description": "Another family moment at another outdoor cafe.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/04/images/cafe2.jpg",
+                "width": null
+            },
+            "pathComponent": "cafe2.jpg",
+            "title": "Cafe 2"
+        },
+        "dean1": {
+            "description": "And another.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/04/images/dean1.jpg",
+                "width": null
+            },
+            "pathComponent": "dean1.jpg",
+            "title": "Dean 1"
+        },
+        "dean2": {
+            "description": "The boys get rowdy.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/04/images/dean2.jpg",
+                "width": null
+            },
+            "pathComponent": "dean2.jpg",
+            "title": "Dean 2"
+        },
+        "dean3": {
+            "description": "Soul searching.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/04/images/dean3.jpg",
+                "width": null
+            },
+            "pathComponent": "dean3.jpg",
+            "title": "Dean 3"
+        },
+        "dock1": {
+            "description": "What are all these pelicans doing?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/04/images/dock1.jpg",
+                "width": null
+            },
+            "pathComponent": "dock1.jpg",
+            "title": "Dock 1"
+        },
+        "dock2": {
+            "description": "They're waiting for a free lunch!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/04/images/dock2.jpg",
+                "width": null
+            },
+            "pathComponent": "dock2.jpg",
+            "title": "Dock 2"
+        },
+        "dock3": {
+            "description": "You often find yourself hanging out by pink dock houses in Florida.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/04/images/dock3.jpg",
+                "width": null
+            },
+            "pathComponent": "dock3.jpg",
+            "title": "Dock 3"
+        },
+        "dolphin1": {
+            "description": "A small nature conservancy near our house has a small dolphin show.  Well, the dolphin itself is actually quite large for the species.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/04/images/dolphin1.jpg",
+                "width": null
+            },
+            "pathComponent": "dolphin1.jpg",
+            "title": "Dolphin 1"
+        },
+        "dolphin2": {
+            "description": "Large dolphin, large splash.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/04/images/dolphin2.jpg",
+                "width": null
+            },
+            "pathComponent": "dolphin2.jpg",
+            "title": "Dolphin 2"
+        },
+        "icecream": {
+            "description": "First ice cream cone ever.  And, judging from his reaction, certainly not the last.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/04/images/icecream.jpg",
+                "width": null
+            },
+            "pathComponent": "icecream.jpg",
+            "title": "Icecream"
+        },
+        "nana1": {
+            "description": "Felix and Nana hang out inside his blanket house.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/04/images/nana1.jpg",
+                "width": null
+            },
+            "pathComponent": "nana1.jpg",
+            "title": "Nana 1"
+        },
+        "nana2": {
+            "description": "After a hard day having fun, nothing's better than cuddling up with Nana.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/04/images/nana2.jpg",
+                "width": null
+            },
+            "pathComponent": "nana2.jpg",
+            "title": "Nana 2"
+        },
+        "shuffleboard1": {
+            "description": "Shuffleboard.  Felix's not as bad as you might think.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/04/images/shuffleboard1.jpg",
+                "width": null
+            },
+            "pathComponent": "shuffleboard1.jpg",
+            "title": "Shuffleboard 1"
+        },
+        "shuffleboard2": {
+            "description": "His main problem is that he insists on <i>stacking</i> the pucks.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/04/images/shuffleboard2.jpg",
+                "width": null
+            },
+            "pathComponent": "shuffleboard2.jpg",
+            "title": "Shuffleboard 2"
+        },
+        "shuffleboard3": {
+            "description": "Lucie has guts and goes for glory.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/04/images/shuffleboard3.jpg",
+                "width": null
+            },
+            "pathComponent": "shuffleboard3.jpg",
+            "title": "Shuffleboard 3"
+        },
+        "sunset1": {
+            "description": "Obligatory sunset shot.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/04/images/sunset1.jpg",
+                "width": null
+            },
+            "pathComponent": "sunset1.jpg",
+            "title": "Sunset 1"
+        },
+        "sunset2": {
+            "description": "Artistically rendered pregnant woman.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/04/images/sunset2.jpg",
+                "width": null
+            },
+            "pathComponent": "sunset2.jpg",
+            "title": "Sunset 2"
+        }
+    },
+    "childrenOrder": [
+        "cafe1",
+        "cafe2",
+        "dean1",
+        "dean2",
+        "dean3",
+        "dock1",
+        "dock2",
+        "dock3",
+        "dolphin1",
+        "dolphin2",
+        "icecream",
+        "nana1",
+        "nana2",
+        "shuffleboard1",
+        "shuffleboard2",
+        "shuffleboard3",
+        "sunset1",
+        "sunset2"
+    ],
+    "creationTimestamp": 1081065600,
+    "description": "Part 2 of the Florida vacation.  More dolphins, fun in the sand, and sunsets.  Dean and Nana went kayaking, and Nana dropped her camera in the Gulf of Mexico, much to her chagrin and his bemusement, having lived most of his life on the other end of that equation.\n\n<p>\nFelix is starting to understand that asking nicely gets him what he wants better than whining.  He started saying please.  Right now he has to be reminded, but he does a great job of shutting off the whiney voice and giving us a very sweet \"please!\"\n</p>\n\n<p>\nIf you're a glutton for vacation photos, you can also see our <a href=\"sandcastle/index.htm\">sandcastle documentary</a>.\n</p>",
+    "pathComponent": "2004/04-04",
+    "summary": "",
+    "thumbnailChild": "sunset1",
+    "title": "April 4"
+}

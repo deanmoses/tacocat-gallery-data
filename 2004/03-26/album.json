@@ -1,0 +1,111 @@
+{
+    "children": {
+        "breakfast1": {
+            "description": "An average breakfast.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/03/26/images/breakfast1.jpg",
+                "width": null
+            },
+            "pathComponent": "breakfast1.jpg",
+            "title": "Breakfast 1"
+        },
+        "breakfast2": {
+            "description": "Ok, maybe slightly messier than average.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/03/26/images/breakfast2.jpg",
+                "width": null
+            },
+            "pathComponent": "breakfast2.jpg",
+            "title": "Breakfast 2"
+        },
+        "evan1": {
+            "description": "On another day, Evan came for the evening.  He didn't like his scrambled eggs.  Felix was happy to help out.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/03/26/images/evan1.jpg",
+                "width": null
+            },
+            "pathComponent": "evan1.jpg",
+            "title": "Evan 1"
+        },
+        "evan2": {
+            "description": "Into the mouths of babes.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/03/26/images/evan2.jpg",
+                "width": null
+            },
+            "pathComponent": "evan2.jpg",
+            "title": "Evan 2"
+        },
+        "evan3": {
+            "description": "Babies and young toddlers don't really play <i>with</i> each other, but they like to play <i>near</i> each other.  It's called parallel play.  \n\n<p>\nFinally, Felix and Evan are getting beyond that and starting to play cooperatively.  Here they're playing kitchen together:  Evan uses the cups and dishes, Felix washes.\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/03/26/images/evan3.jpg",
+                "width": null
+            },
+            "pathComponent": "evan3.jpg",
+            "title": "Evan 3"
+        },
+        "evan4": {
+            "description": "Bedtime stories.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/03/26/images/evan4.jpg",
+                "width": null
+            },
+            "pathComponent": "evan4.jpg",
+            "title": "Evan 4"
+        },
+        "fairyland1": {
+            "description": "Felix poses in a pig at the Children's Fairyland amusement park in Oakland.  This place, a ramshackle assortment of wooden storybook scenes, was Walt Disney's inspiration for Disneyworld.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/03/26/images/fairyland1.jpg",
+                "width": null
+            },
+            "pathComponent": "fairyland1.jpg",
+            "title": "Fairyland 1"
+        },
+        "fairyland2": {
+            "description": "Hanging out in Fairyland.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/03/26/images/fairyland2.jpg",
+                "width": null
+            },
+            "pathComponent": "fairyland2.jpg",
+            "title": "Fairyland 2"
+        },
+        "fairyland3": {
+            "description": "Felix talks about going into Fairyland's big whale with the big mouth.  \"No eat, no eat!\"  He was very concerned that the whale would eat him.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/03/26/images/fairyland3.jpg",
+                "width": null
+            },
+            "pathComponent": "fairyland3.jpg",
+            "title": "Fairyland 3"
+        }
+    },
+    "childrenOrder": [
+        "breakfast1",
+        "breakfast2",
+        "evan1",
+        "evan2",
+        "evan3",
+        "evan4",
+        "fairyland1",
+        "fairyland2",
+        "fairyland3"
+    ],
+    "creationTimestamp": 1080288000,
+    "description": "Felix added \"3\" to his growing list of numbers.  He's been asking for three books at night, instead of his normal two.   Though impressed by his numeracy, we haven't given in.\n\n<p>\nFelix is introducing more French words, like: seau (bucket), vent (wind), (<i>tourne</i>)vis (screwdriver), niche (dog house), neige (snow), &agrave; table! (dinner's ready!),and couche (diaper). Also, he is starting to have both language versions of some words: he says both plage and beach, maison and house, poisson and fish.\n</p>\n\n<p>\nAnd Dean went on a fishing trip.  Here's the <a href=\"nacimiento/index.htm\">photos</a>.\n</p>",
+    "pathComponent": "2004/03-26",
+    "summary": "",
+    "thumbnailChild": "breakfast2",
+    "title": "March 26"
+}

@@ -1,0 +1,111 @@
+{
+    "children": {
+        "berkeley1": {
+            "description": "Our new house is a few blocks from the Totland playground.  We've always loved it.  It's made an appearance in this website a couple of times in the past, the first being when Felix was just under a year old (see <a href=\"\nhttp://www.tacocat.com/pix/2002/11/17/html/totland1.htm\">pictures</a>).",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/18/images/berkeley1.jpg",
+                "width": null
+            },
+            "pathComponent": "berkeley1.jpg",
+            "title": "Berkeley 1"
+        },
+        "berkeley2": {
+            "description": "Totland.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/18/images/berkeley2.jpg",
+                "width": null
+            },
+            "pathComponent": "berkeley2.jpg",
+            "title": "Berkeley 2"
+        },
+        "berkeley3": {
+            "description": "Felix's nanny Sylvie trains all her charges in this \"safe swinging\" technique.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/18/images/berkeley3.jpg",
+                "width": null
+            },
+            "pathComponent": "berkeley3.jpg",
+            "title": "Berkeley 3"
+        },
+        "berkeley4": {
+            "description": "We move into our new house in a few weeks.   We went back to take some measurements, and to get Felix's opinion of it.  He loved it.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/18/images/berkeley4.jpg",
+                "width": null
+            },
+            "pathComponent": "berkeley4.jpg",
+            "title": "Berkeley 4"
+        },
+        "change1": {
+            "description": "Felix totally gets that we're moving, and is excited.  He knows a big truck will take all our toys and books to the new house.  Here, he pretends his dump truck is the moving van.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/18/images/change1.jpg",
+                "width": null
+            },
+            "pathComponent": "change1.jpg",
+            "title": "Change 1"
+        },
+        "change2": {
+            "description": "Somehow Felix got the idea that Nana's moving to the new house.  In the course of disabusing him of that notion, we had to get out the atlas and show him that our new house is just over the bridge, whereas Nana lives so far away she has to take an airplane.  \n\n<p>\nSo of course the atlas became the airport.\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/18/images/change2.jpg",
+                "width": null
+            },
+            "pathComponent": "change2.jpg",
+            "title": "Change 2"
+        },
+        "mommyhuggy": {
+            "description": "Felix likes to hug.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/18/images/mommyhuggy.jpg",
+                "width": null
+            },
+            "pathComponent": "mommyhuggy.jpg",
+            "title": "Mommyhuggy"
+        },
+        "mommysleepy": {
+            "description": "Lucie's definitely entered the third trimester.  She's starting to lose steam before Felix does.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/18/images/mommysleepy.jpg",
+                "width": null
+            },
+            "pathComponent": "mommysleepy.jpg",
+            "title": "Mommysleepy"
+        },
+        "zoo": {
+            "description": "Trip to the zoo.   Felix uses the stroller more as a stepladder than a chair.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/18/images/zoo.jpg",
+                "width": null
+            },
+            "pathComponent": "zoo.jpg",
+            "title": "Zoo"
+        }
+    },
+    "childrenOrder": [
+        "berkeley1",
+        "berkeley2",
+        "berkeley3",
+        "berkeley4",
+        "change1",
+        "change2",
+        "mommyhuggy",
+        "mommysleepy",
+        "zoo"
+    ],
+    "creationTimestamp": 1082271600,
+    "description": "<P>\n<P>\nWe're preparing, both logistically and mentally, for the move to the new house in a couple of weeks.  Felix understands that we're moving.  We've had fun drawing <a href=\"move/index.htm\">pictures of the move</a>.\n\n<p>\nMentally, we're saying goodbye to our daily routine in San Francisco.  Every time we do something, we wonder if it's the last time.  Having coffee and juice at Maxfield's.   Shopping at the local fruit market.   Dropping Felix off at Evan's for the evening, and vice versa.  Bumping into friends on the street.   Hopping in the streetcar to go downtown.\n</p>\n\n<p>\nJudging from the strollers littering the porches in our new neighborhood, and the strong community feel, we won't have any problem making friends.  It's just hard leaving the old ones behind.  It's not like we won't ever see them, but they won't be a part of our daily lives.\n</p>",
+    "pathComponent": "2004/04-18",
+    "summary": "",
+    "thumbnailChild": "berkeley4",
+    "title": "April 18"
+}

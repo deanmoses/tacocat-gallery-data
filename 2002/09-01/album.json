@@ -1,0 +1,199 @@
+{
+    "children": {
+        "01airstreams": {
+            "description": "Lucie stayed at Airstreams Camp",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/01/images/01airstreams.jpg",
+                "width": null
+            },
+            "pathComponent": "01airstreams.jpg",
+            "title": "Airstreams"
+        },
+        "02ray": {
+            "description": "Ray, proud owner of the finest Airstream of them all.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/01/images/02ray.jpg",
+                "width": null
+            },
+            "pathComponent": "02ray.jpg",
+            "title": "Ray"
+        },
+        "03molly": {
+            "description": "Molly, demonstrating what Burning Man is really all about: spending the hot afternoon in the shade, sipping on a drink and chatting with friends.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/01/images/03molly.jpg",
+                "width": null
+            },
+            "pathComponent": "03molly.jpg",
+            "title": "Molly"
+        },
+        "04chilling": {
+            "description": "From left to right: Julie, Cliff, Kara, Spot, Ingrid.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/01/images/04chilling.jpg",
+                "width": null
+            },
+            "pathComponent": "04chilling.jpg",
+            "title": "Chilling"
+        },
+        "05mike_ray_james": {
+            "description": "Mikek, Ray and James.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/01/images/05mike_ray_james.jpg",
+                "width": null
+            },
+            "pathComponent": "05mike_ray_james.jpg",
+            "title": "Mike Ray James"
+        },
+        "06molly_chris": {
+            "description": "Molly, knitting a hat for Jojo the Sock monkey, and Chris.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/01/images/06molly_chris.jpg",
+                "width": null
+            },
+            "pathComponent": "06molly_chris.jpg",
+            "title": "Molly Chris"
+        },
+        "07storm": {
+            "description": "On Friday, we had a dust storm.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/01/images/07storm.jpg",
+                "width": null
+            },
+            "pathComponent": "07storm.jpg",
+            "title": "Storm"
+        },
+        "08lucie": {
+            "description": "Lucie in the Sky with Dust",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/01/images/08lucie.jpg",
+                "width": null
+            },
+            "pathComponent": "08lucie.jpg",
+            "title": "Lucie"
+        },
+        "09man": {
+            "description": "Here is the Man of Burning Man. The theme this year was \"Floating Worlds\"... the Man was a lighthouse.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/01/images/09man.jpg",
+                "width": null
+            },
+            "pathComponent": "09man.jpg",
+            "title": "Man"
+        },
+        "10sea-horses": {
+            "description": "There was a lot of water-themed art, such as those lovelies sea horses.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/01/images/10sea-horses.jpg",
+                "width": null
+            },
+            "pathComponent": "10sea-horses.jpg",
+            "title": "Sea Horses"
+        },
+        "11fish-ship": {
+            "description": "And many very cool boats...",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/01/images/11fish-ship.jpg",
+                "width": null
+            },
+            "pathComponent": "11fish-ship.jpg",
+            "title": "Fish Ship"
+        },
+        "12lotus": {
+            "description": "The giant lotus was a nice place to listen to music and relax in the evenings.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/01/images/12lotus.jpg",
+                "width": null
+            },
+            "pathComponent": "12lotus.jpg",
+            "title": "Lotus"
+        },
+        "13temple-joy": {
+            "description": "The Temple of Joy was the most magnificent art piece on the playa this year. It was made out of discarded wood from a toy factory (you could see the cut-outs of toy dinosaurs). It was dedicated to the victims of 9/11.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/01/images/13temple-joy.jpg",
+                "width": null
+            },
+            "pathComponent": "13temple-joy.jpg",
+            "title": "Temple Joy"
+        },
+        "14ducky": {
+            "description": "At night, the giant ducky hosted a cabaret, complete with a jazz band.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/01/images/14ducky.jpg",
+                "width": null
+            },
+            "pathComponent": "14ducky.jpg",
+            "title": "Ducky"
+        },
+        "16coast-guards": {
+            "description": "This camp belonged to some good friends of ours.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/01/images/16coast-guards.jpg",
+                "width": null
+            },
+            "pathComponent": "16coast-guards.jpg",
+            "title": "Coast Guards"
+        },
+        "17biancas": {
+            "description": "On Saturday, our friends hacked their own camp into bianca's, the camp we usually create on the playa.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/01/images/17biancas.jpg",
+                "width": null
+            },
+            "pathComponent": "17biancas.jpg",
+            "title": "Biancas"
+        },
+        "18mike-molly": {
+            "description": "Molly is Mikek's main squeeze.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/01/images/18mike-molly.jpg",
+                "width": null
+            },
+            "pathComponent": "18mike-molly.jpg",
+            "title": "Mike Molly"
+        }
+    },
+    "childrenOrder": [
+        "01airstreams",
+        "02ray",
+        "03molly",
+        "04chilling",
+        "05mike_ray_james",
+        "06molly_chris",
+        "07storm",
+        "08lucie",
+        "09man",
+        "10sea-horses",
+        "11fish-ship",
+        "12lotus",
+        "13temple-joy",
+        "14ducky",
+        "16coast-guards",
+        "17biancas",
+        "18mike-molly"
+    ],
+    "creationTimestamp": 1030863600,
+    "description": "<P>\n<P>\n<p>\nThis week, there are no photos of Felix because Lucie took the camera to <a href=\"http://burningman.com/\">Burning Man</a>,\nthe crazy art festival on \"the playa\", a desert in Nevada.\n</p>\n<p>\nThis section features photos by Lucie, James, Spot and Eddie.\n</p>\n<p>",
+    "pathComponent": "2002/09-01",
+    "summary": "",
+    "thumbnailChild": "04chilling",
+    "title": "September 1"
+}

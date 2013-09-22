@@ -1,0 +1,144 @@
+{
+    "children": {
+        "1_hiroko": {
+            "description": "Felix waters Hiroko's garden.  Hiroko babysits Felix sometimes.  They get along very well.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/13/images/1_hiroko.jpg",
+                "width": null
+            },
+            "pathComponent": "1_hiroko.jpg",
+            "title": "Hiroko"
+        },
+        "a_family": {
+            "description": "Saturday we arrived in San Diego for a week at the beach.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/13/images/a_family.jpg",
+                "width": null
+            },
+            "pathComponent": "a_family.jpg",
+            "title": "A Family"
+        },
+        "beach_house1": {
+            "description": "We rented a house.  It's a classic old wooden beach house.  It has a cute little private beach of its own.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/13/images/beach_house1.jpg",
+                "width": null
+            },
+            "pathComponent": "beach_house1.jpg",
+            "title": "Beach House 1"
+        },
+        "beach_house2": {
+            "description": "Lucie heads out.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/13/images/beach_house2.jpg",
+                "width": null
+            },
+            "pathComponent": "beach_house2.jpg",
+            "title": "Beach House 2"
+        },
+        "castle1": {
+            "description": "What do you do at the beach?  Dean's answer is SANDCASTLES!  Felix approves.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/13/images/castle1.jpg",
+                "width": null
+            },
+            "pathComponent": "castle1.jpg",
+            "title": "Castle 1"
+        },
+        "castle2": {
+            "description": "Grandma Harriet also flew in.  Felix absolutely remembered her.  Grandma's main goal for the week is to teach Felix a name for her.  Since he doesn't like saying the \"G\" sound much, we're still figuring out what it's going to be.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/13/images/castle2.jpg",
+                "width": null
+            },
+            "pathComponent": "castle2.jpg",
+            "title": "Castle 2"
+        },
+        "castle3": {
+            "description": "Felix ponders life in the shadow of his father.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/13/images/castle3.jpg",
+                "width": null
+            },
+            "pathComponent": "castle3.jpg",
+            "title": "Castle 3"
+        },
+        "nap1": {
+            "description": "<u>Felix</u>:  let's go!\n<br><u>Dean</u>:  let me sleep.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/13/images/nap1.jpg",
+                "width": null
+            },
+            "pathComponent": "nap1.jpg",
+            "title": "Nap 1"
+        },
+        "nap2": {
+            "description": "<u>Felix</u>:  come ooooooon!\n<br><u>Dean</u>:  let me sleep.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/13/images/nap2.jpg",
+                "width": null
+            },
+            "pathComponent": "nap2.jpg",
+            "title": "Nap 2"
+        },
+        "nap3": {
+            "description": "<u>Felix</u>:  I'll try to sleep.\n<br><u>Dean</u>:  <i>snore</i>.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/13/images/nap3.jpg",
+                "width": null
+            },
+            "pathComponent": "nap3.jpg",
+            "title": "Nap 3"
+        },
+        "sandgator": {
+            "description": "Felix rides the new sandgator that Grandma brought.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/13/images/sandgator.jpg",
+                "width": null
+            },
+            "pathComponent": "sandgator.jpg",
+            "title": "Sandgator"
+        },
+        "sunset": {
+            "description": "Sunset from our backyard.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/13/images/sunset.jpg",
+                "width": null
+            },
+            "pathComponent": "sunset.jpg",
+            "title": "Sunset"
+        }
+    },
+    "childrenOrder": [
+        "1_hiroko",
+        "a_family",
+        "beach_house1",
+        "beach_house2",
+        "castle1",
+        "castle2",
+        "castle3",
+        "nap1",
+        "nap2",
+        "nap3",
+        "sandgator",
+        "sunset"
+    ],
+    "creationTimestamp": 1058079600,
+    "description": "<P>\n<P>\nFelix turned 19 months old and we headed to San Diego for a week at the beach.\n\n<p>New words:  we give up trying to list them all.  He's undergone a language explosion, and can get a concept or word if you repeat it once or twice.  We can no longer keep track of what he can say.  Some of his new ones he uses all the time, like \"ka\" for car and \"fu\" for phone, \"po\" for pomme/poire (apple/pear), \"abo\" for apricot.  He makes the most adorable singsong clucking sound to mean a clock.  And if you ask him what sound a cow makes, he'll tilt his head back and give you the most soulful \"moo\" you've ever heard.\n\n<p>",
+    "pathComponent": "2003/07-13",
+    "summary": "",
+    "thumbnailChild": "castle3",
+    "title": "July 13"
+}

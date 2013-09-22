@@ -1,0 +1,122 @@
+{
+    "children": {
+        "basket1": {
+            "description": "Milo has slept in his Moses basket since birth.  Really, that's what they call these baskets.  Lucie made the sleeping sack you see Milo in.  We have no particular plans to transition him to a crib.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/28/images/basket1.jpg",
+                "width": null
+            },
+            "pathComponent": "basket1.jpg",
+            "title": "Basket 1"
+        },
+        "basket2": {
+            "description": "Cutie pie.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/28/images/basket2.jpg",
+                "width": null
+            },
+            "pathComponent": "basket2.jpg",
+            "title": "Basket 2"
+        },
+        "milo1": {
+            "description": "The only way to keep Milo on his back is to hold him there;  otherwise, he rolls over instantly.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/28/images/milo1.jpg",
+                "width": null
+            },
+            "pathComponent": "milo1.jpg",
+            "title": "Milo 1"
+        },
+        "milo2": {
+            "description": "Milo's trying to crawl.  He scrabbles his legs around and windmills his arms like this.  He doesn't seem to get frustrated by his lack of forward motion.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/28/images/milo2.jpg",
+                "width": null
+            },
+            "pathComponent": "milo2.jpg",
+            "title": "Milo 2"
+        },
+        "milo3": {
+            "description": "He can stay on his belly for 30 minutes at a time without getting tired, which is unusual for babies.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/28/images/milo3.jpg",
+                "width": null
+            },
+            "pathComponent": "milo3.jpg",
+            "title": "Milo 3"
+        },
+        "nap": {
+            "description": "Felix still does a bottle at naps and bedtime.  Increasingly, he invites a friend (besides Dean and Lucie) along to sleep with him, like Maurice the rat below.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/28/images/nap.jpg",
+                "width": null
+            },
+            "pathComponent": "nap.jpg",
+            "title": "Nap"
+        },
+        "thanksgiving1": {
+            "description": "In preparation for going to the Joyces for Thanksgiving, we made pilgrim hats.  For those of you in France, this is the hat that the original party people of Thanksgiving were supposed to wear while dancing like crazy around the bonfire.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/28/images/thanksgiving1.jpg",
+                "width": null
+            },
+            "pathComponent": "thanksgiving1.jpg",
+            "title": "Thanksgiving 1"
+        },
+        "thanksgiving2": {
+            "description": "Dean's hat might be a bit too big for Felix.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/28/images/thanksgiving2.jpg",
+                "width": null
+            },
+            "pathComponent": "thanksgiving2.jpg",
+            "title": "Thanksgiving 2"
+        },
+        "thanksgiving3": {
+            "description": "Definitely too big.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/28/images/thanksgiving3.jpg",
+                "width": null
+            },
+            "pathComponent": "thanksgiving3.jpg",
+            "title": "Thanksgiving 3"
+        },
+        "trains": {
+            "description": "The Brio train set appeals to both generations of Mosii.  Felix is getting more interested in the making of the layouts, rather than just the running of the trains.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/11/28/images/trains.jpg",
+                "width": null
+            },
+            "pathComponent": "trains.jpg",
+            "title": "Trains"
+        }
+    },
+    "childrenOrder": [
+        "basket1",
+        "basket2",
+        "milo1",
+        "milo2",
+        "milo3",
+        "nap",
+        "thanksgiving1",
+        "thanksgiving2",
+        "thanksgiving3",
+        "trains"
+    ],
+    "creationTimestamp": 1101628800,
+    "description": "Happy Thanksgiving!\n\n<p>\nMilo turned 4 months old.  He celebrated by getting an ear infection.  He's been a real trouper:  whimpering and crying a lot, but it's still easy to get him smiling.   Doctors are really reluctant to prescribe antibiotics, so we had to wait a few days until he <i>also</i> got an upper respiratory infection before being able to get them.  It's been a rough couple of nights because he coughs himself awake.  Lucie's been staying up with him half the night in a steamy bathroom to get him less congested.  Hopefully now he's going to start getting better.\n</p>",
+    "pathComponent": "2004/11-28",
+    "summary": "",
+    "thumbnailChild": "milo2",
+    "title": "November 28"
+}

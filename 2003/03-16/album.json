@@ -1,0 +1,320 @@
+{
+    "children": {
+        "bagel": {
+            "description": "Felix loves Dean's morning bagel.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/bagel.jpg",
+                "width": null
+            },
+            "pathComponent": "bagel.jpg",
+            "title": "Bagel"
+        },
+        "brushing1": {
+            "description": "Felix insists on brushing whenever Dean does.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/brushing1.jpg",
+                "width": null
+            },
+            "pathComponent": "brushing1.jpg",
+            "title": "Brushing 1"
+        },
+        "brushing2": {
+            "description": "We started using edible baby toothpaste, but that's a pain because he eats it right off the brush, then asks for more.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/brushing2.jpg",
+                "width": null
+            },
+            "pathComponent": "brushing2.jpg",
+            "title": "Brushing 2"
+        },
+        "cute": {
+            "description": "He's been practicing sitting adult style, on a raised surface instead of the floor.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/cute.jpg",
+                "width": null
+            },
+            "pathComponent": "cute.jpg",
+            "title": "Cute"
+        },
+        "language_bottle": {
+            "description": "We count down the last 5 seconds of the bottle warming up in the microwave:  5 - 4 - 3 - 2 - 1!   If Felix really wants a bottle, he'll ask for it by making the countdown motion with his finger.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/language_bottle.jpg",
+                "width": null
+            },
+            "pathComponent": "language_bottle.jpg",
+            "title": "Language Bottle"
+        },
+        "language_cat1": {
+            "description": "The baby sign for cat:  two fingers on the cheek.   There's lots of cat traffic in our yard.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/language_cat1.jpg",
+                "width": null
+            },
+            "pathComponent": "language_cat1.jpg",
+            "title": "Language Cat 1"
+        },
+        "language_cat2": {
+            "description": "Yes, cat!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/language_cat2.jpg",
+                "width": null
+            },
+            "pathComponent": "language_cat2.jpg",
+            "title": "Language Cat 2"
+        },
+        "language_dog": {
+            "description": "Dean and Felix make the baby sign for dog:  open mouthed panting.  The neighbors have an Irish setter that likes to go woof in the garden.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/language_dog.jpg",
+                "width": null
+            },
+            "pathComponent": "language_dog.jpg",
+            "title": "Language Dog"
+        },
+        "language_food": {
+            "description": "The baby sign for food:  two fingers and thumb near the lips.   This one gets a LOT of use.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/language_food.jpg",
+                "width": null
+            },
+            "pathComponent": "language_food.jpg",
+            "title": "Language Food"
+        },
+        "play_bath1": {
+            "description": "Felix's play is increasingly sophisticated.  Here, he fills a cup with water.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/play_bath1.jpg",
+                "width": null
+            },
+            "pathComponent": "play_bath1.jpg",
+            "title": "Play Bath 1"
+        },
+        "play_bath2": {
+            "description": "... and then pours it out.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/play_bath2.jpg",
+                "width": null
+            },
+            "pathComponent": "play_bath2.jpg",
+            "title": "Play Bath 2"
+        },
+        "play_belt1": {
+            "description": "The belt goes around the waist.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/play_belt1.jpg",
+                "width": null
+            },
+            "pathComponent": "play_belt1.jpg",
+            "title": "Play Belt 1"
+        },
+        "play_belt2": {
+            "description": "Or is it the neck?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/play_belt2.jpg",
+                "width": null
+            },
+            "pathComponent": "play_belt2.jpg",
+            "title": "Play Belt 2"
+        },
+        "play_dance": {
+            "description": "The Teletubbies, a TV show for babies, has found a willing audience in Felix.   He's started to ask for the TV, and throw a tantrum when we don't turn it on (we try to limit it to one episode a day).\n\n<p>\nFelix sometimes dances when the Teletubbies are on.  In this picture he looks like he's had a few too many, but we swear he's only a social drinker.\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/play_dance.jpg",
+                "width": null
+            },
+            "pathComponent": "play_dance.jpg",
+            "title": "Play Dance"
+        },
+        "play_kitchen1": {
+            "description": "He's starting to actually play kitchen in his kitchen.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/play_kitchen1.jpg",
+                "width": null
+            },
+            "pathComponent": "play_kitchen1.jpg",
+            "title": "Play Kitchen 1"
+        },
+        "play_kitchen2": {
+            "description": "The dishes always sparkle when they come out of his dishwasher.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/play_kitchen2.jpg",
+                "width": null
+            },
+            "pathComponent": "play_kitchen2.jpg",
+            "title": "Play Kitchen 2"
+        },
+        "play_lego": {
+            "description": "The little Lego men and cars have become actual little men and cars, rather than banging devices.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/play_lego.jpg",
+                "width": null
+            },
+            "pathComponent": "play_lego.jpg",
+            "title": "Play Lego"
+        },
+        "play_music": {
+            "description": "He's started to play with musical toys, and even dance to them.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/play_music.jpg",
+                "width": null
+            },
+            "pathComponent": "play_music.jpg",
+            "title": "Play Music"
+        },
+        "play_nounours": {
+            "description": "Sometimes, just sometimes, you need a friend to help you get through dinner.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/play_nounours.jpg",
+                "width": null
+            },
+            "pathComponent": "play_nounours.jpg",
+            "title": "Play Nounours"
+        },
+        "play_phone": {
+            "description": "He's not much of a talker, but he's a very sympathetic listener.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/play_phone.jpg",
+                "width": null
+            },
+            "pathComponent": "play_phone.jpg",
+            "title": "Play Phone"
+        },
+        "play_sand": {
+            "description": "Complete mastery of the sandbox.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/play_sand.jpg",
+                "width": null
+            },
+            "pathComponent": "play_sand.jpg",
+            "title": "Play Sand"
+        },
+        "play_stack": {
+            "description": "He can stack blocks!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/play_stack.jpg",
+                "width": null
+            },
+            "pathComponent": "play_stack.jpg",
+            "title": "Play Stack"
+        },
+        "slide1": {
+            "description": "The playground at the Marina has the coolest slides.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/slide1.jpg",
+                "width": null
+            },
+            "pathComponent": "slide1.jpg",
+            "title": "Slide 1"
+        },
+        "slide2": {
+            "description": "Felix is very careful when he gets on a slide by himself.  He flops down on his stomach and inches backwards until gravity takes over.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/slide2.jpg",
+                "width": null
+            },
+            "pathComponent": "slide2.jpg",
+            "title": "Slide 2"
+        },
+        "table1": {
+            "description": "We've had problems with the highchair -- Felix sometimes throws a tantrum until he gets his own regular chair.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/table1.jpg",
+                "width": null
+            },
+            "pathComponent": "table1.jpg",
+            "title": "Table 1"
+        },
+        "table2": {
+            "description": "He's VERY proud of his ability to sit at the table.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/table2.jpg",
+                "width": null
+            },
+            "pathComponent": "table2.jpg",
+            "title": "Table 2"
+        },
+        "table3": {
+            "description": "How could anyone refuse to put food in front of this little charmer?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/table3.jpg",
+                "width": null
+            },
+            "pathComponent": "table3.jpg",
+            "title": "Table 3"
+        },
+        "walk": {
+            "description": "On our increasingly long walks, Felix likes to stop on doorsteps and check out the scene.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/16/images/walk.jpg",
+                "width": null
+            },
+            "pathComponent": "walk.jpg",
+            "title": "Walk"
+        }
+    },
+    "childrenOrder": [
+        "bagel",
+        "brushing1",
+        "brushing2",
+        "cute",
+        "language_bottle",
+        "language_cat1",
+        "language_cat2",
+        "language_dog",
+        "language_food",
+        "play_bath1",
+        "play_bath2",
+        "play_belt1",
+        "play_belt2",
+        "play_dance",
+        "play_kitchen1",
+        "play_kitchen2",
+        "play_lego",
+        "play_music",
+        "play_nounours",
+        "play_phone",
+        "play_sand",
+        "play_stack",
+        "slide1",
+        "slide2",
+        "table1",
+        "table2",
+        "table3",
+        "walk"
+    ],
+    "creationTimestamp": 1047801600,
+    "description": "<P>\n<P>\nFelix turned 15 months old and delights in his newfound ability to talk to mom and dad.  He's also throwing more tantrums as he finds out that even if he successfully communicates his desire, like wanting to play with the steak knives, mom and dad don't always agree.  Other parents we know are complaining that their babies this age are getting impossibly headstrong, but Felix isn't that bad (or maybe he's always been that bad, and we're used to it).  Communication has just made things more interesting and fun for us.\n\n<p>\nNew words:\n<ul>\n\t<li>\n\t\t[<u>pant pant</u>]:  panting is the baby sign for a dog.\n\t</li>\n\t<li>\n\t\t[<u>countdown</u>]:  shaking his finger like he's counting down is his baby sign for a bottle of milk.\n\t</li>\n\t<li>\n\t\t[<u>driving</u>]:  moving hands in a circle, as on a steering wheel, is the baby sign for a car.\n\t</li>\n</ul>\n</p>\n\nHe spoke (sort of) his first sentence!  The neighbor dog went inside, and Felix went \"[pant pant] uh-oh!\" (dog gone/unreachable).\n<p>\nAt his 15th month checkup, Felix weighted 25 lbs 3 oz. (11.4 kilos), and measured 32.5 inches (82.5 centimeters)\n<p>\nSee <a href=\"video/dance.MPG\">video</a> of him dancing.\n</p>\n\n<p>",
+    "pathComponent": "2003/03-16",
+    "summary": "",
+    "thumbnailChild": "cute",
+    "title": "March 16"
+}

@@ -1,0 +1,100 @@
+{
+    "children": {
+        "birthday1": {
+            "description": "We had been wondering whether Milo would come on Dean's birthday.   But no, Dean had to make do with a birthday cake.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/24/images/birthday1.jpg",
+                "width": null
+            },
+            "pathComponent": "birthday1.jpg",
+            "title": "Birthday 1"
+        },
+        "birthday2": {
+            "description": "Dean makes a wish and blows out the candles.   And two days later, the wish came true!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/24/images/birthday2.jpg",
+                "width": null
+            },
+            "pathComponent": "birthday2.jpg",
+            "title": "Birthday 2"
+        },
+        "milo1": {
+            "description": "This is Milo.  He's a few hours old.  We already know a few things about him:  he's calm, he likes people, and he likes to sleep.  When he cracks open his eyes and peeks around, he usually looks at Lucie.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/24/images/milo1.jpg",
+                "width": null
+            },
+            "pathComponent": "milo1.jpg",
+            "title": "Milo 1"
+        },
+        "milo2": {
+            "description": "Milo's tall.  He's a pound lighter than Felix was, but an inch longer.  His hair is either brown or blond, depending on the light.  If it's like Felix, it's all going to fall out and grow back a different color.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/24/images/milo2.jpg",
+                "width": null
+            },
+            "pathComponent": "milo2.jpg",
+            "title": "Milo 2"
+        },
+        "mom": {
+            "description": "Lucie's quite happy about how it turned out.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/24/images/mom.jpg",
+                "width": null
+            },
+            "pathComponent": "mom.jpg",
+            "title": "Mom"
+        },
+        "moseses1": {
+            "description": "All the Mosii.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/24/images/moseses1.jpg",
+                "width": null
+            },
+            "pathComponent": "moseses1.jpg",
+            "title": "Moseses 1"
+        },
+        "moseses2": {
+            "description": "Felix doesn't quite know what to do with Milo, but seems happy about him.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/24/images/moseses2.jpg",
+                "width": null
+            },
+            "pathComponent": "moseses2.jpg",
+            "title": "Moseses 2"
+        },
+        "pop": {
+            "description": "Dean's all right, too.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/24/images/pop.jpg",
+                "width": null
+            },
+            "pathComponent": "pop.jpg",
+            "title": "Pop"
+        }
+    },
+    "childrenOrder": [
+        "birthday1",
+        "birthday2",
+        "milo1",
+        "milo2",
+        "mom",
+        "moseses1",
+        "moseses2",
+        "pop"
+    ],
+    "creationTimestamp": 1090652400,
+    "description": "The Moses family has grown by a Milo!  <b>Milo Zane Moses</b> came into the world at 7:30 this morning (Saturday July 24).  Mother and child are doing great.\n\n<p>\nMilo weighs 9 lbs 2 oz, and is 22 inches long.  He has two eyes.  One nose.  Five fingers on each of his two hands.    He has really long toes.  And he's cute cute cute.\n</p>\n\n<p>\nWhen Milo came out, he was immediately placed on Lucie's chest.  He was alert and looking at us.  We stuck our tongues out at him.  He stuck his tongue out right back at us.\n</p>\n\n<p>\nLabor and delivery happened in the early morning, while Felix was asleep.  Austin came over to the house (I didn't think it was possible to cross the San Francisco Bay that quickly) and they hung out for the day.  Felix has shown some spots of anxiety about mom and dad being gone, but is generally okay.   Nana flew in tonight, so Felix is getting lots of loving.\n</p>",
+    "pathComponent": "2004/07-24",
+    "summary": "",
+    "thumbnailChild": "milo2",
+    "title": "July 24"
+}

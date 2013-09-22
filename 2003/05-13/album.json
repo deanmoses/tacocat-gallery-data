@@ -1,0 +1,342 @@
+{
+    "children": {
+        "dc01-plane": {
+            "description": "Any way you slice it, a 5 hour flight with a toddler is a very long time.  God bless naps.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc01-plane.jpg",
+                "width": null
+            },
+            "pathComponent": "dc01-plane.jpg",
+            "title": "Dc01 Plane"
+        },
+        "dc02-airport": {
+            "description": "There was no doubt that Felix remembered Grandma. Right from the airport, he was happy to be held by her, and to follow her around.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc02-airport.jpg",
+                "width": null
+            },
+            "pathComponent": "dc02-airport.jpg",
+            "title": "Dc02 Airport"
+        },
+        "dc03-wagon": {
+            "description": "Felix LOVED Grandma's wagon. If it had been up to him, we would have pushed him around in it for the entire trip.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc03-wagon.jpg",
+                "width": null
+            },
+            "pathComponent": "dc03-wagon.jpg",
+            "title": "Dc03 Wagon"
+        },
+        "dc04-wagon2": {
+            "description": "Pushing toys in the wagon is an acceptable substitute, when all the grown-ups are tired of giving him rides.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc04-wagon2.jpg",
+                "width": null
+            },
+            "pathComponent": "dc04-wagon2.jpg",
+            "title": "Dc04 Wagon 2"
+        },
+        "dc05-booster": {
+            "description": "Felix also appreciated the booster seat Grandma got him. It puts him at nice level, without subjecting him to the confining indignities of a high chair.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc05-booster.jpg",
+                "width": null
+            },
+            "pathComponent": "dc05-booster.jpg",
+            "title": "Dc05 Booster"
+        },
+        "dc06-chips": {
+            "description": "At a Tex-Mex restaurant for Mother's Day lunch, Felix samples the tortilla chips. He approves.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc06-chips.jpg",
+                "width": null
+            },
+            "pathComponent": "dc06-chips.jpg",
+            "title": "Dc06 Chips"
+        },
+        "dc07-salsa": {
+            "description": "The hot salsa, however, was not to his liking.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc07-salsa.jpg",
+                "width": null
+            },
+            "pathComponent": "dc07-salsa.jpg",
+            "title": "Dc07 Salsa"
+        },
+        "dc08-restaurant": {
+            "description": "We went to a lot of restaurants. Felix was a good sport about it, as long as he was allowed to roam around. How do those grown-ups manage to stay sitting down for so long?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc08-restaurant.jpg",
+                "width": null
+            },
+            "pathComponent": "dc08-restaurant.jpg",
+            "title": "Dc08 Restaurant"
+        },
+        "dc09-moms": {
+            "description": "Grandma Harriet lives in Arlington, Virginia, just across the Potomac River from Washington.   It has good parks.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc09-moms.jpg",
+                "width": null
+            },
+            "pathComponent": "dc09-moms.jpg",
+            "title": "Dc09 Moms"
+        },
+        "dc10-stroller": {
+            "description": "The weather was warm.  Sandal warm.  So Felix got some.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc10-stroller.jpg",
+                "width": null
+            },
+            "pathComponent": "dc10-stroller.jpg",
+            "title": "Dc10 Stroller"
+        },
+        "dc11-dad1": {
+            "description": "Being in a stroller is nice and all, but a shoulder ride is so much more fun.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc11-dad1.jpg",
+                "width": null
+            },
+            "pathComponent": "dc11-dad1.jpg",
+            "title": "Dc11 Dad 1"
+        },
+        "dc12-dad2": {
+            "description": "Aaaoooow, papa.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc12-dad2.jpg",
+                "width": null
+            },
+            "pathComponent": "dc12-dad2.jpg",
+            "title": "Dc12 Dad 2"
+        },
+        "dc13-rubnose": {
+            "description": "What's up Felix? Your nose is itching?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc13-rubnose.jpg",
+                "width": null
+            },
+            "pathComponent": "dc13-rubnose.jpg",
+            "title": "Dc13 Rubnose"
+        },
+        "dc14-mom1": {
+            "description": "We took advantage of the fact that Washingon has many more outside restaurants than San Francisco.  This is a very good one in Georgetown.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc14-mom1.jpg",
+                "width": null
+            },
+            "pathComponent": "dc14-mom1.jpg",
+            "title": "Dc14 Mom 1"
+        },
+        "dc15-mom2": {
+            "description": "Who did Mom spot, walking up the street with Grandma?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc15-mom2.jpg",
+                "width": null
+            },
+            "pathComponent": "dc15-mom2.jpg",
+            "title": "Dc15 Mom 2"
+        },
+        "dc16-mom3": {
+            "description": "Happy Mother's Day.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc16-mom3.jpg",
+                "width": null
+            },
+            "pathComponent": "dc16-mom3.jpg",
+            "title": "Dc16 Mom 3"
+        },
+        "dc17-cool": {
+            "description": "What can I say? California babies are the coolest.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc17-cool.jpg",
+                "width": null
+            },
+            "pathComponent": "dc17-cool.jpg",
+            "title": "Dc17 Cool"
+        },
+        "dc18-zoo1": {
+            "description": "On Monday, we went to a great little zoo. Here, Dean tries to keep our monkey from joining his cousins.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc18-zoo1.jpg",
+                "width": null
+            },
+            "pathComponent": "dc18-zoo1.jpg",
+            "title": "Dc18 Zoo 1"
+        },
+        "dc19-zoo2": {
+            "description": "The zoo had a huge petting area, with lots of goats and sheeps eager to be fed.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc19-zoo2.jpg",
+                "width": null
+            },
+            "pathComponent": "dc19-zoo2.jpg",
+            "title": "Dc19 Zoo 2"
+        },
+        "dc20-zoo3": {
+            "description": "Felix kept his hand nice and flat while feeding a pony.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc20-zoo3.jpg",
+                "width": null
+            },
+            "pathComponent": "dc20-zoo3.jpg",
+            "title": "Dc20 Zoo 3"
+        },
+        "dc21-mall1": {
+            "description": "You can't visit Washington DC and not go to the Mall, where the museums and monuments are. Here, Dean and Felix take a moment of solemn reflection in front of the Capitol Building, where the legistature legislates.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc21-mall1.jpg",
+                "width": null
+            },
+            "pathComponent": "dc21-mall1.jpg",
+            "title": "Dc21 Mall 1"
+        },
+        "dc22-mall2": {
+            "description": "... or maybe not so solemn.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc22-mall2.jpg",
+                "width": null
+            },
+            "pathComponent": "dc22-mall2.jpg",
+            "title": "Dc22 Mall 2"
+        },
+        "dc23-butterflies1": {
+            "description": "We visited the Butterfly House in the Smithsonian Museum of Natural History. This nice orange specimen recognized Lucie as one of his own.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc23-butterflies1.jpg",
+                "width": null
+            },
+            "pathComponent": "dc23-butterflies1.jpg",
+            "title": "Dc23 Butterflies 1"
+        },
+        "dc24-butterflies2": {
+            "description": "Another butterfly chooses Grandma Harriet.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc24-butterflies2.jpg",
+                "width": null
+            },
+            "pathComponent": "dc24-butterflies2.jpg",
+            "title": "Dc24 Butterflies 2"
+        },
+        "dc25-carroussel1": {
+            "description": "Felix loved the carousel, but didn't quite feel up to riding one of the horses.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc25-carroussel1.jpg",
+                "width": null
+            },
+            "pathComponent": "dc25-carroussel1.jpg",
+            "title": "Dc25 Carroussel 1"
+        },
+        "dc26-carroussel2": {
+            "description": "How can one resist a baby enthusiastically doing his \"more\" sign? Felix and Dean take another carousel ride.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc26-carroussel2.jpg",
+                "width": null
+            },
+            "pathComponent": "dc26-carroussel2.jpg",
+            "title": "Dc26 Carroussel 2"
+        },
+        "dc27-sculptures1": {
+            "description": "Felix in the sculpture garden.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc27-sculptures1.jpg",
+                "width": null
+            },
+            "pathComponent": "dc27-sculptures1.jpg",
+            "title": "Dc27 Sculptures 1"
+        },
+        "dc28-sculptures2": {
+            "description": "Even better than scupltures is dad telling you all about them.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc28-sculptures2.jpg",
+                "width": null
+            },
+            "pathComponent": "dc28-sculptures2.jpg",
+            "title": "Dc28 Sculptures 2"
+        },
+        "dc29-chilling1": {
+            "description": "Even with a busy schedule of cultural attractions, Felix makes time to hit the local playgrounds.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc29-chilling1.jpg",
+                "width": null
+            },
+            "pathComponent": "dc29-chilling1.jpg",
+            "title": "Dc29 Chilling 1"
+        },
+        "dc30-chilling2": {
+            "description": "Nothing like sitting back on the edge of the sandbox, and contemplating what a nice vacation you are having.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/05/13/images/dc30-chilling2.jpg",
+                "width": null
+            },
+            "pathComponent": "dc30-chilling2.jpg",
+            "title": "Dc30 Chilling 2"
+        }
+    },
+    "childrenOrder": [
+        "dc01-plane",
+        "dc02-airport",
+        "dc03-wagon",
+        "dc04-wagon2",
+        "dc05-booster",
+        "dc06-chips",
+        "dc07-salsa",
+        "dc08-restaurant",
+        "dc09-moms",
+        "dc10-stroller",
+        "dc11-dad1",
+        "dc12-dad2",
+        "dc13-rubnose",
+        "dc14-mom1",
+        "dc15-mom2",
+        "dc16-mom3",
+        "dc17-cool",
+        "dc18-zoo1",
+        "dc19-zoo2",
+        "dc20-zoo3",
+        "dc21-mall1",
+        "dc22-mall2",
+        "dc23-butterflies1",
+        "dc24-butterflies2",
+        "dc25-carroussel1",
+        "dc26-carroussel2",
+        "dc27-sculptures1",
+        "dc28-sculptures2",
+        "dc29-chilling1",
+        "dc30-chilling2"
+    ],
+    "creationTimestamp": 1052809200,
+    "description": "<P>\n<P>\nMother's Day saw the Moses family visiting Grandma Harriet in Washington DC.   The five day trip was a great little vacation!  Lots of baby activities during the day, and lots of going out for Dean and Lucie in the evenings, while Felix hung out with Grandma.\n\n<p>\nNew words:\n<ul>\n\t<li>\n[<u>hand to ear</u>]:  Music, sound.  Felix used this sign to decribe Grandma's stereo (and then displayed a lot of self-restraint by accepting NOT to play with all the tempting knobs). The next day, he used it in a mini sentence (hand to hear, then hands flapping) to tell us about the birds he could hear but not see in the park.\n\t</li>\n\t<li>\n<u>choo choo</u>:  Tram, like the railcars that go in front of our apartment.  He also used it in a sentence:  in the airport, Felix was pointing to the planes and flapping his arms (his bird sign).  When we boarded our plane, and he immediately got the point:  he flapped and said \"choo choo\".  Flying tram!\n\t</li>\n\t<li> \n<u>one, two , three, four, five</u>: Grandma Harriet was counting steps while helping Felix climb up stairs. To our surprise, he flawlessly counted along, from 1 to 5. He has not repeated the performance.\n\t</li>\n</ul>\n</p>\n\n<p>",
+    "pathComponent": "2003/05-13",
+    "summary": "",
+    "thumbnailChild": "dc14-mom1",
+    "title": "May 13"
+}

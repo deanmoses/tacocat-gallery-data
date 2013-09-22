@@ -1,0 +1,111 @@
+{
+    "children": {
+        "attack_on_dad": {
+            "description": "Slobber attack.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/10/06/images/attack_on_dad.jpg",
+                "width": null
+            },
+            "pathComponent": "attack_on_dad.jpg",
+            "title": "Attack On Dad"
+        },
+        "attack_on_dad2": {
+            "description": "Dean and Felix spend a good deal of their quality time on the kitchen floor, while Lucie cooks. Lucie likes the company, but she complains that opening the fridge has become hazardous.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/10/06/images/attack_on_dad2.jpg",
+                "width": null
+            },
+            "pathComponent": "attack_on_dad2.jpg",
+            "title": "Attack On Dad 2"
+        },
+        "drool": {
+            "description": "Felix is having a massive attack of teeth.  All four side incisors are coming in simultaneously.  One of them is well out (top left), the lower two are poking out, and the fourth is just under the skin. Drool, drool, drool, and more drool.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/10/06/images/drool.jpg",
+                "width": null
+            },
+            "pathComponent": "drool.jpg",
+            "title": "Drool"
+        },
+        "inside1": {
+            "description": "Felix continues to explore the concept of \"inside\" with tireless dedication.  His latest research tool is a can with a hole cut in the lid.  It does a stellar job of providing an inside into which things can be put.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/10/06/images/inside1.jpg",
+                "width": null
+            },
+            "pathComponent": "inside1.jpg",
+            "title": "Inside 1"
+        },
+        "inside2": {
+            "description": "Shredded newspaper?  Inside it goes!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/10/06/images/inside2.jpg",
+                "width": null
+            },
+            "pathComponent": "inside2.jpg",
+            "title": "Inside 2"
+        },
+        "laundry": {
+            "description": "Felix helps with the laundry.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/10/06/images/laundry.jpg",
+                "width": null
+            },
+            "pathComponent": "laundry.jpg",
+            "title": "Laundry"
+        },
+        "proffering": {
+            "description": "Felix is always offering people his toys.  He looks a bit surprised when someone takes him up on it.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/10/06/images/proffering.jpg",
+                "width": null
+            },
+            "pathComponent": "proffering.jpg",
+            "title": "Proffering"
+        },
+        "teething1": {
+            "description": "Teething is a full time job.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/10/06/images/teething1.jpg",
+                "width": null
+            },
+            "pathComponent": "teething1.jpg",
+            "title": "Teething 1"
+        },
+        "teething2": {
+            "description": "Gnaw gnaw gnaw.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/10/06/images/teething2.jpg",
+                "width": null
+            },
+            "pathComponent": "teething2.jpg",
+            "title": "Teething 2"
+        }
+    },
+    "childrenOrder": [
+        "attack_on_dad",
+        "attack_on_dad2",
+        "drool",
+        "inside1",
+        "inside2",
+        "laundry",
+        "proffering",
+        "teething1",
+        "teething2"
+    ],
+    "creationTimestamp": 1033887600,
+    "description": "<P>\n<P>\n<font size=\"+1\"><b>Felix</b></font> spent the first part of the week recovering from his wild wedding weekend.  He's spent the second part of the week sick, with another virus similar to the hand, foot, and mouth virus he had a few months ago.  So all in all, not a great week.\n\n<p>\n<font size=\"+1\"><b>Dean</b></font> spent the first part of the week on an annoying business trip.  He's spent the second part of the week on jury duty, getting selected for an annoying trial.  So all in all, not a great week.\n</p>\n\n<p>\n<font size=\"+1\"><b>Lucie</b></font> got a freelance contract the first part of the week, and found a great nanny the second half of the week.  So <i>she</i> had a good week, except for having to deal with a grumpy Felix and Dean.\n</p>\n\n<p>\nSee this week's <a href=\"video/\">videos</a>.\n</p>\n\n<p>",
+    "pathComponent": "2002/10-06",
+    "summary": "",
+    "thumbnailChild": "teething2",
+    "title": "October 6"
+}

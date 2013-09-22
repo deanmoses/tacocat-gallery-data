@@ -1,0 +1,155 @@
+{
+    "children": {
+        "arrive1": {
+            "description": "<span class=\"comment\">The house has its own boat dock, with two great big boats.  Unfortunately they belong to a neighbor.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/30/slides/arrive1.jpg",
+                "width": null
+            },
+            "pathComponent": "arrive1.jpg",
+            "title": "Arrive 1"
+        },
+        "arrive2": {
+            "description": "<span class=\"comment\">Lucie and the kids in the air conditioned porch (it's 90 degrees and crazy high humidity).  The boats are reflected in the windows.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/30/slides/arrive2.jpg",
+                "width": null
+            },
+            "pathComponent": "arrive2.jpg",
+            "title": "Arrive 2"
+        },
+        "arrive3": {
+            "description": "<span class=\"comment\">We've only been here eight hours. Milo's favorite thing so far is the DVD player in the rented minivan.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/30/slides/arrive3.jpg",
+                "width": null
+            },
+            "pathComponent": "arrive3.jpg",
+            "title": "Arrive 3"
+        },
+        "chairs1": {
+            "description": "<span class=\"comment\">Nothing says \"summer on the east coast\" like adirondack chairs overlooking a dock.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/30/slides/chairs1.jpg",
+                "width": null
+            },
+            "pathComponent": "chairs1.jpg",
+            "title": "Chairs 1"
+        },
+        "chairs2": {
+            "description": "<span class=\"comment\">Mmmmmm, \"adirondack chairs\".  Say it out loud.  You know you want to.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/30/slides/chairs2.jpg",
+                "width": null
+            },
+            "pathComponent": "chairs2.jpg",
+            "title": "Chairs 2"
+        },
+        "eat": {
+            "description": "<span class=\"comment\">Milo chows down on the porch.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/30/slides/eat.jpg",
+                "width": null
+            },
+            "pathComponent": "eat.jpg",
+            "title": "Eat"
+        },
+        "hammock": {
+            "description": "<span class=\"comment\">Felix's first encounter with a hammock.  The hammock won.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/30/slides/hammock.jpg",
+                "width": null
+            },
+            "pathComponent": "hammock.jpg",
+            "title": "Hammock"
+        },
+        "pool1": {
+            "description": "<span class=\"comment\">We have a pool.  Felix showed off his new swim skills -- he passed his swim course this week with flying colors, and is moving to the next level when we get back.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/30/slides/pool1.jpg",
+                "width": null
+            },
+            "pathComponent": "pool1.jpg",
+            "title": "Pool 1"
+        },
+        "pool2": {
+            "description": "<span class=\"comment\">Milo is happy and fearless in the water.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/30/slides/pool2.jpg",
+                "width": null
+            },
+            "pathComponent": "pool2.jpg",
+            "title": "Pool 2"
+        },
+        "pool3": {
+            "description": "<span class=\"comment\">Nothing says \"hugely funny\" like a submerged mommy shark monster tickler.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/30/slides/pool3.jpg",
+                "width": null
+            },
+            "pathComponent": "pool3.jpg",
+            "title": "Pool 3"
+        },
+        "pool4": {
+            "description": "<span class=\"comment\">Get ready, watch this...</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/30/slides/pool4.jpg",
+                "width": null
+            },
+            "pathComponent": "pool4.jpg",
+            "title": "Pool 4"
+        },
+        "pool5": {
+            "description": "<span class=\"comment\">Wheee!\n\n<p class=\"para\">The not-so-good part is that he'll do this whether or not he has a float on, and whether or not an adult is around.</p></span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/30/slides/pool5.jpg",
+                "width": null
+            },
+            "pathComponent": "pool5.jpg",
+            "title": "Pool 5"
+        },
+        "zunset": {
+            "description": "<span class=\"comment\">Sunset over the mighty Miles river.  Actually, to be precise, this is Long Haul Creek.   It feeds into the Miles maybe 10 houses down.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/30/slides/zunset.jpg",
+                "width": null
+            },
+            "pathComponent": "zunset.jpg",
+            "title": "Zunset"
+        }
+    },
+    "childrenOrder": [
+        "arrive1",
+        "arrive2",
+        "arrive3",
+        "chairs1",
+        "chairs2",
+        "eat",
+        "hammock",
+        "pool1",
+        "pool2",
+        "pool3",
+        "pool4",
+        "pool5",
+        "zunset"
+    ],
+    "creationTimestamp": 1154242800,
+    "description": "We're on a vacation again.  You know the secret to vacationing with small children?\n\n<h2>Double Grandma Action</h2>\n\nWe have not one but TWO grandmas representin':  Nana <em>and</em> Babushka.  To make this work we flew east from San Francisco and Babushka flew west from France.  We met approximately in the middle:  Washington DC, where Nana lives.\n\n<p class=\"para\">\n\tWe rented a house in St. Michael's, Maryland.  It's on the Miles River, which gives into the Chesapeake Bay.\n</p>",
+    "pathComponent": "2006/07-30",
+    "summary": "",
+    "thumbnailChild": "arrive1",
+    "title": "July 30"
+}

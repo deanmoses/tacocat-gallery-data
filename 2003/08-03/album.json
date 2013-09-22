@@ -1,0 +1,67 @@
+{
+    "children": {
+        "hands": {
+            "description": "Some families wash hands before supper.   Our golden rule is that they always get washed, along with the face, after supper.  Especially when supper involves peanut butter or tomato sauce.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/03/images/hands.jpg",
+                "width": null
+            },
+            "pathComponent": "hands.jpg",
+            "title": "Hands"
+        },
+        "weekend_muir1": {
+            "description": "Dean and Lucie hiked from Muir woods to Stinson beach on Saturday.  The weather was lightly foggy, perfect for hiking.   Here you see downtown San Francisco through the haze.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/03/images/weekend_muir1.jpg",
+                "width": null
+            },
+            "pathComponent": "weekend_muir1.jpg",
+            "title": "Weekend Muir 1"
+        },
+        "weekend_muir2": {
+            "description": "The trail named Deer Trail obligingly provided some deer.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/03/images/weekend_muir2.jpg",
+                "width": null
+            },
+            "pathComponent": "weekend_muir2.jpg",
+            "title": "Weekend Muir 2"
+        },
+        "weekend_surf1": {
+            "description": "Dean and Lucie went surfing on Sunday, and all Felix got out of it was this shirt.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/03/images/weekend_surf1.jpg",
+                "width": null
+            },
+            "pathComponent": "weekend_surf1.jpg",
+            "title": "Weekend Surf 1"
+        },
+        "weekend_surf2": {
+            "description": "Hey.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/03/images/weekend_surf2.jpg",
+                "width": null
+            },
+            "pathComponent": "weekend_surf2.jpg",
+            "title": "Weekend Surf 2"
+        }
+    },
+    "childrenOrder": [
+        "hands",
+        "weekend_muir1",
+        "weekend_muir2",
+        "weekend_surf1",
+        "weekend_surf2"
+    ],
+    "creationTimestamp": 1059894000,
+    "description": "<P>\n<P>\nThere continues to be more and more signs of intelligent life on planet Felix.   With his shape sorting toys, he now stops and thinks about what hole to put each shape in, and always gets it right.  Sometimes he'll look at a hole and his current shape and go \"nooooo...\", and then move on to the next hole.    If he tries to put one in the wrong hole, he does it in a thoughtful way -- instead of getting mad that it's not going in, it's more like he doesn't expect it to go in, and instead is just experimenting.\n\n<p>\nHe gets along great with the kids at his nanny Sylvie's.  Evan has picked up a few signs from Felix, and is using them on his parents.   A new girl, Elize, started coming this week, and she and Felix are quite sweet on each other.  They hang out all the time.\n</p>\n\n<p>\nWhen we drive by Nate's house, Felix says \"Nay! Nay!\"\n</p>\n\n<p>\nFelix spent the weekend with Sylvie, so that Dean and Lucie could get out.  We ate out a lot, went to a play, saw a few bands, went on an all-day hike, hitchhiked back from the hike because we were too late for the bus, caught a movie, and went surfing.   Very therapeutic.  But it means there's not a lot of pictures this week.\n</p>\n\n<p>",
+    "pathComponent": "2003/08-03",
+    "summary": "",
+    "thumbnailChild": "weekend_muir1",
+    "title": "August 3"
+}

@@ -1,0 +1,111 @@
+{
+    "children": {
+        "cabinets1": {
+            "description": "Felix has mastered the time-honored baby skill of emptying the kitchen cabinets.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/10/13/images/cabinets1.jpg",
+                "width": null
+            },
+            "pathComponent": "cabinets1.jpg",
+            "title": "Cabinets 1"
+        },
+        "cabinets2": {
+            "description": "Leaving the scene of the de-cabinetation.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/10/13/images/cabinets2.jpg",
+                "width": null
+            },
+            "pathComponent": "cabinets2.jpg",
+            "title": "Cabinets 2"
+        },
+        "outside1": {
+            "description": "Ooooooo.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/10/13/images/outside1.jpg",
+                "width": null
+            },
+            "pathComponent": "outside1.jpg",
+            "title": "Outside 1"
+        },
+        "outside2": {
+            "description": "Aaaaaaaah.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/10/13/images/outside2.jpg",
+                "width": null
+            },
+            "pathComponent": "outside2.jpg",
+            "title": "Outside 2"
+        },
+        "timber_spot": {
+            "description": "Timber, our next door neighbor, and his dog Spot.  Have we mentioned recently that Felix loves dogs?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/10/13/images/timber_spot.jpg",
+                "width": null
+            },
+            "pathComponent": "timber_spot.jpg",
+            "title": "Timber Spot"
+        },
+        "wedding1": {
+            "description": "Our friends Taylor and Anna got married.  On Angel Island.  This is a ferry full of wedding guests.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/10/13/images/wedding1.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding1.jpg",
+            "title": "Wedding 1"
+        },
+        "wedding2": {
+            "description": "It was a gorgeous warm day.   It happened to be during San Francisco's annual Fleet Week:  basically, taxpayers pay for the Navy to fly their fighter jets around the city.  The faint arced contrail over the island is a group of six F/A-18 Hornet fighter jets doing loop-to-loops in formation.\n\n<p>\nThey were quite loud during the ceremony.\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/10/13/images/wedding2.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding2.jpg",
+            "title": "Wedding 2"
+        },
+        "wedding3": {
+            "description": "Angel Island is in the middle of the bay.  It's a decommissioned military base that happens to have a chapel.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/10/13/images/wedding3.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding3.jpg",
+            "title": "Wedding 3"
+        },
+        "wedding4": {
+            "description": "Taylor's a McDowell and Anna's a McMillan.  Hence, the bagpipes.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/10/13/images/wedding4.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding4.jpg",
+            "title": "Wedding 4"
+        }
+    },
+    "childrenOrder": [
+        "cabinets1",
+        "cabinets2",
+        "outside1",
+        "outside2",
+        "timber_spot",
+        "wedding1",
+        "wedding2",
+        "wedding3",
+        "wedding4"
+    ],
+    "creationTimestamp": 1034492400,
+    "description": "<P>\n<P>\nFelix started going to a nanny, Sylvie, all day Tuesdays and Thursdays.  In the morning, Sylvie picks up Felix and a 1 year old, Silas, and starts hitting the playgrounds of San Francisco.  Sylvie knows all the story hours at all the libraries, all the music groups, and all the indoor baby gyms.  Felix loves it.  Felix took to her immediately because she's French-speaking, from Belgium.\n\n<p>\nIn the \"small world\" department:  Silas' mother is the sister of a kid that Dean played soccer with in Baton Rouge for years and years.\n</p>\n\n<p>\nGrandma Harriet was in town this weekend, but we don't have any pictures to prove it, except that we managed to go to a wedding <i>sans</i> bebe.\n</p>\n\n<p>",
+    "pathComponent": "2002/10-13",
+    "summary": "",
+    "thumbnailChild": "outside2",
+    "title": "October 13"
+}

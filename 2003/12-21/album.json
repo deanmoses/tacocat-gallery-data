@@ -1,0 +1,177 @@
+{
+    "children": {
+        "maxfields1": {
+            "description": "We often go for afternoon drinks at the local coffee shop.   The mannequin in the tree is always very personable.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/21/images/maxfields1.jpg",
+                "width": null
+            },
+            "pathComponent": "maxfields1.jpg",
+            "title": "Maxfields 1"
+        },
+        "maxfields2": {
+            "description": "If the coffee shop ever has a talent show, we're entering as a troupe of acrobats.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/21/images/maxfields2.jpg",
+                "width": null
+            },
+            "pathComponent": "maxfields2.jpg",
+            "title": "Maxfields 2"
+        },
+        "maxfields3": {
+            "description": "No windows were harmed in the flipping of this child.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/21/images/maxfields3.jpg",
+                "width": null
+            },
+            "pathComponent": "maxfields3.jpg",
+            "title": "Maxfields 3"
+        },
+        "museum": {
+            "description": "Marin County is known for having better weather than San Francisco.   What's less known is that it also has better kid museums.   This is our first trip to the Bay Area Discovery Museum in Sausalito, but it won't be our last.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/21/images/museum.jpg",
+                "width": null
+            },
+            "pathComponent": "museum.jpg",
+            "title": "Museum"
+        },
+        "museum_bridge": {
+            "description": "The museum is right on the other side of the Golden Gate bridge.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/21/images/museum_bridge.jpg",
+                "width": null
+            },
+            "pathComponent": "museum_bridge.jpg",
+            "title": "Museum Bridge"
+        },
+        "museum_crafts1": {
+            "description": "Joining us at the museum are Eva, her almost-4 daughter Helena (the blonde), her 6 month old son Daniel (not pictured), and Helena's friend Anna (black hair).  Here, we're making Christmas cards.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/21/images/museum_crafts1.jpg",
+                "width": null
+            },
+            "pathComponent": "museum_crafts1.jpg",
+            "title": "Museum Crafts 1"
+        },
+        "museum_crafts2": {
+            "description": "More crafts.  Lucie is very crafty.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/21/images/museum_crafts2.jpg",
+                "width": null
+            },
+            "pathComponent": "museum_crafts2.jpg",
+            "title": "Museum Crafts 2"
+        },
+        "museum_gravel1": {
+            "description": "The museum has the world's best-stocked toddler gravel yard.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/21/images/museum_gravel1.jpg",
+                "width": null
+            },
+            "pathComponent": "museum_gravel1.jpg",
+            "title": "Museum Gravel 1"
+        },
+        "museum_gravel2": {
+            "description": "This shovel is the biggest tool Felix has ever used.  But he's man enough for the challenge.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/21/images/museum_gravel2.jpg",
+                "width": null
+            },
+            "pathComponent": "museum_gravel2.jpg",
+            "title": "Museum Gravel 2"
+        },
+        "museum_river1": {
+            "description": "The museum has several water areas, each one more fascinating and splashorific than the next.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/21/images/museum_river1.jpg",
+                "width": null
+            },
+            "pathComponent": "museum_river1.jpg",
+            "title": "Museum River 1"
+        },
+        "museum_river2": {
+            "description": "The museum provides waterproof aprons, but Felix doesn't need one -- he's his usual neat and careful self.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/21/images/museum_river2.jpg",
+                "width": null
+            },
+            "pathComponent": "museum_river2.jpg",
+            "title": "Museum River 2"
+        },
+        "museum_sounds": {
+            "description": "This is Dean's favorite room:  Things That Make Lots of Noise.  Here, we send very heavy washers clanking down really long bolts, making a fantastic juddering tintinabulation.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/21/images/museum_sounds.jpg",
+                "width": null
+            },
+            "pathComponent": "museum_sounds.jpg",
+            "title": "Museum Sounds"
+        },
+        "museum_tinkertoys": {
+            "description": "Felix ponders the world's largest Tinker Toys.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/21/images/museum_tinkertoys.jpg",
+                "width": null
+            },
+            "pathComponent": "museum_tinkertoys.jpg",
+            "title": "Museum Tinkertoys"
+        },
+        "museum_train": {
+            "description": "Just when we thought the museum couldn't get any better, we find a room full of Brio trains.   Dean and Lucie feverishly take notes on track designs.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/21/images/museum_train.jpg",
+                "width": null
+            },
+            "pathComponent": "museum_train.jpg",
+            "title": "Museum Train"
+        },
+        "museum_truck": {
+            "description": "Felix gets behind the wheel of a very large and very stationary dump truck.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/21/images/museum_truck.jpg",
+                "width": null
+            },
+            "pathComponent": "museum_truck.jpg",
+            "title": "Museum Truck"
+        }
+    },
+    "childrenOrder": [
+        "maxfields1",
+        "maxfields2",
+        "maxfields3",
+        "museum",
+        "museum_bridge",
+        "museum_crafts1",
+        "museum_crafts2",
+        "museum_gravel1",
+        "museum_gravel2",
+        "museum_river1",
+        "museum_river2",
+        "museum_sounds",
+        "museum_tinkertoys",
+        "museum_train",
+        "museum_truck"
+    ],
+    "creationTimestamp": 1071993600,
+    "description": "We're in the holiday spirit:  Dean is on vacation all next week, Nana's due in tomorrow, and we're buying too many toys.\n\n<p>\nFelix is clearly favoring English.  He's starting to use more and more sentences, and the structures are all English.  It makes sense:  only Lucie and Sylvie speak French, and Sylvie and Lucie only speak French when talking with him.  We're looking at French schools and language programs.\n</p>\n\n<p>\nHis longest sentence so far:  \"Watch Mommy, I'm going to jump!\"  And then he did.\n</p>\n  \n<p>\nHe'll remember what you said 20 mintues ago, like \"we're going to a toy store\", and hold you to it.  He knows what a toy store is and prefers it to a playground.  So far he isn't annoyingly acquisitive in stores:  he just likes going and playing with stuff.\n</p>",
+    "pathComponent": "2003/12-21",
+    "summary": "",
+    "thumbnailChild": "maxfields1",
+    "title": "December 21"
+}

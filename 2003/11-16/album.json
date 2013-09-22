@@ -1,0 +1,177 @@
+{
+    "children": {
+        "jet1": {
+            "description": "Dean's dad came for a weekend visit. He and Felix hit it off immediately.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/16/images/jet1.jpg",
+                "width": null
+            },
+            "pathComponent": "jet1.jpg",
+            "title": "Jet 1"
+        },
+        "jet2": {
+            "description": "Felix's favorite book of the moment is <i>Cars and Trucks and Things That Go</i> by Richard Scarry. The best part about the book is the tiny \"gold bug\" hidden on every page. Felix LOVES looking for it, and he has gotten remarkably good at it.\n<p>\nHere, he has enrolled Grandpa in a doomed quest for gold bugs in the pages of an Edward Tufte textbook on information design.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/16/images/jet2.jpg",
+                "width": null
+            },
+            "pathComponent": "jet2.jpg",
+            "title": "Jet 2"
+        },
+        "jet3": {
+            "description": "Ready for take off?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/16/images/jet3.jpg",
+                "width": null
+            },
+            "pathComponent": "jet3.jpg",
+            "title": "Jet 3"
+        },
+        "jet4": {
+            "description": "Go!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/16/images/jet4.jpg",
+                "width": null
+            },
+            "pathComponent": "jet4.jpg",
+            "title": "Jet 4"
+        },
+        "jet5": {
+            "description": "Grandpa thoughtfully cleared off that landing pad years ago.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/16/images/jet5.jpg",
+                "width": null
+            },
+            "pathComponent": "jet5.jpg",
+            "title": "Jet 5"
+        },
+        "jet6": {
+            "description": "Three generations under the spell of Legos.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/16/images/jet6.jpg",
+                "width": null
+            },
+            "pathComponent": "jet6.jpg",
+            "title": "Jet 6"
+        },
+        "milkncookies1": {
+            "description": "When it comes to baking cookies, Felix is Mommy's little helper.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/16/images/milkncookies1.jpg",
+                "width": null
+            },
+            "pathComponent": "milkncookies1.jpg",
+            "title": "Milkncookies 1"
+        },
+        "milkncookies2": {
+            "description": "When it comes to eating cookies, Felix is Daddy's little helper.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/16/images/milkncookies2.jpg",
+                "width": null
+            },
+            "pathComponent": "milkncookies2.jpg",
+            "title": "Milkncookies 2"
+        },
+        "mud1": {
+            "description": "Running in the grassy fields of Golden Gate Park.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/16/images/mud1.jpg",
+                "width": null
+            },
+            "pathComponent": "mud1.jpg",
+            "title": "Mud 1"
+        },
+        "mud2": {
+            "description": "The rainy season began. The weather had been dry so long that Felix forgot water can fall from the sky. How peculiar! And then, there is the way the ground can become soft, slippery, moist...",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/16/images/mud2.jpg",
+                "width": null
+            },
+            "pathComponent": "mud2.jpg",
+            "title": "Mud 2"
+        },
+        "mud3": {
+            "description": "Let's observe this phenomenon a little closer...",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/16/images/mud3.jpg",
+                "width": null
+            },
+            "pathComponent": "mud3.jpg",
+            "title": "Mud 3"
+        },
+        "mud4": {
+            "description": "Hmm.  It's kind of wet and cold, but it feels really cool... I should show Maman...",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/16/images/mud4.jpg",
+                "width": null
+            },
+            "pathComponent": "mud4.jpg",
+            "title": "Mud 4"
+        },
+        "mud5": {
+            "description": "Mom, what's this stuff?  Can I put it on the camera?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/16/images/mud5.jpg",
+                "width": null
+            },
+            "pathComponent": "mud5.jpg",
+            "title": "Mud 5"
+        },
+        "nounours": {
+            "description": "Sometimes, stuffed animals want to snuggle up for a ride. Felix is happy to oblige.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/16/images/nounours.jpg",
+                "width": null
+            },
+            "pathComponent": "nounours.jpg",
+            "title": "Nounours"
+        },
+        "zeke": {
+            "description": "Ezekiel turned 2 on November 16. He had a big birthday party. He also had a big cake, which he ate most of.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/16/images/zeke.jpg",
+                "width": null
+            },
+            "pathComponent": "zeke.jpg",
+            "title": "Zeke"
+        }
+    },
+    "childrenOrder": [
+        "jet1",
+        "jet2",
+        "jet3",
+        "jet4",
+        "jet5",
+        "jet6",
+        "milkncookies1",
+        "milkncookies2",
+        "mud1",
+        "mud2",
+        "mud3",
+        "mud4",
+        "mud5",
+        "nounours",
+        "zeke"
+    ],
+    "creationTimestamp": 1068969600,
+    "description": "Dean and Lucie have been busy with work for the last two weeks and perhaps haven't marveled enough in the blossoming flower that is their son.  However, Felix continues to develop.  It seems his march towards boyhood progresses even when he spends four or five days a week at his nanny's.\n\n<p>\nHe understands the difference between \"you\" and \"me\".  When asked to point to \"your nose\" or \"my nose\", he gets the right person's nose.\n</p>\n\n<p>\nHe's deeply into pretend play.   He loves to play kitchen:  hand us stuff to eat, clean the table, throw imaginary stuff away.  He makes his animals wave hello and goodbye at us, and makes them hand us blocks for building stuff.   And he has phone calls with us using his wide variety of actual broken cell phones from Dean.\n</p>\n\n<p>\nHe's starting to dance more:  he'll hold hands with Dean and spin around until they're both dizzy.  If you want to call that dancing.\n</p>\n\n<p>\nWe went on a walk and he threw himself down a gentle hill, rolling over and over with his arms crossed over his chest.   We guess somebody taught him that.\n</p>\n\n<p>\nHe used chopsticks for the first time, sort of.  At a Japanese restaurant and he insisted on eating his cereal with chopsticks.  He ate a piece or two with minimal assistance from Dean.\n</p>\n\n<p>\nHave you been wondering what to get Felix for his birthday or Christmas?   He now has <i>two</i> wish lists to choose from:  one on Amazon and one on E-toys.\n<a href=\"http://www.amazon.com/exec/obidos/registry/2TSE04ZOF0WH9/002-0637640-8988045\">Amazon.com wish list</a>\n<br />\n<a href=\"https://www.etoys.com/s/wishlist.html?formNext=WishListView&WN=felixmoses&RP=375604&ls=default\">Etoys.com wish list</a>\n</p>",
+    "pathComponent": "2003/11-16",
+    "summary": "",
+    "thumbnailChild": "mud2",
+    "title": "November 16"
+}

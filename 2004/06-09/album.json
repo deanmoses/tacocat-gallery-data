@@ -1,0 +1,100 @@
+{
+    "children": {
+        "evan2": {
+            "description": "Evan spent the night on Saturday. He and Felix were obviously VERY happy to see eachother.\n<p>\nWhat's so funny?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/06/09/images/evan2.jpg",
+                "width": null
+            },
+            "pathComponent": "evan2.jpg",
+            "title": "Evan 2"
+        },
+        "evan3": {
+            "description": "Papa, of course. \n<p>\nEvan calls Dean \"Papa\" as well, since that's what Felix calls him, and his own dad goes by \"daddy\". However, he does not call Lucie \"Mommy\", since he has a \"mommy\" of his own.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/06/09/images/evan3.jpg",
+                "width": null
+            },
+            "pathComponent": "evan3.jpg",
+            "title": "Evan 3"
+        },
+        "evan4": {
+            "description": "They spent a lot of time reading books side by side, and commenting on the best passages.\n<p>\n\"- Look, Felix, a choo-choo train\n<br>- Yeah. Look, Evan, digger\n<br>- That's no a digger, Felix, that's a tow truck\n<br>- tow truck?\"\n<p>\nEvan speaks in perfectly grammatical sentences now and, as always, his vehicle terminology is much more precise than Felix's.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/06/09/images/evan4.jpg",
+                "width": null
+            },
+            "pathComponent": "evan4.jpg",
+            "title": "Evan 4"
+        },
+        "profile": {
+            "description": "Lucie's belly is getting so big now, that it sticks out of most her so-called pregnancy clothes... and there is still a month or two to go!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/06/09/images/profile.jpg",
+                "width": null
+            },
+            "pathComponent": "profile.jpg",
+            "title": "Profile"
+        },
+        "wyatt1": {
+            "description": "Wyatt (age 1 1/2) and his parents came over for brunch. Whenever Wyatt would touch something he was not supposed to (the TV, the fireplace...), Felix tried to give him a time-out.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/06/09/images/wyatt1.jpg",
+                "width": null
+            },
+            "pathComponent": "wyatt1.jpg",
+            "title": "Wyatt 1"
+        },
+        "wyatt2": {
+            "description": "Felix gives a tour of his room to Wyatt and his dad Chris.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/06/09/images/wyatt2.jpg",
+                "width": null
+            },
+            "pathComponent": "wyatt2.jpg",
+            "title": "Wyatt 2"
+        },
+        "wyatt3": {
+            "description": "Ain't he a cutie?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/06/09/images/wyatt3.jpg",
+                "width": null
+            },
+            "pathComponent": "wyatt3.jpg",
+            "title": "Wyatt 3"
+        },
+        "ymca": {
+            "description": "The action just doesn't stop long enough to take a photo, at our local YMCA. Felix and Lucie joined last week, and they have already been several times. \n<p>\nTogether, they go to the Kid's Gym (with its giant bin of balls, pictured here) or to the shallow swimming pool. Alone, Lucie goes swim laps. She also tried out a \"prenatal/postpartum trans-dance aerobic class\"... only in Berkeley!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/06/09/images/ymca.jpg",
+                "width": null
+            },
+            "pathComponent": "ymca.jpg",
+            "title": "Ymca"
+        }
+    },
+    "childrenOrder": [
+        "evan2",
+        "evan3",
+        "evan4",
+        "profile",
+        "wyatt1",
+        "wyatt2",
+        "wyatt3",
+        "ymca"
+    ],
+    "creationTimestamp": 1086764400,
+    "description": "</TD>\n</TR>\n</TABLE>\n<P>\n<P>\nWe had a social week. Now that we are feeling a little more settled, we are having friends over to check out our new home, and to drop off borrowed baby gear for Bastille.",
+    "pathComponent": "2004/06-09",
+    "summary": "",
+    "thumbnailChild": "profile",
+    "title": "June 9"
+}

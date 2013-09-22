@@ -1,0 +1,144 @@
+{
+    "children": {
+        "backpack": {
+            "description": "Felix is getting too heavy for the Baby Bjorn, so we got a backpack carrier.  Felix loves it, and apparently finds it comfy:  in this picture, he's still asleep in it, post-hike.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/17/images/backpack.jpg",
+                "width": null
+            },
+            "pathComponent": "backpack.jpg",
+            "title": "Backpack"
+        },
+        "firstmeal1": {
+            "description": "Mom lovingly feeds Felix his very first food: rice cereal mush.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/17/images/firstmeal1.jpg",
+                "width": null
+            },
+            "pathComponent": "firstmeal1.jpg",
+            "title": "Firstmeal 1"
+        },
+        "firstmeal2": {
+            "description": "Dad takes turn holding the spoon.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/17/images/firstmeal2.jpg",
+                "width": null
+            },
+            "pathComponent": "firstmeal2.jpg",
+            "title": "Firstmeal 2"
+        },
+        "firstmeal3": {
+            "description": "Felix quickly gets the idea and takes over the spoon.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/17/images/firstmeal3.jpg",
+                "width": null
+            },
+            "pathComponent": "firstmeal3.jpg",
+            "title": "Firstmeal 3"
+        },
+        "firstmeal4": {
+            "description": "Rice cereal is an intant hit! Felix frantically grabs at the plate for more food.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/17/images/firstmeal4.jpg",
+                "width": null
+            },
+            "pathComponent": "firstmeal4.jpg",
+            "title": "Firstmeal 4"
+        },
+        "firstmeal5": {
+            "description": "Failing to pick up the plate (specially designed to be hard to lift), Felix starts chewing on the high chair tray.  Mooooore food!   Mooooore!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/17/images/firstmeal5.jpg",
+                "width": null
+            },
+            "pathComponent": "firstmeal5.jpg",
+            "title": "Firstmeal 5"
+        },
+        "firstmeal6": {
+            "description": "Second day of solid food. Felix gets one meal a day, in addition to his regular 6 bottles.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/17/images/firstmeal6.jpg",
+                "width": null
+            },
+            "pathComponent": "firstmeal6.jpg",
+            "title": "Firstmeal 6"
+        },
+        "firstmeal7": {
+            "description": "Now we have to wash the dishes AND the baby.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/17/images/firstmeal7.jpg",
+                "width": null
+            },
+            "pathComponent": "firstmeal7.jpg",
+            "title": "Firstmeal 7"
+        },
+        "lift1": {
+            "description": "This is one of Felix's play stations.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/17/images/lift1.jpg",
+                "width": null
+            },
+            "pathComponent": "lift1.jpg",
+            "title": "Lift 1"
+        },
+        "lift2": {
+            "description": "Felix grabs the top and lifts himself mightily.  Sometimes his butt even comes off the floor.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/17/images/lift2.jpg",
+                "width": null
+            },
+            "pathComponent": "lift2.jpg",
+            "title": "Lift 2"
+        },
+        "lift3": {
+            "description": "In search of literature, or a new handhold?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/17/images/lift3.jpg",
+                "width": null
+            },
+            "pathComponent": "lift3.jpg",
+            "title": "Lift 3"
+        },
+        "stand": {
+            "description": "Standing proud.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/17/images/stand.jpg",
+                "width": null
+            },
+            "pathComponent": "stand.jpg",
+            "title": "Stand"
+        }
+    },
+    "childrenOrder": [
+        "backpack",
+        "firstmeal1",
+        "firstmeal2",
+        "firstmeal3",
+        "firstmeal4",
+        "firstmeal5",
+        "firstmeal6",
+        "firstmeal7",
+        "lift1",
+        "lift2",
+        "lift3",
+        "stand"
+    ],
+    "creationTimestamp": 1024297200,
+    "description": "<P>\n<P>\nFelix turned 0.5 years old this week.  On his birthday checkup, he was 27 3/4 inches (70 centimeters) and 19 lbs 8 oz (8.840 kg).\n\n<p>\nFelix is getting a tooth. It broke the gum, but it is not entirely out yet. Except for some lower lip sucking, Felix does not seem bothered by teething, to our great relief.\n</p>\n\n<p>\nThe tooth came just in time for his first solid meal. Felix looooooooves his rice cereal mush.\n</p>\n\n<p>\nSee this week's <a href=\"video/\">video</a>.\n</p>\n\n<p>",
+    "pathComponent": "2002/06-17",
+    "summary": "",
+    "thumbnailChild": "lift1",
+    "title": "June 17"
+}

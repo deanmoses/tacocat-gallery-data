@@ -1,0 +1,89 @@
+{
+    "children": {
+        "fieldtrip": {
+            "description": "When Felix comes home from school with something like this on his back, we know he's been on a field trip.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/09/26/slides/fieldtrip.jpg",
+                "width": null
+            },
+            "pathComponent": "fieldtrip.jpg",
+            "title": "Fieldtrip"
+        },
+        "lake1": {
+            "description": "We rented a cabin for the weekend at Clear Lake, north of the city.   We had a great time just hanging out and playing board games.  <u>Left to right</u>:  Austin, Craig, Julie, Felix, Milo, Lucie.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/09/26/slides/lake1.jpg",
+                "width": null
+            },
+            "pathComponent": "lake1.jpg",
+            "title": "Lake 1"
+        },
+        "lake2": {
+            "description": "Look out veggies, Diana and Julie are kebab-meisters!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/09/26/slides/lake2.jpg",
+                "width": null
+            },
+            "pathComponent": "lake2.jpg",
+            "title": "Lake 2"
+        },
+        "lake3": {
+            "description": "Todd makes a burrito out of Felix.  Milo wonders if he'll get a taste.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/09/26/slides/lake3.jpg",
+                "width": null
+            },
+            "pathComponent": "lake3.jpg",
+            "title": "Lake 3"
+        },
+        "lake4": {
+            "description": "Austin's sleeping quarters were centrally located.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/09/26/slides/lake4.jpg",
+                "width": null
+            },
+            "pathComponent": "lake4.jpg",
+            "title": "Lake 4"
+        },
+        "lake5": {
+            "description": "The sunsets were lovely.   Dean and Milo spent some quality time chucking rocks in the water.  The boy has a good arm.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/09/26/slides/lake5.jpg",
+                "width": null
+            },
+            "pathComponent": "lake5.jpg",
+            "title": "Lake 5"
+        },
+        "meanface": {
+            "description": "Felix demonstrates his 'mean' face.  He's pretending to hunt for rats;  we actually have some in our garage right now, and he's taking great interest in the eradication process.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/09/26/slides/meanface.jpg",
+                "width": null
+            },
+            "pathComponent": "meanface.jpg",
+            "title": "Meanface"
+        }
+    },
+    "childrenOrder": [
+        "fieldtrip",
+        "lake1",
+        "lake2",
+        "lake3",
+        "lake4",
+        "lake5",
+        "meanface"
+    ],
+    "creationTimestamp": 1127718000,
+    "description": "Felix has been making up words, using them with consistent meaning and pronunciation throughout the day.   Two from today:\n<ul>\n\t<li><u>cornavar</u>:  A soft piece of metal you put around a pokey sharp plastic corner, to keep people from getting hurt.</li>\n\t<li><u>webbing</u>:  Stopping yourself as you go down a slide by grabbing the rail, as if your hands had webs like Spiderman.</li>\n</ul>\n\n<p>\nMilo's been his usual ball of energetic happiness.  A new trick this week is the full body hug:  he grabs Lucie or Dean with both arms and legs and hugs as tight as he can.  It's delicious, and only given when he's really glad to see us.\n</p>\n\nFelix played his first board game ever:  Candy Land.   We've played before by having him deliver cards to all the candy people along the path, but this week he actually sat down, counted colors, and played correctly all the way through.",
+    "pathComponent": "2005/09-26",
+    "summary": "",
+    "thumbnailChild": "meanface",
+    "title": "September 26"
+}

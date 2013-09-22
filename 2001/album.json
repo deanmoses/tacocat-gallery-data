@@ -1,0 +1,66 @@
+{
+    "children": {
+        "2001/12-13": {
+            "creationTimestamp": 1008230400,
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/13/images/harriet.jpg",
+                "width": null
+            },
+            "pathComponent": "2001/12-13",
+            "summary": "Felix at the Hospital",
+            "title": "December 13"
+        },
+        "2001/12-14": {
+            "creationTimestamp": 1008316800,
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/14/images/felix_hat.jpg",
+                "width": null
+            },
+            "pathComponent": "2001/12-14",
+            "summary": "First Day Home Ever",
+            "title": "December 14"
+        },
+        "2001/12-16": {
+            "creationTimestamp": 1008489600,
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/16/images/molix3.jpg",
+                "width": null
+            },
+            "pathComponent": "2001/12-16",
+            "summary": "",
+            "title": "December 16"
+        },
+        "2001/12-23": {
+            "creationTimestamp": 1009094400,
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/23/images/maman_dans_la_cuisine.jpg",
+                "width": null
+            },
+            "pathComponent": "2001/12-23",
+            "summary": "Week Two",
+            "title": "December 23"
+        },
+        "2001/12-31": {
+            "creationTimestamp": 1009785600,
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/31/images/francoisix3.jpg",
+                "width": null
+            },
+            "pathComponent": "2001/12-31",
+            "summary": "Christmas and New Year",
+            "title": "December 31"
+        }
+    },
+    "childrenOrder": [],
+    "creationTimestamp": 978336000,
+    "description": null,
+    "pathComponent": "2001",
+    "sidebar": "<style>\n\taside.image-aside {\n\t\tbackground-color: #FFF;\n\t\tborder-radius: 8px;\n\t}\n\taside.image-aside img {\n\t\tmargin: 1.5em;\n\t}\n\taside.free-text h2 {\n\t\tfont-weight: bold;\n\t\tfont-size: 130%;\n\t\tmargin-top: .5em;\n\t}\n\taside.free-text h3 {\n\t\tfont-weight: bold;\n\t\tmargin-top: .5em;\n\t}\n\taside.haiku {\n\t\tmargin-top: 1em;\n\t\tfont-style: italic;\n\t}\n\taside.haiku:after {\n\t\tcontent: close-quote;\n\t\tfont-weight: bold;\n\t}\n\taside.haiku:before {\n\t\tcontent: open-quote;\n\t\tfont-weight: bold;\n\t}\n</style>\n<aside class=\"image-aside\">\n\t<img src=\"http://tacocat.com/pix/img/kitten.gif\" width=\"92\" height=\"105\" border=\"0\" alt=\"kitten\">\n</aside>\n<aside class=\"free-text\">\n\t<h2>Felix</h2>\n\tBorn December 11, 2001 at 2:17pm\n\n\t<h3>Weight</h3>\n\t4.550 kg\n\t<br>10 pounds, l ounce\n\n\t<h3>Length</h3>\n\t53 cm\n\t<br>20 6/8 inches\n\n\t<h3>Head circumference</h3>\n\t35 cm\n\t<br>13 6/8 inches\n</aside>\n<aside class=\"haiku\">\n\tWhat did I swallow?\n\t<br>A kitten chasing a fly\n\t<br>Pass me the Rolaids.\n</aside>",
+    "summary": null,
+    "title": "2001"
+}

@@ -1,0 +1,111 @@
+{
+    "children": {
+        "binky1": {
+            "description": "Milo's a sucker.  He wants to suck on something all the time.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/08/08/images/binky1.jpg",
+                "width": null
+            },
+            "pathComponent": "binky1.jpg",
+            "title": "Binky 1"
+        },
+        "binky2": {
+            "description": "His one week checkup showed he's gaining weight just fine, which means he's breastfeeding fine, which clears us for using a pacifier.  Dean had been counting the days.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/08/08/images/binky2.jpg",
+                "width": null
+            },
+            "pathComponent": "binky2.jpg",
+            "title": "Binky 2"
+        },
+        "binky3": {
+            "description": "Our first attempt at offering a pacifier... it looks like a go!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/08/08/images/binky3.jpg",
+                "width": null
+            },
+            "pathComponent": "binky3.jpg",
+            "title": "Binky 3"
+        },
+        "binky4": {
+            "description": "Unfortunately, the first pacifier attempt was an exception; he usually won't accept them.  Milo seems to have developed a taste for pinky.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/08/08/images/binky4.jpg",
+                "width": null
+            },
+            "pathComponent": "binky4.jpg",
+            "title": "Binky 4"
+        },
+        "first_outing1": {
+            "description": "Mike attends Milo's first brunch, on his two week birthday.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/08/08/images/first_outing1.jpg",
+                "width": null
+            },
+            "pathComponent": "first_outing1.jpg",
+            "title": "First Outing 1"
+        },
+        "first_outing2": {
+            "description": "Felix has been really sweet with his little brother.  He says \"I love you\" to him and wants to help however possible.  He especially loves to tell things to Milo and have Lucie answer back in a squeaky Milo voice and wave Milo's hands around.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/08/08/images/first_outing2.jpg",
+                "width": null
+            },
+            "pathComponent": "first_outing2.jpg",
+            "title": "First Outing 2"
+        },
+        "lake_anza1": {
+            "description": "Lake Anza, in the Berkeley hills, is <i>the</i> destination for toddler water activities.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/08/08/images/lake_anza1.jpg",
+                "width": null
+            },
+            "pathComponent": "lake_anza1.jpg",
+            "title": "Lake Anza 1"
+        },
+        "lake_anza2": {
+            "description": "Felix sheds his clothes as he goes.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/08/08/images/lake_anza2.jpg",
+                "width": null
+            },
+            "pathComponent": "lake_anza2.jpg",
+            "title": "Lake Anza 2"
+        },
+        "rollercoaster": {
+            "description": "Dean was impressed that Felix let himself be taken on this rollercoaster at the Oakland zoo.  Beforehand, Felix said he was okay with it being scary.  During, he cried on one especially rough turn.  Afterwards, his comment was \"too scary\", and he emphatically declined a second ride.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/08/08/images/rollercoaster.jpg",
+                "width": null
+            },
+            "pathComponent": "rollercoaster.jpg",
+            "title": "Rollercoaster"
+        }
+    },
+    "childrenOrder": [
+        "binky1",
+        "binky2",
+        "binky3",
+        "binky4",
+        "first_outing1",
+        "first_outing2",
+        "lake_anza1",
+        "lake_anza2",
+        "rollercoaster"
+    ],
+    "creationTimestamp": 1091948400,
+    "description": "Milo's second week of existence was good.  So far, it hasn't been as difficult as we thought it would be.   Partly it's that he's a good eater and sleeper, and partly it's our expectations:  if Milo's still crying after he's been fed, changed and burped, that's HIS problem.  We'll hold him but we don't get too worked up over the crying.  I think the fact that we are less stressed makes Milo less stressed and cry less.",
+    "pathComponent": "2004/08-08",
+    "summary": "",
+    "thumbnailChild": "binky3",
+    "title": "August 8"
+}

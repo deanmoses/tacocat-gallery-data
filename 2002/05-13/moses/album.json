@@ -1,0 +1,67 @@
+{
+    "children": {
+        "moses0": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/05/13/moses/images/moses0.jpg",
+                "width": null
+            },
+            "pathComponent": "moses0.jpg",
+            "title": "Moses"
+        },
+        "moses1": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/05/13/moses/images/moses1.jpg",
+                "width": null
+            },
+            "pathComponent": "moses1.jpg",
+            "title": "Moses 1"
+        },
+        "moses2": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/05/13/moses/images/moses2.jpg",
+                "width": null
+            },
+            "pathComponent": "moses2.jpg",
+            "title": "Moses 2"
+        },
+        "moses3": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/05/13/moses/images/moses3.jpg",
+                "width": null
+            },
+            "pathComponent": "moses3.jpg",
+            "title": "Moses 3"
+        },
+        "moses4": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/05/13/moses/images/moses4.jpg",
+                "width": null
+            },
+            "pathComponent": "moses4.jpg",
+            "title": "Moses 4"
+        }
+    },
+    "childrenOrder": [
+        "moses0",
+        "moses1",
+        "moses2",
+        "moses3",
+        "moses4"
+    ],
+    "creationTimestamp": 1021273200,
+    "description": "<P>\n<P>\nTest shots from the new digital camera.\n\n<p>",
+    "pathComponent": "2002/05-13/moses",
+    "summary": "Week 22",
+    "thumbnailChild": "moses3",
+    "title": "May 13"
+}

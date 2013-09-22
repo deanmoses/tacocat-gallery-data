@@ -1,0 +1,254 @@
+{
+    "children": {
+        "boubou": {
+            "description": "Milo's suddenly gotten cuddly with Boubou, a doll handmade by Amanda.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/27/slides/boubou.jpg",
+                "width": null
+            },
+            "pathComponent": "boubou.jpg",
+            "title": "Boubou"
+        },
+        "fire": {
+            "description": "'Tis the season for curling up in front of the fireplace.  We have after-dinner tea and cookies there, with Felix pretending he's a cat settling in for a nap.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/27/slides/fire.jpg",
+                "width": null
+            },
+            "pathComponent": "fire.jpg",
+            "title": "Fire"
+        },
+        "maria1": {
+            "description": "Milo really likes his nanny Maria.  He used to have a hard time being with her at our house, when he knew that Lucie was working in the next room.  But now he doesn't mind.  Lucie can even come out and take pictures, and Milo just keeps playing.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/27/slides/maria1.jpg",
+                "width": null
+            },
+            "pathComponent": "maria1.jpg",
+            "title": "Maria 1"
+        },
+        "maria2": {
+            "description": "Flip!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/27/slides/maria2.jpg",
+                "width": null
+            },
+            "pathComponent": "maria2.jpg",
+            "title": "Maria 2"
+        },
+        "owen": {
+            "description": "At Owen's birthday party, we discovered that Felix has another good friend at school: Marina. She and Owen have been buddies for over a year. As Marina puts it: \"Owen is my friend and Felix is Owen's friend... so Felix is my friend too.\" The three of them play very well together.\n<p class=\"para\">\n<u>Left to right</u>: Marina, Owen, Felix, Milo, Katy and Finn. \n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/27/slides/owen.jpg",
+                "width": null
+            },
+            "pathComponent": "owen.jpg",
+            "title": "Owen"
+        },
+        "plumbing1": {
+            "description": "What's going on outside?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/27/slides/plumbing1.jpg",
+                "width": null
+            },
+            "pathComponent": "plumbing1.jpg",
+            "title": "Plumbing 1"
+        },
+        "plumbing2": {
+            "description": "Oh my! They're tearing up our sidewalk!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/27/slides/plumbing2.jpg",
+                "width": null
+            },
+            "pathComponent": "plumbing2.jpg",
+            "title": "Plumbing 2"
+        },
+        "plumbing3": {
+            "description": "That tree on the left got its greedy little water-seeking roots into our sewer pipe.  To replace it, the plumbers had to remove all of the upper sidewalk, the stone stairs, and a section of the driveway.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/27/slides/plumbing3.jpg",
+                "width": null
+            },
+            "pathComponent": "plumbing3.jpg",
+            "title": "Plumbing 3"
+        },
+        "plumbing4": {
+            "description": "The whole thing only took two days.  As Felix said, \"Yay, we can pee again!\"  It was an expensive way to get our names and hand prints immortalized in concrete.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/27/slides/plumbing4.jpg",
+                "width": null
+            },
+            "pathComponent": "plumbing4.jpg",
+            "title": "Plumbing 4"
+        },
+        "robot": {
+            "description": "Felix is working on next year's Halloween costume: cardboard robot.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/27/slides/robot.jpg",
+                "width": null
+            },
+            "pathComponent": "robot.jpg",
+            "title": "Robot"
+        },
+        "sacramento": {
+            "description": "Dean and Felix took the double-decker train to Sacramento to visit the train museum.    They did it last year, too.  \n\n<p class=\"para\">\nWhile Felix understood the museum more than he did last year, it's a sad fact that the overall experience wasn't as magical... our boy is getting jaded.\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/27/slides/sacramento.jpg",
+                "width": null
+            },
+            "pathComponent": "sacramento.jpg",
+            "title": "Sacramento"
+        },
+        "thanksgiving1": {
+            "description": "We spent Thanksgiving at the Joyces. \n<p class=\"para\">\nIt's always a good idea to get a little exercise before sitting down for the big meal. \n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/27/slides/thanksgiving1.JPG",
+                "width": null
+            },
+            "pathComponent": "thanksgiving1.JPG",
+            "title": "Thanksgiving 1"
+        },
+        "thanksgiving2": {
+            "description": "Felix and Keenan played for hours and hours and hours.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/27/slides/thanksgiving2.JPG",
+                "width": null
+            },
+            "pathComponent": "thanksgiving2.JPG",
+            "title": "Thanksgiving 2"
+        },
+        "thanksgiving3": {
+            "description": "Terry and the piece de resistance.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/27/slides/thanksgiving3.JPG",
+                "width": null
+            },
+            "pathComponent": "thanksgiving3.JPG",
+            "title": "Thanksgiving 3"
+        },
+        "thanksgiving4": {
+            "description": "Amy works on all the trimmings:  mashed potatoes, gravy, rutabaga, stuffing, green beans, and two types of cranberry sauce.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/27/slides/thanksgiving4.JPG",
+                "width": null
+            },
+            "pathComponent": "thanksgiving4.JPG",
+            "title": "Thanksgiving 4"
+        },
+        "thanksgiving5": {
+            "description": "We supplied the cheesiness.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/27/slides/thanksgiving5.JPG",
+                "width": null
+            },
+            "pathComponent": "thanksgiving5.JPG",
+            "title": "Thanksgiving 5"
+        },
+        "thanksgiving6": {
+            "description": "Lucie approves of Terry's wine selection.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/27/slides/thanksgiving6.JPG",
+                "width": null
+            },
+            "pathComponent": "thanksgiving6.JPG",
+            "title": "Thanksgiving 6"
+        },
+        "thanksgiving7": {
+            "description": "Milo showed so much interest in the Riesling that he got two sips, and LOVED it.  We regretted it:  he's a mean drunk.  He was in a foul mood the rest of the evening.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/27/slides/thanksgiving7.jpg",
+                "width": null
+            },
+            "pathComponent": "thanksgiving7.jpg",
+            "title": "Thanksgiving 7"
+        },
+        "thanksgiving8": {
+            "description": "Amanda, honey, the cranberries are superb.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/27/slides/thanksgiving8.JPG",
+                "width": null
+            },
+            "pathComponent": "thanksgiving8.JPG",
+            "title": "Thanksgiving 8"
+        },
+        "thanksgiving9": {
+            "description": "Felix had so much fun with Keenan he had one of the biggest meltdowns of his life when it was time to go.  \"I need to give Keenan another kiss\", he sobbed all the way to the car.\n<div class=\"para\">\nFelix really wants to have a sleepover at Keenan's house. Plans are being made.\n</div>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/27/slides/thanksgiving9.jpg",
+                "width": null
+            },
+            "pathComponent": "thanksgiving9.jpg",
+            "title": "Thanksgiving 9"
+        },
+        "thnks_leftovers": {
+            "description": "Best thing about Thanksgiving?  Leftover turkey!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/27/slides/thnks_leftovers.jpg",
+                "width": null
+            },
+            "pathComponent": "thnks_leftovers.jpg",
+            "title": "Thnks Leftovers"
+        },
+        "thnks_leftovers2": {
+            "description": "Mmmmmm.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/27/slides/thnks_leftovers2.jpg",
+                "width": null
+            },
+            "pathComponent": "thnks_leftovers2.jpg",
+            "title": "Thnks Leftovers 2"
+        }
+    },
+    "childrenOrder": [
+        "boubou",
+        "fire",
+        "maria1",
+        "maria2",
+        "owen",
+        "plumbing1",
+        "plumbing2",
+        "plumbing3",
+        "plumbing4",
+        "robot",
+        "sacramento",
+        "thanksgiving1",
+        "thanksgiving2",
+        "thanksgiving3",
+        "thanksgiving4",
+        "thanksgiving5",
+        "thanksgiving6",
+        "thanksgiving7",
+        "thanksgiving8",
+        "thanksgiving9",
+        "thnks_leftovers",
+        "thnks_leftovers2"
+    ],
+    "creationTimestamp": 1133078400,
+    "description": "Milo peed in the toilet for the very first time! While in the bathtub; he made it clear that he wanted to get out and sit on the toilet. Once there.. he peed! He was very proud of himself, and so were we.  Even Felix told Milo he was proud of him.\n\n<p>\nFelix is giving lots of thought to his birthday party attendee list.  He only wants his closest friends. He's also spending a lot of time daydreaming about birthday and Christmas presents.\n<p>\n\nMilo's word of the week:\n<ul class=\"bottom\">\n<li> <u>e'ci</u>: <i>merci</i>  French for thank you. The first time we heard him use \"e'ci\" was from the backseat of the car, to thank Felix for giving him a rice cake. So cute!\n</ul>",
+    "pathComponent": "2005/11-27",
+    "summary": "",
+    "thumbnailChild": "thnks_leftovers",
+    "title": "November 27"
+}

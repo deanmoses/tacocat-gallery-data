@@ -1,0 +1,166 @@
+{
+    "children": {
+        "1": {
+            "description": "The interior of Kauai is absurdly rugged.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/02/13/helicopter/slides/1.jpg",
+                "width": null
+            },
+            "pathComponent": "1.jpg",
+            "title": ""
+        },
+        "door": {
+            "description": "There's no doors.  Sometimes the helicopter was sideways with Dean hanging out over open space.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/02/13/helicopter/slides/door.jpg",
+                "width": null
+            },
+            "pathComponent": "door.jpg",
+            "title": "Door"
+        },
+        "hill": {
+            "description": "There are semi-permanent clouds over the mountains of Kauai.  The wind picks up tons of moisture in its journey across the Pacific and dumps it on the north slopes of the mountains, leaving the southern part of the island fairly dry.   The wettest spot on the planet, Mt. Wai'ale'ale, is here.  It's a volcano, and we flew deep inside its caldera.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/02/13/helicopter/slides/hill.jpg",
+                "width": null
+            },
+            "pathComponent": "hill.jpg",
+            "title": "Hill"
+        },
+        "jurassic": {
+            "description": "Because of the near-constant rain in the mountains, there are a tremendous number of waterfalls.  This particular one was in the film <i>Jurassic Park</i>.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/02/13/helicopter/slides/jurassic.jpg",
+                "width": null
+            },
+            "pathComponent": "jurassic.jpg",
+            "title": "Jurassic"
+        },
+        "na_pali1": {
+            "description": "The Na Pali coast.   This is part of the island that has no roads and no habitations.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/02/13/helicopter/slides/na_pali1.jpg",
+                "width": null
+            },
+            "pathComponent": "na_pali1.jpg",
+            "title": "Na Pali 1"
+        },
+        "na_pali2": {
+            "description": "You can see why they don't build roads on the Na Pali coast.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/02/13/helicopter/slides/na_pali2.jpg",
+                "width": null
+            },
+            "pathComponent": "na_pali2.jpg",
+            "title": "Na Pali 2"
+        },
+        "na_pali3": {
+            "description": "The only way to get to this beach is boat or helicopter.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/02/13/helicopter/slides/na_pali3.jpg",
+                "width": null
+            },
+            "pathComponent": "na_pali3.jpg",
+            "title": "Na Pali 3"
+        },
+        "reef": {
+            "description": "Tunnels reef, near Hanalei.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/02/13/helicopter/slides/reef.jpg",
+                "width": null
+            },
+            "pathComponent": "reef.jpg",
+            "title": "Reef"
+        },
+        "shore": {
+            "description": "Pretty.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/02/13/helicopter/slides/shore.jpg",
+                "width": null
+            },
+            "pathComponent": "shore.jpg",
+            "title": "Shore"
+        },
+        "waimea_canyon": {
+            "description": "Waimea Canyon is the largest canyon in the Pacific.  It's 10mi/16km long, 1mi/1.6km wide, and more than 3,500ft/1.07km deep.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/02/13/helicopter/slides/waimea_canyon.jpg",
+                "width": null
+            },
+            "pathComponent": "waimea_canyon.jpg",
+            "title": "Waimea Canyon"
+        },
+        "water": {
+            "description": "Deep blue sea.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/02/13/helicopter/slides/water.jpg",
+                "width": null
+            },
+            "pathComponent": "water.jpg",
+            "title": "Water"
+        },
+        "waterfall": {
+            "description": "Kauai has hundreds of these insane 3,000 feet (915m) waterfalls.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/02/13/helicopter/slides/waterfall.jpg",
+                "width": null
+            },
+            "pathComponent": "waterfall.jpg",
+            "title": "Waterfall"
+        },
+        "waterfall2": {
+            "description": "More waterfall.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/02/13/helicopter/slides/waterfall2.jpg",
+                "width": null
+            },
+            "pathComponent": "waterfall2.jpg",
+            "title": "Waterfall 2"
+        },
+        "waterfall3": {
+            "description": "Yet more waterfall.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/02/13/helicopter/slides/waterfall3.jpg",
+                "width": null
+            },
+            "pathComponent": "waterfall3.jpg",
+            "title": "Waterfall 3"
+        }
+    },
+    "childrenOrder": [
+        "1",
+        "door",
+        "hill",
+        "jurassic",
+        "na_pali1",
+        "na_pali2",
+        "na_pali3",
+        "reef",
+        "shore",
+        "waimea_canyon",
+        "water",
+        "waterfall",
+        "waterfall2",
+        "waterfall3"
+    ],
+    "creationTimestamp": 1108281600,
+    "description": "More pictures from Dean's helicopter trip over Kauai.\n\n<p>\nReturn to <a href=\"../index.html\">the rest of this week's pictures</a>.\n</p>",
+    "pathComponent": "2005/02-13/helicopter",
+    "summary": "",
+    "thumbnailChild": "water",
+    "title": "February 13"
+}

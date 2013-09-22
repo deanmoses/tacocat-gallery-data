@@ -1,0 +1,133 @@
+{
+    "children": {
+        "boldspot": {
+            "description": "Felix's hair is thinning, on the spot where his head rubs whatever he is lying on.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/03/04/images/boldspot.jpg",
+                "width": null
+            },
+            "pathComponent": "boldspot.jpg",
+            "title": "Boldspot"
+        },
+        "hand1": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/03/04/images/hand1.jpg",
+                "width": null
+            },
+            "pathComponent": "hand1.jpg",
+            "title": "Hand 1"
+        },
+        "hand2": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/03/04/images/hand2.jpg",
+                "width": null
+            },
+            "pathComponent": "hand2.jpg",
+            "title": "Hand 2"
+        },
+        "hand3": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/03/04/images/hand3.jpg",
+                "width": null
+            },
+            "pathComponent": "hand3.jpg",
+            "title": "Hand 3"
+        },
+        "knitting": {
+            "description": "When Felix comes to the knitting club, not a lot of knitting gets done (pictured: Jennifer and Laura)",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/03/04/images/knitting.jpg",
+                "width": null
+            },
+            "pathComponent": "knitting.jpg",
+            "title": "Knitting"
+        },
+        "mermaid-reunion1": {
+            "description": "Britt Fohrman invited in her home the models from her October 19, 2001 photoshoot.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/03/04/images/mermaid-reunion1.jpg",
+                "width": null
+            },
+            "pathComponent": "mermaid-reunion1.jpg",
+            "title": "Mermaid Reunion 1"
+        },
+        "mermaid-reunion2": {
+            "description": "Take a good look... now go see some selected photos from the <a href=\"/pix/2001/10/mermaid/\">Mermaid series</a>, and see if you can tell who is who.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/03/04/images/mermaid-reunion2.jpg",
+                "width": null
+            },
+            "pathComponent": "mermaid-reunion2.jpg",
+            "title": "Mermaid Reunion 2"
+        },
+        "mermaid-reunion3": {
+            "description": "Fellow Mermaid series alumnii Daniel, Felix, Amany, and Bruno.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/03/04/images/mermaid-reunion3.jpg",
+                "width": null
+            },
+            "pathComponent": "mermaid-reunion3.jpg",
+            "title": "Mermaid Reunion 3"
+        },
+        "oscar1": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/03/04/images/oscar1.jpg",
+                "width": null
+            },
+            "pathComponent": "oscar1.jpg",
+            "title": "Oscar 1"
+        },
+        "oscar2": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/03/04/images/oscar2.jpg",
+                "width": null
+            },
+            "pathComponent": "oscar2.jpg",
+            "title": "Oscar 2"
+        },
+        "sv650": {
+            "description": "Born to be wild",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/03/04/images/sv650.jpg",
+                "width": null
+            },
+            "pathComponent": "sv650.jpg",
+            "title": "Sv 650"
+        }
+    },
+    "childrenOrder": [
+        "boldspot",
+        "hand1",
+        "hand2",
+        "hand3",
+        "knitting",
+        "mermaid-reunion1",
+        "mermaid-reunion2",
+        "mermaid-reunion3",
+        "oscar1",
+        "oscar2",
+        "sv650"
+    ],
+    "creationTimestamp": 1015228800,
+    "description": "",
+    "pathComponent": "2002/03-04",
+    "summary": "Week 11",
+    "thumbnailChild": "knitting",
+    "title": "March 4"
+}

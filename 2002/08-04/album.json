@@ -1,0 +1,298 @@
+{
+    "children": {
+        "bath1": {
+            "description": "Felix has graduated from the baby basin to the big tub.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/bath1.jpg",
+                "width": null
+            },
+            "pathComponent": "bath1.jpg",
+            "title": "Bath 1"
+        },
+        "bath2": {
+            "description": "Felix fingernails get razor sharp.  Lucie cuts them after baths.  It's Felix's least favorite thing in the world.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/bath2.jpg",
+                "width": null
+            },
+            "pathComponent": "bath2.jpg",
+            "title": "Bath 2"
+        },
+        "breakfast": {
+            "description": "A good morning.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/breakfast.jpg",
+                "width": null
+            },
+            "pathComponent": "breakfast.jpg",
+            "title": "Breakfast"
+        },
+        "crib": {
+            "description": "This and last week, Felix figured out \n<ol>\n\t<li>How to get from lying to sitting.</li>\n\t<li>How to pull himself from sitting to standing.</li>\n</ol>\n\n<p>\nWe had just started to train him to put himself to sleep, but these new skills wrecked the program.  He can't fall asleep because he gets himself standing up.\n</p>\n\n<p>\nOur advice:  train those babies to put themselves to sleep well before they learn to sit themselves up!\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/crib.jpg",
+                "width": null
+            },
+            "pathComponent": "crib.jpg",
+            "title": "Crib"
+        },
+        "donovan1": {
+            "description": "Friend Donovan came for a visit.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/donovan1.jpg",
+                "width": null
+            },
+            "pathComponent": "donovan1.jpg",
+            "title": "Donovan 1"
+        },
+        "donovan2": {
+            "description": "Felix paid close attention to Donovan's crawling abilities.  Something must have stuck, because by the end of the week, Felix began to crawl.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/donovan2.jpg",
+                "width": null
+            },
+            "pathComponent": "donovan2.jpg",
+            "title": "Donovan 2"
+        },
+        "epicentric1": {
+            "description": "Felix on a bean bag in Dean's office.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/epicentric1.jpg",
+                "width": null
+            },
+            "pathComponent": "epicentric1.jpg",
+            "title": "Epicentric 1"
+        },
+        "epicentric2": {
+            "description": "Dean's company takes foosball seriously.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/epicentric2.jpg",
+                "width": null
+            },
+            "pathComponent": "epicentric2.jpg",
+            "title": "Epicentric 2"
+        },
+        "epicentric3": {
+            "description": "The latest of Dean's three (don't ask) foosball tables:  a two-person table from France.  You can tell it's French by the four ashtrays.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/epicentric3.jpg",
+                "width": null
+            },
+            "pathComponent": "epicentric3.jpg",
+            "title": "Epicentric 3"
+        },
+        "epicentric4": {
+            "description": "Edith had a hard time letting go.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/epicentric4.jpg",
+                "width": null
+            },
+            "pathComponent": "epicentric4.jpg",
+            "title": "Epicentric 4"
+        },
+        "mirror1": {
+            "description": "Felix likes mirrors.  Especially ones that contain him.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/mirror1.jpg",
+                "width": null
+            },
+            "pathComponent": "mirror1.jpg",
+            "title": "Mirror 1"
+        },
+        "mirror2": {
+            "description": "Felix likes himself.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/mirror2.jpg",
+                "width": null
+            },
+            "pathComponent": "mirror2.jpg",
+            "title": "Mirror 2"
+        },
+        "piggyback": {
+            "description": "Felix actually fell asleep atop Dean's head this week.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/piggyback.jpg",
+                "width": null
+            },
+            "pathComponent": "piggyback.jpg",
+            "title": "Piggyback"
+        },
+        "pool1": {
+            "description": "Lucie and Felix go to swim class every week.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/pool1.jpg",
+                "width": null
+            },
+            "pathComponent": "pool1.jpg",
+            "title": "Pool 1"
+        },
+        "pool2": {
+            "description": "They sing, splash, and do the hokey pokey.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/pool2.jpg",
+                "width": null
+            },
+            "pathComponent": "pool2.jpg",
+            "title": "Pool 2"
+        },
+        "pool3": {
+            "description": "Felix zonks out exhausted after the one-hour lesson.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/pool3.jpg",
+                "width": null
+            },
+            "pathComponent": "pool3.jpg",
+            "title": "Pool 3"
+        },
+        "self-powered1": {
+            "description": "Sunday morning, Felix was on his hands and knees.  Motionless.  He was clearly thinking things over.  A look came over his face.  He started moving his *hands*.  The missing ingredient!  He became a self-propelled individual.\n\n<p>\nCrawling so far is comically slow.  He hasn't insisted on practicing (like he insists on practicing standing).  It hasn't occurred to him yet that he should shelve the attempting-to-walk thing and concentrate on crawling for a while.  But we're sure by next week we'll have a speed demon on our hands.\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/self-powered1.jpg",
+                "width": null
+            },
+            "pathComponent": "self-powered1.jpg",
+            "title": "Self Powered 1"
+        },
+        "self-powered2": {
+            "description": "His front and rear don't always agree on the destination.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/self-powered2.jpg",
+                "width": null
+            },
+            "pathComponent": "self-powered2.jpg",
+            "title": "Self Powered 2"
+        },
+        "self-powered3": {
+            "description": "He crawls best in shorts.  Long pants reduce traction.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/self-powered3.jpg",
+                "width": null
+            },
+            "pathComponent": "self-powered3.jpg",
+            "title": "Self Powered 3"
+        },
+        "standing": {
+            "description": "Felix can stand unassisted for a few seconds at a time.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/standing.jpg",
+                "width": null
+            },
+            "pathComponent": "standing.jpg",
+            "title": "Standing"
+        },
+        "teething": {
+            "description": "Felix's two top front teeth are coming in.  He makes funny faces and weird sucking sounds.  His favorite teething tool is Dean's neck, but he'll accept plastic substitutes.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/teething.jpg",
+                "width": null
+            },
+            "pathComponent": "teething.jpg",
+            "title": "Teething"
+        },
+        "terry1": {
+            "description": "Barbeque at Terry's.  Shown here:  Felix, Dean, Amanda, Keenan, and Miles.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/terry1.jpg",
+                "width": null
+            },
+            "pathComponent": "terry1.jpg",
+            "title": "Terry 1"
+        },
+        "terry2": {
+            "description": "Felix and Amanda.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/terry2.jpg",
+                "width": null
+            },
+            "pathComponent": "terry2.jpg",
+            "title": "Terry 2"
+        },
+        "terry3": {
+            "description": "Keenan and Felix.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/terry3.jpg",
+                "width": null
+            },
+            "pathComponent": "terry3.jpg",
+            "title": "Terry 3"
+        },
+        "terry4": {
+            "description": "Miles and Amanda.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/terry4.jpg",
+                "width": null
+            },
+            "pathComponent": "terry4.jpg",
+            "title": "Terry 4"
+        },
+        "terry5": {
+            "description": "Any hat on a sunny day.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/04/images/terry5.jpg",
+                "width": null
+            },
+            "pathComponent": "terry5.jpg",
+            "title": "Terry 5"
+        }
+    },
+    "childrenOrder": [
+        "bath1",
+        "bath2",
+        "breakfast",
+        "crib",
+        "donovan1",
+        "donovan2",
+        "epicentric1",
+        "epicentric2",
+        "epicentric3",
+        "epicentric4",
+        "mirror1",
+        "mirror2",
+        "piggyback",
+        "pool1",
+        "pool2",
+        "pool3",
+        "self-powered1",
+        "self-powered2",
+        "self-powered3",
+        "standing",
+        "teething",
+        "terry1",
+        "terry2",
+        "terry3",
+        "terry4",
+        "terry5"
+    ],
+    "creationTimestamp": 1028444400,
+    "description": "<P>\n<P>\nFelix is getting more and more of a personality.  His looks carry a lot of meaning now -- it's possible to have little conversations with him just using eye contact.  He's getting more and more easygoing and  smiley, though he can still be very serious at times, especially in new environments.\n\n<p>\nAt the end of the week, he began crawling!\n</p>\n\n<p>",
+    "pathComponent": "2002/08-04",
+    "summary": "",
+    "thumbnailChild": "crib",
+    "title": "August 4"
+}

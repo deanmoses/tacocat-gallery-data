@@ -1,0 +1,287 @@
+{
+    "children": {
+        "evan1": {
+            "description": "Evan stayed with us for an evening. Felix went out of his way to show his guest a good time.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/02/images/evan1.jpg",
+                "width": null
+            },
+            "pathComponent": "evan1.jpg",
+            "title": "Evan 1"
+        },
+        "evan2": {
+            "description": "Both Felix and Evan love trains, trucks and books about them.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/02/images/evan2.jpg",
+                "width": null
+            },
+            "pathComponent": "evan2.jpg",
+            "title": "Evan 2"
+        },
+        "evan3": {
+            "description": "Look, Maisy the mouse (a.k.a. Mimi la sourie) is in a plane!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/02/images/evan3.jpg",
+                "width": null
+            },
+            "pathComponent": "evan3.jpg",
+            "title": "Evan 3"
+        },
+        "evan4": {
+            "description": "Evan calls it a \"fire'gine\", Felix calls it a \"pompier\"... whatever the name, fire engines are hot stuff around here.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/02/images/evan4.jpg",
+                "width": null
+            },
+            "pathComponent": "evan4.jpg",
+            "title": "Evan 4"
+        },
+        "halloween1": {
+            "description": "Felix didn't show much interest in the picking and the carving of the jack o' lantern, but he is very intrigued by the end product.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/02/images/halloween1.jpg",
+                "width": null
+            },
+            "pathComponent": "halloween1.jpg",
+            "title": "Halloween 1"
+        },
+        "halloween2": {
+            "description": "This year, Felix is an astronaut.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/02/images/halloween2.jpg",
+                "width": null
+            },
+            "pathComponent": "halloween2.jpg",
+            "title": "Halloween 2"
+        },
+        "halloween3": {
+            "description": "Dean's a legal alien, just like Lucie.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/02/images/halloween3.jpg",
+                "width": null
+            },
+            "pathComponent": "halloween3.jpg",
+            "title": "Halloween 3"
+        },
+        "halloween4": {
+            "description": "There's even a removeable anti-gravity pack.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/02/images/halloween4.jpg",
+                "width": null
+            },
+            "pathComponent": "halloween4.jpg",
+            "title": "Halloween 4"
+        },
+        "halloween5": {
+            "description": "The truth is out there.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/02/images/halloween5.jpg",
+                "width": null
+            },
+            "pathComponent": "halloween5.jpg",
+            "title": "Halloween 5"
+        },
+        "halloween6": {
+            "description": "Is the oxygen flowing? Let's check.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/02/images/halloween6.jpg",
+                "width": null
+            },
+            "pathComponent": "halloween6.jpg",
+            "title": "Halloween 6"
+        },
+        "halloween7": {
+            "description": "Space men always double check their equipment.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/02/images/halloween7.jpg",
+                "width": null
+            },
+            "pathComponent": "halloween7.jpg",
+            "title": "Halloween 7"
+        },
+        "halloween8": {
+            "description": "Halloween morning, Felix licked his first lollipop and earned his first money.\n<p>\nLucie and Astronaut Felix went to the corner store to get a pumpkin bucket, in preparation for trick or treating in the evening.  On the way home, <i>two</i> passers-by put candy in his bucket, and a homeless man insisted on giving him a quarter.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/02/images/halloween8.jpg",
+                "width": null
+            },
+            "pathComponent": "halloween8.jpg",
+            "title": "Halloween 8"
+        },
+        "richmond1": {
+            "description": "On Halloween morning, the Richmond recreation center was a quite a scene. Astronaut Felix did  feel like he had landed on a strange planet.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/02/images/richmond1.jpg",
+                "width": null
+            },
+            "pathComponent": "richmond1.jpg",
+            "title": "Richmond 1"
+        },
+        "richmond2": {
+            "description": "Almost every kid wore a costume. The baby giraffe was particularly cute.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/02/images/richmond2.jpg",
+                "width": null
+            },
+            "pathComponent": "richmond2.jpg",
+            "title": "Richmond 2"
+        },
+        "richmond3": {
+            "description": "Another favorite: a Spiderman with impressive muscles.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/02/images/richmond3.jpg",
+                "width": null
+            },
+            "pathComponent": "richmond3.jpg",
+            "title": "Richmond 3"
+        },
+        "richmond4": {
+            "description": "Astronaut Felix and fellow space child Buzz Lightyear meet up at Mars Station.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/02/images/richmond4.jpg",
+                "width": null
+            },
+            "pathComponent": "richmond4.jpg",
+            "title": "Richmond 4"
+        },
+        "trickortreat1": {
+            "description": "In the evening, the aliens and the astronaut went trick or treating with the Joyces.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/02/images/trickortreat1.jpg",
+                "width": null
+            },
+            "pathComponent": "trickortreat1.jpg",
+            "title": "Trickortreat 1"
+        },
+        "trickortreat2": {
+            "description": "Keenan put together an amazing Star Trek Borg costume out of old computer parts, notebook spirals and other scraps that he had collected over the last 3 months. Many a candy-giver gave him an extra treat in appreciation.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/02/images/trickortreat2.jpg",
+                "width": null
+            },
+            "pathComponent": "trickortreat2.jpg",
+            "title": "Trickortreat 2"
+        },
+        "trickortreat3": {
+            "description": "Amanda (pink flamingo), Zoe (society lady) and Lucy (jelly fish).\n<p>\nNo Halloween expedition is complete without a gaggle of girls high on the mere anticipation of the end-of-night sugar rush.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/02/images/trickortreat3.jpg",
+                "width": null
+            },
+            "pathComponent": "trickortreat3.jpg",
+            "title": "Trickortreat 3"
+        },
+        "trickortreat4": {
+            "description": "Felix really got into trick or treating. He went to every door, picked a candy, said \"thanks\", then \"bye bye\". We even let him have a couple of lollipops, but the bulk of the booty was appropriated by his alien overlords.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/02/images/trickortreat4.jpg",
+                "width": null
+            },
+            "pathComponent": "trickortreat4.jpg",
+            "title": "Trickortreat 4"
+        },
+        "trickortreat5": {
+            "description": "Oh. My. <i>God!</i>  &nbsp; Eleven pounds of candy! And that's just Amanda's!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/02/images/trickortreat5.jpg",
+                "width": null
+            },
+            "pathComponent": "trickortreat5.jpg",
+            "title": "Trickortreat 5"
+        },
+        "trickortreat6": {
+            "description": "<u>Step one</u>: gather candy.\n<br /><u>Step two</u>:  weigh candy.\n<br /><u>Step three</u>:  carefully organize it into candy species.\n<p>\nPresumably, there also comes a time when you eat the candy, but you have to savor each step.\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/02/images/trickortreat6.jpg",
+                "width": null
+            },
+            "pathComponent": "trickortreat6.jpg",
+            "title": "Trickortreat 6"
+        },
+        "winter1": {
+            "description": "The weather's been weird this week.  Monday saw record-breaking heat.  Wednesday was autumn.  Friday, it snowed just a little.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/02/images/winter1.jpg",
+                "width": null
+            },
+            "pathComponent": "winter1.jpg",
+            "title": "Winter 1"
+        },
+        "winter2": {
+            "description": "Dean and Felix enjoy the bracing air at the local coffee house.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/02/images/winter2.jpg",
+                "width": null
+            },
+            "pathComponent": "winter2.jpg",
+            "title": "Winter 2"
+        },
+        "winter3": {
+            "description": "Dean and Felix often give each other the giggles.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/02/images/winter3.jpg",
+                "width": null
+            },
+            "pathComponent": "winter3.jpg",
+            "title": "Winter 3"
+        }
+    },
+    "childrenOrder": [
+        "evan1",
+        "evan2",
+        "evan3",
+        "evan4",
+        "halloween1",
+        "halloween2",
+        "halloween3",
+        "halloween4",
+        "halloween5",
+        "halloween6",
+        "halloween7",
+        "halloween8",
+        "richmond1",
+        "richmond2",
+        "richmond3",
+        "richmond4",
+        "trickortreat1",
+        "trickortreat2",
+        "trickortreat3",
+        "trickortreat4",
+        "trickortreat5",
+        "trickortreat6",
+        "winter1",
+        "winter2",
+        "winter3"
+    ],
+    "creationTimestamp": 1067760000,
+    "description": "<img src=\"img/happy_halloween.jpg\" alt=\"Happy Halloween!\"/> <br />\nWe've had a great week.  Felix has been adorable.   And Friday was our favorite American holiday, Halloween.",
+    "pathComponent": "2003/11-02",
+    "summary": "",
+    "thumbnailChild": "richmond1",
+    "title": "November 2"
+}

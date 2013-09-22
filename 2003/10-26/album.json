@@ -1,0 +1,111 @@
+{
+    "children": {
+        "halloween": {
+            "description": "Next weekend is Halloween.  What could Lucie and Felix possibly be sewing?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/26/images/halloween.jpg",
+                "width": null
+            },
+            "pathComponent": "halloween.jpg",
+            "title": "Halloween"
+        },
+        "imagination1": {
+            "description": "Felix LOVES legos now. He doesn't quite have the fine motor skills to do much stacking of his own yet, but he's got what it takes to consider that a few blocks stuck together make a very convincing plane.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/26/images/imagination1.jpg",
+                "width": null
+            },
+            "pathComponent": "imagination1.jpg",
+            "title": "Imagination 1"
+        },
+        "imagination2": {
+            "description": "Felix loves to pretend feed his animals:  this hippo's in a high chair eating cereal.    Earlier this week we found five grapes in Cookie Monster's mouth.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/26/images/imagination2.jpg",
+                "width": null
+            },
+            "pathComponent": "imagination2.jpg",
+            "title": "Imagination 2"
+        },
+        "snug": {
+            "description": "Felix likes to snuggle inside our clothes.  Here he's in Lucie's sweater.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/26/images/snug.jpg",
+                "width": null
+            },
+            "pathComponent": "snug.jpg",
+            "title": "Snug"
+        },
+        "sunday1": {
+            "description": "The weather has been roasting hot.  To the beach!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/26/images/sunday1.jpg",
+                "width": null
+            },
+            "pathComponent": "sunday1.jpg",
+            "title": "Sunday 1"
+        },
+        "sunday2": {
+            "description": "Dean, Felix, a hole, and some naked kid.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/26/images/sunday2.jpg",
+                "width": null
+            },
+            "pathComponent": "sunday2.jpg",
+            "title": "Sunday 2"
+        },
+        "sunday3": {
+            "description": "Felix discovers the joy of running through puddles.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/26/images/sunday3.jpg",
+                "width": null
+            },
+            "pathComponent": "sunday3.jpg",
+            "title": "Sunday 3"
+        },
+        "sunday4": {
+            "description": "Fascinated by dogs fetching.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/26/images/sunday4.jpg",
+                "width": null
+            },
+            "pathComponent": "sunday4.jpg",
+            "title": "Sunday 4"
+        },
+        "sunday5": {
+            "description": "Yes, I know I'm cute.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/26/images/sunday5.jpg",
+                "width": null
+            },
+            "pathComponent": "sunday5.jpg",
+            "title": "Sunday 5"
+        }
+    },
+    "childrenOrder": [
+        "halloween",
+        "imagination1",
+        "imagination2",
+        "snug",
+        "sunday1",
+        "sunday2",
+        "sunday3",
+        "sunday4",
+        "sunday5"
+    ],
+    "creationTimestamp": 1067151600,
+    "description": "Felix's imagination is working flawlessly.   Sometimes it's hard to figure out whether he wants a drink of <i>real</i> water or <i>pretend</i> water.\n\n<p>\nHis comprehension has gotten good enough that we can read a fairly long story, like a Babar story book, and he'll sit still for it.  We think he gets most of it.\n</p>\n\n<p>\nFelix has never been one to imitate, but now he and Dean play an imitation game.  Dean will say \"ti ti\" (or some other simple sound) and Felix will repeat it.  Then Dean will say \"ta ta\" (changing either the consonant or vowel from the previous sound).   Felix will repeat that, and so on.   Simple but fun.  When Dean tries to mix up the first and second sound, like \"ta ti\", Felix gets it wildly wrong... so we're working up slowly to that game.\n</p>",
+    "pathComponent": "2003/10-26",
+    "summary": "",
+    "thumbnailChild": "snug",
+    "title": "October 26"
+}

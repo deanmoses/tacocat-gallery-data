@@ -1,0 +1,188 @@
+{
+    "children": {
+        "bath1": {
+            "description": "Milo's first bath at home.  Felix helps out at every step, like here where he pours the shampoo.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/30/images/bath1.jpg",
+                "width": null
+            },
+            "pathComponent": "bath1.jpg",
+            "title": "Bath 1"
+        },
+        "bath2": {
+            "description": "Scrub that silky baby hair!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/30/images/bath2.jpg",
+                "width": null
+            },
+            "pathComponent": "bath2.jpg",
+            "title": "Bath 2"
+        },
+        "bath3": {
+            "description": "It appears that Milo, like Felix, loves baths.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/30/images/bath3.jpg",
+                "width": null
+            },
+            "pathComponent": "bath3.jpg",
+            "title": "Bath 3"
+        },
+        "bath4": {
+            "description": "Felix and Dean apply the baby lotion.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/30/images/bath4.jpg",
+                "width": null
+            },
+            "pathComponent": "bath4.jpg",
+            "title": "Bath 4"
+        },
+        "bath5": {
+            "description": "<i>Nothing</i> smells better than a clean baby.  <i>Nothing</i>.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/30/images/bath5.jpg",
+                "width": null
+            },
+            "pathComponent": "bath5.jpg",
+            "title": "Bath 5"
+        },
+        "bath6": {
+            "description": "Biiiig yawn.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/30/images/bath6.jpg",
+                "width": null
+            },
+            "pathComponent": "bath6.jpg",
+            "title": "Bath 6"
+        },
+        "bath7": {
+            "description": "Hi folks!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/30/images/bath7.jpg",
+                "width": null
+            },
+            "pathComponent": "bath7.jpg",
+            "title": "Bath 7"
+        },
+        "choochoo": {
+            "description": "Felix's play is getting more physically expressive.  Here he's a choo-choo, and he does an admirable job of doing slow-motion as he pulls into the station.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/30/images/choochoo.jpg",
+                "width": null
+            },
+            "pathComponent": "choochoo.jpg",
+            "title": "Choochoo"
+        },
+        "mobile": {
+            "description": "Milo likes his mobile.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/30/images/mobile.jpg",
+                "width": null
+            },
+            "pathComponent": "mobile.jpg",
+            "title": "Mobile"
+        },
+        "nude1": {
+            "description": "Naked baby.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/30/images/nude1.jpg",
+                "width": null
+            },
+            "pathComponent": "nude1.jpg",
+            "title": "Nude 1"
+        },
+        "nude2": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/30/images/nude2.jpg",
+                "width": null
+            },
+            "pathComponent": "nude2.jpg",
+            "title": "Nude 2"
+        },
+        "nude3": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/30/images/nude3.jpg",
+                "width": null
+            },
+            "pathComponent": "nude3.jpg",
+            "title": "Nude 3"
+        },
+        "nude4": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/30/images/nude4.jpg",
+                "width": null
+            },
+            "pathComponent": "nude4.jpg",
+            "title": "Nude 4"
+        },
+        "nude5": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/30/images/nude5.jpg",
+                "width": null
+            },
+            "pathComponent": "nude5.jpg",
+            "title": "Nude 5"
+        },
+        "nude6": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/30/images/nude6.jpg",
+                "width": null
+            },
+            "pathComponent": "nude6.jpg",
+            "title": "Nude 6"
+        },
+        "nude7": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/30/images/nude7.jpg",
+                "width": null
+            },
+            "pathComponent": "nude7.jpg",
+            "title": "Nude 7"
+        }
+    },
+    "childrenOrder": [
+        "bath1",
+        "bath2",
+        "bath3",
+        "bath4",
+        "bath5",
+        "bath6",
+        "bath7",
+        "choochoo",
+        "mobile",
+        "nude1",
+        "nude2",
+        "nude3",
+        "nude4",
+        "nude5",
+        "nude6",
+        "nude7"
+    ],
+    "creationTimestamp": 1091170800,
+    "description": "Days 6 & 7 of Milo.  He continues to eat and sleep great.  He's quite alert for long stretches during the day, and pretty consistently fussy around 9 to 10pm, give or take an hour or two.  He's losing the newborn \"Winston Churchill\" complexion, which means this update has a bevy of closeups of the lil' darlin'.\n\n<p>\nFelix is starting to learn his letters.  Nana, Lucie and Dean have all been working on the word \"Felix\".  We write it on paper, with chalk on the sidewalk, even with pasta.  He knows at least the letter \"F\", and can point it out.  We're also working on \"stop\" -- he knows when to say the \"O\" when Nana spells it out loud.\n</p>",
+    "pathComponent": "2004/07-30",
+    "summary": "",
+    "thumbnailChild": "choochoo",
+    "title": "July 30"
+}

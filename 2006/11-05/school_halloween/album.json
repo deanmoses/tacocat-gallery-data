@@ -1,0 +1,89 @@
+{
+    "children": {
+        "daniele": {
+            "description": "Daniele.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/05/school_halloween/slides/daniele.jpg",
+                "width": null
+            },
+            "pathComponent": "daniele.jpg",
+            "title": "Daniele"
+        },
+        "emmett": {
+            "description": "Emmett was also Dash! In the background you can see Isaac, another Mr. Incredible. The bad guys stayed away from New School, let me tell you.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/05/school_halloween/slides/emmett.jpg",
+                "width": null
+            },
+            "pathComponent": "emmett.jpg",
+            "title": "Emmett"
+        },
+        "henry": {
+            "description": "Henry, Bennett, Zara.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/05/school_halloween/slides/henry.jpg",
+                "width": null
+            },
+            "pathComponent": "henry.jpg",
+            "title": "Henry"
+        },
+        "jeannie": {
+            "description": "Jeannie is Felix's main teacher.  Her hair is always purple.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/05/school_halloween/slides/jeannie.jpg",
+                "width": null
+            },
+            "pathComponent": "jeannie.jpg",
+            "title": "Jeannie"
+        },
+        "kahlil": {
+            "description": "Kahlil.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/05/school_halloween/slides/kahlil.jpg",
+                "width": null
+            },
+            "pathComponent": "kahlil.jpg",
+            "title": "Kahlil"
+        },
+        "karen": {
+            "description": "Karen was Felix's teacher last year.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/05/school_halloween/slides/karen.jpg",
+                "width": null
+            },
+            "pathComponent": "karen.jpg",
+            "title": "Karen"
+        },
+        "torin": {
+            "description": "Torin.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/05/school_halloween/slides/torin.jpg",
+                "width": null
+            },
+            "pathComponent": "torin.jpg",
+            "title": "Torin"
+        }
+    },
+    "childrenOrder": [
+        "daniele",
+        "emmett",
+        "henry",
+        "jeannie",
+        "kahlil",
+        "karen",
+        "torin"
+    ],
+    "creationTimestamp": 1162713600,
+    "description": "Costumes are <em>de rigeur</em> at school on Halloween day.\n\n<p class=\"para\">\n<a href=\"../index.html\">Return to the main November 5th page</a>.\n</p>",
+    "pathComponent": "2006/11-05/school_halloween",
+    "summary": "",
+    "thumbnailChild": "jeannie",
+    "title": "November 5"
+}

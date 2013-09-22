@@ -1,0 +1,122 @@
+{
+    "children": {
+        "adorable": {
+            "description": "Milo charms everyone he meets with his adorable fabulous almost-twoness.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/19/slides/adorable.jpg",
+                "width": null
+            },
+            "pathComponent": "adorable.jpg",
+            "title": "Adorable"
+        },
+        "adventureplayground1": {
+            "description": "We went to Adventure Playground.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/19/slides/adventureplayground1.jpg",
+                "width": null
+            },
+            "pathComponent": "adventureplayground1.jpg",
+            "title": "Adventureplayground 1"
+        },
+        "adventureplayground2": {
+            "description": "Evan came with us, all the way from San Francisco. He and Felix are still very good friends.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/19/slides/adventureplayground2.jpg",
+                "width": null
+            },
+            "pathComponent": "adventureplayground2.jpg",
+            "title": "Adventureplayground 2"
+        },
+        "bike": {
+            "description": "Felix hasn't worked up the courage to ride his new bike. He says it goes too fast. Whenever there is slightest downhill slope, he steps down and pushes it.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/19/slides/bike.jpg",
+                "width": null
+            },
+            "pathComponent": "bike.jpg",
+            "title": "Bike"
+        },
+        "jum1": {
+            "description": "Yes, we confess, we are permissive parents who let their children jump on the furniture.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/19/slides/jum1.jpg",
+                "width": null
+            },
+            "pathComponent": "jum1.jpg",
+            "title": "Jum 1"
+        },
+        "jump2": {
+            "description": "How could you refuse such a pleasure to someone who enjoys it so much?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/19/slides/jump2.jpg",
+                "width": null
+            },
+            "pathComponent": "jump2.jpg",
+            "title": "Jump 2"
+        },
+        "karwash": {
+            "description": "New game for those warm afternoons: car wash! Our garden truck has never been cleaner.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/19/slides/karwash.jpg",
+                "width": null
+            },
+            "pathComponent": "karwash.jpg",
+            "title": "Karwash"
+        },
+        "rockets1": {
+            "description": "Another favorite garden activity: launching nerf rockets.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/19/slides/rockets1.jpg",
+                "width": null
+            },
+            "pathComponent": "rockets1.jpg",
+            "title": "Rockets 1"
+        },
+        "rockets2": {
+            "description": "Wow! Look how far up this one is going!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/19/slides/rockets2.jpg",
+                "width": null
+            },
+            "pathComponent": "rockets2.jpg",
+            "title": "Rockets 2"
+        },
+        "rockets3": {
+            "description": "Yes! Over the fence and on the sidewalk!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/19/slides/rockets3.jpg",
+                "width": null
+            },
+            "pathComponent": "rockets3.jpg",
+            "title": "Rockets 3"
+        }
+    },
+    "childrenOrder": [
+        "adorable",
+        "adventureplayground1",
+        "adventureplayground2",
+        "bike",
+        "jum1",
+        "jump2",
+        "karwash",
+        "rockets1",
+        "rockets2",
+        "rockets3"
+    ],
+    "creationTimestamp": 1150700400,
+    "description": "Milo's potty training continues full throttle. He spent most of the weekend at home, pantsless with potties strategically placed around the premises.  We had no accidents! We don't even need to remind him anymore. He knows when he needs to go and gets there pronto. Also, he really wants to clean up after himself: he empties the potty in the toilet, climbs a stool to the sink, and rinses off the potty, sort of. This process is often a bit messy but we really appreciate the sentiment. \n<p class=\"para\">\nToday, Monday, marks the start of the summer session at Felix's school. Felix is enrolled in the swim program. He goes to the pool every day for 2 weeks, then 2 weeks off, then 2 weeks on, etc, for a total of 6 weeks. He was very anxious about his first day -- he had a meltdown when Lucie dropped him off, and we were worried that he wouldn't give it a chance.  But, in fact, he loved it!  All his best friends go. Felix proudly gave us demonstrations of the back stroke, front stroke and side stroke in the bathtub this evening.  We're so proud of him!\n</p>",
+    "pathComponent": "2006/06-19",
+    "summary": "",
+    "thumbnailChild": "rockets1",
+    "title": "June 19"
+}

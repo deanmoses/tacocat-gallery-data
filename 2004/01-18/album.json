@@ -1,0 +1,45 @@
+{
+    "children": {
+        "stroller1": {
+            "description": "Felix took advantage of the warmer weather to take Nounours for a stroller ride. No other stuffed animal is allowed in the stroller. Nounours is a very special bear.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/01/18/images/stroller1.jpg",
+                "width": null
+            },
+            "pathComponent": "stroller1.jpg",
+            "title": "Stroller 1"
+        },
+        "stroller2": {
+            "description": "On and on he goes. He was very proud, waving to people, and keeping a good pace. We made it almost all the way to the Duboce Playground, a good 15 minutes walk.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/01/18/images/stroller2.jpg",
+                "width": null
+            },
+            "pathComponent": "stroller2.jpg",
+            "title": "Stroller 2"
+        },
+        "stroller3": {
+            "description": "The last hill to the playground was a little too much, and Felix let the back-up crew take over.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/01/18/images/stroller3.jpg",
+                "width": null
+            },
+            "pathComponent": "stroller3.jpg",
+            "title": "Stroller 3"
+        }
+    },
+    "childrenOrder": [
+        "stroller1",
+        "stroller2",
+        "stroller3"
+    ],
+    "creationTimestamp": 1074412800,
+    "description": "</TD>\n</TR>\n</TABLE>\n<P>\n<P>\nBig boy stuff this week. The very last molar came in... teething pains are behind us, yeah! Also, Felix pooped in the potty for the first time. He was so excited, we had to call Dean to tell him about it. Felix left a voicemail saying \"Poopy! Over there!\" (pointing at the potty).\n\n<p>\nFelix is definitely very keen on making us proud. For example, if he doesn't feel like brushing his teeth, telling him that it would make Papa proud is enough to make him cooperate. Afterward, he'll run to Dean to gather his praise.\n</p>\n\n<p>\nA conversation between Lucie and Felix-the-praise-hungry-translator:\n<br>[driving home from the swimming pool]\n<br> \"- Quand on sera &agrave; la maison, dis &agrave; papa que tu as mis la t&ecirc;te sous l'eau. (When we get home, tell Dad you put your head under water)\n<br> - [very excited] Yeah!!!\n<br> - Qu'est-ce que tu vas dire a Papa? (What are you going to tell Dad?)\n<br> - Papa! Head water! [ducking motion]\"\n<br> As soon as we got home, he rushed to Dean to tell him about his feat; and reminded us about it several more times that evening.",
+    "pathComponent": "2004/01-18",
+    "summary": "",
+    "thumbnailChild": "stroller2",
+    "title": "January 18"
+}

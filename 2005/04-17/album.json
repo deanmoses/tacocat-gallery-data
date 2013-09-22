@@ -1,0 +1,78 @@
+{
+    "children": {
+        "bike1": {
+            "description": "Move over, tricycle!  The sheriff got a new horse.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/04/17/slides/bike1.JPG",
+                "width": null
+            },
+            "pathComponent": "bike1.JPG",
+            "title": "Bike 1"
+        },
+        "bike2": {
+            "description": "It's the coolest bike ever.   Wherever we go, adults compliment it and kids covet it.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/04/17/slides/bike2.JPG",
+                "width": null
+            },
+            "pathComponent": "bike2.JPG",
+            "title": "Bike 2"
+        },
+        "bike3": {
+            "description": "Felix asked how his tricycle felt about the new bike.   We reckoned it felt pretty sad, just like Woody was sad when he thought Buzz had become Andy's favorite toy.  He considered it a moment, then said, \"My old bike is old.\"  Life's a jungle.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/04/17/slides/bike3.jpg",
+                "width": null
+            },
+            "pathComponent": "bike3.jpg",
+            "title": "Bike 3"
+        },
+        "landscaping": {
+            "description": "We're really happy with how the path's turning out.  It reminds us of the yellow brick road in the <i>Wizard of Oz</i>.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/04/17/slides/landscaping.jpg",
+                "width": null
+            },
+            "pathComponent": "landscaping.jpg",
+            "title": "Landscaping"
+        },
+        "milo1": {
+            "description": "Milo's becoming less Mom-focused.  Dean's now a perfectly acceptable second best.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/04/17/slides/milo1.jpg",
+                "width": null
+            },
+            "pathComponent": "milo1.jpg",
+            "title": "Milo 1"
+        },
+        "milo2": {
+            "description": "He even enjoys a little horse play.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/04/17/slides/milo2.jpg",
+                "width": null
+            },
+            "pathComponent": "milo2.jpg",
+            "title": "Milo 2"
+        }
+    },
+    "childrenOrder": [
+        "bike1",
+        "bike2",
+        "bike3",
+        "landscaping",
+        "milo1",
+        "milo2"
+    ],
+    "creationTimestamp": 1113721200,
+    "description": "Lucie's been interviewing nannies this week.  Milo totally understands what's going on, and makes it immediately clear whether he likes a candidate or not.  With one he starting screeching in panic the moment she walked in.   His favorite was also the one Lucie liked the most -- we think he may have felt she was a friend, not a nanny.   Nothing's settled yet, but we have some choices we're happy with.\n\n<p>\nFelix watched <i>Mary Poppins</i> recently.  When we talk about nannies, he keeps asking when the woman with the umbrella is coming.\n</p>",
+    "pathComponent": "2005/04-17",
+    "summary": "",
+    "thumbnailChild": "milo2",
+    "title": "April 17"
+}

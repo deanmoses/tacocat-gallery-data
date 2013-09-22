@@ -1,0 +1,243 @@
+{
+    "children": {
+        "a_teaparty": {
+            "description": "Felix, Nana, Milo and Baby Dog enjoy a spot of afternoon tea.\n<p>\nDo please pass the marshmallows, dear.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/05/15/slides/a_teaparty.jpg",
+                "width": null
+            },
+            "pathComponent": "a_teaparty.jpg",
+            "title": "A Teaparty"
+        },
+        "breakfast": {
+            "description": "Breakfasts are challenging.  Though the odds are against us, we attempt to read the newspaper -- or at least scan the headlines.  Felix nags us to read him the comics;  Milo is literally jumping out of his seat.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/05/15/slides/breakfast.jpg",
+                "width": null
+            },
+            "pathComponent": "breakfast.jpg",
+            "title": "Breakfast"
+        },
+        "breakfast2": {
+            "description": "Not all Mosii are natural early risers.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/05/15/slides/breakfast2.jpg",
+                "width": null
+            },
+            "pathComponent": "breakfast2.jpg",
+            "title": "Breakfast 2"
+        },
+        "forrest": {
+            "description": "Forrest came for a playdate.  He approved of our toy selection and of our little boy bench.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/05/15/slides/forrest.jpg",
+                "width": null
+            },
+            "pathComponent": "forrest.jpg",
+            "title": "Forrest"
+        },
+        "leyla1": {
+            "description": "Leyla had a birthday.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/05/15/slides/leyla1.jpg",
+                "width": null
+            },
+            "pathComponent": "leyla1.jpg",
+            "title": "Leyla 1"
+        },
+        "leyla2": {
+            "description": "What's a birthday without balloons?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/05/15/slides/leyla2.jpg",
+                "width": null
+            },
+            "pathComponent": "leyla2.jpg",
+            "title": "Leyla 2"
+        },
+        "leyla3": {
+            "description": "Milo stalks Aisha (Leyla's mom), demanding food.  He's had an incredible appetite lately, and is growing chubbier.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/05/15/slides/leyla3.jpg",
+                "width": null
+            },
+            "pathComponent": "leyla3.jpg",
+            "title": "Leyla 3"
+        },
+        "leyla4": {
+            "description": "The outside of Leyla's house was recently remodeled on the television show <a href=\"http://www.hgtv.com/hgtv/shows_crb/episode/0,1806,HGTV_3825_37084,00.html\"><i>Curb Appeal</i></a>.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/05/15/slides/leyla4.jpg",
+                "width": null
+            },
+            "pathComponent": "leyla4.jpg",
+            "title": "Leyla 4"
+        },
+        "party1": {
+            "description": "We had a party, just because.  Oh yeah:  to celebrate our 1 year anniversary in Berkeley and show off our new landscaping!  \n\n<p><u>Left to right</u>:  Jeremy, Lucie, Michael, Eli.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/05/15/slides/party1.jpg",
+                "width": null
+            },
+            "pathComponent": "party1.jpg",
+            "title": "Party 1"
+        },
+        "party2": {
+            "description": "It was nice!  Lots of people came.  Beforehand, Dean mowed the new lawn for the first time.\n<p><u>Left to right</u>:  Terry, Dean, Mary, Adam, Amy.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/05/15/slides/party2.jpg",
+                "width": null
+            },
+            "pathComponent": "party2.jpg",
+            "title": "Party 2"
+        },
+        "party3": {
+            "description": "The kid population at our parties keeps rising.  This time there were about 12... though they move so fast it's hard to keep precise count.   We have plans to start radio tagging these noble beasts.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/05/15/slides/party3.jpg",
+                "width": null
+            },
+            "pathComponent": "party3.jpg",
+            "title": "Party 3"
+        },
+        "party4": {
+            "description": "<u>Left to right</u>:  Wiley (in background), Audra, Hiroko",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/05/15/slides/party4.jpg",
+                "width": null
+            },
+            "pathComponent": "party4.jpg",
+            "title": "Party 4"
+        },
+        "party5": {
+            "description": "Milo loved the hubbub.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/05/15/slides/party5.jpg",
+                "width": null
+            },
+            "pathComponent": "party5.jpg",
+            "title": "Party 5"
+        },
+        "sanpablo1": {
+            "description": "When it's spring in Berkeley, it's summer on the inland side of the Berkeley Hills. We spent Saturday soaking up sunshine at the San Pablo Reservoir.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/05/15/slides/sanpablo1.jpg",
+                "width": null
+            },
+            "pathComponent": "sanpablo1.jpg",
+            "title": "Sanpablo 1"
+        },
+        "sanpablo2": {
+            "description": "There's so many rowboats in books, it was good for Felix to finally be introduced to one up close and personal.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/05/15/slides/sanpablo2.jpg",
+                "width": null
+            },
+            "pathComponent": "sanpablo2.jpg",
+            "title": "Sanpablo 2"
+        },
+        "sanpablo3": {
+            "description": "Felix is back on his bike. Dean told him that he installed a mechanism to keep it from going too fast. The mechanism is fictional, but the results are real. Felix is going faster than ever -- he's actually starting to lay rubber when he brakes.  He's biking all around our neighborhood with Dean jogging after him.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/05/15/slides/sanpablo3.jpg",
+                "width": null
+            },
+            "pathComponent": "sanpablo3.jpg",
+            "title": "Sanpablo 3"
+        },
+        "sippycup": {
+            "description": "Milo graduated to a sippy cup with a non-drip valve, so he can take it everywhere without spilling.  He loves it. He's been drinking a huge amount of water (about 16 ounces a day).",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/05/15/slides/sippycup.jpg",
+                "width": null
+            },
+            "pathComponent": "sippycup.jpg",
+            "title": "Sippycup"
+        },
+        "sleeping": {
+            "description": "Now that he gets so much water and solid food, Lucie decided there was no excuse for middle-of-the-night nursing. To our enormous surprise, Milo isn't putting up much of a fuss.  Last night he slept all night without waking, a full 11 hours.  Hooray!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/05/15/slides/sleeping.jpg",
+                "width": null
+            },
+            "pathComponent": "sleeping.jpg",
+            "title": "Sleeping"
+        },
+        "squirrel1": {
+            "description": "We put up a squirrel feeder.   It was supposed to be a bird feeder but we went with the flow.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/05/15/slides/squirrel1.jpg",
+                "width": null
+            },
+            "pathComponent": "squirrel1.jpg",
+            "title": "Squirrel 1"
+        },
+        "squirrel2": {
+            "description": "Yum.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/05/15/slides/squirrel2.jpg",
+                "width": null
+            },
+            "pathComponent": "squirrel2.jpg",
+            "title": "Squirrel 2"
+        },
+        "zreading": {
+            "description": "Sometimes Felix shows books to Milo.  And sometimes Milo stays still for a few pages.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/05/15/slides/zreading.jpg",
+                "width": null
+            },
+            "pathComponent": "zreading.jpg",
+            "title": "Zreading"
+        }
+    },
+    "childrenOrder": [
+        "a_teaparty",
+        "breakfast",
+        "breakfast2",
+        "forrest",
+        "leyla1",
+        "leyla2",
+        "leyla3",
+        "leyla4",
+        "party1",
+        "party2",
+        "party3",
+        "party4",
+        "party5",
+        "sanpablo1",
+        "sanpablo2",
+        "sanpablo3",
+        "sippycup",
+        "sleeping",
+        "squirrel1",
+        "squirrel2",
+        "zreading"
+    ],
+    "creationTimestamp": 1116140400,
+    "description": "We've been in Berkeley a year, and had a party to celebrate.   We're happy with our decision to move:  we don't miss San Francisco, and we've managed to (mostly) stay in touch with our San Francisco friends.",
+    "pathComponent": "2005/05-15",
+    "summary": "",
+    "thumbnailChild": "leyla3",
+    "title": "May 15"
+}

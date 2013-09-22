@@ -1,0 +1,199 @@
+{
+    "children": {
+        "cooking": {
+            "description": "Milo is discovering the joys of cooking. Here, he is helping Lucie make a Thai green curry. His task is to throw the vegetables in the pot of coconut milk.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/27/slides/cooking.jpg",
+                "width": null
+            },
+            "pathComponent": "cooking.jpg",
+            "title": "Cooking"
+        },
+        "cuddle1": {
+            "description": "In the morning, the men of the house like to take their time waking up.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/27/slides/cuddle1.jpg",
+                "width": null
+            },
+            "pathComponent": "cuddle1.jpg",
+            "title": "Cuddle 1"
+        },
+        "cuddle2": {
+            "description": "*smooch*",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/27/slides/cuddle2.jpg",
+                "width": null
+            },
+            "pathComponent": "cuddle2.jpg",
+            "title": "Cuddle 2"
+        },
+        "goofy1": {
+            "description": "Milo is a messy eater. He will try any silly way of eating just to see how we react. Moses, in particular, has a hard time keeping a straight face and often ends up laughing.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/27/slides/goofy1.jpg",
+                "width": null
+            },
+            "pathComponent": "goofy1.jpg",
+            "title": "Goofy 1"
+        },
+        "goofy2": {
+            "description": "Got you, papa.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/27/slides/goofy2.jpg",
+                "width": null
+            },
+            "pathComponent": "goofy2.jpg",
+            "title": "Goofy 2"
+        },
+        "goofy3": {
+            "description": "Pants on your head make excellent rabbit ears.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/27/slides/goofy3.jpg",
+                "width": null
+            },
+            "pathComponent": "goofy3.jpg",
+            "title": "Goofy 3"
+        },
+        "mimi1": {
+            "description": "Milo, reading \"My Car\" to Mimi.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/27/slides/mimi1.jpg",
+                "width": null
+            },
+            "pathComponent": "mimi1.jpg",
+            "title": "Mimi 1"
+        },
+        "mimi2": {
+            "description": "Notice Milo is wearing underwear. So far, this has not been a successful experiment. Milo uses the potty like a pro as long as he is butt-naked, but if he is wearing something, he wets his pants.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/27/slides/mimi2.jpg",
+                "width": null
+            },
+            "pathComponent": "mimi2.jpg",
+            "title": "Mimi 2"
+        },
+        "swim1": {
+            "description": "Bennet and Felix play at the playground in front of King's Swimming Pool. \n<p>\nThe kids walk all the way from school (a good 20 minutes walk, each way), each carrying their backpack. They are definitely getting their daily dose of exercice!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/27/slides/swim1.jpg",
+                "width": null
+            },
+            "pathComponent": "swim1.jpg",
+            "title": "Swim 1"
+        },
+        "swim2": {
+            "description": "On the side of the pool, everyone spreads their towel and changes to their swimsuit. \n<p>\nFelix and Jadah compare owies.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/27/slides/swim2.jpg",
+                "width": null
+            },
+            "pathComponent": "swim2.jpg",
+            "title": "Swim 2"
+        },
+        "swim3": {
+            "description": "First swimming exercice: kicking your feet. \n<p>\nTorin, Bennet, Zara, Felix and Sofia give it their best.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/27/slides/swim3.jpg",
+                "width": null
+            },
+            "pathComponent": "swim3.jpg",
+            "title": "Swim 3"
+        },
+        "swim4": {
+            "description": "Once in the water, it's time to pretend-wash with pretend-soap, and then rinse off with big splashes of real water. \n<p>\nFelix has a brand new pair of goggles, which he wore the whole time.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/27/slides/swim4.jpg",
+                "width": null
+            },
+            "pathComponent": "swim4.jpg",
+            "title": "Swim 4"
+        },
+        "swim5": {
+            "description": "Sofia gives Felix a squeeze.\n<p>\nThe best part about King's Swim is that all of Felix's friends are right there with him... perfect conditions for learning how to swim.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/27/slides/swim5.jpg",
+                "width": null
+            },
+            "pathComponent": "swim5.jpg",
+            "title": "Swim 5"
+        },
+        "swim6": {
+            "description": "Getting all those kids to make a circle for a turn of \"motor boat\" is quite an endeavor.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/27/slides/swim6.jpg",
+                "width": null
+            },
+            "pathComponent": "swim6.jpg",
+            "title": "Swim 6"
+        },
+        "swim7": {
+            "description": "Felix, practising the front stroke.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/27/slides/swim7.jpg",
+                "width": null
+            },
+            "pathComponent": "swim7.jpg",
+            "title": "Swim 7"
+        },
+        "swim8": {
+            "description": "And look at that! He is even learning the back stroke.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/27/slides/swim8.jpg",
+                "width": null
+            },
+            "pathComponent": "swim8.jpg",
+            "title": "Swim 8"
+        },
+        "swim9": {
+            "description": "Mom, did you see that?!? I can swim!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/27/slides/swim9.jpg",
+                "width": null
+            },
+            "pathComponent": "swim9.jpg",
+            "title": "Swim 9"
+        }
+    },
+    "childrenOrder": [
+        "cooking",
+        "cuddle1",
+        "cuddle2",
+        "goofy1",
+        "goofy2",
+        "goofy3",
+        "mimi1",
+        "mimi2",
+        "swim1",
+        "swim2",
+        "swim3",
+        "swim4",
+        "swim5",
+        "swim6",
+        "swim7",
+        "swim8",
+        "swim9"
+    ],
+    "creationTimestamp": 1151391600,
+    "description": "Felix is loving the swim program at his school. He has been coming back home with fabulous tales of heads under water, feet kicking, and real bona fide swimming. We know he must be embellishing somewhat, but his enthusiasm is contagious. On Tuesday, Lucie took advantage of a slow day at work to join Felix and his school mates to the swimming pool, so she could witness his prowesses, and take photos. As we suspected, he is not *really* putting his head under water or swimming on his own yet, but he is doing great. He is splashing and kicking and bopping around with the best of them.\n<p>\nIn addition to the selection in this week's regular update, you can look at yet <a href=\"swim/index.html\">more photos of New Schoolers at King's Swim.</a>",
+    "pathComponent": "2006/06-27",
+    "summary": "",
+    "thumbnailChild": "mimi1",
+    "title": "June 27"
+}

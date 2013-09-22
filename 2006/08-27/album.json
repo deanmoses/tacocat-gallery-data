@@ -1,0 +1,144 @@
+{
+    "children": {
+        "animals1": {
+            "description": "<span class=\"comment\">Where's Milo?</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/27/slides/animals1.jpg",
+                "width": null
+            },
+            "pathComponent": "animals1.jpg",
+            "title": "Animals 1"
+        },
+        "animals2": {
+            "description": "<span class=\"comment\">There he is!</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/27/slides/animals2.jpg",
+                "width": null
+            },
+            "pathComponent": "animals2.jpg",
+            "title": "Animals 2"
+        },
+        "animals3": {
+            "description": "<span class=\"comment\">Dean and Felix sometime manage to play Legos without Milo going all Godzilla on them.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/27/slides/animals3.jpg",
+                "width": null
+            },
+            "pathComponent": "animals3.jpg",
+            "title": "Animals 3"
+        },
+        "dribble1": {
+            "description": "<span class=\"comment\">Milo practises dribbling at school, and it shows.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/27/slides/dribble1.jpg",
+                "width": null
+            },
+            "pathComponent": "dribble1.jpg",
+            "title": "Dribble 1"
+        },
+        "dribble2": {
+            "description": "<span class=\"comment\">Balls are fun!</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/27/slides/dribble2.jpg",
+                "width": null
+            },
+            "pathComponent": "dribble2.jpg",
+            "title": "Dribble 2"
+        },
+        "dribble3": {
+            "description": "<span class=\"comment\">\"Ball lost, Papa, ball lost!\"</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/27/slides/dribble3.jpg",
+                "width": null
+            },
+            "pathComponent": "dribble3.jpg",
+            "title": "Dribble 3"
+        },
+        "space1": {
+            "description": "<span class=\"comment\">Felix is rarely in the mood for drawing or crafts. Lucie, who loves that stuff, comes up with clever stratagems to coax him into occasionally playing with markers and paper. Here we are making a space exhibit for the Felix Museum.\n<p class=\"para\">\nNotice how Felix still uses his left hand often, even though he is right handed.\n<p></p></p></span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/27/slides/space1.jpg",
+                "width": null
+            },
+            "pathComponent": "space1.jpg",
+            "title": "Space 1"
+        },
+        "space2": {
+            "description": "<span class=\"comment\">Felix drew the planets, an alien and a space buggy (in orange). Lucie drew more aliens and spaceships. \n\n<p class=\"para\">\nFelix insisted the aliens only be taped to Mars (the red side), and not the Moon (the white). Everybody knows there are aliens on Mars but not the Moon.\n</p> </span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/27/slides/space2.jpg",
+                "width": null
+            },
+            "pathComponent": "space2.jpg",
+            "title": "Space 2"
+        },
+        "trike1": {
+            "description": "<span class=\"comment\">Milo can somewhat pedal his tricycle, but it's still mostly papa-powered.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/27/slides/trike1.jpg",
+                "width": null
+            },
+            "pathComponent": "trike1.jpg",
+            "title": "Trike 1"
+        },
+        "trike2": {
+            "description": "<span class=\"comment\">There's an even a passanger seat, sort of.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/27/slides/trike2.jpg",
+                "width": null
+            },
+            "pathComponent": "trike2.jpg",
+            "title": "Trike 2"
+        },
+        "trike3": {
+            "description": "<span class=\"comment\">How do you steer this thing?</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/27/slides/trike3.jpg",
+                "width": null
+            },
+            "pathComponent": "trike3.jpg",
+            "title": "Trike 3"
+        },
+        "widgetbox": {
+            "description": "<span class=\"comment\">Dean's company launched their website, <a href=\"http://widgetbox.com\">Widgetbox</a>.  If you have a website or blog, you can go there and get widgets for it.\n\n<p class=\"para\">\nThis was taken a few minutes after pushing the big \"Go!\" button.  <u>Left to right</u>: Giles, Dean, Grant, George.\n</p></span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/27/slides/widgetbox.jpg",
+                "width": null
+            },
+            "pathComponent": "widgetbox.jpg",
+            "title": "Widgetbox"
+        }
+    },
+    "childrenOrder": [
+        "animals1",
+        "animals2",
+        "animals3",
+        "dribble1",
+        "dribble2",
+        "dribble3",
+        "space1",
+        "space2",
+        "trike1",
+        "trike2",
+        "trike3",
+        "widgetbox"
+    ],
+    "creationTimestamp": 1156662000,
+    "description": "Week two of Milo at school.  <strong>The good news:</strong>  Milo likes school.  <strong>The bad news:</strong> he likes the three year old class better than the twos.  He never asks to stay home but does beg to stay with Felix.  So Lucie has, in fact, started dropping Milo off with the 3 year olds.  He eventually filters back to the twos when it's naptime.  We think.\n<p>\nMilo has his first nickname:  Meelo-mylo.  Since Lucie calls him &ldquo;Meelo&rdquo; in French and &ldquo;Mylo&rdquo; in English, people at school put the two together.  Doesn't seem to faze him. \n</p>\n<p>\nFelix continues to come up with great games.  Today he was a trucker/hunter, catching and killing dinosaurs to sell their meat to the grocery store (played by Dean).  Each type of dinosaur had its own baroquely gruesome method of getting killed in a trap.\n</p>\n<p class=\"para\">\nHere's an utterly cute audio recording of <a href=\"audio/milo_abc.wma\">Dean and Milo singing the ABC song</a>.\n</p>",
+    "pathComponent": "2006/08-27",
+    "summary": "",
+    "thumbnailChild": "widgetbox",
+    "title": "August 27"
+}

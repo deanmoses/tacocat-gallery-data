@@ -1,0 +1,199 @@
+{
+    "children": {
+        "books": {
+            "description": "Milo frequently reads picture books by himself.  It can be tough to read to him, because he often insists on doing the page turning, and doesn't confine himself to going through a book sequentially.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/20/slides/books.jpg",
+                "width": null
+            },
+            "pathComponent": "books.jpg",
+            "title": "Books"
+        },
+        "bowling1": {
+            "description": "Ezekiel had a bowling party to celebrate his fourth year of fabulousness.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/20/slides/bowling1.jpg",
+                "width": null
+            },
+            "pathComponent": "bowling1.jpg",
+            "title": "Bowling 1"
+        },
+        "bowling2": {
+            "description": "The latest innovation.  It's <i>so</i> hard to keep abreast of the latest developments in the frenzied field of bowling technology.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/20/slides/bowling2.jpg",
+                "width": null
+            },
+            "pathComponent": "bowling2.jpg",
+            "title": "Bowling 2"
+        },
+        "bowling3": {
+            "description": "Milo was a MENACE.  When he wasn't trying to climb down the ball return tunnel, he was racing down the lane towards the pins.   Despite weighing only 20 pounds, he can pick up a 9 pound ball.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/20/slides/bowling3.jpg",
+                "width": null
+            },
+            "pathComponent": "bowling3.jpg",
+            "title": "Bowling 3"
+        },
+        "bowling4": {
+            "description": "... and there he goes.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/20/slides/bowling4.jpg",
+                "width": null
+            },
+            "pathComponent": "bowling4.jpg",
+            "title": "Bowling 4"
+        },
+        "carousel1": {
+            "description": "Jenifer helps Milo on his very first carousel ride.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/20/slides/carousel1.jpg",
+                "width": null
+            },
+            "pathComponent": "carousel1.jpg",
+            "title": "Carousel 1"
+        },
+        "carousel2": {
+            "description": "Nathaniel's looking sharp.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/20/slides/carousel2.jpg",
+                "width": null
+            },
+            "pathComponent": "carousel2.jpg",
+            "title": "Carousel 2"
+        },
+        "drawing-r": {
+            "description": "We've been having plumbing problems:  a tree root broke through an underground pipe.  Dean took the opportunity to teach Felix about the letter \"R\".  Our plumber, <b>R</b>ay, has been very <b>r</b>esponsive.   You can see more <a href=\"../drawings/index.html\">drawings in this series</a>.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/20/slides/drawing-r.jpg",
+                "width": null
+            },
+            "pathComponent": "drawing-r.jpg",
+            "title": "Drawing R"
+        },
+        "flip": {
+            "description": "Felix discovered that it's fun to walk up Dean's legs and flip over backwards.   Milo, believe it or not, can do it too.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/20/slides/flip.jpg",
+                "width": null
+            },
+            "pathComponent": "flip.jpg",
+            "title": "Flip"
+        },
+        "foliage1": {
+            "description": "It's fall.  Pretty tree.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/20/slides/foliage1.jpg",
+                "width": null
+            },
+            "pathComponent": "foliage1.jpg",
+            "title": "Foliage 1"
+        },
+        "foliage2": {
+            "description": "Pretty Mom.  Pretty kid.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/20/slides/foliage2.jpg",
+                "width": null
+            },
+            "pathComponent": "foliage2.jpg",
+            "title": "Foliage 2"
+        },
+        "luke": {
+            "description": "The first thing that Felix made in his preschool's woodworking class?  A Star Wars X-Wing fighter.  Notice R2-D2 is there, ready to fix the ship if Darth Vader shoots at it.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/20/slides/luke.jpg",
+                "width": null
+            },
+            "pathComponent": "luke.jpg",
+            "title": "Luke"
+        },
+        "painting1": {
+            "description": "Our outdoor playhouse is a perfect place for little ones to express themselves...",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/20/slides/painting1.jpg",
+                "width": null
+            },
+            "pathComponent": "painting1.jpg",
+            "title": "Painting 1"
+        },
+        "painting2": {
+            "description": "... messily.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/20/slides/painting2.jpg",
+                "width": null
+            },
+            "pathComponent": "painting2.jpg",
+            "title": "Painting 2"
+        },
+        "painting3": {
+            "description": "In the zone.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/20/slides/painting3.jpg",
+                "width": null
+            },
+            "pathComponent": "painting3.jpg",
+            "title": "Painting 3"
+        },
+        "painting4": {
+            "description": "Contemplating the product of honest artistic toil.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/20/slides/painting4.jpg",
+                "width": null
+            },
+            "pathComponent": "painting4.jpg",
+            "title": "Painting 4"
+        },
+        "painting5": {
+            "description": "A little bit artist, a little bit art.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/20/slides/painting5.jpg",
+                "width": null
+            },
+            "pathComponent": "painting5.jpg",
+            "title": "Painting 5"
+        }
+    },
+    "childrenOrder": [
+        "books",
+        "bowling1",
+        "bowling2",
+        "bowling3",
+        "bowling4",
+        "carousel1",
+        "carousel2",
+        "drawing-r",
+        "flip",
+        "foliage1",
+        "foliage2",
+        "luke",
+        "painting1",
+        "painting2",
+        "painting3",
+        "painting4",
+        "painting5"
+    ],
+    "creationTimestamp": 1132473600,
+    "description": "Felix's social skills with kids his age have suddenly gone up a notch.  He'll meet an acquaintance at the playground, hang out and chit-chat, identify common interests, and talk in detail about upcoming events (like birthday parties).  Previously he would have this type of interaction with a few close friends like Jasper, but now he does it with anyone he knows.\n\n<p>\nWe can now fully communicate with Milo about all the common things we do.   We can ask most anything related to food, play or sleep, and he'll give a good yes/no answer.  We can ask him to get his shoes.  We can ask \"Where's X?\" and he'll mostly point to the correct thing... though whenever his concentration lapses, he defaults to pointing to his foot.\n</p>\n\n<p>\nFelix and Milo are getting along better. Milo's starting to respect a few boundaries, like not taking toys directly out of Felix's hands, and Felix is cutting Milo some slack for being a baby.   For example, Milo has a hitting problem -- he'll hit Felix when he thinks he's been wronged.  We intervene immediately and show Milo how to be gentle, but even so, Felix used to get deeply upset.  Now Felix gets a little annoyed, but not upset.\n</p>\n\nMilo's new words:\n<ul class=\"bottom\">\n<li> <u>pop&eacute;</u>: <i>any big truck.</i>  Comes from pompier, French for fire truck.</i>.\n<li> <u>ba</u>: <i>bus.</i> He loves 'em.\n<li> <u>badaboom</u>:  To fall noisily, like a stack of blocks.\n<li> <u>tartine</u>: A tartine is the basic unit of French breakfast:  toast with butter and jam.\n<li> <u>pipi</u>: <i>pee.</i>  He's interested in the potty and toilet.\n<li> <u>caca</u>: <i>poop.</i>  He loves being given a square of toilet paper.  He'll wave it around then throw it in the toilet.\n<li> <u>zizi</u>: <i>penis.</i>  He <i>loves</i> to answer the question \"Where's your zizi?\"\n<li> <u>oooo</u>: <i>the ghost sound.</i>  Haloween made a big impression on him.  On the few times he's been out after dark, he'll go \"oooo\" then \"ding-dong\" and point at the nearest door.\n</ul>",
+    "pathComponent": "2005/11-20",
+    "summary": "",
+    "thumbnailChild": "painting5",
+    "title": "November 20"
+}

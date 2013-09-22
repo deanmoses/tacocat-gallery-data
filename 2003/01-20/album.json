@@ -1,0 +1,100 @@
+{
+    "children": {
+        "basket1": {
+            "description": "Inspired by Felix's love for his cousin Iris's cradle, we set up a \"cozy corner\" in Felix's room. The central piece is the moses basket from his newborn days, plus pillows, blankets, and stuffed animals. Felix loves it.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/01/20/images/basket1.jpg",
+                "width": null
+            },
+            "pathComponent": "basket1.jpg",
+            "title": "Basket 1"
+        },
+        "basket2": {
+            "description": "The cozy corner is the perfect place to relax with a good book...",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/01/20/images/basket2.jpg",
+                "width": null
+            },
+            "pathComponent": "basket2.jpg",
+            "title": "Basket 2"
+        },
+        "basket3": {
+            "description": "... or for a little nap.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/01/20/images/basket3.jpg",
+                "width": null
+            },
+            "pathComponent": "basket3.jpg",
+            "title": "Basket 3"
+        },
+        "closet": {
+            "description": "Felix has been busy re-exploring his domain, no drawer is left unopened, no closet un-visited. Here, he is checking out daddy's white T-shirt collection.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/01/20/images/closet.jpg",
+                "width": null
+            },
+            "pathComponent": "closet.jpg",
+            "title": "Closet"
+        },
+        "dad": {
+            "description": "Visiting the old hang-outs... brunch at Mission Rock.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/01/20/images/dad.jpg",
+                "width": null
+            },
+            "pathComponent": "dad.jpg",
+            "title": "Dad"
+        },
+        "keys": {
+            "description": "Felix is now tall enough to reach doorknobs, and he has been trying (unsuccesfully) to open doors by fiddling with them.\n<p>\nOne day, he picked up Lucie's key ring and rubbed it against the doorknob. The door STILL would not open. What's a baby to do?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/01/20/images/keys.jpg",
+                "width": null
+            },
+            "pathComponent": "keys.jpg",
+            "title": "Keys"
+        },
+        "shovel": {
+            "description": "For the first time this week, Felix used a shovel for its intended purpose: shoveling sand (instead of just chewing on it, or banging it).\n<p>\nNotice he is only wearing a T-shirt... a nice change from last week's snow suit!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/01/20/images/shovel.jpg",
+                "width": null
+            },
+            "pathComponent": "shovel.jpg",
+            "title": "Shovel"
+        },
+        "sylvie": {
+            "description": "Felix had no problem going back to Sylvie and Silas. He remembered perfectly well who they were, and he gave them big smiles.\n<p>\nFrom this photo, it even looks like he and Sylvie called eachother the night before, to coordinate their wardrobe.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/01/20/images/sylvie.jpg",
+                "width": null
+            },
+            "pathComponent": "sylvie.jpg",
+            "title": "Sylvie"
+        }
+    },
+    "childrenOrder": [
+        "basket1",
+        "basket2",
+        "basket3",
+        "closet",
+        "dad",
+        "keys",
+        "shovel",
+        "sylvie"
+    ],
+    "creationTimestamp": 1043049600,
+    "description": "<P>\n<P>\nFelix is back home and very happy about it. He hugged Dean extra tight when he saw him at the airport. Everytime he is introduced to one of his old routine (his room, the local playground, his nanny, the grocery store, the swimming pool...), he is positively beaming.\n<p>\nJet lag, however, is proving quite painful. Felix is very very sleepy in the afternoon, and he wakes up in the middle of the night. Also, he is forgotten how to fall asleep by himself. We are all feeling a little sleep-deprived, but things are slowly getting better.\n<p>",
+    "pathComponent": "2003/01-20",
+    "summary": "",
+    "thumbnailChild": "dad",
+    "title": "January 20"
+}

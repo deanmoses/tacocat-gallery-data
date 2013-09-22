@@ -1,0 +1,232 @@
+{
+    "children": {
+        "books1": {
+            "description": "Felix carefully selects a tome from his library.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/29/images/books1.jpg",
+                "width": null
+            },
+            "pathComponent": "books1.jpg",
+            "title": "Books 1"
+        },
+        "books2": {
+            "description": "Felix has finally gotten the point of books:  they exist so you can turn the pages.  He's been practicing turning pages quite a bit.  Sometimes he even stops to look at a picture.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/29/images/books2.jpg",
+                "width": null
+            },
+            "pathComponent": "books2.jpg",
+            "title": "Books 2"
+        },
+        "picnic1": {
+            "description": "Ex-Phoenix Poppers on a picnic in Chrissy Field.\n<br>&nbsp;&nbsp;<u>Babies left to right</u>:  Jasper, Avery, Felix, Leila.  \n<br>&nbsp;&nbsp;<u>Grown-ups left to right</u>:  Cyndi, Rickie, Meeta, Aisha.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/29/images/picnic1.jpg",
+                "width": null
+            },
+            "pathComponent": "picnic1.jpg",
+            "title": "Picnic 1"
+        },
+        "picnic2": {
+            "description": "Felix hasn't yet learned the concept of \"personal space\".  At least, not where other persons are concerned.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/29/images/picnic2.jpg",
+                "width": null
+            },
+            "pathComponent": "picnic2.jpg",
+            "title": "Picnic 2"
+        },
+        "picnic3": {
+            "description": "Avery and Jasper in a clapping-fest.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/29/images/picnic3.jpg",
+                "width": null
+            },
+            "pathComponent": "picnic3.jpg",
+            "title": "Picnic 3"
+        },
+        "picnic4": {
+            "description": "Jasper has clapping down cold; and he has mastered standing up unassisted. Felix, you've got some catching up to do!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/29/images/picnic4.jpg",
+                "width": null
+            },
+            "pathComponent": "picnic4.jpg",
+            "title": "Picnic 4"
+        },
+        "sling": {
+            "description": "Felix was a little needy the Monday after Grandma Harriet left.  Did he miss the extra attention, or was it Gravy Deficit Disorder?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/29/images/sling.jpg",
+                "width": null
+            },
+            "pathComponent": "sling.jpg",
+            "title": "Sling"
+        },
+        "wedding01": {
+            "description": "Julie and Craig got married.  The wedding took place at a lodge on Mt. Tamalpais in Marin, near Muir woods, from Friday afternoon until Sunday morning.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/29/images/wedding01.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding01.jpg",
+            "title": "Wedding 1"
+        },
+        "wedding02": {
+            "description": "Left to right:  Kristie Dahlia Home, Jennifer Lynch (of Knitting Club fame), and Allison Yates (Felix's ex-afternoon nanny).",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/29/images/wedding02.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding02.jpg",
+            "title": "Wedding 2"
+        },
+        "wedding03": {
+            "description": "We played a lot of games on the deck of the lodge.  The bald guy is William, who until recently had nearly as much hair as the guy next to him, Dave Thau.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/29/images/wedding03.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding03.jpg",
+            "title": "Wedding 3"
+        },
+        "wedding04": {
+            "description": "Austin, Alicia, Kristie, Todd Elliot",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/29/images/wedding04.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding04.jpg",
+            "title": "Wedding 4"
+        },
+        "wedding05": {
+            "description": "Mikl-em, Cliff, JD, Imber.\n<p>\nFelix loved the wedding.  Always another person to see, another floor to explore.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/29/images/wedding05.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding05.jpg",
+            "title": "Wedding 5"
+        },
+        "wedding06": {
+            "description": "Felix was fascinated by card games and card game chatter.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/29/images/wedding06.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding06.jpg",
+            "title": "Wedding 6"
+        },
+        "wedding07": {
+            "description": "This place even had dogs!  Felix was beside himself.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/29/images/wedding07.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding07.jpg",
+            "title": "Wedding 7"
+        },
+        "wedding08": {
+            "description": "Alicia, Imber, Jen and Da.\n<p>\nBy now, Felix is asleep in an upstair bedroom.\nAn hour before this photo was taken, Felix was happily touring the kitchen with dad,\nand he waved hello at the cooks... his fist wave! Yeah!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/29/images/wedding08.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding08.jpg",
+            "title": "Wedding 8"
+        },
+        "wedding09": {
+            "description": "Paul, Christina, JD and Cliff",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/29/images/wedding09.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding09.jpg",
+            "title": "Wedding 9"
+        },
+        "wedding10": {
+            "description": "Austin somehow gets himself selected as the official dessert feeder to (left to right): Jen, Audra, Lucie, and Molly.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/29/images/wedding10.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding10.jpg",
+            "title": "Wedding 10"
+        },
+        "wedding11": {
+            "description": "Saturday morning, 6am.  Felix wakes up and wonders where the party is.\n\n<p>\nLucie is NOT a happy camper.\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/29/images/wedding11.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding11.jpg",
+            "title": "Wedding 11"
+        },
+        "wedding13": {
+            "description": "More ceremony.  While in this picture it may appear that Dean is the one disturbing things, Felix is in fact the culprit.  Babble and solemn vows don't mix.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/29/images/wedding13.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding13.jpg",
+            "title": "Wedding 13"
+        },
+        "wedding14": {
+            "description": "On the way home.  Felix took a slug of milk and passed out.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/29/images/wedding14.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding14.jpg",
+            "title": "Wedding 14"
+        }
+    },
+    "childrenOrder": [
+        "books1",
+        "books2",
+        "picnic1",
+        "picnic2",
+        "picnic3",
+        "picnic4",
+        "sling",
+        "wedding01",
+        "wedding02",
+        "wedding03",
+        "wedding04",
+        "wedding05",
+        "wedding06",
+        "wedding07",
+        "wedding08",
+        "wedding09",
+        "wedding10",
+        "wedding11",
+        "wedding13",
+        "wedding14"
+    ],
+    "creationTimestamp": 1033282800,
+    "description": "<P>\n<P>\nFelix has been getting all sorts of social skills.  He started waving hello on Saturday (though he doesn't do it much yet).  He likes to show people objects he's playing with.  He loves to bonk heads with Mom or Dad, smear some slobber on them, and babble <i>ferociously</i>.\n\n<p>",
+    "pathComponent": "2002/09-29",
+    "summary": "",
+    "thumbnailChild": "wedding09",
+    "title": "September 29"
+}

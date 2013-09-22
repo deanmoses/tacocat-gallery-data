@@ -1,0 +1,155 @@
+{
+    "children": {
+        "bed1": {
+            "description": "Felix has been teething, so sometimes he'll only take a nap if we nap with him.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/18/images/bed1.jpg",
+                "width": null
+            },
+            "pathComponent": "bed1.jpg",
+            "title": "Bed 1"
+        },
+        "bed2": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/18/images/bed2.jpg",
+                "width": null
+            },
+            "pathComponent": "bed2.jpg",
+            "title": "Bed 2"
+        },
+        "bed3": {
+            "description": "Waking up.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/18/images/bed3.jpg",
+                "width": null
+            },
+            "pathComponent": "bed3.jpg",
+            "title": "Bed 3"
+        },
+        "bed4": {
+            "description": "Yawn!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/18/images/bed4.jpg",
+                "width": null
+            },
+            "pathComponent": "bed4.jpg",
+            "title": "Bed 4"
+        },
+        "car": {
+            "description": "Felix driving a borrowed car.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/18/images/car.jpg",
+                "width": null
+            },
+            "pathComponent": "car.jpg",
+            "title": "Car"
+        },
+        "crawl1": {
+            "description": "Felix is traveling further and further.  He still maintains line of sight contact with a parent, though.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/18/images/crawl1.jpg",
+                "width": null
+            },
+            "pathComponent": "crawl1.jpg",
+            "title": "Crawl 1"
+        },
+        "crawl2": {
+            "description": "The heater vent acts as a cattle grate for babies.  Felix won't cross it.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/18/images/crawl2.jpg",
+                "width": null
+            },
+            "pathComponent": "crawl2.jpg",
+            "title": "Crawl 2"
+        },
+        "ezekiel": {
+            "description": "Felix and Ezekiel, in swinging Berkeley.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/18/images/ezekiel.jpg",
+                "width": null
+            },
+            "pathComponent": "ezekiel.jpg",
+            "title": "Ezekiel"
+        },
+        "handkerchief": {
+            "description": "Felix investigates Dean's (clean) handkerchief drawer.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/18/images/handkerchief.jpg",
+                "width": null
+            },
+            "pathComponent": "handkerchief.jpg",
+            "title": "Handkerchief"
+        },
+        "kitchen": {
+            "description": "Hanging out.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/18/images/kitchen.jpg",
+                "width": null
+            },
+            "pathComponent": "kitchen.jpg",
+            "title": "Kitchen"
+        },
+        "lulix": {
+            "description": "Hi!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/18/images/lulix.jpg",
+                "width": null
+            },
+            "pathComponent": "lulix.jpg",
+            "title": "Lulix"
+        },
+        "sleepy1": {
+            "description": "When Felix wakes up at 5am, he's sleepy by the time Dean gets up at 7am.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/18/images/sleepy1.jpg",
+                "width": null
+            },
+            "pathComponent": "sleepy1.jpg",
+            "title": "Sleepy 1"
+        },
+        "sleepy2": {
+            "description": "And there he goes...",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/08/18/images/sleepy2.jpg",
+                "width": null
+            },
+            "pathComponent": "sleepy2.jpg",
+            "title": "Sleepy 2"
+        }
+    },
+    "childrenOrder": [
+        "bed1",
+        "bed2",
+        "bed3",
+        "bed4",
+        "car",
+        "crawl1",
+        "crawl2",
+        "ezekiel",
+        "handkerchief",
+        "kitchen",
+        "lulix",
+        "sleepy1",
+        "sleepy2"
+    ],
+    "creationTimestamp": 1029654000,
+    "description": "<P>\n<P>\nFelix is getting more intellectual.  Or less dumb, however you want to put it.  He'll sometimes sit still for looking at a picture book.   He's started to understand the patty-cake game.  He's started to imitate other physical gestures.  His babbling has taken on the cadences and structures of a real language.  It's getting a little easier to imagine him actually speaking. \n\n<p>\nThe last half of the week, the whole family was sick with a stomach virus.  It wasn't pretty:  we didn't have much of an appetite, and anything we tried to eat went straight back up.  We've mostly recovered now, but Saturday was a long, long miserable day.\n</p>\n\n<p>",
+    "pathComponent": "2002/08-18",
+    "summary": "",
+    "thumbnailChild": "lulix",
+    "title": "August 18"
+}

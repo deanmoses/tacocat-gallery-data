@@ -1,0 +1,265 @@
+{
+    "children": {
+        "bike": {
+            "description": "We got a kid trailer for the bike.  Milo inherited the baby seat and Felix's old helmet.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/26/slides/bike.jpg",
+                "width": null
+            },
+            "pathComponent": "bike.jpg",
+            "title": "Bike"
+        },
+        "breakfast1": {
+            "description": "Felix is drafted in the quest to entertain Milo at breakfast.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/26/slides/breakfast1.jpg",
+                "width": null
+            },
+            "pathComponent": "breakfast1.jpg",
+            "title": "Breakfast 1"
+        },
+        "breakfast2": {
+            "description": "Try as he might, Milo still doesn't get Peanuts.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/26/slides/breakfast2.jpg",
+                "width": null
+            },
+            "pathComponent": "breakfast2.jpg",
+            "title": "Breakfast 2"
+        },
+        "breakfast3": {
+            "description": "Are you ready?  Everybody reach for their beverage/food/smear of cream cheese on the table...",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/26/slides/breakfast3.jpg",
+                "width": null
+            },
+            "pathComponent": "breakfast3.jpg",
+            "title": "Breakfast 3"
+        },
+        "breakfast4": {
+            "description": "Mmmm, cream cheese smears.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/26/slides/breakfast4.jpg",
+                "width": null
+            },
+            "pathComponent": "breakfast4.jpg",
+            "title": "Breakfast 4"
+        },
+        "breakfast5": {
+            "description": "Dean checks out.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/26/slides/breakfast5.jpg",
+                "width": null
+            },
+            "pathComponent": "breakfast5.jpg",
+            "title": "Breakfast 5"
+        },
+        "firststeps1": {
+            "description": "Milo's first step was accompanied by his first toot on a kazoo.  Then he kept on practicing, both the stepping and the kazoo-ing.  He's less careful learning to walk than Felix was;  he just goes all out and sometimes does a face plant.  He has a nasty Lego cut under his nose from such a fall.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/26/slides/firststeps1.jpg",
+                "width": null
+            },
+            "pathComponent": "firststeps1.jpg",
+            "title": "Firststeps 1"
+        },
+        "firststeps2": {
+            "description": "More walking.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/26/slides/firststeps2.jpg",
+                "width": null
+            },
+            "pathComponent": "firststeps2.jpg",
+            "title": "Firststeps 2"
+        },
+        "firststeps3": {
+            "description": "Cursed with an unerring instinct for what's most likely to kill him.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/26/slides/firststeps3.jpg",
+                "width": null
+            },
+            "pathComponent": "firststeps3.jpg",
+            "title": "Firststeps 3"
+        },
+        "reading": {
+            "description": "He loves textured books.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/26/slides/reading.jpg",
+                "width": null
+            },
+            "pathComponent": "reading.jpg",
+            "title": "Reading"
+        },
+        "sausalito1": {
+            "description": "The Bay Area Discovery Museum in Sausalito.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/26/slides/sausalito1.jpg",
+                "width": null
+            },
+            "pathComponent": "sausalito1.jpg",
+            "title": "Sausalito 1"
+        },
+        "sausalito2": {
+            "description": "The museum added some cool stuff recently, like this half-living tree house.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/26/slides/sausalito2.jpg",
+                "width": null
+            },
+            "pathComponent": "sausalito2.jpg",
+            "title": "Sausalito 2"
+        },
+        "sausalito3": {
+            "description": "The museum's play yard was inspired by San Quentin, a nearby prison.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/26/slides/sausalito3.jpg",
+                "width": null
+            },
+            "pathComponent": "sausalito3.jpg",
+            "title": "Sausalito 3"
+        },
+        "sausalito4": {
+            "description": "An activity that lets Milo use his favorite baby sign, \"fish\"!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/26/slides/sausalito4.jpg",
+                "width": null
+            },
+            "pathComponent": "sausalito4.jpg",
+            "title": "Sausalito 4"
+        },
+        "sausalito5": {
+            "description": "The museum's view is photogenic.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/26/slides/sausalito5.jpg",
+                "width": null
+            },
+            "pathComponent": "sausalito5.jpg",
+            "title": "Sausalito 5"
+        },
+        "sausalito6": {
+            "description": "Felix is shaking his head -- nooo picture!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/26/slides/sausalito6.jpg",
+                "width": null
+            },
+            "pathComponent": "sausalito6.jpg",
+            "title": "Sausalito 6"
+        },
+        "train1": {
+            "description": "A ride on the Berkeley steam train with Austin, Julie and Craig.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/26/slides/train1.jpg",
+                "width": null
+            },
+            "pathComponent": "train1.jpg",
+            "title": "Train 1"
+        },
+        "train2": {
+            "description": "Felix and Julie bonded big time.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/26/slides/train2.jpg",
+                "width": null
+            },
+            "pathComponent": "train2.jpg",
+            "title": "Train 2"
+        },
+        "train3": {
+            "description": "In fact, they acted like screaming pre-teen girls.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/26/slides/train3.jpg",
+                "width": null
+            },
+            "pathComponent": "train3.jpg",
+            "title": "Train 3"
+        },
+        "train4": {
+            "description": "The ride scared Milo.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/26/slides/train4.jpg",
+                "width": null
+            },
+            "pathComponent": "train4.jpg",
+            "title": "Train 4"
+        },
+        "train5": {
+            "description": "Burying his head in mom's neck.  Not normal for him -- usually the task is to keep him from jumping out of whatever we're in.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/26/slides/train5.jpg",
+                "width": null
+            },
+            "pathComponent": "train5.jpg",
+            "title": "Train 5"
+        },
+        "train6": {
+            "description": "Felix wasn't the only one who was sweet on Julie.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/26/slides/train6.jpg",
+                "width": null
+            },
+            "pathComponent": "train6.jpg",
+            "title": "Train 6"
+        },
+        "train7": {
+            "description": "The key to Milo's heart:  The Itsy Bitsy Spider.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/26/slides/train7.jpg",
+                "width": null
+            },
+            "pathComponent": "train7.jpg",
+            "title": "Train 7"
+        }
+    },
+    "childrenOrder": [
+        "bike",
+        "breakfast1",
+        "breakfast2",
+        "breakfast3",
+        "breakfast4",
+        "breakfast5",
+        "firststeps1",
+        "firststeps2",
+        "firststeps3",
+        "reading",
+        "sausalito1",
+        "sausalito2",
+        "sausalito3",
+        "sausalito4",
+        "sausalito5",
+        "sausalito6",
+        "train1",
+        "train2",
+        "train3",
+        "train4",
+        "train5",
+        "train6",
+        "train7"
+    ],
+    "creationTimestamp": 1119769200,
+    "description": "Milo took his first steps on Saturday!  Dean, Lucie, Felix and Austin all witnessed them.   He's been practicing ever since, a few steps at a time.  If he keeps it up, he'll have completely stopped crawling by next weekend.\n<p>\nMilo can't talk yet, but he sounds like he does. He'll babble a \"word\" back at you with just the right intonation and you really feel like he said something. For example, he'll say \"teeteetoo!\" in a way that sounds just like \"peekaboo!\".\n</p>\n<p>\nAnother first: Milo confirmed he understands some spoken words.  He was taking a bath with Lucie and signed for a toy fish.   Lucie responded, \"Est-ce que tu veux un chien?\" (\"How about a dog?\") without using signs and without there being a dog nearby.    And Milo signed \"dog\".\n</p>\nMilo gets along great with his nanny.  She also teaches at Music Together (a music institute in Berkeley), and is always doing music games with him.  She's impressed with how musical he is.   And Lucie already has a nice contract gig and has started work.  Yay!",
+    "pathComponent": "2005/06-26",
+    "summary": "",
+    "thumbnailChild": "train4",
+    "title": "June 26"
+}

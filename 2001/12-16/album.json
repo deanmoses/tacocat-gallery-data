@@ -1,0 +1,100 @@
+{
+    "children": {
+        "chums": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/16/images/chums.jpg",
+                "width": null
+            },
+            "pathComponent": "chums.jpg",
+            "title": "Chums"
+        },
+        "dual_stretches": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/16/images/dual_stretches.jpg",
+                "width": null
+            },
+            "pathComponent": "dual_stretches.jpg",
+            "title": "Dual Stretches"
+        },
+        "lulix1": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/16/images/lulix1.jpg",
+                "width": null
+            },
+            "pathComponent": "lulix1.jpg",
+            "title": "Lulix 1"
+        },
+        "molix1": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/16/images/molix1.jpg",
+                "width": null
+            },
+            "pathComponent": "molix1.jpg",
+            "title": "Molix 1"
+        },
+        "molix2": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/16/images/molix2.jpg",
+                "width": null
+            },
+            "pathComponent": "molix2.jpg",
+            "title": "Molix 2"
+        },
+        "molix3": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/16/images/molix3.jpg",
+                "width": null
+            },
+            "pathComponent": "molix3.jpg",
+            "title": "Molix 3"
+        },
+        "reading": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/16/images/reading.jpg",
+                "width": null
+            },
+            "pathComponent": "reading.jpg",
+            "title": "Reading"
+        },
+        "sleepytime": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/16/images/sleepytime.jpg",
+                "width": null
+            },
+            "pathComponent": "sleepytime.jpg",
+            "title": "Sleepytime"
+        }
+    },
+    "childrenOrder": [
+        "chums",
+        "dual_stretches",
+        "lulix1",
+        "molix1",
+        "molix2",
+        "molix3",
+        "reading",
+        "sleepytime"
+    ],
+    "creationTimestamp": 1008489600,
+    "description": "",
+    "pathComponent": "2001/12-16",
+    "summary": "",
+    "thumbnailChild": "molix3",
+    "title": "December 16"
+}

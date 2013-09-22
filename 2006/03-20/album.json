@@ -1,0 +1,111 @@
+{
+    "children": {
+        "jeremy1": {
+            "description": "Milo takes Jacob Jeremy, a.k.a. Mimi, for a stroll.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/03/20/slides/jeremy1.jpg",
+                "width": null
+            },
+            "pathComponent": "jeremy1.jpg",
+            "title": "Jeremy 1"
+        },
+        "jeremy2": {
+            "description": "Once at the playground, Milo insists that Jeremy gets his own swing, and that he gets equal pushes.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/03/20/slides/jeremy2.jpg",
+                "width": null
+            },
+            "pathComponent": "jeremy2.jpg",
+            "title": "Jeremy 2"
+        },
+        "pastels": {
+            "description": "Felix hasn't ventured into figurative drawing yet. His art and Milo's art look about the same: colorful scribbles. Felix usually describes his drawings as fireworks, storms, clouds or rain.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/03/20/slides/pastels.jpg",
+                "width": null
+            },
+            "pathComponent": "pastels.jpg",
+            "title": "Pastels"
+        },
+        "sofia1": {
+            "description": "This is Sofia. She had a sleep-over at our house on Friday night, her first one ever! She was the perfect house guest.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/03/20/slides/sofia1.jpg",
+                "width": null
+            },
+            "pathComponent": "sofia1.jpg",
+            "title": "Sofia 1"
+        },
+        "sofia2": {
+            "description": "Sofia is particularly good at including everyone in her games, even adults. Here, she decided that it was Lucie's birthday.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/03/20/slides/sofia2.jpg",
+                "width": null
+            },
+            "pathComponent": "sofia2.jpg",
+            "title": "Sofia 2"
+        },
+        "sofia3": {
+            "description": "She also made sure that Milo never felt excluded, and Felix took her cues.\n<p>\nWhen they played Star Wars, Sofia (princess Leia) and Felix (Luke Skywalker) let Milo be R2D2.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/03/20/slides/sofia3.jpg",
+                "width": null
+            },
+            "pathComponent": "sofia3.jpg",
+            "title": "Sofia 3"
+        },
+        "sofia4": {
+            "description": "Milo takes good care of Jeremy.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/03/20/slides/sofia4.jpg",
+                "width": null
+            },
+            "pathComponent": "sofia4.jpg",
+            "title": "Sofia 4"
+        },
+        "sofia5": {
+            "description": "Felix and Sofia announced their decision to get married. They dressed up accordingly, and enrolled Dean as the minister.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/03/20/slides/sofia5.jpg",
+                "width": null
+            },
+            "pathComponent": "sofia5.jpg",
+            "title": "Sofia 5"
+        },
+        "sofia6": {
+            "description": "The details of the wedding night are hazy, though it is a fact that they both slept snuggled up together on the mattress on the floor we had set up for Sofia. \n<p>In the morning, everyone had a bottomless appetite for pancakes.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/03/20/slides/sofia6.jpg",
+                "width": null
+            },
+            "pathComponent": "sofia6.jpg",
+            "title": "Sofia 6"
+        }
+    },
+    "childrenOrder": [
+        "jeremy1",
+        "jeremy2",
+        "pastels",
+        "sofia1",
+        "sofia2",
+        "sofia3",
+        "sofia4",
+        "sofia5",
+        "sofia6"
+    ],
+    "creationTimestamp": 1142841600,
+    "description": "Milo figured out how to really jump, with both feet in the air at the same time. He's been practising for a while, but, until now, he would land on his butt instead of his feet. Milo is so excited about his new skill, that he has been hopping around the house all week-end.\n<p>\nFelix's dentist appointment went very well. The dentist was impressed that Felix let her take care of all 6 of his cavities in one sitting. She said that very few 4 year olds will agree to calmly keep their mouth open for so long. This means that we were able to cancel next week's appointment. Yeah!\n<p>\nIt's impossible to keep track of Milo's vocabulary anymore. New words pop up every day. He has the cutest \"sorry\" when he bumps someone. He knows the names of all of Felix's friends. A lot of his new words are French (mousse, couche, cadeau, froid...), which makes Lucie very happy.",
+    "pathComponent": "2006/03-20",
+    "summary": "",
+    "thumbnailChild": "pastels",
+    "title": "March 20"
+}

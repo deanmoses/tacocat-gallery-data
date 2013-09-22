@@ -1,0 +1,199 @@
+{
+    "children": {
+        "barette1": {
+            "description": "It's hard to look manly with a pink barette in your hair, but what are you going to do when your parents are slacking on giving you a hair cut?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/17/slides/barette1.jpg",
+                "width": null
+            },
+            "pathComponent": "barette1.jpg",
+            "title": "Barette 1"
+        },
+        "barette2": {
+            "description": "Actually, it kind of sets off my cute pink cheeks, don't you think?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/17/slides/barette2.jpg",
+                "width": null
+            },
+            "pathComponent": "barette2.jpg",
+            "title": "Barette 2"
+        },
+        "circus_audience": {
+            "description": "Lucie joined Felix and his schoolmates on a trip to the Berkeley library, to see the Prescott Circus.\n<p>\nThe woman with the <i>Cat in the Hat</i> hat is Jeannie, one of the teachers of 4 year old class, which Felix just moved to.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/17/slides/circus_audience.jpg",
+                "width": null
+            },
+            "pathComponent": "circus_audience.jpg",
+            "title": "Circus Audience"
+        },
+        "circus_clowns": {
+            "description": "Prescott Elementary School, from Oakland, has an after school circus program for 4th and 5th graders. They put together an impressive show!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/17/slides/circus_clowns.jpg",
+                "width": null
+            },
+            "pathComponent": "circus_clowns.jpg",
+            "title": "Circus Clowns"
+        },
+        "circus_globe": {
+            "description": "Felix's favorite act:  the acrobats jumping on the giant ball while juggling or jumping rope.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/17/slides/circus_globe.jpg",
+                "width": null
+            },
+            "pathComponent": "circus_globe.jpg",
+            "title": "Circus Globe"
+        },
+        "grandmas": {
+            "description": "Nana and Baboushka are globetrotting grandmas. We've gotten postcards from all over Europe in the last few weeks.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/17/slides/grandmas.jpg",
+                "width": null
+            },
+            "pathComponent": "grandmas.jpg",
+            "title": "Grandmas"
+        },
+        "icecream1": {
+            "description": "Mimi, Milo, Felix and Owen fight back the heat wave, one popsicle at a time.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/17/slides/icecream1.jpg",
+                "width": null
+            },
+            "pathComponent": "icecream1.jpg",
+            "title": "Icecream 1"
+        },
+        "icecream2": {
+            "description": "Okay, Milo, you may try my chocolate popsicle. Just don't drool on it.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/17/slides/icecream2.jpg",
+                "width": null
+            },
+            "pathComponent": "icecream2.jpg",
+            "title": "Icecream 2"
+        },
+        "indianrock1": {
+            "description": "The following 4 photos were taken by Katie, Owen's mom, when Felix spent most of the weekend at their place, three weeks ago.  They went <i>rock climbing</i>!\n<p class=\"para\">\nPerry straps a homemade rock climbing harness on Felix.\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/17/slides/indianrock1.jpg",
+                "width": null
+            },
+            "pathComponent": "indianrock1.jpg",
+            "title": "Indianrock 1"
+        },
+        "indianrock2": {
+            "description": "We're told the harness and helmet were mostly to give the kids a thrill. But we were glad to see them in these pictures.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/17/slides/indianrock2.jpg",
+                "width": null
+            },
+            "pathComponent": "indianrock2.jpg",
+            "title": "Indianrock 2"
+        },
+        "indianrock3": {
+            "description": "Yeah! Felix has made it to the top.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/17/slides/indianrock3.jpg",
+                "width": null
+            },
+            "pathComponent": "indianrock3.jpg",
+            "title": "Indianrock 3"
+        },
+        "indianrock4": {
+            "description": "Owen celebrates reaching the summit.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/17/slides/indianrock4.jpg",
+                "width": null
+            },
+            "pathComponent": "indianrock4.jpg",
+            "title": "Indianrock 4"
+        },
+        "mouse1": {
+            "description": "Felix has learned how to use a mouse.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/17/slides/mouse1.jpg",
+                "width": null
+            },
+            "pathComponent": "mouse1.jpg",
+            "title": "Mouse 1"
+        },
+        "mouse2": {
+            "description": "His favorite program is Kid Pix. He likes to print out his masterworks when he is finished.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/17/slides/mouse2.jpg",
+                "width": null
+            },
+            "pathComponent": "mouse2.jpg",
+            "title": "Mouse 2"
+        },
+        "show1": {
+            "description": "Felix put together a show for us. When we asked what it was about, he replied \"It's a movie for grown ups. It's really boring, just people walking and talking\".\n<p class=\"para\">\nIt was a story about a soldier in transit to or from the war, we never quite got it.  Very <cite>Waiting for Godot</cite>.\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/17/slides/show1.jpg",
+                "width": null
+            },
+            "pathComponent": "show1.jpg",
+            "title": "Show 1"
+        },
+        "show2": {
+            "description": "Milo could barely contain his enthusiasm. He jumped right out his chair, clapping frantically, and tried to climb on stage.\n<p class=\"para\">\nNotice the fashionable <i>Bob The Builder</i> underwear on top of Milo's jammies.\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/17/slides/show2.jpg",
+                "width": null
+            },
+            "pathComponent": "show2.jpg",
+            "title": "Show 2"
+        },
+        "show3": {
+            "description": "At the end of the show, Felix came into the audience to shake hands and sign autographs.  Just like at the Prescott Circus!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/17/slides/show3.jpg",
+                "width": null
+            },
+            "pathComponent": "show3.jpg",
+            "title": "Show 3"
+        }
+    },
+    "childrenOrder": [
+        "barette1",
+        "barette2",
+        "circus_audience",
+        "circus_clowns",
+        "circus_globe",
+        "grandmas",
+        "icecream1",
+        "icecream2",
+        "indianrock1",
+        "indianrock2",
+        "indianrock3",
+        "indianrock4",
+        "mouse1",
+        "mouse2",
+        "show1",
+        "show2",
+        "show3"
+    ],
+    "creationTimestamp": 1153119600,
+    "description": "<style type=\"text/css\">\n\tp.conversation {\n\t\tmargin-left: 10px;\n\t}\n\tspan.boy {\n\t\tfont-weight: bold;\n\t}\n</style>\n\nFelix and Milo have funny conversations. Felix likes to trick Milo into saying things he doesn't really mean.\n<p class=\"conversation\">\n\t<span class=\"boy\">F</span>: Milo, are you the big brother?\n\t<br /><span class=\"boy\">M</span>: Yeah.\n\t<br /><span class=\"boy\">F</span>: No, Milo! You are the little brother!\n</p>\n<p class=\"conversation\">\n\t<span class=\"boy\">F</span>: Milo, do cats like to play in the water?\n\t<br /><span class=\"boy\">M</span>: Yeah.\n\t<br /><span class=\"boy\">F</span>: Mom! Milo thinks cats like playing in the water!\n</p>\n<p>\n\tMilo is delighted that Felix talks to him, and doesn't seem to get that he's being made a foil for his brother's superior cognitive abilities. As for us, we figure any conversation is a good conversation. It's nice that Felix has figured out a way to have a chat with Milo.\n</p>\n\n<p>\nMilo is taking a break from potty training. He was having more and more spectacular peeing accidents all over the house, so we decided to re-diaper him. He does occasionally ask to have his diaper taken off to use the toilet. He likes wearing underwear though, and he occasionally insists on wearing a pair on top of his diaper. \n</p>\n\nDean's company is going well.  It's about to launch and they've been working day and night.  He's (mostly) been making it home to wrestle and Lego with the kids for a while each day, and we haven't missed a weekly date night (except for when poor Maria, our nanny, was in the hospital...).",
+    "pathComponent": "2006/07-17",
+    "summary": "",
+    "thumbnailChild": "show1",
+    "title": "July 17"
+}

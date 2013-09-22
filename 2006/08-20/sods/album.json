@@ -1,0 +1,78 @@
+{
+    "children": {
+        "sods1": {
+            "description": "<span class=\"comment\">Captain Mikek and crewmember Jim check the manifest.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/20/sods/slides/sods1.jpg",
+                "width": null
+            },
+            "pathComponent": "sods1.jpg",
+            "title": "Sods 1"
+        },
+        "sods2": {
+            "description": "<span class=\"comment\">Crewmember William hands out the courtesy airsickness bags (to stuff with tips for the bartenders).</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/20/sods/slides/sods2.jpg",
+                "width": null
+            },
+            "pathComponent": "sods2.jpg",
+            "title": "Sods 2"
+        },
+        "sods3": {
+            "description": "<span class=\"comment\">The flight attendants kept their cool even though the movie pretty much fell, flaming, out of the air.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/20/sods/slides/sods3.jpg",
+                "width": null
+            },
+            "pathComponent": "sods3.jpg",
+            "title": "Sods 3"
+        },
+        "sods4": {
+            "description": "<span class=\"comment\">Lucie breaks the aviation industry's glass ceiling.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/20/sods/slides/sods4.jpg",
+                "width": null
+            },
+            "pathComponent": "sods4.jpg",
+            "title": "Sods 4"
+        },
+        "sods5": {
+            "description": "<span class=\"comment\">Gummi snakes and \"Definitely not Explosives\" brand water refreshed the passengers.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/20/sods/slides/sods5.jpg",
+                "width": null
+            },
+            "pathComponent": "sods5.jpg",
+            "title": "Sods 5"
+        },
+        "sods6": {
+            "description": "<span class=\"comment\">I don't think that man has EVER been to flight academy.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/20/sods/slides/sods6.jpg",
+                "width": null
+            },
+            "pathComponent": "sods6.jpg",
+            "title": "Sods 6"
+        }
+    },
+    "childrenOrder": [
+        "sods1",
+        "sods2",
+        "sods3",
+        "sods4",
+        "sods5",
+        "sods6"
+    ],
+    "creationTimestamp": 1156057200,
+    "description": "Today is Dean and Lucie's wedding anniversary.  In a tradition we keep meaning to break, we mostly forgot about it.   However, Friday we <em>did</em> at least get out of the house for the entire night to go something decidedly unromantic:  the worldwide premiere of the movie <cite>Snakes on a Plane</cite>.\n<p>\nSome of our friends -- such as Austin -- had the idea to rent an entire 370 seat movie theater and have a fully stocked open bar during the screening.  It may have been crazy, but it certainly wasn't stupid:  they sold every single seat within hours of announcing it.\n</p>\nReturn to the main <a href=\"../index.html\">August 20 pictures</a>.",
+    "pathComponent": "2006/08-20/sods",
+    "summary": "",
+    "thumbnailChild": "sods6",
+    "title": "August 20"
+}

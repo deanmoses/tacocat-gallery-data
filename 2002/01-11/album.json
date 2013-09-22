@@ -1,0 +1,144 @@
+{
+    "children": {
+        "change_of_clothes": {
+            "description": "Ye olde changing station.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/01/11/images/change_of_clothes.jpg",
+                "width": null
+            },
+            "pathComponent": "change_of_clothes.jpg",
+            "title": "Change Of Clothes"
+        },
+        "felix1": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/01/11/images/felix1.jpg",
+                "width": null
+            },
+            "pathComponent": "felix1.jpg",
+            "title": "Felix 1"
+        },
+        "felix2": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/01/11/images/felix2.jpg",
+                "width": null
+            },
+            "pathComponent": "felix2.jpg",
+            "title": "Felix 2"
+        },
+        "felix3": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/01/11/images/felix3.jpg",
+                "width": null
+            },
+            "pathComponent": "felix3.jpg",
+            "title": "Felix 3"
+        },
+        "felix5": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/01/11/images/felix5.jpg",
+                "width": null
+            },
+            "pathComponent": "felix5.jpg",
+            "title": "Felix 5"
+        },
+        "felix6": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/01/11/images/felix6.jpg",
+                "width": null
+            },
+            "pathComponent": "felix6.jpg",
+            "title": "Felix 6"
+        },
+        "felix7": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/01/11/images/felix7.jpg",
+                "width": null
+            },
+            "pathComponent": "felix7.jpg",
+            "title": "Felix 7"
+        },
+        "felix8": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/01/11/images/felix8.jpg",
+                "width": null
+            },
+            "pathComponent": "felix8.jpg",
+            "title": "Felix 8"
+        },
+        "francoise_sewing_curtains": {
+            "description": "Francoise sewed sparkly green velvet curtains for the bedroom, so Lucie could get some sleep during the day.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/01/11/images/francoise_sewing_curtains.jpg",
+                "width": null
+            },
+            "pathComponent": "francoise_sewing_curtains.jpg",
+            "title": "Francoise Sewing Curtains"
+        },
+        "pig_in_a_blanket1": {
+            "description": "After Felix's bath, he gets wrapped in the most adorable piggy towel.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/01/11/images/pig_in_a_blanket1.jpg",
+                "width": null
+            },
+            "pathComponent": "pig_in_a_blanket1.jpg",
+            "title": "Pig In A Blanket 1"
+        },
+        "pig_in_a_blanket2": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/01/11/images/pig_in_a_blanket2.jpg",
+                "width": null
+            },
+            "pathComponent": "pig_in_a_blanket2.jpg",
+            "title": "Pig In A Blanket 2"
+        },
+        "pig_in_a_blanket3": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/01/11/images/pig_in_a_blanket3.jpg",
+                "width": null
+            },
+            "pathComponent": "pig_in_a_blanket3.jpg",
+            "title": "Pig In A Blanket 3"
+        }
+    },
+    "childrenOrder": [
+        "change_of_clothes",
+        "felix1",
+        "felix2",
+        "felix3",
+        "felix5",
+        "felix6",
+        "felix7",
+        "felix8",
+        "francoise_sewing_curtains",
+        "pig_in_a_blanket1",
+        "pig_in_a_blanket2",
+        "pig_in_a_blanket3"
+    ],
+    "creationTimestamp": 1010736000,
+    "description": "",
+    "pathComponent": "2002/01-11",
+    "summary": "End of the First Month",
+    "thumbnailChild": "francoise_sewing_curtains",
+    "title": "January 11"
+}

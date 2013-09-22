@@ -1,0 +1,78 @@
+{
+    "children": {
+        "drawing1": {
+            "description": "First, the pilot asks the control tower if it's okay to land.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/11/drawings/images/drawing1.jpg",
+                "width": null
+            },
+            "pathComponent": "drawing1.jpg",
+            "title": "Drawing 1"
+        },
+        "drawing2": {
+            "description": "Sometimes you just need to see a cross-section of a jumbo jet at 5,000 feet.  It's important (if you're Felix) to note the doors open and close, the engines turn, the toilet's where you pee, and the stewardess has both coffee and juice.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/11/drawings/images/drawing2.jpg",
+                "width": null
+            },
+            "pathComponent": "drawing2.jpg",
+            "title": "Drawing 2"
+        },
+        "drawing3": {
+            "description": "The plane lands.  This particular stop-motion type treatment of planes landing, which Dean pioneered a while back, has been an endless source of fascination for Felix.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/11/drawings/images/drawing3.jpg",
+                "width": null
+            },
+            "pathComponent": "drawing3.jpg",
+            "title": "Drawing 3"
+        },
+        "drawing4": {
+            "description": "Everyone gets out of the plane.  Gas is pumped in, bags are taken out.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/11/drawings/images/drawing4.jpg",
+                "width": null
+            },
+            "pathComponent": "drawing4.jpg",
+            "title": "Drawing 4"
+        },
+        "drawing5": {
+            "description": "Choo choo to the tunnel!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/11/drawings/images/drawing5.jpg",
+                "width": null
+            },
+            "pathComponent": "drawing5.jpg",
+            "title": "Drawing 5"
+        },
+        "drawing6": {
+            "description": "It's all here:  train wrecks, roundhouses, passenger trains, freight trains, even a tow truck train.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/11/drawings/images/drawing6.jpg",
+                "width": null
+            },
+            "pathComponent": "drawing6.jpg",
+            "title": "Drawing 6"
+        }
+    },
+    "childrenOrder": [
+        "drawing1",
+        "drawing2",
+        "drawing3",
+        "drawing4",
+        "drawing5",
+        "drawing6"
+    ],
+    "creationTimestamp": 1081666800,
+    "description": "</TD>\n</TR>\n</TABLE>\n<P>\n<P>\nFelix likes to draw.  Even more, he likes Mom and Dad to draw.   Most of all, he likes Mom and Dad to draw pictures of planes landing airports and letting passengers out.\n\n<p>\nThe drawings below are Dean and Lucie originals, drawn on the back of Scrabble scoresheets, to distract Felix while attempting to finish a Scrabble game after Felix woke up prematurely from his nap.  While fairly decent representatives of the genre, they aren't anything that we haven't drawn a hundred times before.\n</p>",
+    "pathComponent": "2004/04-11/drawings",
+    "summary": "",
+    "thumbnailChild": "drawing6",
+    "title": "April 11"
+}

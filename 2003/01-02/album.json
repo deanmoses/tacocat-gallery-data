@@ -1,0 +1,199 @@
+{
+    "children": {
+        "a_nice": {
+            "description": "Lucie and Felix check out the beach at the Promenade des Anglais, Nice's main drag.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/01/02/images/a_nice.jpg",
+                "width": null
+            },
+            "pathComponent": "a_nice.jpg",
+            "title": "A Nice"
+        },
+        "a_nice2": {
+            "description": "Home life at Iris' apartment.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/01/02/images/a_nice2.jpg",
+                "width": null
+            },
+            "pathComponent": "a_nice2.jpg",
+            "title": "A Nice 2"
+        },
+        "baguette": {
+            "description": "True to his French nature, Felix adores baguettes.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/01/02/images/baguette.jpg",
+                "width": null
+            },
+            "pathComponent": "baguette.jpg",
+            "title": "Baguette"
+        },
+        "bath1": {
+            "description": "During their stay at the maternity ward, French parents are taught the science of baby bathing.   There is a government prescribed way of cleaning a baby.  First, you soap up the baby with a special body/shampoo lotion. This happens OUTSIDE the water.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/01/02/images/bath1.jpg",
+                "width": null
+            },
+            "pathComponent": "bath1.jpg",
+            "title": "Bath 1"
+        },
+        "bath2": {
+            "description": "Then, the baby is rinsed in warm water. The prescribed water temperature is quite a bit hotter than in America. When Felix tried bathing in Iris's bath water, he screamed like a boiled lobster (whereas Iris can't stand lukewarm water).",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/01/02/images/bath2.jpg",
+                "width": null
+            },
+            "pathComponent": "bath2.jpg",
+            "title": "Bath 2"
+        },
+        "bath3": {
+            "description": "Optional step:  add a few bath toys.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/01/02/images/bath3.jpg",
+                "width": null
+            },
+            "pathComponent": "bath3.jpg",
+            "title": "Bath 3"
+        },
+        "bath4": {
+            "description": "After the baby is dried off, she gets a dropper-full of fluoride to protect her teeth. American babies get their fluoride from the tap water they drink. French babies drink Evian (really, the doctors instruct parents to do it).",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/01/02/images/bath4.jpg",
+                "width": null
+            },
+            "pathComponent": "bath4.jpg",
+            "title": "Bath 4"
+        },
+        "bath5": {
+            "description": "Then comes a wad of cotton soaked with a special solution to wash the baby's eyes (to prevent infections, they say). \n\n<p>\nAll the prescribed material used to clean a baby is reimbursed by the government.\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/01/02/images/bath5.jpg",
+                "width": null
+            },
+            "pathComponent": "bath5.jpg",
+            "title": "Bath 5"
+        },
+        "bath6": {
+            "description": "Felix did not partake of the French bathing process. However, he has grown fond of having his hands washed. He holds them out nicely under the faucet and likes to splach the water.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/01/02/images/bath6.jpg",
+                "width": null
+            },
+            "pathComponent": "bath6.jpg",
+            "title": "Bath 6"
+        },
+        "climb1": {
+            "description": "Felix has gotten into climbing.  He can get up this ladder with no help from Dean.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/01/02/images/climb1.jpg",
+                "width": null
+            },
+            "pathComponent": "climb1.jpg",
+            "title": "Climb 1"
+        },
+        "climb2": {
+            "description": "Halfway up...",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/01/02/images/climb2.jpg",
+                "width": null
+            },
+            "pathComponent": "climb2.jpg",
+            "title": "Climb 2"
+        },
+        "climb3": {
+            "description": "Mission accomplished!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/01/02/images/climb3.jpg",
+                "width": null
+            },
+            "pathComponent": "climb3.jpg",
+            "title": "Climb 3"
+        },
+        "doggie_diner": {
+            "description": "Nice's restaurants aren't too baby friendly.   This one, like most, didn't have a high chair, but at the table behind us the waiter brought a crystal bowl for the rich old lady's poodle to drink from.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/01/02/images/doggie_diner.jpg",
+                "width": null
+            },
+            "pathComponent": "doggie_diner.jpg",
+            "title": "Doggie Diner"
+        },
+        "iris": {
+            "description": "Lucie feeds her little niece.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/01/02/images/iris.jpg",
+                "width": null
+            },
+            "pathComponent": "iris.jpg",
+            "title": "Iris"
+        },
+        "san_remo": {
+            "description": "Italy is only 20 miles from Nice.  We spent an afternoon in San Remo, near the border.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/01/02/images/san_remo.jpg",
+                "width": null
+            },
+            "pathComponent": "san_remo.jpg",
+            "title": "San Remo"
+        },
+        "washing_machine": {
+            "description": "Felix was fascinated by the washing machine in Justine and Yves' kitchen.  They had to check for baby-introduced objects before doing each wash.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/01/02/images/washing_machine.jpg",
+                "width": null
+            },
+            "pathComponent": "washing_machine.jpg",
+            "title": "Washing Machine"
+        },
+        "wave": {
+            "description": "Felix has been big on waving for the last few weeks.  He's got a sort of Queen Mum sort of little wave.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/01/02/images/wave.jpg",
+                "width": null
+            },
+            "pathComponent": "wave.jpg",
+            "title": "Wave"
+        }
+    },
+    "childrenOrder": [
+        "a_nice",
+        "a_nice2",
+        "baguette",
+        "bath1",
+        "bath2",
+        "bath3",
+        "bath4",
+        "bath5",
+        "bath6",
+        "climb1",
+        "climb2",
+        "climb3",
+        "doggie_diner",
+        "iris",
+        "san_remo",
+        "washing_machine",
+        "wave"
+    ],
+    "creationTimestamp": 1041494400,
+    "description": "<P>\n<P>\nThe Moses family spent the end of the year in Nice, with Justine, Yves and Iris.  All four parents managed, more or less, to stay awake until midnight of New Year's Eve.\n\n<p>",
+    "pathComponent": "2003/01-02",
+    "summary": "",
+    "thumbnailChild": "a_nice2",
+    "title": "January 2"
+}

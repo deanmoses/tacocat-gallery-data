@@ -1,0 +1,320 @@
+{
+    "children": {
+        "0_map": {
+            "description": "<h2>Trip itinerary</h2>\n<b>Friday:</b>  Leave San Francisco, drive to San Luis Obispo and stay with Ron and Kay Zammit.\n<br /><b>Saturday:</b>  Hang out with Ron and Kay.\n<br /><b>Sunday:</b>    Drive to Santa Barbara, stay with Jean-Jacques, Corinne, Jules, and Samuel Courtine.\n<br /><b>Monday:</b>  See Santa Barbara.\n<br /><b>Tuesday:</b>  Drive to Laguna Beach, stopping in LA to hang out.\n<br /><b>Wednesday - Friday:</b>  Hang out in Laguna Beach and see the rest of the Orange Coast.\n<br /><b>Saturday:</b>  Lucie and Felix take plane back, Dean drives the minivan back.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/0_map.jpg",
+                "width": null
+            },
+            "pathComponent": "0_map.jpg",
+            "title": "Map"
+        },
+        "1_zammit01": {
+            "description": "Ron drives a tractor.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/1_zammit01.jpg",
+                "width": null
+            },
+            "pathComponent": "1_zammit01.jpg",
+            "title": "Zammit 1"
+        },
+        "1_zammit02": {
+            "description": "Ron and Kay are building a house in the hills of San Luis Obispo.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/1_zammit02.jpg",
+                "width": null
+            },
+            "pathComponent": "1_zammit02.jpg",
+            "title": "Zammit 2"
+        },
+        "1_zammit03": {
+            "description": "The house has a porch that wraps around the entire second floor.  Sweet.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/1_zammit03.jpg",
+                "width": null
+            },
+            "pathComponent": "1_zammit03.jpg",
+            "title": "Zammit 3"
+        },
+        "1_zammit04": {
+            "description": "Ron, Felix, Dean, and Kay on the second story porch.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/1_zammit04.jpg",
+                "width": null
+            },
+            "pathComponent": "1_zammit04.jpg",
+            "title": "Zammit 4"
+        },
+        "1_zammit05": {
+            "description": "Despite Ron's fear that no baby likes a man with a beard, Felix liked him.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/1_zammit05.jpg",
+                "width": null
+            },
+            "pathComponent": "1_zammit05.jpg",
+            "title": "Zammit 5"
+        },
+        "1_zammit06": {
+            "description": "The Moses family in the bowels of the future casa Zammit.  I think this is a bathroom.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/1_zammit06.jpg",
+                "width": null
+            },
+            "pathComponent": "1_zammit06.jpg",
+            "title": "Zammit 6"
+        },
+        "1_zammit07": {
+            "description": "The morning view from the porch.  The property is inside a ranch; there are cows all around.  Felix absolutely loves to hear cows moo, and hear Dean moo back.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/1_zammit07.jpg",
+                "width": null
+            },
+            "pathComponent": "1_zammit07.jpg",
+            "title": "Zammit 7"
+        },
+        "1_zammit09": {
+            "description": "While the house is being finished, Ron and Kay live in a huge garage shed at the bottom of the hill.  Inside the shed is parked an old camping trailer.  This is their guest quarters.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/1_zammit09.jpg",
+                "width": null
+            },
+            "pathComponent": "1_zammit09.jpg",
+            "title": "Zammit 9"
+        },
+        "1_zammit10": {
+            "description": "The obligitory photo of bathing Felix in a sink.  This sink is in Ron and Kay's garage shed.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/1_zammit10.jpg",
+                "width": null
+            },
+            "pathComponent": "1_zammit10.jpg",
+            "title": "Zammit 10"
+        },
+        "1_zammit11": {
+            "description": "Felix does a pole dance for Kay in downtown San Luis Obsipo.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/1_zammit11.jpg",
+                "width": null
+            },
+            "pathComponent": "1_zammit11.jpg",
+            "title": "Zammit 11"
+        },
+        "1_zammit12": {
+            "description": "Kay and Felix on Avila Beach in San Luis Obsipo.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/1_zammit12.jpg",
+                "width": null
+            },
+            "pathComponent": "1_zammit12.jpg",
+            "title": "Zammit 12"
+        },
+        "1_zammit13": {
+            "description": "Felix likes his beach toys.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/1_zammit13.jpg",
+                "width": null
+            },
+            "pathComponent": "1_zammit13.jpg",
+            "title": "Zammit 13"
+        },
+        "1_zammit14": {
+            "description": "Felix wonders where the water comes from, and where it goes to.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/1_zammit14.jpg",
+                "width": null
+            },
+            "pathComponent": "1_zammit14.jpg",
+            "title": "Zammit 14"
+        },
+        "2_courtine1": {
+            "description": "Felix, Lucie, Corinne (mom), Samuel (stroller), Jules.  Just finished a satisfyingly messy Thai meal.  Thinking that three kids is probably one too many.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/2_courtine1.jpg",
+                "width": null
+            },
+            "pathComponent": "2_courtine1.jpg",
+            "title": "Courtine 1"
+        },
+        "2_courtine2": {
+            "description": "Jean-Jaques with little Samuel on knee.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/2_courtine2.jpg",
+                "width": null
+            },
+            "pathComponent": "2_courtine2.jpg",
+            "title": "Courtine 2"
+        },
+        "2_courtine3": {
+            "description": "Jules fishing for babies.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/2_courtine3.jpg",
+                "width": null
+            },
+            "pathComponent": "2_courtine3.jpg",
+            "title": "Courtine 3"
+        },
+        "3_zoo1": {
+            "description": "Santa Barbara Zoo.  Felix and Dean agree that giraffes move funny.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/3_zoo1.jpg",
+                "width": null
+            },
+            "pathComponent": "3_zoo1.jpg",
+            "title": "Zoo 1"
+        },
+        "3_zoo2": {
+            "description": "Those silly, silly emus!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/3_zoo2.jpg",
+                "width": null
+            },
+            "pathComponent": "3_zoo2.jpg",
+            "title": "Zoo 2"
+        },
+        "4_muscle_beach": {
+            "description": "Muscle Beach, in Venice, LA.  Babies grow muscle mass very quickly.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/4_muscle_beach.jpg",
+                "width": null
+            },
+            "pathComponent": "4_muscle_beach.jpg",
+            "title": "Muscle Beach"
+        },
+        "5_laguna1": {
+            "description": "Dean and Felix explore the surf at Laguna Beach.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/5_laguna1.jpg",
+                "width": null
+            },
+            "pathComponent": "5_laguna1.jpg",
+            "title": "Laguna 1"
+        },
+        "5_laguna2": {
+            "description": "Felix started out scared of the surf, but by the end of the vacation grew to love it.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/5_laguna2.jpg",
+                "width": null
+            },
+            "pathComponent": "5_laguna2.jpg",
+            "title": "Laguna 2"
+        },
+        "5_laguna3": {
+            "description": "Lazy morning reading the newspaper.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/5_laguna3.jpg",
+                "width": null
+            },
+            "pathComponent": "5_laguna3.jpg",
+            "title": "Laguna 3"
+        },
+        "6_capistrano": {
+            "description": "Meditating at Mission San Juan Capistrano.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/6_capistrano.jpg",
+                "width": null
+            },
+            "pathComponent": "6_capistrano.jpg",
+            "title": "Capistrano"
+        },
+        "7_getty": {
+            "description": "All of the Moses family agreed:  the Getty museum has a nice cactus garden (in picture), but the art sucks.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/7_getty.jpg",
+                "width": null
+            },
+            "pathComponent": "7_getty.jpg",
+            "title": "Getty"
+        },
+        "8_lax": {
+            "description": "Lucie and Felix took the plane back because Felix was sick and tired of that minivan.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/8_lax.jpg",
+                "width": null
+            },
+            "pathComponent": "8_lax.jpg",
+            "title": "Lax"
+        },
+        "9_home1": {
+            "description": "Back at home, where the comfort's at.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/9_home1.jpg",
+                "width": null
+            },
+            "pathComponent": "9_home1.jpg",
+            "title": "Home 1"
+        },
+        "9_home2": {
+            "description": "Dean arrives home at night.  The next morning, BOTH front tires are found to be flat. What do we say?  Same thing we said after a messy diaper change on the back seat, and a messy spit up on the front:  thank GOD it's a rental!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/21/images/9_home2.jpg",
+                "width": null
+            },
+            "pathComponent": "9_home2.jpg",
+            "title": "Home 2"
+        }
+    },
+    "childrenOrder": [
+        "0_map",
+        "1_zammit01",
+        "1_zammit02",
+        "1_zammit03",
+        "1_zammit04",
+        "1_zammit05",
+        "1_zammit06",
+        "1_zammit07",
+        "1_zammit09",
+        "1_zammit10",
+        "1_zammit11",
+        "1_zammit12",
+        "1_zammit13",
+        "1_zammit14",
+        "2_courtine1",
+        "2_courtine2",
+        "2_courtine3",
+        "3_zoo1",
+        "3_zoo2",
+        "4_muscle_beach",
+        "5_laguna1",
+        "5_laguna2",
+        "5_laguna3",
+        "6_capistrano",
+        "7_getty",
+        "8_lax",
+        "9_home1",
+        "9_home2"
+    ],
+    "creationTimestamp": 1027234800,
+    "description": "<P>\n<P>\nThe Moses family went on holiday to southern California.  On the trip, Felix became a pro at standing while holding on to something.  He holds on with one hand and plays with toys with the other.  Sometimes he forgets to hold on, and remains standing a second before he falls over.\n\n<p>\nFelix is becoming very vocal.  He's always babbling.  He likes to bang.  His special preference is for banging any two metal things together.\n</p>\n\n<p>\nThis week's <a href=\"video/\">videos</a>.\n</p>\n\n<p>",
+    "pathComponent": "2002/07-21",
+    "summary": "",
+    "thumbnailChild": "1_zammit14",
+    "title": "July 21"
+}

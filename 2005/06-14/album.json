@@ -1,0 +1,122 @@
+{
+    "children": {
+        "fish": {
+            "description": "One of Milo's favorite activities is talking about fish. When he sees one, he fervently does the baby sign for it (closing and opening mouth).",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/14/slides/fish.jpg",
+                "width": null
+            },
+            "pathComponent": "fish.jpg",
+            "title": "Fish"
+        },
+        "gg1": {
+            "description": "Family outing to Golden Gate Park.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/14/slides/gg1.jpg",
+                "width": null
+            },
+            "pathComponent": "gg1.jpg",
+            "title": "Gg 1"
+        },
+        "gg2": {
+            "description": "In the background are students from Amanda Joyce's middle school, Synergy.  The reason we were in the park was Amanda's graduation.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/14/slides/gg2.jpg",
+                "width": null
+            },
+            "pathComponent": "gg2.jpg",
+            "title": "Gg 2"
+        },
+        "gg3": {
+            "description": "Also in the park is the Conservatory of Flowers. It's beautiful outside and in, but so hot and humid that it is hard to fully enjoy it. \n<p>\nRiding Papa's shoulders in the shade is much more fun.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/14/slides/gg3.jpg",
+                "width": null
+            },
+            "pathComponent": "gg3.jpg",
+            "title": "Gg 3"
+        },
+        "gg4": {
+            "description": "A rare shot of all 4 of us!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/14/slides/gg4.jpg",
+                "width": null
+            },
+            "pathComponent": "gg4.jpg",
+            "title": "Gg 4"
+        },
+        "gg5": {
+            "description": "Another park delight:  a lake devoted entirely to remote controlled boats.  The R/C boat club even has a grand-looking boathouse building.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/14/slides/gg5.jpg",
+                "width": null
+            },
+            "pathComponent": "gg5.jpg",
+            "title": "Gg 5"
+        },
+        "gg6": {
+            "description": "Waving bye-bye.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/14/slides/gg6.jpg",
+                "width": null
+            },
+            "pathComponent": "gg6.jpg",
+            "title": "Gg 6"
+        },
+        "gg7": {
+            "description": "See the turtles? The big one is sculpture, the little ones are real. The turtles moved so little, that at first we thought they were ALL part of the sculpture. But then, we realized they were just doing tai chi, very slowly, along with the people on shore.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/14/slides/gg7.jpg",
+                "width": null
+            },
+            "pathComponent": "gg7.jpg",
+            "title": "Gg 7"
+        },
+        "gg8": {
+            "description": "One more activity at Golden Gate Park: we played at the playground, and Milo scarfed his very first corn dog.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/14/slides/gg8.jpg",
+                "width": null
+            },
+            "pathComponent": "gg8.jpg",
+            "title": "Gg 8"
+        },
+        "morning": {
+            "description": "In the early morning, Felix crawls into Babushka's bed. They sleep a little longer, then they read stories.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/14/slides/morning.jpg",
+                "width": null
+            },
+            "pathComponent": "morning.jpg",
+            "title": "Morning"
+        }
+    },
+    "childrenOrder": [
+        "fish",
+        "gg1",
+        "gg2",
+        "gg3",
+        "gg4",
+        "gg5",
+        "gg6",
+        "gg7",
+        "gg8",
+        "morning"
+    ],
+    "creationTimestamp": 1118732400,
+    "description": "Milo added a baby sign this week: dog.  We sign it by panting, doggie style.\n\n<p>\nBabushka is in town. Felix is delighted to see his French grandma again.  Milo was cautious at first, but then he warmed up to her.\n</p>\n\n<p>\nWe can already tell that Milo is right-handed. He favors his right hand for eating, waving, and handling toys.  Felix was ambidextrous well into his third year, before finally veering to the right.   So the entire family is right-handed.\n<p>\n\nMilo, at long last, has a nanny!  Her name is Maria, she also teaches at the Music Together program, and she's awesome.   Milo and her get along great.  They do lots of singing and music games.  She's doing it once a week now, and will start twice a week in July.  Lucie already has work lined up, and is very happy with how things have turned out.",
+    "pathComponent": "2005/06-14",
+    "summary": "",
+    "thumbnailChild": "gg5",
+    "title": "June 14"
+}

@@ -1,0 +1,287 @@
+{
+    "children": {
+        "alotta_grandmas": {
+            "description": "Brunch with Babushka and Nana.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/07/images/alotta_grandmas.jpg",
+                "width": null
+            },
+            "pathComponent": "alotta_grandmas.jpg",
+            "title": "Alotta Grandmas"
+        },
+        "beach1": {
+            "description": "The gang at Coyote Point Recreation Area.  It's on the bay, just south of the airport, with a nice view of downtown San Francisco.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/07/images/beach1.jpg",
+                "width": null
+            },
+            "pathComponent": "beach1.jpg",
+            "title": "Beach 1"
+        },
+        "beach2": {
+            "description": "Sand toys totally make the beach experience.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/07/images/beach2.jpg",
+                "width": null
+            },
+            "pathComponent": "beach2.jpg",
+            "title": "Beach 2"
+        },
+        "beach3": {
+            "description": "Look Dad!  Planes going to the airport fly right over us!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/07/images/beach3.jpg",
+                "width": null
+            },
+            "pathComponent": "beach3.jpg",
+            "title": "Beach 3"
+        },
+        "beach4": {
+            "description": "Coyote Point is a pretty tough neighborhood.  Planes travel in flocks for security.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/07/images/beach4.jpg",
+                "width": null
+            },
+            "pathComponent": "beach4.jpg",
+            "title": "Beach 4"
+        },
+        "beach5": {
+            "description": "Most residents of San Francisco don't realize that Felix runs the city.  When Felix leaves town for the day, he gives the keys to Arnold Schwartzenegger.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/07/images/beach5.jpg",
+                "width": null
+            },
+            "pathComponent": "beach5.jpg",
+            "title": "Beach 5"
+        },
+        "beach6": {
+            "description": "Felix waves bye-bye at someone.  Who?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/07/images/beach6.jpg",
+                "width": null
+            },
+            "pathComponent": "beach6.jpg",
+            "title": "Beach 6"
+        },
+        "beach7": {
+            "description": "He's leaving Babushka and Mom!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/07/images/beach7.jpg",
+                "width": null
+            },
+            "pathComponent": "beach7.jpg",
+            "title": "Beach 7"
+        },
+        "beach8": {
+            "description": "Felix reconsiders his departure.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/07/images/beach8.jpg",
+                "width": null
+            },
+            "pathComponent": "beach8.jpg",
+            "title": "Beach 8"
+        },
+        "beach9": {
+            "description": "It sure is nice to be home.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/07/images/beach9.jpg",
+                "width": null
+            },
+            "pathComponent": "beach9.jpg",
+            "title": "Beach 9"
+        },
+        "caco1": {
+            "description": "At long last, a tricycle has made its way into the house.  As with all bikes and motorcycles, Felix calls it a \"caco\".  It's love at first sight.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/07/images/caco1.jpg",
+                "width": null
+            },
+            "pathComponent": "caco1.jpg",
+            "title": "Caco 1"
+        },
+        "caco2": {
+            "description": "The German craftmanship is of the higest caliber.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/07/images/caco2.jpg",
+                "width": null
+            },
+            "pathComponent": "caco2.jpg",
+            "title": "Caco 2"
+        },
+        "caco3": {
+            "description": "Felix doesn't understand the pedalling tutorial.  For now, the trike is powered by Dean.  Felix in fact refuses to let anyone else push it:  if someone else tries to push, he'll very calmly put his feet down, dismount, find Dean, and lead him to the push bar.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/07/images/caco3.jpg",
+                "width": null
+            },
+            "pathComponent": "caco3.jpg",
+            "title": "Caco 3"
+        },
+        "caco4": {
+            "description": "Felix discovers a form of transportation vasty superior to anything else on the planet.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/07/images/caco4.jpg",
+                "width": null
+            },
+            "pathComponent": "caco4.jpg",
+            "title": "Caco 4"
+        },
+        "caco5": {
+            "description": "Steering's a bit of a mystery.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/07/images/caco5.jpg",
+                "width": null
+            },
+            "pathComponent": "caco5.jpg",
+            "title": "Caco 5"
+        },
+        "caco6": {
+            "description": "Aw yeah!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/07/images/caco6.jpg",
+                "width": null
+            },
+            "pathComponent": "caco6.jpg",
+            "title": "Caco 6"
+        },
+        "jump1": {
+            "description": "There's been a lot of jumping going on.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/07/images/jump1.jpg",
+                "width": null
+            },
+            "pathComponent": "jump1.jpg",
+            "title": "Jump 1"
+        },
+        "jump2": {
+            "description": "There's two types of jumping:  \n<ol>\n\t<li>\n\t\tThe type where he tries to land on his feet (and usually does).\n\t</li>\n\t<li>\t\n\t\tThe type where he puts his faith in the padding in his diaper.\n\t</li>\n</ol>\nThis is a picture of the latter.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/07/images/jump2.jpg",
+                "width": null
+            },
+            "pathComponent": "jump2.jpg",
+            "title": "Jump 2"
+        },
+        "jump3": {
+            "description": "The boy's getting strong.  He can pull himself off the ground for a second or two.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/07/images/jump3.jpg",
+                "width": null
+            },
+            "pathComponent": "jump3.jpg",
+            "title": "Jump 3"
+        },
+        "leila": {
+            "description": "Lucie and Felix visited Leila and her mom Aisha at the Douglass playground in Noe Valley.  A good time was had by all.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/07/images/leila.jpg",
+                "width": null
+            },
+            "pathComponent": "leila.jpg",
+            "title": "Leila"
+        },
+        "mom": {
+            "description": "Life rocks.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/07/images/mom.jpg",
+                "width": null
+            },
+            "pathComponent": "mom.jpg",
+            "title": "Mom"
+        },
+        "nana1": {
+            "description": "Felix has been astonishingly attached to Nana.  He leapt into her arms the second he saw her, and gave her the biggest longest hug.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/07/images/nana1.jpg",
+                "width": null
+            },
+            "pathComponent": "nana1.jpg",
+            "title": "Nana 1"
+        },
+        "nana2": {
+            "description": "Zzzzzz.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/07/images/nana2.jpg",
+                "width": null
+            },
+            "pathComponent": "nana2.jpg",
+            "title": "Nana 2"
+        },
+        "potty": {
+            "description": "Felix isn't potty trained, but all his stuffed animals are.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/07/images/potty.jpg",
+                "width": null
+            },
+            "pathComponent": "potty.jpg",
+            "title": "Potty"
+        },
+        "train": {
+            "description": "The house has gone insane for trains.  Lucie seems to be buying enough train track to replicate the Paris metro system.  Felix sees trains in anything and everything, and sometimes make-believes he *IS* a train.   He sees two boxes in a row and goes \"choo choo!\"  He takes all the bits of bagel that Dean has given him and turns them into a little train orbiting the big bagel.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/07/images/train.jpg",
+                "width": null
+            },
+            "pathComponent": "train.jpg",
+            "title": "Train"
+        }
+    },
+    "childrenOrder": [
+        "alotta_grandmas",
+        "beach1",
+        "beach2",
+        "beach3",
+        "beach4",
+        "beach5",
+        "beach6",
+        "beach7",
+        "beach8",
+        "beach9",
+        "caco1",
+        "caco2",
+        "caco3",
+        "caco4",
+        "caco5",
+        "caco6",
+        "jump1",
+        "jump2",
+        "jump3",
+        "leila",
+        "mom",
+        "nana1",
+        "nana2",
+        "potty",
+        "train"
+    ],
+    "creationTimestamp": 1062918000,
+    "description": "Felix has been getting a whole lotta love:  <i>both</i> grandmas are in town.\n\n<p>\nMental development is speeding up.  He suprises us every few hours with something new.  Just today he figured out how his train cars are magnetized such that if one end doesn't attach, turn it around and use the other end.  Also today he asked Austin (who was looking under the sofa for a toy), \"What are you doing?\"  Perfect grammar, perfect pronunciation, perfect inflection.\n</p>\n\n<p>\nThey say at this stage they pick up one new word every half hour.  That's easy to believe.\n</p>\n\n<p>\nOver the last few weeks he's started to test boundaries.  He'll continue to do something after we've said stop, just to see what happens.  He's a pretty rules-oriented person, though, so it hasn't been nearly as bad as many other kids his age.  He'll sometimes throw a great screaming tantrum if he doesn't get his way, but it seems sort of experiemental -- he'll usually stop the tantrum quickly if it isn't helping his cause.\n</p>\n\n<p>\nHis lower left molar has broken the surface.  Three more teeth, and he'll have the full set.\n</p>\n\n<p>",
+    "pathComponent": "2003/09-07",
+    "summary": "",
+    "thumbnailChild": "jump1",
+    "title": "September 7"
+}

@@ -1,0 +1,133 @@
+{
+    "children": {
+        "felix1": {
+            "description": "This is Felix being \"found\" at hide and seek.  He's still very very very bad at this game, but loves it.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/24/images/felix1.jpg",
+                "width": null
+            },
+            "pathComponent": "felix1.jpg",
+            "title": "Felix 1"
+        },
+        "felix2": {
+            "description": "Cutie sleepie pie.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/24/images/felix2.jpg",
+                "width": null
+            },
+            "pathComponent": "felix2.jpg",
+            "title": "Felix 2"
+        },
+        "halloween": {
+            "description": "We're ready for Halloween next week:  the space boy has his space stroller, baby elephant has his space suit, and we have trick-or-treating plans with friends from Felix's school.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/24/images/halloween.jpg",
+                "width": null
+            },
+            "pathComponent": "halloween.jpg",
+            "title": "Halloween"
+        },
+        "milo1": {
+            "description": "Milo may not be fully aware of his body parts yet, but his hands and wrists are finding  their way into his mouth more often.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/24/images/milo1.jpg",
+                "width": null
+            },
+            "pathComponent": "milo1.jpg",
+            "title": "Milo 1"
+        },
+        "milo2": {
+            "description": "See?  Milo's on the road towards self-soothing.  Lucie might get her pinky back soon.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/24/images/milo2.jpg",
+                "width": null
+            },
+            "pathComponent": "milo2.jpg",
+            "title": "Milo 2"
+        },
+        "rassle1": {
+            "description": "Milo's #2 and #3 most fascinating things to look at are suddenly and interestingly combined.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/24/images/rassle1.jpg",
+                "width": null
+            },
+            "pathComponent": "rassle1.jpg",
+            "title": "Rassle 1"
+        },
+        "rassle2": {
+            "description": "Says Milo:  \"Duuude, that flip was wicked!\"",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/24/images/rassle2.jpg",
+                "width": null
+            },
+            "pathComponent": "rassle2.jpg",
+            "title": "Rassle 2"
+        },
+        "shot": {
+            "description": "Felix got a flu shot at the doctor.  He rolled up his own sleeve and didn't cry at all when he got the shot.   All of us, especially the doctor, were impressed.   We got him a toy stethoscope afterwards and he's been checking all of our lungs ever since.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/24/images/shot.jpg",
+                "width": null
+            },
+            "pathComponent": "shot.jpg",
+            "title": "Shot"
+        },
+        "sling": {
+            "description": "Snuggling Milo into this sling is the first, last and best line of defence against cranky baby syndrome.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/24/images/sling.jpg",
+                "width": null
+            },
+            "pathComponent": "sling.jpg",
+            "title": "Sling"
+        },
+        "toy1": {
+            "description": "If we put a toy in Milo's hand, he'll close his fingers and seem to be pretty pleased about it.  The toy always goes straight to the mouth.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/24/images/toy1.jpg",
+                "width": null
+            },
+            "pathComponent": "toy1.jpg",
+            "title": "Toy 1"
+        },
+        "toy2": {
+            "description": "Milo gets pretty excited about nubbly rubber.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/24/images/toy2.jpg",
+                "width": null
+            },
+            "pathComponent": "toy2.jpg",
+            "title": "Toy 2"
+        }
+    },
+    "childrenOrder": [
+        "felix1",
+        "felix2",
+        "halloween",
+        "milo1",
+        "milo2",
+        "rassle1",
+        "rassle2",
+        "shot",
+        "sling",
+        "toy1",
+        "toy2"
+    ],
+    "creationTimestamp": 1098601200,
+    "description": "</TD>\n</TR>\n</TABLE>\n<P>\n<P>\nMilo turned 3 months old today.  To celebrate, we had our first supper in a restaurant with the newly super-sized family.  Felix was adorable, and Milo slept through the entire birthday meal.  It couldn't have worked out better.\n\n<p>\nMost kids learn to count by first memorizing the sequence of 1 to 10, then start applying that sequence to quantities of stuff.  Felix has done the opposite:  he still can't keep the sequence straight (he'll start at 4, skip 7, and often peter out before 10), but he knows how to apply a sequence to a quantity.   At breakfast he pointed to the things in front of him and said, \"I'm counting.  Surimi, tartine, water, cereal.  I have cereal.\"\n</p>\n\n<p>\nA Berkeley moment:  Felix saw a Lego guy bending over and said, \"Look!  Doing Tai Chi!\"\n</p>\n\n<p>\nFelix has become an expert at spotting 'F'.  Most recently he saw \"fuck\" grafittied on a wall and said, \"Look!  An F!  An F for Felix!\"\n</p>\n\n<p>\nSee <a href=\"sailing/index.htm\">pictures of Dean sailing</a> with people you probably don't know.\n</p>",
+    "pathComponent": "2004/10-24",
+    "summary": "",
+    "thumbnailChild": "milo2",
+    "title": "October 24"
+}

@@ -1,0 +1,155 @@
+{
+    "children": {
+        "couch": {
+            "description": "He'll flip through picture books by himself.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/18/images/couch.jpg",
+                "width": null
+            },
+            "pathComponent": "couch.jpg",
+            "title": "Couch"
+        },
+        "dean1": {
+            "description": "Out for a stroll in the 'hood.  The two most common destinations are the local coffee shop and the local playground.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/18/images/dean1.jpg",
+                "width": null
+            },
+            "pathComponent": "dean1.jpg",
+            "title": "Dean 1"
+        },
+        "dean2": {
+            "description": "Monkey business as usual.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/18/images/dean2.jpg",
+                "width": null
+            },
+            "pathComponent": "dean2.jpg",
+            "title": "Dean 2"
+        },
+        "garden": {
+            "description": "The inside of the house is pretty finished, but we haven't done anything with the yard except grow weeds.  It's one of those AB projects (After Baby).",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/18/images/garden.jpg",
+                "width": null
+            },
+            "pathComponent": "garden.jpg",
+            "title": "Garden"
+        },
+        "nana1": {
+            "description": "Nana came for the week, for work.  She had hoped the baby would come while she was here, but the little bugger upheld the grand tradition that children have of confounding expectations.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/18/images/nana1.jpg",
+                "width": null
+            },
+            "pathComponent": "nana1.jpg",
+            "title": "Nana 1"
+        },
+        "nana2": {
+            "description": "Trying to teach Felix the letters in his name.  He gets the idea that there's a set of symbols that mean \"Felix\", and it's written on all the clothes and toys he takes to school.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/18/images/nana2.jpg",
+                "width": null
+            },
+            "pathComponent": "nana2.jpg",
+            "title": "Nana 2"
+        },
+        "nana3": {
+            "description": "Nana took Felix to Habitot, a very cool and messy kid's museum.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/18/images/nana3.jpg",
+                "width": null
+            },
+            "pathComponent": "nana3.jpg",
+            "title": "Nana 3"
+        },
+        "pony1": {
+            "description": "Nana took Felix for a pony ride.  He wasn't scared at all.  He told the lady which pony he wanted, got strapped in, and never looked back.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/18/images/pony1.jpg",
+                "width": null
+            },
+            "pathComponent": "pony1.jpg",
+            "title": "Pony 1"
+        },
+        "pony2": {
+            "description": "Nana was staying at this B&B in the Berkeley hills.  Felix tries out their horse.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/18/images/pony2.jpg",
+                "width": null
+            },
+            "pathComponent": "pony2.jpg",
+            "title": "Pony 2"
+        },
+        "railroad": {
+            "description": "Another Nana and Felix trip:  the Tilden Park railroad.  All abooooooard!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/18/images/railroad.jpg",
+                "width": null
+            },
+            "pathComponent": "railroad.jpg",
+            "title": "Railroad"
+        },
+        "skyline": {
+            "description": "Felix checks out the docks at Jack London Square in Oakland.  In the distance is San Francisco's skyline.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/18/images/skyline.jpg",
+                "width": null
+            },
+            "pathComponent": "skyline.jpg",
+            "title": "Skyline"
+        },
+        "sludge": {
+            "description": "This is Crab Cove in Alameda.   Itty bitty crabs live under the rocks at this so-called \"tidal mudflat\".   Felix observes from a point of relative safety.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/18/images/sludge.jpg",
+                "width": null
+            },
+            "pathComponent": "sludge.jpg",
+            "title": "Sludge"
+        },
+        "stroller": {
+            "description": "Friday afternoon.  Felix's preschool makes you take EVERYTHING home over the weekend to get washed, even the nap blanket.   Hygiene-shmygeine.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/18/images/stroller.jpg",
+                "width": null
+            },
+            "pathComponent": "stroller.jpg",
+            "title": "Stroller"
+        }
+    },
+    "childrenOrder": [
+        "couch",
+        "dean1",
+        "dean2",
+        "garden",
+        "nana1",
+        "nana2",
+        "nana3",
+        "pony1",
+        "pony2",
+        "railroad",
+        "skyline",
+        "sludge",
+        "stroller"
+    ],
+    "creationTimestamp": 1090134000,
+    "description": "The baby's due date was July 17th, which has come and gone.  Maybe tonight?  Maybe tomorrow?  Maybe he's waiting for Dean's birthday on the 22nd?",
+    "pathComponent": "2004/07-18",
+    "summary": "",
+    "thumbnailChild": "garden",
+    "title": "July 18"
+}

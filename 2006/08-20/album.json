@@ -1,0 +1,177 @@
+{
+    "children": {
+        "bunkbed1": {
+            "description": "<span class=\"comment\">Felix truly helped put his new bed together: carrying parts, fetching tools, holding things in place, etc.  He stayed with the project for the hours and hours it took to complete, always ready to fetch the odd nut or wrench with a charming \"Coming right up!\"</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/20/slides/bunkbed1.jpg",
+                "width": null
+            },
+            "pathComponent": "bunkbed1.jpg",
+            "title": "Bunkbed 1"
+        },
+        "bunkbed2": {
+            "description": "<span class=\"comment\">Done! Notice the thick foam mattress under the ladder, just in case. Last night was fall-free.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/20/slides/bunkbed2.jpg",
+                "width": null
+            },
+            "pathComponent": "bunkbed2.jpg",
+            "title": "Bunkbed 2"
+        },
+        "bunkbed3": {
+            "description": "<span class=\"comment\">Felix loves going up and down his ladder. He is good about doing it carefullly.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/20/slides/bunkbed3.jpg",
+                "width": null
+            },
+            "pathComponent": "bunkbed3.jpg",
+            "title": "Bunkbed 3"
+        },
+        "bunkbed4": {
+            "description": "<span class=\"comment\">Cozy!</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/20/slides/bunkbed4.jpg",
+                "width": null
+            },
+            "pathComponent": "bunkbed4.jpg",
+            "title": "Bunkbed 4"
+        },
+        "couch": {
+            "description": "<span class=\"comment\">Our poor couch has had a hard time keeping its cushions on. Both Felix and Milo keep using them to build obstacle courses, trampolines or -- Milo's favorite -- little houses.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/20/slides/couch.jpg",
+                "width": null
+            },
+            "pathComponent": "couch.jpg",
+            "title": "Couch"
+        },
+        "dressup": {
+            "description": "<span class=\"comment\">Inspired by Lucie's costume for Snakes on a Plane, Felix and Milo dress up for the babysitter.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/20/slides/dressup.jpg",
+                "width": null
+            },
+            "pathComponent": "dressup.jpg",
+            "title": "Dressup"
+        },
+        "guitar": {
+            "description": "<span class=\"comment\">Singing the beloved ABC song.  He also likes counting, though we've confirmed he's got no idea what the numbers mean.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/20/slides/guitar.jpg",
+                "width": null
+            },
+            "pathComponent": "guitar.jpg",
+            "title": "Guitar"
+        },
+        "jordan": {
+            "description": "<span class=\"comment\">Jordan has been missing Milo a lot since he left nanny Maria and has become a schoolboy.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/20/slides/jordan.jpg",
+                "width": null
+            },
+            "pathComponent": "jordan.jpg",
+            "title": "Jordan"
+        },
+        "lhs1": {
+            "description": "<span class=\"comment\">Dean took Felix to a class at the Lawrence Hall of Science. It was taught by real beekeeper, and featured a real beehive full of live bees.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/20/slides/lhs1.jpg",
+                "width": null
+            },
+            "pathComponent": "lhs1.jpg",
+            "title": "Lhs 1"
+        },
+        "lhs2": {
+            "description": "<span class=\"comment\">Felix loves the rituals around classes at the Lawrence Hall of Science: checking out the new stuff, playing with the permanent exhibits, and having a snack outside.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/20/slides/lhs2.jpg",
+                "width": null
+            },
+            "pathComponent": "lhs2.jpg",
+            "title": "Lhs 2"
+        },
+        "lhs3": {
+            "description": "<span class=\"comment\">Swoosh</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/20/slides/lhs3.jpg",
+                "width": null
+            },
+            "pathComponent": "lhs3.jpg",
+            "title": "Lhs 3"
+        },
+        "newschool": {
+            "description": "<span class=\"comment\">New School. Sofia gives Milo and Felix a ride, while Torin zooms by. School is going well for Milo, especially when he is allowed to hang out with the big kids. He doesn't like being stuck with the 2-year olds as much. Lucie's enjoying working there a half day a week.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/20/slides/newschool.jpg",
+                "width": null
+            },
+            "pathComponent": "newschool.jpg",
+            "title": "Newschool"
+        },
+        "popsicles1": {
+            "description": "<span class=\"comment\">Baboushka gave the boys neat rocketship popsicle molds.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/20/slides/popsicles1.jpg",
+                "width": null
+            },
+            "pathComponent": "popsicles1.jpg",
+            "title": "Popsicles 1"
+        },
+        "popsicles2": {
+            "description": "<span class=\"comment\">Favorite flavor so far: mashed banana with yogurt.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/20/slides/popsicles2.jpg",
+                "width": null
+            },
+            "pathComponent": "popsicles2.jpg",
+            "title": "Popsicles 2"
+        },
+        "popsicles3": {
+            "description": "<span class=\"comment\"><p class=\"dialogue para\">\n<span class=\"speaker\">Milo</span>: Brrrrrrrrrr\n\t<br /><span class=\"speaker\">Felix</span>: It's okay Milo, I'll warm you up.\n</p></span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/20/slides/popsicles3.jpg",
+                "width": null
+            },
+            "pathComponent": "popsicles3.jpg",
+            "title": "Popsicles 3"
+        }
+    },
+    "childrenOrder": [
+        "bunkbed1",
+        "bunkbed2",
+        "bunkbed3",
+        "bunkbed4",
+        "couch",
+        "dressup",
+        "guitar",
+        "jordan",
+        "lhs1",
+        "lhs2",
+        "lhs3",
+        "newschool",
+        "popsicles1",
+        "popsicles2",
+        "popsicles3"
+    ],
+    "creationTimestamp": 1156057200,
+    "description": "This weekend Felix moved out of his toddler bed, from which he was overflowing, into a deluxe apartment in the sky:  a bunk bed!  He's been lusting after such a bed for the longest time.  Felix has been consistently adamant that Milo shall get the bottom bunk, though he understands Milo is too young to leave the crib just yet. So sweet!  Actually, his wish may be granted pretty soon: lately when we've gone to retrieve Milo from the crib he's often had one leg over the top bar.\n<p>\nIn the last few months we have relied too much on TV to entertain Milo while fixing meals. Since he turned 2 we have decided No More TV in the morning, and rarely any TV in the evening. Milo is finally old enough to wait a bit for his food and (at least sometimes) old enough to play nicely by himself while we are busy in the kitchen. Now that TV is no longer a daily thing, Milo has pretty much forgotten that it exists -- he hasn't been begging for it nearly as much as he used to. Yay!\n</p>\nDean and Lucie went with 370 friends to see the premiere of <cite>Snakes on a Plane</cite>.  It was a fun time at an awful movie.  <a href=\"sods/index.html\">The pictures</a>.",
+    "pathComponent": "2006/08-20",
+    "summary": "",
+    "thumbnailChild": "bunkbed1",
+    "title": "August 20"
+}

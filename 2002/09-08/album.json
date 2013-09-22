@@ -1,0 +1,254 @@
+{
+    "children": {
+        "eating_cheerios1": {
+            "description": "Felix can expertly pick up small objects between his thumb and index finger.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/08/images/eating_cheerios1.jpg",
+                "width": null
+            },
+            "pathComponent": "eating_cheerios1.jpg",
+            "title": "Eating Cheerios 1"
+        },
+        "eating_cheerios2": {
+            "description": "Maintaining his pincer grasp all the way to his mouth... perfect form!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/08/images/eating_cheerios2.jpg",
+                "width": null
+            },
+            "pathComponent": "eating_cheerios2.jpg",
+            "title": "Eating Cheerios 2"
+        },
+        "eating_peach": {
+            "description": "Peaches are yummy, but they are too slippery to pick up. Felix eats bits of fruits off Lucie's fingers, zoo-animal-feeding-style.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/08/images/eating_peach.jpg",
+                "width": null
+            },
+            "pathComponent": "eating_peach.jpg",
+            "title": "Eating Peach"
+        },
+        "eating_sippy_cup": {
+            "description": "A little thirsty? No problem! Felix picks up his sippy cup and holds it to his mouth, single-handledly.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/08/images/eating_sippy_cup.jpg",
+                "width": null
+            },
+            "pathComponent": "eating_sippy_cup.jpg",
+            "title": "Eating Sippy Cup"
+        },
+        "eating_spoon1": {
+            "description": "Sometimes, Felix doesn't feel like being passively spoon-fed. He grabs the spoon and shows us how it's done.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/08/images/eating_spoon1.jpg",
+                "width": null
+            },
+            "pathComponent": "eating_spoon1.jpg",
+            "title": "Eating Spoon 1"
+        },
+        "eating_spoon2": {
+            "description": "Once he has lathered his face with food, though, he is happy for us to take over and actually get some food IN him.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/08/images/eating_spoon2.jpg",
+                "width": null
+            },
+            "pathComponent": "eating_spoon2.jpg",
+            "title": "Eating Spoon 2"
+        },
+        "eating_spoon3": {
+            "description": "Have you seen my nice teeth?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/08/images/eating_spoon3.jpg",
+                "width": null
+            },
+            "pathComponent": "eating_spoon3.jpg",
+            "title": "Eating Spoon 3"
+        },
+        "eating_spoon4": {
+            "description": "If we put food on the spoon, and the spoon into the bowl (secured to the tray by a suction cup), Felix quickly pounces on the spoon and brings it to his mouth. However, he hasn't figure out how to reload the spoon.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/08/images/eating_spoon4.jpg",
+                "width": null
+            },
+            "pathComponent": "eating_spoon4.jpg",
+            "title": "Eating Spoon 4"
+        },
+        "eating_spoon5": {
+            "description": "Sometimes, the spoon fights back.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/08/images/eating_spoon5.jpg",
+                "width": null
+            },
+            "pathComponent": "eating_spoon5.jpg",
+            "title": "Eating Spoon 5"
+        },
+        "grocery_shopping": {
+            "description": "Grocery shopping is one of his favorite activities... everything is so colorful! Hey mom, how about some bananas?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/08/images/grocery_shopping.jpg",
+                "width": null
+            },
+            "pathComponent": "grocery_shopping.jpg",
+            "title": "Grocery Shopping"
+        },
+        "gymboree1": {
+            "description": "This week, Felix (in orange shirt) tried out a Gymboree class. It's a place filled with baby-friendly stuff and semi-organized activities. Jasper (in dark blue shirt) and his mom Hazel (left) joined the fun.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/08/images/gymboree1.jpg",
+                "width": null
+            },
+            "pathComponent": "gymboree1.jpg",
+            "title": "Gymboree 1"
+        },
+        "gymboree2": {
+            "description": "Evan and his dad Jason (center) are regulars.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/08/images/gymboree2.jpg",
+                "width": null
+            },
+            "pathComponent": "gymboree2.jpg",
+            "title": "Gymboree 2"
+        },
+        "gymboree3": {
+            "description": "Felix got a chance to satisfy his urge to climb. Everything is padded in thick foam.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/08/images/gymboree3.jpg",
+                "width": null
+            },
+            "pathComponent": "gymboree3.jpg",
+            "title": "Gymboree 3"
+        },
+        "gymboree4": {
+            "description": "The perfect training stairs.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/08/images/gymboree4.jpg",
+                "width": null
+            },
+            "pathComponent": "gymboree4.jpg",
+            "title": "Gymboree 4"
+        },
+        "gymboree5": {
+            "description": "Felix quickly figured out how to climb up the stairs. His technique to go back down isn't so great (he trustingly lunges toward mom).",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/08/images/gymboree5.jpg",
+                "width": null
+            },
+            "pathComponent": "gymboree5.jpg",
+            "title": "Gymboree 5"
+        },
+        "gymboree6": {
+            "description": "Babies were instructed to stay on their back for the parachute ride, but bad boys Jasper and Felix would have none of it.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/08/images/gymboree6.jpg",
+                "width": null
+            },
+            "pathComponent": "gymboree6.jpg",
+            "title": "Gymboree 6"
+        },
+        "gymboree7": {
+            "description": "Wow!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/08/images/gymboree7.jpg",
+                "width": null
+            },
+            "pathComponent": "gymboree7.jpg",
+            "title": "Gymboree 7"
+        },
+        "knitting1": {
+            "description": "Lucie and Felix working on a sweater for Dean.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/08/images/knitting1.jpg",
+                "width": null
+            },
+            "pathComponent": "knitting1.jpg",
+            "title": "Knitting 1"
+        },
+        "knitting2": {
+            "description": "Wholesome, isn't it?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/08/images/knitting2.jpg",
+                "width": null
+            },
+            "pathComponent": "knitting2.jpg",
+            "title": "Knitting 2"
+        },
+        "park_dolores1": {
+            "description": "Felix is loving the playground more and more. Here he is at Dolores Park, climbing away, with a little help from dad.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/08/images/park_dolores1.jpg",
+                "width": null
+            },
+            "pathComponent": "park_dolores1.jpg",
+            "title": "Park Dolores 1"
+        },
+        "park_dolores2": {
+            "description": "Felix often raises one arm high in the air. We haven't figured out whether he is trying to communicate something.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/08/images/park_dolores2.jpg",
+                "width": null
+            },
+            "pathComponent": "park_dolores2.jpg",
+            "title": "Park Dolores 2"
+        },
+        "park_precita": {
+            "description": "Felix climbing over the ledge of the sand box, at Precita Park.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/09/08/images/park_precita.jpg",
+                "width": null
+            },
+            "pathComponent": "park_precita.jpg",
+            "title": "Park Precita"
+        }
+    },
+    "childrenOrder": [
+        "eating_cheerios1",
+        "eating_cheerios2",
+        "eating_peach",
+        "eating_sippy_cup",
+        "eating_spoon1",
+        "eating_spoon2",
+        "eating_spoon3",
+        "eating_spoon4",
+        "eating_spoon5",
+        "grocery_shopping",
+        "gymboree1",
+        "gymboree2",
+        "gymboree3",
+        "gymboree4",
+        "gymboree5",
+        "gymboree6",
+        "gymboree7",
+        "knitting1",
+        "knitting2",
+        "park_dolores1",
+        "park_dolores2",
+        "park_precita"
+    ],
+    "creationTimestamp": 1031468400,
+    "description": "<P>\n<P>\n<p>\nFelix is getting interested in self-feeding. He is very adept at picking up Cheerios, but not so good yet at holding the spoon... we are doing lots of laundry.\n</p>\n\n\n<p>",
+    "pathComponent": "2002/09-08",
+    "summary": "",
+    "thumbnailChild": "grocery_shopping",
+    "title": "September 8"
+}

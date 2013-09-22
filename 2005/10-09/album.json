@@ -1,0 +1,166 @@
+{
+    "children": {
+        "allo": {
+            "description": "Milo's starting to get into pretend play.   He loves to play telephone, or watch us do it.  He also finds it hilarious when we make a stuffed animal walk around.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/10/09/slides/allo.jpg",
+                "width": null
+            },
+            "pathComponent": "allo.jpg",
+            "title": "Allo"
+        },
+        "climb1": {
+            "description": "The Berkeley marina.  Nana and the boys went to watch the Blue Angels fighter jets do their annual buzz over San Francisco.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/10/09/slides/climb1.jpg",
+                "width": null
+            },
+            "pathComponent": "climb1.jpg",
+            "title": "Climb 1"
+        },
+        "climb2": {
+            "description": "Indian Rock Park.  <i>Highly</i> unsuitable for Milo, but Felix loves scrambling around.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/10/09/slides/climb2.jpg",
+                "width": null
+            },
+            "pathComponent": "climb2.jpg",
+            "title": "Climb 2"
+        },
+        "climb3": {
+            "description": "More Indian Rock.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/10/09/slides/climb3.jpg",
+                "width": null
+            },
+            "pathComponent": "climb3.jpg",
+            "title": "Climb 3"
+        },
+        "climb4": {
+            "description": "Felix saw a rock climber and said, \"Just like Spiderman!\".",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/10/09/slides/climb4.jpg",
+                "width": null
+            },
+            "pathComponent": "climb4.jpg",
+            "title": "Climb 4"
+        },
+        "climb5": {
+            "description": "Milo required micromanagement.  He'd happily hurl himself down a cliff just for the thrill.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/10/09/slides/climb5.jpg",
+                "width": null
+            },
+            "pathComponent": "climb5.jpg",
+            "title": "Climb 5"
+        },
+        "grape": {
+            "description": "Milo gets generous with his grapes.  The whole two-brothers-interacting-as-people thing is new as of the last few weeks.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/10/09/slides/grape.jpg",
+                "width": null
+            },
+            "pathComponent": "grape.jpg",
+            "title": "Grape"
+        },
+        "lunch1": {
+            "description": "Nana managed to make it out for the weekend.   Felix was very happy to see her.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/10/09/slides/lunch1.jpg",
+                "width": null
+            },
+            "pathComponent": "lunch1.jpg",
+            "title": "Lunch 1"
+        },
+        "lunch2": {
+            "description": "Baby dogs need food too.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/10/09/slides/lunch2.jpg",
+                "width": null
+            },
+            "pathComponent": "lunch2.jpg",
+            "title": "Lunch 2"
+        },
+        "newschool1": {
+            "description": "A pony visits Felix's school each year for class pictures.  Felix dressed for the occasion. Lucie and Milo came for the picture, but had to leave immediately after because Milo threw a fit when Lucie wouldn't let him pet the pony anymore.\n<p>\nYou can see Felix's favorite teacher, Karen, in the background.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/10/09/slides/newschool1.jpg",
+                "width": null
+            },
+            "pathComponent": "newschool1.jpg",
+            "title": "Newschool 1"
+        },
+        "newschool2": {
+            "description": "Torin likes Milo.  The feeling's reciprocated.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/10/09/slides/newschool2.jpg",
+                "width": null
+            },
+            "pathComponent": "newschool2.jpg",
+            "title": "Newschool 2"
+        },
+        "newschool3": {
+            "description": "Doing great feats of derring-do.  The \"look at me, Mom!\" stage has arrived big time.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/10/09/slides/newschool3.jpg",
+                "width": null
+            },
+            "pathComponent": "newschool3.jpg",
+            "title": "Newschool 3"
+        },
+        "newschool4": {
+            "description": "Jules.\n<p>\nNote the nice ampitheatre-style benches in the background; that's where the kids gather for afternoon snacks and story time. Felix's preschool really has a fabulous play yard.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/10/09/slides/newschool4.jpg",
+                "width": null
+            },
+            "pathComponent": "newschool4.jpg",
+            "title": "Newschool 4"
+        },
+        "newschool5": {
+            "description": "Milo checks out the school bunnies.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/10/09/slides/newschool5.jpg",
+                "width": null
+            },
+            "pathComponent": "newschool5.jpg",
+            "title": "Newschool 5"
+        }
+    },
+    "childrenOrder": [
+        "allo",
+        "climb1",
+        "climb2",
+        "climb3",
+        "climb4",
+        "climb5",
+        "grape",
+        "lunch1",
+        "lunch2",
+        "newschool1",
+        "newschool2",
+        "newschool3",
+        "newschool4",
+        "newschool5"
+    ],
+    "creationTimestamp": 1128841200,
+    "description": "Felix is acting four years old.   He thinks things through.  He asks really good questions -- instead of just asking how something works, he'll try to think of an explanation, and ask you if he's right.   We'll have finely reasoned arguments over what's faster, a race car or Superman.  He has firmly held opinions, like he doesn't care for the color black.   In general, he's in a good space:  more self-assured, confident, and outgoing.  We're really happy with him, and for him.\n\n<p>\nMilo's teething continued this week.  As if that wasn't enough, he got chicken pox (!).  Or at least we think it was chicken pox.  His nanny's other kids have the Pox, though he's never in direct contact with them.   Also, it should have lasted a week and it didn't.  It was here a couple of days, lightly, then faded away.  Through it all, he's been a trouper: he'll be tired and in pain but always manages to return your smile.\n</p>\n\nLanguage:  When you tell Milo any of the following things, he'll rush do do it/go there: sit down, outside, upstairs, stroller, table.  In either French or English.     He's saying all sorts of words, but his pronunciation's so poor that half the time we don't realize it.   Thank god for baby signs -- often we wonder \"did he just say duck/elephant/hat/outside?\", then we'll see him doing the baby sign for it.",
+    "pathComponent": "2005/10-09",
+    "summary": "",
+    "thumbnailChild": "grape",
+    "title": "October 9"
+}

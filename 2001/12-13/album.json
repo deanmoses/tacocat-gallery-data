@@ -1,0 +1,34 @@
+{
+    "children": {
+        "harriet": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/13/images/harriet.jpg",
+                "width": null
+            },
+            "pathComponent": "harriet.jpg",
+            "title": "Harriet"
+        },
+        "very_first_picture_ever": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/13/images/very_first_picture_ever.jpg",
+                "width": null
+            },
+            "pathComponent": "very_first_picture_ever.jpg",
+            "title": "Very First Picture Ever"
+        }
+    },
+    "childrenOrder": [
+        "very_first_picture_ever",
+	"harriet"
+    ],
+    "creationTimestamp": 1008230400,
+    "description": "",
+    "pathComponent": "2001/12-13",
+    "summary": "Felix at the Hospital",
+    "thumbnailChild": "harriet",
+    "title": "December 13"
+}

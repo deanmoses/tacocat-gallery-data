@@ -1,0 +1,353 @@
+{
+    "children": {
+        "1_imperial_beach": {
+            "description": "We rented a house in Imperial Beach, the last town in San Diego county before Mexico.  Unlike most of the rest of the Southern California coast we've been to, Imperial Beach has a very unpretentious, low-key, neighborly sort of feel.   Not glamorous, just fun and cozy.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/1_imperial_beach.jpg",
+                "width": null
+            },
+            "pathComponent": "1_imperial_beach.jpg",
+            "title": "Imperial Beach"
+        },
+        "2_house1": {
+            "description": "Our beach shack.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/2_house1.jpg",
+                "width": null
+            },
+            "pathComponent": "2_house1.jpg",
+            "title": "House 1"
+        },
+        "2_house2": {
+            "description": "A family conference over breakfast.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/2_house2.jpg",
+                "width": null
+            },
+            "pathComponent": "2_house2.jpg",
+            "title": "House 2"
+        },
+        "2_house3": {
+            "description": "Our private beach was nice to keep Felix corraled.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/2_house3.jpg",
+                "width": null
+            },
+            "pathComponent": "2_house3.jpg",
+            "title": "House 3"
+        },
+        "2_rocks_dean1": {
+            "description": "The rocks were a great place to watch the action on the beach.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/2_rocks_dean1.jpg",
+                "width": null
+            },
+            "pathComponent": "2_rocks_dean1.jpg",
+            "title": "Rocks Dean 1"
+        },
+        "2_rocks_dean2": {
+            "description": "Dean and Felix decide where the hot tub should be installed.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/2_rocks_dean2.jpg",
+                "width": null
+            },
+            "pathComponent": "2_rocks_dean2.jpg",
+            "title": "Rocks Dean 2"
+        },
+        "2_rocks_nana": {
+            "description": "Nana and grandson.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/2_rocks_nana.jpg",
+                "width": null
+            },
+            "pathComponent": "2_rocks_nana.jpg",
+            "title": "Rocks Nana"
+        },
+        "2_rocks_squirrel": {
+            "description": "Squirrels lived in the rocks.  Dean liked them, but Lucie found them kind of creepy:  instead of scampering around in trees like squirrels should, they scooted out of holes in the ground like rats that had grown cute bushy tails as a \"photograph me, don't kill me\" defence mechanism against humans.  It worked in this case.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/2_rocks_squirrel.jpg",
+                "width": null
+            },
+            "pathComponent": "2_rocks_squirrel.jpg",
+            "title": "Rocks Squirrel"
+        },
+        "2_rocks_tractor": {
+            "description": "Every morning, tractors collected all the washed up seaweed.  Felix approves.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/2_rocks_tractor.jpg",
+                "width": null
+            },
+            "pathComponent": "2_rocks_tractor.jpg",
+            "title": "Rocks Tractor"
+        },
+        "2_sandcastle": {
+            "description": "Lucie and Dean plan their chateau in the Pyrenees.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/2_sandcastle.jpg",
+                "width": null
+            },
+            "pathComponent": "2_sandcastle.jpg",
+            "title": "Sandcastle"
+        },
+        "bath1": {
+            "description": "Trigger happy baby.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/bath1.jpg",
+                "width": null
+            },
+            "pathComponent": "bath1.jpg",
+            "title": "Bath 1"
+        },
+        "bath2": {
+            "description": "Washing off all that sand, salt and sunscreen is SUCH a chore.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/bath2.jpg",
+                "width": null
+            },
+            "pathComponent": "bath2.jpg",
+            "title": "Bath 2"
+        },
+        "border1": {
+            "description": "A short walk down the street was an estuary.  The hills on the far side are in Mexico.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/border1.jpg",
+                "width": null
+            },
+            "pathComponent": "border1.jpg",
+            "title": "Border 1"
+        },
+        "border2": {
+            "description": "Military helicopters patrol the border estuary constantly.  There was a small heliport where the helicopter would take off, fly in a big circle, land, wait two minutes, then take off and fly the pattern again.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/border2.jpg",
+                "width": null
+            },
+            "pathComponent": "border2.jpg",
+            "title": "Border 2"
+        },
+        "nana_tunnel": {
+            "description": "Nana and Felix explore the concept of tunnels.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/nana_tunnel.jpg",
+                "width": null
+            },
+            "pathComponent": "nana_tunnel.jpg",
+            "title": "Nana Tunnel"
+        },
+        "peekaboo": {
+            "description": "Peekaboo!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/peekaboo.jpg",
+                "width": null
+            },
+            "pathComponent": "peekaboo.jpg",
+            "title": "Peekaboo"
+        },
+        "pier": {
+            "description": "On the nearby pier was a little restaurant serving very fresh seafood.  We had excellent halibut tacos and shark burritos almost every day.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/pier.jpg",
+                "width": null
+            },
+            "pathComponent": "pier.jpg",
+            "title": "Pier"
+        },
+        "sea_dolphin1": {
+            "description": "Sea World is one of San Diego's major family attractions.  Being a family, we went.  This dolphin wanted to come home with us but Dean put his foot down:  we need the bathtub for bathing.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/sea_dolphin1.jpg",
+                "width": null
+            },
+            "pathComponent": "sea_dolphin1.jpg",
+            "title": "Sea Dolphin 1"
+        },
+        "sea_dolphin2": {
+            "description": "Cocktail hour at the dolphin tank.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/sea_dolphin2.jpg",
+                "width": null
+            },
+            "pathComponent": "sea_dolphin2.jpg",
+            "title": "Sea Dolphin 2"
+        },
+        "sea_dolphin3": {
+            "description": "This was taken milliseconds before Dean and Felix got very wet.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/sea_dolphin3.jpg",
+                "width": null
+            },
+            "pathComponent": "sea_dolphin3.jpg",
+            "title": "Sea Dolphin 3"
+        },
+        "sea_lions": {
+            "description": "Are these sea lions or seals?  I never can remember.  Anyway, Felix now identifies them with a very cute \"ork ork\" and slapping his hands against his belly, like flippers.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/sea_lions.jpg",
+                "width": null
+            },
+            "pathComponent": "sea_lions.jpg",
+            "title": "Sea Lions"
+        },
+        "sea_monster": {
+            "description": "What sort of sick, twisted place employs huge chipmunk/otter things to eat little kids?   Felix screams and points the direction in which to run.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/sea_monster.jpg",
+                "width": null
+            },
+            "pathComponent": "sea_monster.jpg",
+            "title": "Sea Monster"
+        },
+        "sea_shamu1": {
+            "description": "Sea World's star performer is Shamu, a killer whale.  Here Shamu lands on his back after doing an out-of-water cartwheel or something.  Showoff.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/sea_shamu1.jpg",
+                "width": null
+            },
+            "pathComponent": "sea_shamu1.jpg",
+            "title": "Sea Shamu 1"
+        },
+        "sea_shamu2": {
+            "description": "Felix doesn't know that killer whales don't usually fly through the air.  But he's very content to sit in Dean's lap and snack on cwackos.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/sea_shamu2.jpg",
+                "width": null
+            },
+            "pathComponent": "sea_shamu2.jpg",
+            "title": "Sea Shamu 2"
+        },
+        "zoo_bus": {
+            "description": "One of San Diego's other big family attractions is the zoo.  Felix's favorite animal?  The double decker bus.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/zoo_bus.jpg",
+                "width": null
+            },
+            "pathComponent": "zoo_bus.jpg",
+            "title": "Zoo Bus"
+        },
+        "zoo_chimp": {
+            "description": "Monkeys are funny.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/zoo_chimp.jpg",
+                "width": null
+            },
+            "pathComponent": "zoo_chimp.jpg",
+            "title": "Zoo Chimp"
+        },
+        "zoo_gondola1": {
+            "description": "Look!  Up there!  What's that!?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/zoo_gondola1.jpg",
+                "width": null
+            },
+            "pathComponent": "zoo_gondola1.jpg",
+            "title": "Zoo Gondola 1"
+        },
+        "zoo_gondola2": {
+            "description": "It's a gondola!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/zoo_gondola2.jpg",
+                "width": null
+            },
+            "pathComponent": "zoo_gondola2.jpg",
+            "title": "Zoo Gondola 2"
+        },
+        "zoo_train": {
+            "description": "No visit to the zoo is complete without a trip in the train.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/zoo_train.jpg",
+                "width": null
+            },
+            "pathComponent": "zoo_train.jpg",
+            "title": "Zoo Train"
+        },
+        "zunset1": {
+            "description": "Another gorgeous sunset.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/zunset1.jpg",
+                "width": null
+            },
+            "pathComponent": "zunset1.jpg",
+            "title": "Zunset 1"
+        },
+        "zunset2": {
+            "description": "So Cal boys. And a spatula.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/07/20/images/zunset2.jpg",
+                "width": null
+            },
+            "pathComponent": "zunset2.jpg",
+            "title": "Zunset 2"
+        }
+    },
+    "childrenOrder": [
+        "1_imperial_beach",
+        "2_house1",
+        "2_house2",
+        "2_house3",
+        "2_rocks_dean1",
+        "2_rocks_dean2",
+        "2_rocks_nana",
+        "2_rocks_squirrel",
+        "2_rocks_tractor",
+        "2_sandcastle",
+        "bath1",
+        "bath2",
+        "border1",
+        "border2",
+        "nana_tunnel",
+        "peekaboo",
+        "pier",
+        "sea_dolphin1",
+        "sea_dolphin2",
+        "sea_dolphin3",
+        "sea_lions",
+        "sea_monster",
+        "sea_shamu1",
+        "sea_shamu2",
+        "zoo_bus",
+        "zoo_chimp",
+        "zoo_gondola1",
+        "zoo_gondola2",
+        "zoo_train",
+        "zunset1",
+        "zunset2"
+    ],
+    "creationTimestamp": 1058684400,
+    "description": "<P>\n<P>\nWe spent a very summery week in San Diego with Grandma Harriet, now known as \"Nana\".  On the second day Harriet was here, we pointed at her and asked Felix \"What's the sign for Grandma?\".  He said \"Nana\".  We're not sure how he decided that.\n\n<p>The word explosion continues.  He says all sorts of hard stuff, like cracker (\"cwacko\") and helicopter (\"coppo\").\n\n<p>He finally started consistently saying \"yes\", usually by nodding his head.  He's excelled at \"no\" for months; it's nice to see \"yes\" make an entrance.\n\n<p>",
+    "pathComponent": "2003/07-20",
+    "summary": "",
+    "thumbnailChild": "2_rocks_squirrel",
+    "title": "July 20"
+}

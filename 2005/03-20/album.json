@@ -1,0 +1,111 @@
+{
+    "children": {
+        "food1": {
+            "description": "Milo has dramatically upped his solid food intake in the last couple of weeks. A jar of baby food used to last 3 days, but now he eats the equivalent of 3 jars a day! He also likes home-mushed carrots, bananas, and avocados. The only thing he refuses is rice cereal and other baby cereals. \n\n<p>\nHe has a very good pincer grasp for his age: he can pick a single Cheerio off his tray and put it in his mouth.  Other finger foods he approves of: black beans, chunks of yams, and little bits of skinned grapes.\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/03/20/slides/food1.jpg",
+                "width": null
+            },
+            "pathComponent": "food1.jpg",
+            "title": "Food 1"
+        },
+        "food2": {
+            "description": "Milo is a hungry hippo in the morning.  While we fix breakfast he sometimes crawls to his highchair and looks up expectantly.  Won't somebody feed me?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/03/20/slides/food2.jpg",
+                "width": null
+            },
+            "pathComponent": "food2.jpg",
+            "title": "Food 2"
+        },
+        "kora1": {
+            "description": "To make up for her original birthday party that she was too sick to attend, there was a surprise party for Kora on Sunday.  Chris had to pass around Oreos to coax the guests into waiting quietly for the birthday girl to arrive.\n<p>\n<u>Kids from left to right</u>: Sarah, Felix, Nate, Abby, Ayame, Alex, Phoebe, Ramona and Torin.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/03/20/slides/kora1.jpg",
+                "width": null
+            },
+            "pathComponent": "kora1.jpg",
+            "title": "Kora 1"
+        },
+        "kora2": {
+            "description": "Have you ever seen such a well-behaved group of children waiting their turn at the pi&ntilde;ata? Felix is at the back of the line. First in line is the birthday girl herself: Kora.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/03/20/slides/kora2.jpg",
+                "width": null
+            },
+            "pathComponent": "kora2.jpg",
+            "title": "Kora 2"
+        },
+        "kora3": {
+            "description": "Milo had a great time at the party as well. He didn't get to taste the birthday cake, but he loved playing in the sandbox with Sarah, Phoebe's little sister.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/03/20/slides/kora3.jpg",
+                "width": null
+            },
+            "pathComponent": "kora3.jpg",
+            "title": "Kora 3"
+        },
+        "mobile1": {
+            "description": "Milo loves to climb up and down. We've set up a foam mattress terrain for him.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/03/20/slides/mobile1.jpg",
+                "width": null
+            },
+            "pathComponent": "mobile1.jpg",
+            "title": "Mobile 1"
+        },
+        "mobile2": {
+            "description": "New this week: Milo sometimes takes a step sideways while holding on to furniture.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/03/20/slides/mobile2.jpg",
+                "width": null
+            },
+            "pathComponent": "mobile2.jpg",
+            "title": "Mobile 2"
+        },
+        "playdoh": {
+            "description": "Rocketships: they aren't just in Legos anymore.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/03/20/slides/playdoh.jpg",
+                "width": null
+            },
+            "pathComponent": "playdoh.jpg",
+            "title": "Playdoh"
+        },
+        "wave": {
+            "description": "Milo is waving! He does it at the appropriate times: to say hi, or in reply when someone waves at him. He is also experimenting with clapping hands.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/03/20/slides/wave.jpg",
+                "width": null
+            },
+            "pathComponent": "wave.jpg",
+            "title": "Wave"
+        }
+    },
+    "childrenOrder": [
+        "food1",
+        "food2",
+        "kora1",
+        "kora2",
+        "kora3",
+        "mobile1",
+        "mobile2",
+        "playdoh",
+        "wave"
+    ],
+    "creationTimestamp": 1111305600,
+    "description": "Let's hope that announcing it won't jinx it: it looks like Felix is potty trained!  It's finally happening after months of being close-but-not-quite. He hasn't had an accident in several days and today was his first day at school in underwear, though he'll still wear a diaper at night for a while.  Two things finally made a difference:\n<ul>\n<li>He is getting physically too big for the biggest size diapers. He complains that the diapers are riding up his butt. He finally faced the fact that something had to be done.\n<li>We taught him how to take off his pants by himself. For a while now, he would use the potty by himself if he was naked; but if he was dressed, he would go in his pants instead of asking for help. \n</ul>\n<p>\nMilo is still having a hard time adjusting to nanny Delia. Felix loves her, though:  she has babysitted a few nights and proved to be a worthy Lego builder. In fact, Felix has a solution to Milo's reluctance to be separated from Lucie: \"I know! Mom can go to the playground with Milo, and I can stay home with Delia!\"\n<p>\nFelix enjoys his baby brother. Friday is bring-a-toy-from-home day at the Snuggery. This week, Felix told Milo \"I am going to take you to school and put you in my cubby, because you are my favorite toy!\" In the end he settled for Jacob Jeremy, his baby doll. \n<p>\nDean is enjoying his job.  Lucie would like to enjoy some freelance jobs, if only Milo would adjust to Delia!",
+    "pathComponent": "2005/03-20",
+    "summary": "",
+    "thumbnailChild": "playdoh",
+    "title": "March 20"
+}

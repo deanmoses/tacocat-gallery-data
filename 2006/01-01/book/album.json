@@ -1,0 +1,100 @@
+{
+    "children": {
+        "book1": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/01/01/book/slides/book1.jpg",
+                "width": null
+            },
+            "pathComponent": "book1.jpg",
+            "title": "Book 1"
+        },
+        "book2": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/01/01/book/slides/book2.jpg",
+                "width": null
+            },
+            "pathComponent": "book2.jpg",
+            "title": "Book 2"
+        },
+        "book3": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/01/01/book/slides/book3.jpg",
+                "width": null
+            },
+            "pathComponent": "book3.jpg",
+            "title": "Book 3"
+        },
+        "book4": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/01/01/book/slides/book4.jpg",
+                "width": null
+            },
+            "pathComponent": "book4.jpg",
+            "title": "Book 4"
+        },
+        "book5": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/01/01/book/slides/book5.jpg",
+                "width": null
+            },
+            "pathComponent": "book5.jpg",
+            "title": "Book 5"
+        },
+        "book6": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/01/01/book/slides/book6.jpg",
+                "width": null
+            },
+            "pathComponent": "book6.jpg",
+            "title": "Book 6"
+        },
+        "book7": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/01/01/book/slides/book7.jpg",
+                "width": null
+            },
+            "pathComponent": "book7.jpg",
+            "title": "Book 7"
+        },
+        "book8": {
+            "description": "<div style=\"margin-top:8px;margin-bottom:8px\">\n\t<a href=\"../../index.html\">Return to Jan 1, 2006</a>\n</div>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/01/01/book/slides/book8.jpg",
+                "width": null
+            },
+            "pathComponent": "book8.jpg",
+            "title": "Book 8"
+        }
+    },
+    "childrenOrder": [
+        "book1",
+        "book2",
+        "book3",
+        "book4",
+        "book5",
+        "book6",
+        "book7",
+        "book8"
+    ],
+    "creationTimestamp": 1136102400,
+    "description": "Felix and Dean wrote this story a month or two ago.  The backpack in which Baby Dog is carried around actually exists; we saw such a dog with his owner at the grocery store.\n\n<div style=\"margin-top:8px;margin-bottom:8px\">\n\t<a href=\"../index.html\">Return to Jan 1, 2006</a>\n</div>",
+    "pathComponent": "2006/01-01/book",
+    "summary": "The Adventures of Baby Dog - The Moses Family",
+    "thumbnailChild": "book1",
+    "title": "January 1"
+}

@@ -1,0 +1,78 @@
+{
+    "children": {
+        "babushka": {
+            "description": "Babushka is still here for a few more days, cuddling up her youngest grand-child.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/09/05/images/babushka.jpg",
+                "width": null
+            },
+            "pathComponent": "babushka.jpg",
+            "title": "Babushka"
+        },
+        "hair-long1": {
+            "description": "Lucie's hair has gotten long...",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/09/05/images/hair-long1.jpg",
+                "width": null
+            },
+            "pathComponent": "hair-long1.jpg",
+            "title": "Hair Long 1"
+        },
+        "hair-long2": {
+            "description": "... too long, one might say. It often gets tangled in Milo's little fists.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/09/05/images/hair-long2.jpg",
+                "width": null
+            },
+            "pathComponent": "hair-long2.jpg",
+            "title": "Hair Long 2"
+        },
+        "hair-short": {
+            "description": "Wow! Lucie's hair has gotten short!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/09/05/images/hair-short.jpg",
+                "width": null
+            },
+            "pathComponent": "hair-short.jpg",
+            "title": "Hair Short"
+        },
+        "heat1": {
+            "description": "Now that July and August are behind us, it's time for the REAL summer to start. An inflatable pool in the shade of our pear tree is a perfect place to cool off on a hot afternoon.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/09/05/images/heat1.jpg",
+                "width": null
+            },
+            "pathComponent": "heat1.jpg",
+            "title": "Heat 1"
+        },
+        "heat2": {
+            "description": "Walking barefoot in our garden is tricky business. We've got to replace that prickly mulch with soft green grass.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/09/05/images/heat2.jpg",
+                "width": null
+            },
+            "pathComponent": "heat2.jpg",
+            "title": "Heat 2"
+        }
+    },
+    "childrenOrder": [
+        "babushka",
+        "hair-long1",
+        "hair-long2",
+        "hair-short",
+        "heat1",
+        "heat2"
+    ],
+    "creationTimestamp": 1094367600,
+    "description": "</TD>\n</TR>\n</TABLE>\n<P>\n<P>\nMilo is getting bigger and taller fast. He has outgrown most of his \"0 to 3 months\" outfits; and his cheeks are getting chubbier.\n\n<p>\nIt's been very hot in the Bay Area. One day this week, we did an outing to Lake Anza. Felix was playing in the water, wearing a swimsuit and no diaper. He surprised Lucie by asking to go to the restroom. Once there, he actually peed in the big people toilet. Suspicious, Lucie asked him where he pees at shool, in his diaper or in the toilet? Felix confessed that he pees in the toilet at school; though he prefers the diaper at home. What's a parent to do? At this point, we suspect he would quickly get toilet-trained if we stopped putting diapers on him, but WE are not quite ready to deal with the inevitable accidents, while caring for an infant. \n</p>",
+    "pathComponent": "2004/09-05",
+    "summary": "",
+    "thumbnailChild": "heat1",
+    "title": "September 5"
+}

@@ -1,0 +1,133 @@
+{
+    "children": {
+        "construction": {
+            "description": "We're installing new lights in the dining room.  As a part of the work, the contractor removed some built-in shelves.  Behind the shelves turns out to be the original fireplace of the house.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/03/27/slides/construction.jpg",
+                "width": null
+            },
+            "pathComponent": "construction.jpg",
+            "title": "Construction"
+        },
+        "easter1": {
+            "description": "This marks Felix's first year where he's able to understand the traditions of Easter.  Well, mostly understand:  he thinks the easter bunny is actually made out of chocolate.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/03/27/slides/easter1.jpg",
+                "width": null
+            },
+            "pathComponent": "easter1.jpg",
+            "title": "Easter 1"
+        },
+        "easter2": {
+            "description": "Look how gently he cradles that shatter-proof plastic egg.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/03/27/slides/easter2.jpg",
+                "width": null
+            },
+            "pathComponent": "easter2.jpg",
+            "title": "Easter 2"
+        },
+        "easter3": {
+            "description": "The easter bunny came to Ohlone park instead of our house because our yard is being landscaped.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/03/27/slides/easter3.jpg",
+                "width": null
+            },
+            "pathComponent": "easter3.jpg",
+            "title": "Easter 3"
+        },
+        "first_tooth": {
+            "description": "Here, Milo repeats the baby sign for \"food\".  We started doing signs this week and he's been playing very close attention, sometimes repeating the sign immediately after.  He's getting better at clapping and waving, which he started doing last week.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/03/27/slides/first_tooth.jpg",
+                "width": null
+            },
+            "pathComponent": "first_tooth.jpg",
+            "title": "First Tooth"
+        },
+        "totland1": {
+            "description": "Easter picnic at the local playground.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/03/27/slides/totland1.jpg",
+                "width": null
+            },
+            "pathComponent": "totland1.jpg",
+            "title": "Totland 1"
+        },
+        "totland2": {
+            "description": "Felix shows off his usual swinging style, taught to him by Sylvie.  He's still not into butt-on-the-seat style.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/03/27/slides/totland2.jpg",
+                "width": null
+            },
+            "pathComponent": "totland2.jpg",
+            "title": "Totland 2"
+        },
+        "totland3": {
+            "description": "Slap happy Milo.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/03/27/slides/totland3.jpg",
+                "width": null
+            },
+            "pathComponent": "totland3.jpg",
+            "title": "Totland 3"
+        },
+        "totland4": {
+            "description": "Hey cutie!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/03/27/slides/totland4.jpg",
+                "width": null
+            },
+            "pathComponent": "totland4.jpg",
+            "title": "Totland 4"
+        },
+        "totland5": {
+            "description": "See, there's a wave!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/03/27/slides/totland5.jpg",
+                "width": null
+            },
+            "pathComponent": "totland5.jpg",
+            "title": "Totland 5"
+        },
+        "wyatt": {
+            "description": "Hanging out at Amy and Chris' house.  Their son Wyatt (pictured) is a sweetie.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/03/27/slides/wyatt.jpg",
+                "width": null
+            },
+            "pathComponent": "wyatt.jpg",
+            "title": "Wyatt"
+        }
+    },
+    "childrenOrder": [
+        "construction",
+        "easter1",
+        "easter2",
+        "easter3",
+        "first_tooth",
+        "totland1",
+        "totland2",
+        "totland3",
+        "totland4",
+        "totland5",
+        "wyatt"
+    ],
+    "creationTimestamp": 1111910400,
+    "description": "I'm sure everybody's been hanging breathlessly on the twists and turns of Felix's potty training.  You've reached (we hope) the final episode!  He's no longer in diapers, even at night.  He still has some nighttime accidents, but he's quite firm that he'll never wear another diaper.  He's walking taller, with a spring in his step.\n\n<p>\nMilo has his first tooth.  Lower middle.  No more drool than usual, but he was cranky for a few days before it broke the surface.\n</p>\n\n<p>\nMilo's nanny fired him.  We might have the option of trying again with her in a month or two, but the current situation is that  Milo won't stop crying when he's away from Lucie.  We're not sure what we're going to do.  Lucie had some nice freelance jobs lined up, but that's not going to happen now.  The little bugger is so cute and smiley at home, and so outgoing with strangers, that we never imagined that sending him to a nanny would be a problem.\n</p>",
+    "pathComponent": "2005/03-27",
+    "summary": "",
+    "thumbnailChild": "wyatt",
+    "title": "March 27"
+}

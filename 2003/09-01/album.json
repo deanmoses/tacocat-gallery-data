@@ -1,0 +1,100 @@
+{
+    "children": {
+        "bengal_tiger": {
+            "description": "Moses and the tiger share the same hair stylist.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/01/images/bengal_tiger.jpg",
+                "width": null
+            },
+            "pathComponent": "bengal_tiger.jpg",
+            "title": "Bengal Tiger"
+        },
+        "elephant": {
+            "description": "Felix totally gets the elephant-nose-trunk thing.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/01/images/elephant.jpg",
+                "width": null
+            },
+            "pathComponent": "elephant.jpg",
+            "title": "Elephant"
+        },
+        "stroller_amanda": {
+            "description": "Amanda plays a key role in a futile attempt to entice Felix into the stoller.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/01/images/stroller_amanda.jpg",
+                "width": null
+            },
+            "pathComponent": "stroller_amanda.jpg",
+            "title": "Stroller Amanda"
+        },
+        "stroller_keenan": {
+            "description": "Keenan also tries to make the stroller seem cooler than Dean's arms, but Felix isn't buying it.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/01/images/stroller_keenan.jpg",
+                "width": null
+            },
+            "pathComponent": "stroller_keenan.jpg",
+            "title": "Stroller Keenan"
+        },
+        "top1": {
+            "description": "Felix's favorite zoo perch.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/01/images/top1.jpg",
+                "width": null
+            },
+            "pathComponent": "top1.jpg",
+            "title": "Top 1"
+        },
+        "top2": {
+            "description": "How does Felix ask to get down?  Step one: drool in Dean's hair.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/01/images/top2.jpg",
+                "width": null
+            },
+            "pathComponent": "top2.jpg",
+            "title": "Top 2"
+        },
+        "top3": {
+            "description": "Step two:  slide around a shoulder.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/01/images/top3.jpg",
+                "width": null
+            },
+            "pathComponent": "top3.jpg",
+            "title": "Top 3"
+        },
+        "top4": {
+            "description": "Scientists are still working out the physics of step three, but rest assured it always works.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/09/01/images/top4.jpg",
+                "width": null
+            },
+            "pathComponent": "top4.jpg",
+            "title": "Top 4"
+        }
+    },
+    "childrenOrder": [
+        "bengal_tiger",
+        "elephant",
+        "stroller_amanda",
+        "stroller_keenan",
+        "top1",
+        "top2",
+        "top3",
+        "top4"
+    ],
+    "creationTimestamp": 1062399600,
+    "description": "<P>\n<P>\nThe Moses and Joyce families celebrated Labor Day by visiting the animals at the San Francisco zoo, followed by supper at the Joyces.  A fine time was had by all.  Felix loves the Joyce house because of all the toys and fish and cat and children and convivial commotion.  He got chocolate-drunk on the pudding that Amanda made, which is okay because it turns out he's a happy -- not angry -- sort of drunk. \n\n<p>\nThe Moses house is no longer entirely Felix-proof because he hauls footstools and pushcarts and other astonishingly heavy objects onto the furniture, which lets him get even higher.  \n</p>\n\n<p>\nFelix can hang by hands for a few seconds, no feet on the floor.  This comes in handy when he uses a pushcart to get to a high shelf, then the pushcart wheels out from under him.  He can hang by his fingertips for a second or two until we get him down.\n</p>\n\n<p>\nWe're taking the unusual step of putting photos up two days in a row because of the lack of photos for the previous two weeks.\n</p>\n\n\n<p>",
+    "pathComponent": "2003/09-01",
+    "summary": "",
+    "thumbnailChild": "bengal_tiger",
+    "title": "September 1"
+}

@@ -1,0 +1,122 @@
+{
+    "children": {
+        "1": {
+            "description": "Dad and the trees.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/terre_haute/images/1.jpg",
+                "width": null
+            },
+            "pathComponent": "1.jpg",
+            "title": ""
+        },
+        "2": {
+            "description": "Dad is berry-licious.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/terre_haute/images/2.jpg",
+                "width": null
+            },
+            "pathComponent": "2.jpg",
+            "title": ""
+        },
+        "3": {
+            "description": "Them trees were just bustin' loose.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/terre_haute/images/3.jpg",
+                "width": null
+            },
+            "pathComponent": "3.jpg",
+            "title": ""
+        },
+        "4": {
+            "description": "Parke County is the self-proclaimed Covered Bridge Capital of the World.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/terre_haute/images/4.jpg",
+                "width": null
+            },
+            "pathComponent": "4.jpg",
+            "title": ""
+        },
+        "track_0": {
+            "description": "Indiana luvs racin'.  Here, two cars warm up their tires at the local dragstrip.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/terre_haute/images/track_0.jpg",
+                "width": null
+            },
+            "pathComponent": "track_0.jpg",
+            "title": "Track"
+        },
+        "track_1": {
+            "description": "After a few hours at the track, I can now claim to be something of a wheelie connoisseur.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/terre_haute/images/track_1.jpg",
+                "width": null
+            },
+            "pathComponent": "track_1.jpg",
+            "title": "Track 1"
+        },
+        "track_2": {
+            "description": "People bring the family racecar to the track and make a day of it.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/terre_haute/images/track_2.jpg",
+                "width": null
+            },
+            "pathComponent": "track_2.jpg",
+            "title": "Track 2"
+        },
+        "track_3": {
+            "description": "Some racecars are more custom than others.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/terre_haute/images/track_3.jpg",
+                "width": null
+            },
+            "pathComponent": "track_3.jpg",
+            "title": "Track 3"
+        },
+        "track_4": {
+            "description": "No matter the size or shape, they all go down the track two by two.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/terre_haute/images/track_4.jpg",
+                "width": null
+            },
+            "pathComponent": "track_4.jpg",
+            "title": "Track 4"
+        },
+        "zbackhoe": {
+            "description": "This one's for Felix.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/terre_haute/images/zbackhoe.jpg",
+                "width": null
+            },
+            "pathComponent": "zbackhoe.jpg",
+            "title": "Zbackhoe"
+        }
+    },
+    "childrenOrder": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "track_0",
+        "track_1",
+        "track_2",
+        "track_3",
+        "track_4",
+        "zbackhoe"
+    ],
+    "creationTimestamp": 1066546800,
+    "description": "</TD>\n</TR>\n</TABLE>\nGrandfather Moses (Dean's father) lives in Terre Haute, Indiana.   Dean went for a weekend.   It was a good visit.  Dean got to see the half-harvested fields of corn and soybeans, the colorful autumn foliage, the good Unitarians of Dad's church, and... drag racing!\n\n<p>\nOn the culinary front, fried corn mush is where it's at.  San Francisco chefs don't know what they're missing.\n</p>",
+    "pathComponent": "2003/10-19/terre_haute",
+    "summary": "",
+    "thumbnailChild": "zbackhoe",
+    "title": "October 19"
+}

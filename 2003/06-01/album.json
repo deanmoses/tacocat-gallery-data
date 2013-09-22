@@ -1,0 +1,34 @@
+{
+    "children": {
+        "book-babysign": {
+            "description": "Who can resist a baby who asks for a book to read? Not us!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/01/images/book-babysign.jpg",
+                "width": null
+            },
+            "pathComponent": "book-babysign.jpg",
+            "title": "Book Babysign"
+        },
+        "book-read": {
+            "description": "This is one of Felix's favorite books because he can operate the pop-ups himself.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/01/images/book-read.jpg",
+                "width": null
+            },
+            "pathComponent": "book-read.jpg",
+            "title": "Book Read"
+        }
+    },
+    "childrenOrder": [
+        "book-babysign",
+        "book-read"
+    ],
+    "creationTimestamp": 1054450800,
+    "description": "<P>\n<P>\nFelix was sick early in the week.  Midweek, he went to the pediatrician and got the standard 18-month shots, which can leave a baby feeling under the weather.  Two canines broke through the gum (lower right and upper right) by the weekend. So Felix had an excuse to be in a bad mood this week.  And he was, the little snot.  Consequently, we didn't take many pictures.\n<p>\nHis saving grace this week is that he's just so damn cute.\n\n<p>\nHe weighs 26 lbs 8 oz (12 kg) and is 33 3/4 inches (86 cm) tall.\n\n<p>\nNew words this week:\n<ul>\n\t<li>\n[<u>palms opening and closing</u>]:  book.  He likes to sit in the leather armchair and ask us to fetch him books.\n\t</li>\n\t<li>\n<u>mooooo</u>:  answer to the question \"what sound does the cow make?\"\n\t</li>\n</ul>\n</p>\n\n<p>",
+    "pathComponent": "2003/06-01",
+    "summary": "",
+    "thumbnailChild": "book-babysign",
+    "title": "June 1"
+}

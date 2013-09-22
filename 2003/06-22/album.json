@@ -1,0 +1,144 @@
+{
+    "children": {
+        "cart1": {
+            "description": "Felix goes offroad with his car.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/22/images/cart1.jpg",
+                "width": null
+            },
+            "pathComponent": "cart1.jpg",
+            "title": "Cart 1"
+        },
+        "cart2": {
+            "description": "Shopping for thrills.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/22/images/cart2.jpg",
+                "width": null
+            },
+            "pathComponent": "cart2.jpg",
+            "title": "Cart 2"
+        },
+        "cart3": {
+            "description": "A boy and his basket.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/22/images/cart3.jpg",
+                "width": null
+            },
+            "pathComponent": "cart3.jpg",
+            "title": "Cart 3"
+        },
+        "dad1": {
+            "description": "Dean and Felix enjoy a quiet bottle.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/22/images/dad1.jpg",
+                "width": null
+            },
+            "pathComponent": "dad1.jpg",
+            "title": "Dad 1"
+        },
+        "dad2": {
+            "description": "Felix's favorite thing on TV is <i>Dad vs. Playstation</i>.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/22/images/dad2.jpg",
+                "width": null
+            },
+            "pathComponent": "dad2.jpg",
+            "title": "Dad 2"
+        },
+        "dad3": {
+            "description": "Felix has not yet started correcting Dean's French.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/22/images/dad3.jpg",
+                "width": null
+            },
+            "pathComponent": "dad3.jpg",
+            "title": "Dad 3"
+        },
+        "nap": {
+            "description": "The mighty lion sleeps tonight.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/22/images/nap.jpg",
+                "width": null
+            },
+            "pathComponent": "nap.jpg",
+            "title": "Nap"
+        },
+        "nathaniel": {
+            "description": "Felix spent Saturday night with Nathaniel and his parents, Jenifer and Steve.   Dean and Lucie had an evening that will not be recorded on this website.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/22/images/nathaniel.jpg",
+                "width": null
+            },
+            "pathComponent": "nathaniel.jpg",
+            "title": "Nathaniel"
+        },
+        "peanut_butter1": {
+            "description": "Newest weapon in the fight against hunger:  peanut butter!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/22/images/peanut_butter1.jpg",
+                "width": null
+            },
+            "pathComponent": "peanut_butter1.jpg",
+            "title": "Peanut Butter 1"
+        },
+        "peanut_butter2": {
+            "description": "The bread is merely a peanut butter delivery device.  It doesn't get eaten.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/22/images/peanut_butter2.jpg",
+                "width": null
+            },
+            "pathComponent": "peanut_butter2.jpg",
+            "title": "Peanut Butter 2"
+        },
+        "shovel": {
+            "description": "Our landlord Keith works in the backyard, with Felix's indispensable assistance.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/22/images/shovel.jpg",
+                "width": null
+            },
+            "pathComponent": "shovel.jpg",
+            "title": "Shovel"
+        },
+        "sunglasses": {
+            "description": "Dean thinks Dean's new sunglasses look best on Dean.  Felix begs to differ.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/22/images/sunglasses.jpg",
+                "width": null
+            },
+            "pathComponent": "sunglasses.jpg",
+            "title": "Sunglasses"
+        }
+    },
+    "childrenOrder": [
+        "cart1",
+        "cart2",
+        "cart3",
+        "dad1",
+        "dad2",
+        "dad3",
+        "nap",
+        "nathaniel",
+        "peanut_butter1",
+        "peanut_butter2",
+        "shovel",
+        "sunglasses"
+    ],
+    "creationTimestamp": 1056265200,
+    "description": "<P>\n<P>\nA good week, as usual.   All is well.  The last of the canines broke the gum. \n\n<p>\nNew words:\n<ul>\n\t<li>\n\t\t<u>jus</u>:  French for juice.  This has quickly become a favorite word.\n\t</li>\n\t<li>\n\t\t<u>shoe</u>:  They gotta be on the feet to go outside.\n\t</li>\n\t<li>\n\t\t<u>Vivi</u>: our nanny Sylvie.\n\t</li>\n</ul>\n</p>\n\n<p>\nSee a <a href=\"video/\">video</a> of Felix's armchair gymnastics.\n</p>\n\n<p>",
+    "pathComponent": "2003/06-22",
+    "summary": "",
+    "thumbnailChild": "shovel",
+    "title": "June 22"
+}

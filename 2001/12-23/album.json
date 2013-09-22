@@ -1,0 +1,100 @@
+{
+    "children": {
+        "eyes_wide_open": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/23/images/eyes_wide_open.jpg",
+                "width": null
+            },
+            "pathComponent": "eyes_wide_open.jpg",
+            "title": "Eyes Wide Open"
+        },
+        "felix_and_the_armpit": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/23/images/felix_and_the_armpit.jpg",
+                "width": null
+            },
+            "pathComponent": "felix_and_the_armpit.jpg",
+            "title": "Felix And The Armpit"
+        },
+        "lulix1": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/23/images/lulix1.jpg",
+                "width": null
+            },
+            "pathComponent": "lulix1.jpg",
+            "title": "Lulix 1"
+        },
+        "lulix2": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/23/images/lulix2.jpg",
+                "width": null
+            },
+            "pathComponent": "lulix2.jpg",
+            "title": "Lulix 2"
+        },
+        "lulix3": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/23/images/lulix3.jpg",
+                "width": null
+            },
+            "pathComponent": "lulix3.jpg",
+            "title": "Lulix 3"
+        },
+        "maman_dans_la_cuisine": {
+            "description": "While Lucie kept Felix from starving, Francoise kept Lucie from starving.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/23/images/maman_dans_la_cuisine.jpg",
+                "width": null
+            },
+            "pathComponent": "maman_dans_la_cuisine.jpg",
+            "title": "Maman Dans La Cuisine"
+        },
+        "molix_sleeping": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/23/images/molix_sleeping.jpg",
+                "width": null
+            },
+            "pathComponent": "molix_sleeping.jpg",
+            "title": "Molix Sleeping"
+        },
+        "molulix": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/23/images/molulix.jpg",
+                "width": null
+            },
+            "pathComponent": "molulix.jpg",
+            "title": "Molulix"
+        }
+    },
+    "childrenOrder": [
+        "eyes_wide_open",
+        "felix_and_the_armpit",
+        "lulix1",
+        "lulix2",
+        "lulix3",
+        "maman_dans_la_cuisine",
+        "molix_sleeping",
+        "molulix"
+    ],
+    "creationTimestamp": 1009094400,
+    "description": "",
+    "pathComponent": "2001/12-23",
+    "summary": "Week Two",
+    "thumbnailChild": "maman_dans_la_cuisine",
+    "title": "December 23"
+}

@@ -1,0 +1,210 @@
+{
+    "children": {
+        "planes": {
+            "description": "Felix loves planes ever since the trip to Baton Rouge and Natchez.   He doesn't even need to see them:  he'll tell us about hearing them fly overhead.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/15/images/planes.jpg",
+                "width": null
+            },
+            "pathComponent": "planes.jpg",
+            "title": "Planes"
+        },
+        "sign-elephant": {
+            "description": "Baby sign:  elephant!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/15/images/sign-elephant.jpg",
+                "width": null
+            },
+            "pathComponent": "sign-elephant.jpg",
+            "title": "Sign Elephant"
+        },
+        "sign-frog": {
+            "description": "Baby sign:  frog!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/15/images/sign-frog.jpg",
+                "width": null
+            },
+            "pathComponent": "sign-frog.jpg",
+            "title": "Sign Frog"
+        },
+        "sign-monkey": {
+            "description": "Baby sign:  monkey!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/15/images/sign-monkey.jpg",
+                "width": null
+            },
+            "pathComponent": "sign-monkey.jpg",
+            "title": "Sign Monkey"
+        },
+        "sleep": {
+            "description": "The Sandman snuck up.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/15/images/sleep.jpg",
+                "width": null
+            },
+            "pathComponent": "sleep.jpg",
+            "title": "Sleep"
+        },
+        "sylvie-1": {
+            "description": "Sylvie, our nanny, took pictures of all the kids at her house over the last month.  We're including them in this week's series.  Left to right:  Aidan, Evan, Anna (on Sylvie's lap), Silas and Robert.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/15/images/sylvie-1.jpg",
+                "width": null
+            },
+            "pathComponent": "sylvie-1.jpg",
+            "title": "Sylvie 1"
+        },
+        "sylvie-buddies": {
+            "description": "Evan, Aidan, Robert, Silas and Anna. \n<p>\nMost days, Sylvie only keeps 2 or 3 kids at a time. But sometimes, to accomodate the parents'needs, she ends up with up to 5!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/15/images/sylvie-buddies.jpg",
+                "width": null
+            },
+            "pathComponent": "sylvie-buddies.jpg",
+            "title": "Sylvie Buddies"
+        },
+        "sylvie-couch": {
+            "description": "Evan, Tyler and Silas. \n<p>\nTyler moved to Seattle last month, so we won't be seeing him anymore. Silas, who has been Felix's regular playmate since the beginning, is going to daycare starting in July. Evan is the new kid on the block, and he will be with Felix most of the time. Felix and Evan already know each other well, since their parents, Janice and Jason, are good friends of ours.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/15/images/sylvie-couch.jpg",
+                "width": null
+            },
+            "pathComponent": "sylvie-couch.jpg",
+            "title": "Sylvie Couch"
+        },
+        "sylvie-garden1": {
+            "description": "Silas, Robert, Aidan, Anna and Felix.\n<p>\nOn sunny days, there is nothing like water and mud to keep 5 babies entertained.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/15/images/sylvie-garden1.jpg",
+                "width": null
+            },
+            "pathComponent": "sylvie-garden1.jpg",
+            "title": "Sylvie Garden 1"
+        },
+        "sylvie-garden2": {
+            "description": "Uh-oh, Felix stole Anna's juice <i>again</i>.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/15/images/sylvie-garden2.jpg",
+                "width": null
+            },
+            "pathComponent": "sylvie-garden2.jpg",
+            "title": "Sylvie Garden 2"
+        },
+        "sylvie-jumping": {
+            "description": "Robert and Aidan jump on the bed. \n<p>\nThese two are the veterans. They are over 2&#189; years old, and they have been with Sylvie forever. They are both very sweet. Felix loves to follow them around.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/15/images/sylvie-jumping.jpg",
+                "width": null
+            },
+            "pathComponent": "sylvie-jumping.jpg",
+            "title": "Sylvie Jumping"
+        },
+        "sylvie-lunchtime": {
+            "description": "Aidan, Robert, Sylvie holding Anna, Silas and Felix.\n<p>\nEveryone brings his own lunch packed from home, but sharing is encouraged.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/15/images/sylvie-lunchtime.jpg",
+                "width": null
+            },
+            "pathComponent": "sylvie-lunchtime.jpg",
+            "title": "Sylvie Lunchtime"
+        },
+        "sylvie-nap": {
+            "description": "Felix, Evan and Tyler sleep under the watchful eyes of stuffed animals.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/15/images/sylvie-nap.jpg",
+                "width": null
+            },
+            "pathComponent": "sylvie-nap.jpg",
+            "title": "Sylvie Nap"
+        },
+        "sylvie-painting1": {
+            "description": "At some arts & crafts place in Berkeley, Aidan gives Felix some painting tips  while Robert mixes paint.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/15/images/sylvie-painting1.jpg",
+                "width": null
+            },
+            "pathComponent": "sylvie-painting1.jpg",
+            "title": "Sylvie Painting 1"
+        },
+        "sylvie-painting2": {
+            "description": "Whenever Sylvie manages to borrow a car (and she has no more than 2 or 3 kids in tow), she takes them to all sort of cool places.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/15/images/sylvie-painting2.jpg",
+                "width": null
+            },
+            "pathComponent": "sylvie-painting2.jpg",
+            "title": "Sylvie Painting 2"
+        },
+        "sylvie-stairs": {
+            "description": "Aidan, Anna, Evan, Robert and Silas rush to the stairs when they hear someone coming up. Is it my mom!?! No, it's only Walter.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/15/images/sylvie-stairs.jpg",
+                "width": null
+            },
+            "pathComponent": "sylvie-stairs.jpg",
+            "title": "Sylvie Stairs"
+        },
+        "sylvie-sunglasses": {
+            "description": "Robert, Sylvie and Aidan on a cosmic journey.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/15/images/sylvie-sunglasses.jpg",
+                "width": null
+            },
+            "pathComponent": "sylvie-sunglasses.jpg",
+            "title": "Sylvie Sunglasses"
+        },
+        "sylvie-tildenpark": {
+            "description": "Robert, Aidan and Felix in Tilden Park in Berkeley.\n<p>\nWhat are you whining about, Felix?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/06/15/images/sylvie-tildenpark.jpg",
+                "width": null
+            },
+            "pathComponent": "sylvie-tildenpark.jpg",
+            "title": "Sylvie Tildenpark"
+        }
+    },
+    "childrenOrder": [
+        "planes",
+        "sign-elephant",
+        "sign-frog",
+        "sign-monkey",
+        "sleep",
+        "sylvie-1",
+        "sylvie-buddies",
+        "sylvie-couch",
+        "sylvie-garden1",
+        "sylvie-garden2",
+        "sylvie-jumping",
+        "sylvie-lunchtime",
+        "sylvie-nap",
+        "sylvie-painting1",
+        "sylvie-painting2",
+        "sylvie-stairs",
+        "sylvie-sunglasses",
+        "sylvie-tildenpark"
+    ],
+    "creationTimestamp": 1055660400,
+    "description": "<P>\n<P>\nIt's been a beautiful sunny week, perfect for turning 18 months old.  We got out to the beach but didn't take pictures.\n\n<p>\nFelix has a memory like a baby elephant.  Several times now he's taken something (like a wallet) that we need.  We'll ask him where he put it.  He remembers exactly where he put it and either shows us where it is or brings it back himself.  And these are <i>obscure</i> places.  Such as:  \n<ul><li>The house key under some papers in the recycle bin.</li><li>A dirty diaper under some shirts in Dean's drawers.</li></ul>\n</p>\n\n<p>\nThat Mozart genius gene is finally starting to kick in.  When he's at home with Lucie they always listen to music.  When the CD comes to an end, he puts his hand to his ear (the sign for music), and then makes the sign for \"more\".   Lucie puts another album on.\n</p>\n\n<p>\nLanguage is coming on strong.  He consistently names/signs all the things in all the books we read.  If you ask him \"make the sign for frog\", he'll usually do it.  Before, it was hit or miss whether he'd agree to play along and name things.  And he's making up tons of signs himself.  New words this week:\n<ul>\n\t<li>\n[<u>hand in front of nose</u>]:  elephant.\n\t</li>\n\n\t<li>\n[<u>stick tongue out</u>]:  frog.  He got this one immediately when Lucie introduced it.\n\t</li>\n\t<li>\n[<u>rub ribs</u>]:  monkey.  \n\t</li>\n\t<li>\n[<u>hands out to the side, palms up</u>]:  all gone.  He does this when things disappear, food's gone.  He came up with this one, we guess after seeing us unconsciously do it.\n\t</li>\n\t<li>\n[<u>hands bouncing</u>]:  ball.  He does this along with saying \"ba\".  Lucie used to use this hand gesture a long time ago, but not recently.  We guess Felix started using it because \"ba\" also means bottle and Sylvie's cat, and he wanted to be distinct.\n\t</li>\n\t<li>\n[<u>rubs head</u>]:  bath/shower.  Lucie used it to talk about washing his hair, but Felix extended it to mean any bath or shower.\n\t</li>\n\t<li>\n[<u>one arm out to side</u>]:  airplane.  He's been using this for a few weeks, but lately he's using it everywhere possible.\n\t</li>\n\t<li>\n[<u>move hands in circle</u>]:  turn, turning.  At the swimming pool everyone sings \"the wheels on the bus go round and round\" and moves their hands in a circle.  He must understand the lyrics, because now he uses the gesture for anything that turns, like ceiling fans and ferris wheels.\n\t</li>\n\t<li>\n<u>tortue</u>:  turtle.  He probably accepts to say it (instead of signing it) because mostly only Lucie talks about turtles, so he doesn't hear a conflicting English word.\n\t</li>\n\t<li>\n<u>dodo</u>:  sleep.  (Dodo is the French word for it.)  He also sometimes still signs it by putting his head to one side, too.  Since Dean uses this too, he's okay with saying it.   Sometimes when he's trying to fall asleep, he'll whisper under his breath, \"dodo dodo dodo\".\n\t</li>\n\t<li>\n<u>pssss</u>:  peeing.  He's getting very interested. He likes to sit on his potty and go pssssssssss. Also, he sometimes points to his diaper after he has peed or pooed. He hasn't managed to give us advance warning yet.\t</li>\n</ul>\n</p>\n\n<p>\nSee a <a href=\"video/\">videos</a> of Felix learning how to jump, sort of.\n</p>\n\n<p>",
+    "pathComponent": "2003/06-15",
+    "summary": "",
+    "thumbnailChild": "sign-monkey",
+    "title": "June 15"
+}

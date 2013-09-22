@@ -1,0 +1,78 @@
+{
+    "children": {
+        "beautiful_day": {
+            "description": "First warm spring day.  Outdoor cafe in Berkeley.  Yum!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/03/07/images/beautiful_day.jpg",
+                "width": null
+            },
+            "pathComponent": "beautiful_day.jpg",
+            "title": "Beautiful Day"
+        },
+        "flowers": {
+            "description": "Stop and smell the flowers.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/03/07/images/flowers.jpg",
+                "width": null
+            },
+            "pathComponent": "flowers.jpg",
+            "title": "Flowers"
+        },
+        "squirrel1": {
+            "description": "What are Lucie and Felix looking at?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/03/07/images/squirrel1.jpg",
+                "width": null
+            },
+            "pathComponent": "squirrel1.jpg",
+            "title": "Squirrel 1"
+        },
+        "squrrel2": {
+            "description": "Squirrels!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/03/07/images/squrrel2.jpg",
+                "width": null
+            },
+            "pathComponent": "squrrel2.jpg",
+            "title": "Squrrel 2"
+        },
+        "tires": {
+            "description": "Monkey business.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/03/07/images/tires.jpg",
+                "width": null
+            },
+            "pathComponent": "tires.jpg",
+            "title": "Tires"
+        },
+        "zunzet": {
+            "description": "The sun setting behind Mt. Tam, viewed from the Berkeley marina.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/03/07/images/zunzet.jpg",
+                "width": null
+            },
+            "pathComponent": "zunzet.jpg",
+            "title": "Zunzet"
+        }
+    },
+    "childrenOrder": [
+        "beautiful_day",
+        "flowers",
+        "squirrel1",
+        "squrrel2",
+        "tires",
+        "zunzet"
+    ],
+    "creationTimestamp": 1078646400,
+    "description": "It was a beautiful weekend to be outside.",
+    "pathComponent": "2004/03-07",
+    "summary": "",
+    "thumbnailChild": "zunzet",
+    "title": "March 7"
+}

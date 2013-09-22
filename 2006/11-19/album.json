@@ -1,0 +1,199 @@
+{
+    "children": {
+        "a-new-park": {
+            "description": "Can you <i>believe</i> there was a park in Berkeley that we hadn't been to yet?  This one's called John Hinkel, and has nice hiking.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/19/slides/a-new-park.jpg",
+                "width": null
+            },
+            "pathComponent": "a-new-park.jpg",
+            "title": "A New Park"
+        },
+        "gym": {
+            "description": "Milo: \"Look me, Papa!  Look me flip!\"",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/19/slides/gym.jpg",
+                "width": null
+            },
+            "pathComponent": "gym.jpg",
+            "title": "Gym"
+        },
+        "hand-me-down": {
+            "description": "This is a mega-hand-me-down.  Lucie wore this for the longest time when she was a kid. It was knitted by Babushka.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/19/slides/hand-me-down.jpg",
+                "width": null
+            },
+            "pathComponent": "hand-me-down.jpg",
+            "title": "Hand Me Down"
+        },
+        "homework": {
+            "description": "These are Felix's \"homework\" books -- mazes and puzzles and other games.  He pretends he's in kindergarden and the teacher's given him this as homework.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/19/slides/homework.jpg",
+                "width": null
+            },
+            "pathComponent": "homework.jpg",
+            "title": "Homework"
+        },
+        "indianrock1": {
+            "description": "Felix ascends Indian Rock. Baby Dog brings up the rear, a little worse for wear. \n\n<p class=\"para\">\nFelix has real honest-to-goodness climbing harness.  He and Dean have been practicing on weekends.\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/19/slides/indianrock1.jpg",
+                "width": null
+            },
+            "pathComponent": "indianrock1.jpg",
+            "title": "Indianrock 1"
+        },
+        "indianrock2": {
+            "description": "This was our reward for getting to the top of Indian Rock!  That's San Francisco across the bay.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/19/slides/indianrock2.jpg",
+                "width": null
+            },
+            "pathComponent": "indianrock2.jpg",
+            "title": "Indianrock 2"
+        },
+        "milo1": {
+            "description": "Milo tries to water himself.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/19/slides/milo1.jpg",
+                "width": null
+            },
+            "pathComponent": "milo1.jpg",
+            "title": "Milo 1"
+        },
+        "milo2": {
+            "description": "Milo gets shy when Dean asks for a photo.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/19/slides/milo2.jpg",
+                "width": null
+            },
+            "pathComponent": "milo2.jpg",
+            "title": "Milo 2"
+        },
+        "milo3": {
+            "description": "Contemplating the long distance to go until the local park.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/19/slides/milo3.jpg",
+                "width": null
+            },
+            "pathComponent": "milo3.jpg",
+            "title": "Milo 3"
+        },
+        "milo5": {
+            "description": "Wondering when Dean's going to put away the darn camera and start walking to the park.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/19/slides/milo5.jpg",
+                "width": null
+            },
+            "pathComponent": "milo5.jpg",
+            "title": "Milo 5"
+        },
+        "sanjose1": {
+            "description": "We went to San Jose to check out their Children's Museum.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/19/slides/sanjose1.jpg",
+                "width": null
+            },
+            "pathComponent": "sanjose1.jpg",
+            "title": "Sanjose 1"
+        },
+        "sanjose2": {
+            "description": "Felix analyzes the currents by looking at leaves.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/19/slides/sanjose2.jpg",
+                "width": null
+            },
+            "pathComponent": "sanjose2.jpg",
+            "title": "Sanjose 2"
+        },
+        "sanjose3": {
+            "description": "The children's museum felt expensive.  Downtown San Jose might be soulless, but it's not cashless.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/19/slides/sanjose3.jpg",
+                "width": null
+            },
+            "pathComponent": "sanjose3.jpg",
+            "title": "Sanjose 3"
+        },
+        "sanjose4": {
+            "description": "The water play area had some of the coolest get-wet stuff we've seen. We got wet.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/19/slides/sanjose4.jpg",
+                "width": null
+            },
+            "pathComponent": "sanjose4.jpg",
+            "title": "Sanjose 4"
+        },
+        "sanjose5": {
+            "description": "Do you see Felix in this picture?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/19/slides/sanjose5.jpg",
+                "width": null
+            },
+            "pathComponent": "sanjose5.jpg",
+            "title": "Sanjose 5"
+        },
+        "sanjose6": {
+            "description": "It's hard to miss the museum from the outside.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/19/slides/sanjose6.jpg",
+                "width": null
+            },
+            "pathComponent": "sanjose6.jpg",
+            "title": "Sanjose 6"
+        },
+        "sanjose7": {
+            "description": "San Jose: just the name makes you feel patriotic!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/11/19/slides/sanjose7.jpg",
+                "width": null
+            },
+            "pathComponent": "sanjose7.jpg",
+            "title": "Sanjose 7"
+        }
+    },
+    "childrenOrder": [
+        "a-new-park",
+        "gym",
+        "hand-me-down",
+        "homework",
+        "indianrock1",
+        "indianrock2",
+        "milo1",
+        "milo2",
+        "milo3",
+        "milo5",
+        "sanjose1",
+        "sanjose2",
+        "sanjose3",
+        "sanjose4",
+        "sanjose5",
+        "sanjose6",
+        "sanjose7"
+    ],
+    "creationTimestamp": 1163923200,
+    "description": "<style>\n\t.parenNote {\n\t\tfont-style: italic;\n\t\tcolor: #666;\n\t}\n</style>\n\nMilo's adding grammar so fast that it feels like he's going to run out of new prepositions by Tuesday. From this week:\n<ul>\n\t<li>Mommy, I tell you, I want to get out. <span class=\"parenNote\">(Out of crib.)</span></li>\n\t<li>I show you mess, Papa. <span class=\"parenNote\">(And indeed there was one.)</span></li>\n\t<li>New window!  You happy Mommy? I happy. I happy. <span class=\"parenNote\">(We got a new bathroom window.)</span></li>\n</ul>\n\n<p>\nLucie and Felix were at the grocery store. Lucie put a six pack of Corona in the basket and Felix shouted, <i>\"Oh my god, I love that beer!\"</i>\nHeads turned.  It was a bit before Lucie realized Felix had a bottle cap collection in which Corona caps figure prominently.\n</p>\n\nFelix has been making amazing academic progress in the last two weeks.  <a href=\"felix.html\">Read about it here</a>.",
+    "pathComponent": "2006/11-19",
+    "summary": "",
+    "thumbnailChild": "milo2",
+    "title": "November 19"
+}

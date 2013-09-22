@@ -1,0 +1,166 @@
+{
+    "children": {
+        "bbq": {
+            "description": "This was Memorial Day weekend.  You're supposed to cook in your backyard, so we got a grill and did, twice.  The first time, Dean showed Felix how to light it then impressed upon him how hot and dangerous it was.  The second time, Felix wouldn't come within 20 feet of it.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/31/images/bbq.jpg",
+                "width": null
+            },
+            "pathComponent": "bbq.jpg",
+            "title": "Bbq"
+        },
+        "dora": {
+            "description": "Felix is very into Dora the Explorer.  Here he reads Dora's map to Dora's monkey, Boots. Sometimes, he stars as Boots, and we have to pretend to be Dora.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/31/images/dora.jpg",
+                "width": null
+            },
+            "pathComponent": "dora.jpg",
+            "title": "Dora"
+        },
+        "felix_room1": {
+            "description": "Felix loves his room.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/31/images/felix_room1.jpg",
+                "width": null
+            },
+            "pathComponent": "felix_room1.jpg",
+            "title": "Felix Room 1"
+        },
+        "felix_room2": {
+            "description": "In the book <i>Grandma and Me</i>, a little boy and his grandma go to the beach. At one point, Grandma gets buried in sand, and the boy tickles her toes.\n<p>\nFelix decided that stuffed animals make great sand. He tirelessly asks to be burried neck deep, and then you have to tickle his toes.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/31/images/felix_room2.jpg",
+                "width": null
+            },
+            "pathComponent": "felix_room2.jpg",
+            "title": "Felix Room 2"
+        },
+        "felix_room3": {
+            "description": "Room.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/31/images/felix_room3.jpg",
+                "width": null
+            },
+            "pathComponent": "felix_room3.jpg",
+            "title": "Felix Room 3"
+        },
+        "phone_nana1": {
+            "description": "Felix takes a phone call from Nana.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/31/images/phone_nana1.jpg",
+                "width": null
+            },
+            "pathComponent": "phone_nana1.jpg",
+            "title": "Phone Nana 1"
+        },
+        "phone_nana2": {
+            "description": "There's lots of \"Yeah, uh-huh, yeah, yeah\" in this call.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/31/images/phone_nana2.jpg",
+                "width": null
+            },
+            "pathComponent": "phone_nana2.jpg",
+            "title": "Phone Nana 2"
+        },
+        "picnic": {
+            "description": "We went to a picnic with friends on Memorial Day, but we forgot to take any photos. Instead, here's a photo of a pretend picnic in our living room.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/31/images/picnic.jpg",
+                "width": null
+            },
+            "pathComponent": "picnic.jpg",
+            "title": "Picnic"
+        },
+        "playground1": {
+            "description": "The Adventure Playground is SO fun, you have to sign a liability waiver to get in.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/31/images/playground1.jpg",
+                "width": null
+            },
+            "pathComponent": "playground1.jpg",
+            "title": "Playground 1"
+        },
+        "playground2": {
+            "description": "There's lots of loose nails and stuff.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/31/images/playground2.jpg",
+                "width": null
+            },
+            "pathComponent": "playground2.jpg",
+            "title": "Playground 2"
+        },
+        "playground3": {
+            "description": "Captain Felix goes belowdecks.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/31/images/playground3.jpg",
+                "width": null
+            },
+            "pathComponent": "playground3.jpg",
+            "title": "Playground 3"
+        },
+        "playground4": {
+            "description": "If you return a few nails, they give you a can of paint, and you can paint ANYTHING.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/31/images/playground4.jpg",
+                "width": null
+            },
+            "pathComponent": "playground4.jpg",
+            "title": "Playground 4"
+        },
+        "playground5": {
+            "description": "Of course, Felix paints the boat.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/31/images/playground5.jpg",
+                "width": null
+            },
+            "pathComponent": "playground5.jpg",
+            "title": "Playground 5"
+        },
+        "school": {
+            "description": "Going to school takes about 10 minutes by stroller, or 25 minutes if we walk. It takes a long time to climb on every rock, say hi to every passing cat and squirrel, and observe marching ants.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/31/images/school.jpg",
+                "width": null
+            },
+            "pathComponent": "school.jpg",
+            "title": "School"
+        }
+    },
+    "childrenOrder": [
+        "bbq",
+        "dora",
+        "felix_room1",
+        "felix_room2",
+        "felix_room3",
+        "phone_nana1",
+        "phone_nana2",
+        "picnic",
+        "playground1",
+        "playground2",
+        "playground3",
+        "playground4",
+        "playground5",
+        "school"
+    ],
+    "creationTimestamp": 1085986800,
+    "description": "</TD>\n</TR>\n</TABLE>\n<P>\n<P>\nThe boys are doing well. Felix is talking more and more. Bastille had the hiccups for the first time.\n<p>\nThis week, a couple of times, Felix asked to have his pants and diaper taken off, so he could pee in the potty (and he did, successfully). He has used the potty a few times before, but always when he happened to be naked and in close proximity of a potty (at bath time, or while playing in the nude in the garden). We are pretty sure this recent turn of event has something to do with seeing other kids use the toilet at preschool.\n<p>\nWe are feeling smug about living in Berkeley. San Francisco is starting to get its summer cool weather, whereas we are enjoying the East Bay sun.\n</p>",
+    "pathComponent": "2004/05-31",
+    "summary": "",
+    "thumbnailChild": "felix_room3",
+    "title": "May 31"
+}

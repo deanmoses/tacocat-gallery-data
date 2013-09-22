@@ -1,0 +1,56 @@
+{
+    "children": {
+        "playstation": {
+            "description": "Felix receives his first video game lesson.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/23/images/playstation.jpg",
+                "width": null
+            },
+            "pathComponent": "playstation.jpg",
+            "title": "Playstation"
+        },
+        "shoe": {
+            "description": "If this had actually worked, Felix would have been wearing Daddy's hand-me-downs for the rest of his life.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/23/images/shoe.jpg",
+                "width": null
+            },
+            "pathComponent": "shoe.jpg",
+            "title": "Shoe"
+        },
+        "window1": {
+            "description": "We rearranged furniture for the housewarming party.  Felix got a new window watching spot.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/23/images/window1.jpg",
+                "width": null
+            },
+            "pathComponent": "window1.jpg",
+            "title": "Window 1"
+        },
+        "window2": {
+            "description": "Armchair cowpoke.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/03/23/images/window2.jpg",
+                "width": null
+            },
+            "pathComponent": "window2.jpg",
+            "title": "Window 2"
+        }
+    },
+    "childrenOrder": [
+        "playstation",
+        "shoe",
+        "window1",
+        "window2"
+    ],
+    "creationTimestamp": 1048406400,
+    "description": "<P>\n<P>\nLucie started a new job.  It's a 6 week contract working at Classroom Connect.   It's 4 days a week, so Nanny Sylvie is taking Felix four days now, instead of two.   Felix hasn't had a hard time adjusting -- he cries when he sees Lucie leave, but he stops as soon as Sylvie's door is closed.   It's the first job that Lucie's ever driven to (only 15 minutes though).\n\n<p>\nSaturday we had a housewarming party / birthday party for Lucie.  Lots of old friends came.  We had a great time.  Felix spent the night at Sylvie's, making it a very nanny-intensive week.  But apparently <i>he</i> had a great time too, staying up two and a half hours past his bedtime, listening to Sylvie's friends play the piano.\n</p>\n\n<p>\nHis favorite dessert is strawberries & cream:  he uses the strawberry as a spoon, licks the cream off of it, then goes back for another scoop of cream.\n</p>\n\n<p>\nNew word:\n<ul>\n\t<li>\n\t\t[<u>rub palms</u>]:  rubbing the palms together is the baby sign for running water, like water coming out of a faucet.\n\t</li>\n</ul> \n</p>\n\n<p>",
+    "pathComponent": "2003/03-23",
+    "summary": "",
+    "thumbnailChild": "playstation",
+    "title": "March 23"
+}

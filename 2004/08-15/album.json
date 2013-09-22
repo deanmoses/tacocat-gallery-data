@@ -1,0 +1,133 @@
+{
+    "children": {
+        "boys": {
+            "description": "Lucie and the boys.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/08/15/images/boys.jpg",
+                "width": null
+            },
+            "pathComponent": "boys.jpg",
+            "title": "Boys"
+        },
+        "jen": {
+            "description": "Our friend Jen, who's pregnant, test drives Milo.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/08/15/images/jen.jpg",
+                "width": null
+            },
+            "pathComponent": "jen.jpg",
+            "title": "Jen"
+        },
+        "nursing": {
+            "description": "Felix grabs a nursing pillow and tries to get a doll to nurse.  No dice.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/08/15/images/nursing.jpg",
+                "width": null
+            },
+            "pathComponent": "nursing.jpg",
+            "title": "Nursing"
+        },
+        "poop": {
+            "description": "This is the face that lets us know we'll be changing a diaper in a few minutes.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/08/15/images/poop.jpg",
+                "width": null
+            },
+            "pathComponent": "poop.jpg",
+            "title": "Poop"
+        },
+        "railroad1": {
+            "description": "Felix and Evan relive the heyday of the iron horse at the Hunter's Point railroad museum.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/08/15/images/railroad1.jpg",
+                "width": null
+            },
+            "pathComponent": "railroad1.jpg",
+            "title": "Railroad 1"
+        },
+        "railroad2": {
+            "description": "\"See here, Evan... the next train on that there track will get you to Wichita by daybreak or my name ain't Zed.\"",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/08/15/images/railroad2.jpg",
+                "width": null
+            },
+            "pathComponent": "railroad2.jpg",
+            "title": "Railroad 2"
+        },
+        "railroad3": {
+            "description": "Two trains, two boys and a beanie baby elephant.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/08/15/images/railroad3.jpg",
+                "width": null
+            },
+            "pathComponent": "railroad3.jpg",
+            "title": "Railroad 3"
+        },
+        "railroad4": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/08/15/images/railroad4.jpg",
+                "width": null
+            },
+            "pathComponent": "railroad4.jpg",
+            "title": "Railroad 4"
+        },
+        "trike1": {
+            "description": "Felix wheels on over to the local playground.  This is a historic ride:  his first self-propelled trip ever.  And it was a long one.  He hasn't wanted to pedal his tricycle before, even though we knew he could do it.  Baby elephant came along in the basket for moral support.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/08/15/images/trike1.jpg",
+                "width": null
+            },
+            "pathComponent": "trike1.jpg",
+            "title": "Trike 1"
+        },
+        "trike2": {
+            "description": "Along the way he stops to -- I'm not joking -- smell the flowers.  Three times.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/08/15/images/trike2.jpg",
+                "width": null
+            },
+            "pathComponent": "trike2.jpg",
+            "title": "Trike 2"
+        },
+        "trike3": {
+            "description": "You'd think that his first significant self-propelled ride on a tricycle would be enough by itself, but no.  He pretended it was a plane.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/08/15/images/trike3.jpg",
+                "width": null
+            },
+            "pathComponent": "trike3.jpg",
+            "title": "Trike 3"
+        }
+    },
+    "childrenOrder": [
+        "boys",
+        "jen",
+        "nursing",
+        "poop",
+        "railroad1",
+        "railroad2",
+        "railroad3",
+        "railroad4",
+        "trike1",
+        "trike2",
+        "trike3"
+    ],
+    "creationTimestamp": 1092553200,
+    "description": "Even though Felix has been very sweet with Milo, it was clear even before the birth that he was anxious about whatever changes might be coming.  He's been extremely attached to Dean and quick to melt down at things that would never have phased him before.  Also, he hasn't been growing up at the blistering pre-Milo rate: not many new abilities or language skills, and a lack of interest in doing new things.  He's been wanting to stay at home and play Legos and trains and pretend.\n\n<p>\nI'm happy to say that, as of this weekend, Felix is back on course.  The tantrums receded, he's not clinging to Dean, and his grammar has been graced in the last few days by the appearance of I, us, he and him.  (Though he says \"nus\", a mixture of \"nous\" and \"us\".) Today we played soccer outside and rode his tricycle to the local playground, both firsts.\n</p>\n\n<p>\nCheck out this <a href=\"audio/RowYourBoat.wav\">audio file</a> of Dean and Felix singing <i>Row, Row, Row Your Boat</i>.\n</p>",
+    "pathComponent": "2004/08-15",
+    "summary": "",
+    "thumbnailChild": "poop",
+    "title": "August 15"
+}

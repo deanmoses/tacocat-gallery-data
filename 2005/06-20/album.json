@@ -1,0 +1,144 @@
+{
+    "children": {
+        "dunsmuir1": {
+            "description": "We went to Dunsmuir and stayed in a fantastic cabin, right above a river. We saw a lot of that cabin, because it rained and rained and rained. The water level went higher and higher, but we stayed afloat.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/20/slides/dunsmuir1.jpg",
+                "width": null
+            },
+            "pathComponent": "dunsmuir1.jpg",
+            "title": "Dunsmuir 1"
+        },
+        "dunsmuir2": {
+            "description": "What do you do in the mountains when it rains outside? Dean reads; Keenan and Felix build Lego rocketships; and Milo begs for attention.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/20/slides/dunsmuir2.jpg",
+                "width": null
+            },
+            "pathComponent": "dunsmuir2.jpg",
+            "title": "Dunsmuir 2"
+        },
+        "dunsmuir3": {
+            "description": "Babushka plays solitaire.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/20/slides/dunsmuir3.jpg",
+                "width": null
+            },
+            "pathComponent": "dunsmuir3.jpg",
+            "title": "Dunsmuir 3"
+        },
+        "dunsmuir4": {
+            "description": "All the pent up energy finally explodes! Keenan, Amanda and Felix have a mad rumble on the bed.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/20/slides/dunsmuir4.jpg",
+                "width": null
+            },
+            "pathComponent": "dunsmuir4.jpg",
+            "title": "Dunsmuir 4"
+        },
+        "garage": {
+            "description": "Our car does not live in our garage, but our garage is very full of vehicles nonetheless: motorcycle, strollers, bikes, and now a fancy kid carrier that attaches to an adult bike.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/20/slides/garage.jpg",
+                "width": null
+            },
+            "pathComponent": "garage.jpg",
+            "title": "Garage"
+        },
+        "garden1": {
+            "description": "Babushka has been busy gardening, with good results.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/20/slides/garden1.jpg",
+                "width": null
+            },
+            "pathComponent": "garden1.jpg",
+            "title": "Garden 1"
+        },
+        "garden2": {
+            "description": "I've got wheels, honey, do you want a ride?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/20/slides/garden2.jpg",
+                "width": null
+            },
+            "pathComponent": "garden2.jpg",
+            "title": "Garden 2"
+        },
+        "garden3": {
+            "description": "We celebrated Father's Day by sending Dean to the gym while we baked him a chocolate cake and a home-made pizza.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/20/slides/garden3.jpg",
+                "width": null
+            },
+            "pathComponent": "garden3.jpg",
+            "title": "Garden 3"
+        },
+        "garden4": {
+            "description": "Felix loves his papa. Lately, Dean is firmly the parent of choice, especially for playing legos and reading bedtime stories.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/20/slides/garden4.jpg",
+                "width": null
+            },
+            "pathComponent": "garden4.jpg",
+            "title": "Garden 4"
+        },
+        "garden5": {
+            "description": "A classic \"No Milo!\"... an often heard refrain in our house. Milo gets into everything.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/20/slides/garden5.jpg",
+                "width": null
+            },
+            "pathComponent": "garden5.jpg",
+            "title": "Garden 5"
+        },
+        "standing1": {
+            "description": "Milo can stand up without any support whatsoever.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/20/slides/standing1.jpg",
+                "width": null
+            },
+            "pathComponent": "standing1.jpg",
+            "title": "Standing 1"
+        },
+        "standing2": {
+            "description": "Wow! He picked up this big heavy broom all by himself, with no support! After this photo, he gently put it back down and slowly sat down in a controlled way. Impressive.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/20/slides/standing2.jpg",
+                "width": null
+            },
+            "pathComponent": "standing2.jpg",
+            "title": "Standing 2"
+        }
+    },
+    "childrenOrder": [
+        "dunsmuir1",
+        "dunsmuir2",
+        "dunsmuir3",
+        "dunsmuir4",
+        "garage",
+        "garden1",
+        "garden2",
+        "garden3",
+        "garden4",
+        "garden5",
+        "standing1",
+        "standing2"
+    ],
+    "creationTimestamp": 1119250800,
+    "description": "<p>\nWe went to Dunsmuir, near Mount Shasta, with the Joyces. Unfortunately, it rained the entire time. It was the classic weather horror story:  it started raining as we were packing to leave, and stopped when we were halfway home.  The weather was so bad, we didn't even SEE Mount Shasta, which the Joyces swore was RIGHT THERE.  We think they made it up.</p>\n\n<p>\nMilo wants to be on his two feet. He can stand up without any support, and then stay there for a few seconds. He practises all the time.\n</p>",
+    "pathComponent": "2005/06-20",
+    "summary": "",
+    "thumbnailChild": "standing1",
+    "title": "June 20"
+}

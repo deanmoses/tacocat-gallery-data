@@ -1,0 +1,287 @@
+{
+    "children": {
+        "christmas_dinner1": {
+            "description": "Lucie prepares a whole fish buried in salt for Christmas dinner.  Three different cookbooks and a French-English dictionary were consulted.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/28/images/christmas_dinner1.jpg",
+                "width": null
+            },
+            "pathComponent": "christmas_dinner1.jpg",
+            "title": "Christmas Dinner 1"
+        },
+        "christmas_dinner2": {
+            "description": "Felix helps with the mousse au chocolat.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/28/images/christmas_dinner2.jpg",
+                "width": null
+            },
+            "pathComponent": "christmas_dinner2.jpg",
+            "title": "Christmas Dinner 2"
+        },
+        "christmas_dinner3": {
+            "description": "Putting the egg yolks into the chocolate is a two person job.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/28/images/christmas_dinner3.jpg",
+                "width": null
+            },
+            "pathComponent": "christmas_dinner3.jpg",
+            "title": "Christmas Dinner 3"
+        },
+        "drawing": {
+            "description": "Felix is drawing a lot.  He always draws something concrete, like a turtle, rather than just scribbling.  He's got good attention to color, but some of the shape execution is a little too, er, conceptual, to be accessible to the general population.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/28/images/drawing.jpg",
+                "width": null
+            },
+            "pathComponent": "drawing.jpg",
+            "title": "Drawing"
+        },
+        "froggie": {
+            "description": "Felix started a game of hop-like-a-frog-and-say-ribbit.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/28/images/froggie.jpg",
+                "width": null
+            },
+            "pathComponent": "froggie.jpg",
+            "title": "Froggie"
+        },
+        "groceries": {
+            "description": "His own groceries for his own fridge.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/28/images/groceries.jpg",
+                "width": null
+            },
+            "pathComponent": "groceries.jpg",
+            "title": "Groceries"
+        },
+        "matrix1": {
+            "description": "These yellow barrels live in our yard.  They were in the movie <i>The Matrix: Reloaded</i>.   The big highway chase scene was filmed in nearby Alameda, and a car crashes into them.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/28/images/matrix1.jpg",
+                "width": null
+            },
+            "pathComponent": "matrix1.jpg",
+            "title": "Matrix 1"
+        },
+        "matrix2": {
+            "description": "Jump!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/28/images/matrix2.jpg",
+                "width": null
+            },
+            "pathComponent": "matrix2.jpg",
+            "title": "Matrix 2"
+        },
+        "nana": {
+            "description": "Felix, as always, adores Nana and her visits.  He thinks she lives on an airplane.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/28/images/nana.jpg",
+                "width": null
+            },
+            "pathComponent": "nana.jpg",
+            "title": "Nana"
+        },
+        "nana_reading": {
+            "description": "Felix and Nana spend a lot of quality time reading.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/28/images/nana_reading.jpg",
+                "width": null
+            },
+            "pathComponent": "nana_reading.jpg",
+            "title": "Nana Reading"
+        },
+        "nana_tree": {
+            "description": "Nana gives Felix a tour of the ornaments.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/28/images/nana_tree.jpg",
+                "width": null
+            },
+            "pathComponent": "nana_tree.jpg",
+            "title": "Nana Tree"
+        },
+        "out": {
+            "description": "Felix and Santa's little helper wait for the subway.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/28/images/out.jpg",
+                "width": null
+            },
+            "pathComponent": "out.jpg",
+            "title": "Out"
+        },
+        "out_cablecar1": {
+            "description": "Felix and Santa's little helper on a cable car.  It was Felix's first time, and predicably, he absolutely loved it.  By the way, the brick building is Dean's office.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/28/images/out_cablecar1.jpg",
+                "width": null
+            },
+            "pathComponent": "out_cablecar1.jpg",
+            "title": "Out Cablecar 1"
+        },
+        "out_cablecar2": {
+            "description": "Nana also loved the cable car.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/28/images/out_cablecar2.jpg",
+                "width": null
+            },
+            "pathComponent": "out_cablecar2.jpg",
+            "title": "Out Cablecar 2"
+        },
+        "out_ice": {
+            "description": "Felix tries ice walking for the first time.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/28/images/out_ice.jpg",
+                "width": null
+            },
+            "pathComponent": "out_ice.jpg",
+            "title": "Out Ice"
+        },
+        "tv_guy": {
+            "description": "Our satellite TV's been out for two months.   The prospect of not having any Christmas TV specials for Nana to watch got us off our butts and got the repairman out.  He had to haul a new satellite dish onto the roof via a ladder perched on the third floor landing.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/28/images/tv_guy.jpg",
+                "width": null
+            },
+            "pathComponent": "tv_guy.jpg",
+            "title": "Tv Guy"
+        },
+        "xmas_1": {
+            "description": "Christmas morning!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/28/images/xmas_1.jpg",
+                "width": null
+            },
+            "pathComponent": "xmas_1.jpg",
+            "title": "Xmas 1"
+        },
+        "xmas_2": {
+            "description": "Felix's first Christmas present.  A helicopter.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/28/images/xmas_2.jpg",
+                "width": null
+            },
+            "pathComponent": "xmas_2.jpg",
+            "title": "Xmas 2"
+        },
+        "xmas_big": {
+            "description": "Felix got the idea immediately.  After the first present, he rushed to the tree and pointed at the biggest box.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/28/images/xmas_big.jpg",
+                "width": null
+            },
+            "pathComponent": "xmas_big.jpg",
+            "title": "Xmas Big"
+        },
+        "xmas_happy": {
+            "description": "Felix tears away wrapping paper with wild abandon and a little help from Dad.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/28/images/xmas_happy.jpg",
+                "width": null
+            },
+            "pathComponent": "xmas_happy.jpg",
+            "title": "Xmas Happy"
+        },
+        "xmas_mosii": {
+            "description": "The family, unwrapping.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/28/images/xmas_mosii.jpg",
+                "width": null
+            },
+            "pathComponent": "xmas_mosii.jpg",
+            "title": "Xmas Mosii"
+        },
+        "xmas_nounours1": {
+            "description": "Nana gave Nounours a present.  What could it be?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/28/images/xmas_nounours1.jpg",
+                "width": null
+            },
+            "pathComponent": "xmas_nounours1.jpg",
+            "title": "Xmas Nounours 1"
+        },
+        "xmas_nounours2": {
+            "description": "A teddy bear sized stroller!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/28/images/xmas_nounours2.jpg",
+                "width": null
+            },
+            "pathComponent": "xmas_nounours2.jpg",
+            "title": "Xmas Nounours 2"
+        },
+        "xmas_nounours3": {
+            "description": "Felix takes Nounours for a spin around the house.  Later we take the show to the coffee shop, where he is mobbed by adoring women.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/28/images/xmas_nounours3.jpg",
+                "width": null
+            },
+            "pathComponent": "xmas_nounours3.jpg",
+            "title": "Xmas Nounours 3"
+        },
+        "xmas_potatohead": {
+            "description": "Mr. Potato Head is always good for a chuckle.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/12/28/images/xmas_potatohead.jpg",
+                "width": null
+            },
+            "pathComponent": "xmas_potatohead.jpg",
+            "title": "Xmas Potatohead"
+        }
+    },
+    "childrenOrder": [
+        "christmas_dinner1",
+        "christmas_dinner2",
+        "christmas_dinner3",
+        "drawing",
+        "froggie",
+        "groceries",
+        "matrix1",
+        "matrix2",
+        "nana",
+        "nana_reading",
+        "nana_tree",
+        "out",
+        "out_cablecar1",
+        "out_cablecar2",
+        "out_ice",
+        "tv_guy",
+        "xmas_1",
+        "xmas_2",
+        "xmas_big",
+        "xmas_happy",
+        "xmas_mosii",
+        "xmas_nounours1",
+        "xmas_nounours2",
+        "xmas_nounours3",
+        "xmas_potatohead"
+    ],
+    "creationTimestamp": 1072598400,
+    "description": "Felix must have been a bad boy this year, because Santa gave him the flu.   He didn't eat for three days and sleep for all of us was a fitful, sporadic thing.   We can't say this was the most merry Christmas ever, but at least <i>most</i> of the barfing was done on things that don't stain.\n\n<p>\nHe's mostly over it.  He's eating and no longer has a fever.  Now he just has a cough and sniffles, is grumpy, and feels entitled to a bunch of sick-time privileges like too much television and sleeping in our bed.\n</p>\n\n<p>\nAbout 40% of Felix's talking is in sentences rather than single words.   Things like \"cookie\" have become \"want cookie!\"  The verbs and sentence structure are all English, but some of the nouns are French.\n</p>",
+    "pathComponent": "2003/12-28",
+    "summary": "",
+    "thumbnailChild": "groceries",
+    "title": "December 28"
+}

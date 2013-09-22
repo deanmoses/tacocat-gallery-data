@@ -1,0 +1,133 @@
+{
+    "children": {
+        "1": {
+            "description": "This was a great weekend to be gone.  The painters and electricians had colonized the downstairs since Tuesday.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/04/04/remodeling/slides/1.jpg",
+                "width": null
+            },
+            "pathComponent": "1.jpg",
+            "title": ""
+        },
+        "2": {
+            "description": "The day after we returned from Natchez, the inside was done!  All the mismatched wood and brown trim has turned a nice crisp white, letting us do much stronger wall colors.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/04/04/remodeling/slides/2.jpg",
+                "width": null
+            },
+            "pathComponent": "2.jpg",
+            "title": ""
+        },
+        "3": {
+            "description": "OOOOOOOOOOOrange.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/04/04/remodeling/slides/3.jpg",
+                "width": null
+            },
+            "pathComponent": "3.jpg",
+            "title": ""
+        },
+        "4": {
+            "description": "Greeeeeeeeeeeeeeeeeeeeeeen.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/04/04/remodeling/slides/4.jpg",
+                "width": null
+            },
+            "pathComponent": "4.jpg",
+            "title": ""
+        },
+        "5": {
+            "description": "See the recessed lights in the dining room?  In the morning they make the room seem sunny (this was taken in the afternoon).  And the nasty chandelier that Dean kept bumping his head?  History.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/04/04/remodeling/slides/5.jpg",
+                "width": null
+            },
+            "pathComponent": "5.jpg",
+            "title": ""
+        },
+        "yard1": {
+            "description": "Outside, the workers have just rolled up their sleeves -- and you know they're serious when they bring their own toilet.  Last week they removed old plants, excavated dirt, and began installing an irrigation system.  Next they'll lay a brick patio.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/04/04/remodeling/slides/yard1.jpg",
+                "width": null
+            },
+            "pathComponent": "yard1.jpg",
+            "title": "Yard 1"
+        },
+        "yard2": {
+            "description": "The rest of Berkeley is blooming like mad and our yard is a mudhole.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/04/04/remodeling/slides/yard2.jpg",
+                "width": null
+            },
+            "pathComponent": "yard2.jpg",
+            "title": "Yard 2"
+        },
+        "yard3": {
+            "description": "Future site of a brick patio.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/04/04/remodeling/slides/yard3.jpg",
+                "width": null
+            },
+            "pathComponent": "yard3.jpg",
+            "title": "Yard 3"
+        },
+        "yard4": {
+            "description": "More mud.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/04/04/remodeling/slides/yard4.jpg",
+                "width": null
+            },
+            "pathComponent": "yard4.jpg",
+            "title": "Yard 4"
+        },
+        "yard5": {
+            "description": "And yet more mud.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/04/04/remodeling/slides/yard5.jpg",
+                "width": null
+            },
+            "pathComponent": "yard5.jpg",
+            "title": "Yard 5"
+        },
+        "yard6": {
+            "description": "Seems like I should make up a fake statistic here, like \"There's enough PVC pipe under our yard to drain our sewage to the Farallon Islands.\"",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/04/04/remodeling/slides/yard6.jpg",
+                "width": null
+            },
+            "pathComponent": "yard6.jpg",
+            "title": "Yard 6"
+        }
+    },
+    "childrenOrder": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "yard1",
+        "yard2",
+        "yard3",
+        "yard4",
+        "yard5",
+        "yard6"
+    ],
+    "creationTimestamp": 1112598000,
+    "description": "We're having a lot of work done on the house:  installing recessed lights, repainting, replacing windows, and landscaping.\n\n<p>\nReturn to <a href=\"../index.html\">main April 4 page</a>.\n</p>",
+    "pathComponent": "2005/04-04/remodeling",
+    "summary": "",
+    "thumbnailChild": "yard5",
+    "title": "April 4"
+}

@@ -1,0 +1,155 @@
+{
+    "children": {
+        "austin": {
+            "description": "Austin and family brave the rain for Thai food.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/30/images/austin.jpg",
+                "width": null
+            },
+            "pathComponent": "austin.jpg",
+            "title": "Austin"
+        },
+        "ear1": {
+            "description": "Felix explores his stabilizing options.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/30/images/ear1.jpg",
+                "width": null
+            },
+            "pathComponent": "ear1.jpg",
+            "title": "Ear 1"
+        },
+        "ear2": {
+            "description": "Dean's ears go where no ears have gone before.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/30/images/ear2.jpg",
+                "width": null
+            },
+            "pathComponent": "ear2.jpg",
+            "title": "Ear 2"
+        },
+        "palo_alto": {
+            "description": "Prodded by the recent rainy weather, we discovered an excellent children's museum in Palo Alto.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/30/images/palo_alto.jpg",
+                "width": null
+            },
+            "pathComponent": "palo_alto.jpg",
+            "title": "Palo Alto"
+        },
+        "thanksgiving1": {
+            "description": "Thanksgiving at the Joyces.   There were no little paper pilgrim hats, but all other traditions were followed scrupulously:  turkey, cranberries, stuffing, overeating.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/30/images/thanksgiving1.jpg",
+                "width": null
+            },
+            "pathComponent": "thanksgiving1.jpg",
+            "title": "Thanksgiving 1"
+        },
+        "thanksgiving2": {
+            "description": "The traditional Thanksgiving turkey walk.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/30/images/thanksgiving2.jpg",
+                "width": null
+            },
+            "pathComponent": "thanksgiving2.jpg",
+            "title": "Thanksgiving 2"
+        },
+        "thanksgiving3": {
+            "description": "Felix really digs Keenan.  Here they bond over remote control cars.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/30/images/thanksgiving3.jpg",
+                "width": null
+            },
+            "pathComponent": "thanksgiving3.jpg",
+            "title": "Thanksgiving 3"
+        },
+        "thanksgiving4": {
+            "description": "Fish fascinate.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/30/images/thanksgiving4.jpg",
+                "width": null
+            },
+            "pathComponent": "thanksgiving4.jpg",
+            "title": "Thanksgiving 4"
+        },
+        "thanksgiving5": {
+            "description": "Day after Thanksgiving.   The Joyces and the Mosii attempt to burn off some turkey on a hike in Marin.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/30/images/thanksgiving5.jpg",
+                "width": null
+            },
+            "pathComponent": "thanksgiving5.jpg",
+            "title": "Thanksgiving 5"
+        },
+        "thanksgiving6": {
+            "description": "Felix is just <i>exhausted</i> after hiking up all those hills.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/30/images/thanksgiving6.jpg",
+                "width": null
+            },
+            "pathComponent": "thanksgiving6.jpg",
+            "title": "Thanksgiving 6"
+        },
+        "tunnel1": {
+            "description": "The big concept of the last two weeks:  tunnels.   They're everywhere.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/30/images/tunnel1.jpg",
+                "width": null
+            },
+            "pathComponent": "tunnel1.jpg",
+            "title": "Tunnel 1"
+        },
+        "tunnel2": {
+            "description": "You wouldn't <i>believe</i> the places they put tunnels!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/30/images/tunnel2.jpg",
+                "width": null
+            },
+            "pathComponent": "tunnel2.jpg",
+            "title": "Tunnel 2"
+        },
+        "washing": {
+            "description": "New ritual:  doing his own hand washing after meals.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/30/images/washing.jpg",
+                "width": null
+            },
+            "pathComponent": "washing.jpg",
+            "title": "Washing"
+        }
+    },
+    "childrenOrder": [
+        "austin",
+        "ear1",
+        "ear2",
+        "palo_alto",
+        "thanksgiving1",
+        "thanksgiving2",
+        "thanksgiving3",
+        "thanksgiving4",
+        "thanksgiving5",
+        "thanksgiving6",
+        "tunnel1",
+        "tunnel2",
+        "washing"
+    ],
+    "creationTimestamp": 1070179200,
+    "description": "<img align=\"left\" src=\"turkey.jpg\" />\n\nThe family very much enjoyed the four day Thanksgiving weekend.  All we did was hang out together.  It was great.\n\n<p>\nFelix's phrases are getting longer, such as \"Want cookie!\" rather than just \"Cookie!\"   His answers are getting more sophisticated:  when asked who Jason was, he said \"Papa Evan\".\n</p>\n\n<p>\nHe's getting better at identifying yellow things.   It seems like the next color he's going to get is orange.  Maybe that's appropriate for Thanksgiving:  yellow and orange are the colors of fall foliage.\n</p>",
+    "pathComponent": "2003/11-30",
+    "summary": "",
+    "thumbnailChild": "washing",
+    "title": "November 30"
+}

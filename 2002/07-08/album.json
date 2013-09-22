@@ -1,0 +1,353 @@
+{
+    "children": {
+        "activitytable1": {
+            "description": "Felix got his first piece of furniture.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/activitytable1.jpg",
+                "width": null
+            },
+            "pathComponent": "activitytable1.jpg",
+            "title": "Activitytable 1"
+        },
+        "activitytable2": {
+            "description": "He loves to practice standing.  He's starting to be able to hold on with only one hand.  Sometimes.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/activitytable2.jpg",
+                "width": null
+            },
+            "pathComponent": "activitytable2.jpg",
+            "title": "Activitytable 2"
+        },
+        "activitytable3": {
+            "description": "Standing's nice, but Felix often needs to recharge the ol' hug batteries.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/activitytable3.jpg",
+                "width": null
+            },
+            "pathComponent": "activitytable3.jpg",
+            "title": "Activitytable 3"
+        },
+        "club_knit1": {
+            "description": "Tuesday night knitting club chez Jennifer Lynch.  Felix now amuses himself well enough that Lucie can actually get a little knitting done",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/club_knit1.jpg",
+                "width": null
+            },
+            "pathComponent": "club_knit1.jpg",
+            "title": "Club Knit 1"
+        },
+        "club_knit2": {
+            "description": "Between two rows of stitches, Lucie takes a break to help Felix practice his standing.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/club_knit2.jpg",
+                "width": null
+            },
+            "pathComponent": "club_knit2.jpg",
+            "title": "Club Knit 2"
+        },
+        "club_knit3": {
+            "description": "Hold on Mom, I've almost got it.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/club_knit3.jpg",
+                "width": null
+            },
+            "pathComponent": "club_knit3.jpg",
+            "title": "Club Knit 3"
+        },
+        "club_knit4": {
+            "description": "It's always a good time to bury your head in Mom's neck.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/club_knit4.jpg",
+                "width": null
+            },
+            "pathComponent": "club_knit4.jpg",
+            "title": "Club Knit 4"
+        },
+        "club_knit5": {
+            "description": "Jennifer's coffee table is a great standing prop.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/club_knit5.jpg",
+                "width": null
+            },
+            "pathComponent": "club_knit5.jpg",
+            "title": "Club Knit 5"
+        },
+        "club_knit6": {
+            "description": "Felix lends a helping hand.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/club_knit6.jpg",
+                "width": null
+            },
+            "pathComponent": "club_knit6.jpg",
+            "title": "Club Knit 6"
+        },
+        "club_knit7": {
+            "description": "Lucie knitted a whole inch of her sweater while Felix practiced crawling.  He is not good at it yet.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/club_knit7.jpg",
+                "width": null
+            },
+            "pathComponent": "club_knit7.jpg",
+            "title": "Club Knit 7"
+        },
+        "club_knit8": {
+            "description": "Jennifer has fun furniture.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/club_knit8.jpg",
+                "width": null
+            },
+            "pathComponent": "club_knit8.jpg",
+            "title": "Club Knit 8"
+        },
+        "club_knit9": {
+            "description": "Cuddling is more fun than knitting.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/club_knit9.jpg",
+                "width": null
+            },
+            "pathComponent": "club_knit9.jpg",
+            "title": "Club Knit 9"
+        },
+        "francoise_sweater1": {
+            "description": "Grandma Francoise knitted Felix a sweater.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/francoise_sweater1.jpg",
+                "width": null
+            },
+            "pathComponent": "francoise_sweater1.jpg",
+            "title": "Francoise Sweater 1"
+        },
+        "francoise_sweater2": {
+            "description": "This is how we plan to recognize him in the mall.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/francoise_sweater2.jpg",
+                "width": null
+            },
+            "pathComponent": "francoise_sweater2.jpg",
+            "title": "Francoise Sweater 2"
+        },
+        "july_fourth1": {
+            "description": "Independence day was celebrated with great pomp and circumstance.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/july_fourth1.jpg",
+                "width": null
+            },
+            "pathComponent": "july_fourth1.jpg",
+            "title": "July Fourth 1"
+        },
+        "july_fourth2": {
+            "description": "Grandma Harriet spent the long holiday weekend with us.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/july_fourth2.jpg",
+                "width": null
+            },
+            "pathComponent": "july_fourth2.jpg",
+            "title": "July Fourth 2"
+        },
+        "july_fourth3": {
+            "description": "Vive la France!  Oops, no, this isn't Bastille Day.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/july_fourth3.jpg",
+                "width": null
+            },
+            "pathComponent": "july_fourth3.jpg",
+            "title": "July Fourth 3"
+        },
+        "july_fourth4": {
+            "description": "Yup, the 4th was celebrated with great pomp and circumstance.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/july_fourth4.jpg",
+                "width": null
+            },
+            "pathComponent": "july_fourth4.jpg",
+            "title": "July Fourth 4"
+        },
+        "july_fourth5": {
+            "description": "In San Francisco, July 4th is usually celebrated at a chilly barbequeue, watching the fog roll in.  The fog will blanket the city for the rest of July and most of August.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/july_fourth5.jpg",
+                "width": null
+            },
+            "pathComponent": "july_fourth5.jpg",
+            "title": "July Fourth 5"
+        },
+        "july_fourth6": {
+            "description": "You'd think the native San Franciscans would be the ones dressed for the weather.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/july_fourth6.jpg",
+                "width": null
+            },
+            "pathComponent": "july_fourth6.jpg",
+            "title": "July Fourth 6"
+        },
+        "july_fourth7": {
+            "description": "Quality time with Grandma.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/july_fourth7.jpg",
+                "width": null
+            },
+            "pathComponent": "july_fourth7.jpg",
+            "title": "July Fourth 7"
+        },
+        "vibrant01": {
+            "description": "Grandma Harriet babysat Felix for July 5 & 6.  Dean and Lucie escaped to a camping-and-music trip some friends of friends hold every summer.  Thank you, Grandma!\n\n<P>\nPictured here:  lots of people we know.\n</P>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/vibrant01.jpg",
+                "width": null
+            },
+            "pathComponent": "vibrant01.jpg",
+            "title": "Vibrant 1"
+        },
+        "vibrant02": {
+            "description": "The camping was rather civilized.  These are wood-fired hot tubs.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/vibrant02.jpg",
+                "width": null
+            },
+            "pathComponent": "vibrant02.jpg",
+            "title": "Vibrant 2"
+        },
+        "vibrant03": {
+            "description": "Camping is always better with a swimming hole.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/vibrant03.jpg",
+                "width": null
+            },
+            "pathComponent": "vibrant03.jpg",
+            "title": "Vibrant 3"
+        },
+        "vibrant04": {
+            "description": "Out of water?  No problem!  The dragon's drool is good to drink.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/vibrant04.jpg",
+                "width": null
+            },
+            "pathComponent": "vibrant04.jpg",
+            "title": "Vibrant 4"
+        },
+        "vibrant05": {
+            "description": "Our friend Chaya at the DJ booth.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/vibrant05.jpg",
+                "width": null
+            },
+            "pathComponent": "vibrant05.jpg",
+            "title": "Vibrant 5"
+        },
+        "vibrant06": {
+            "description": "DJ Chaya and DJ Dean Gaudet attempting a quiet conversation.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/vibrant06.jpg",
+                "width": null
+            },
+            "pathComponent": "vibrant06.jpg",
+            "title": "Vibrant 6"
+        },
+        "vibrant07": {
+            "description": "Lucie dancing.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/vibrant07.jpg",
+                "width": null
+            },
+            "pathComponent": "vibrant07.jpg",
+            "title": "Vibrant 7"
+        },
+        "vibrant08": {
+            "description": "Kaylee, Julie and Craig.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/vibrant08.jpg",
+                "width": null
+            },
+            "pathComponent": "vibrant08.jpg",
+            "title": "Vibrant 8"
+        },
+        "vibrant09": {
+            "description": "Kaylee must have worn out Julie and Craig.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/vibrant09.jpg",
+                "width": null
+            },
+            "pathComponent": "vibrant09.jpg",
+            "title": "Vibrant 9"
+        },
+        "vibrant10": {
+            "description": "Many people do yoga in the morning.  Dean prefers coffee.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/08/images/vibrant10.jpg",
+                "width": null
+            },
+            "pathComponent": "vibrant10.jpg",
+            "title": "Vibrant 10"
+        }
+    },
+    "childrenOrder": [
+        "activitytable1",
+        "activitytable2",
+        "activitytable3",
+        "club_knit1",
+        "club_knit2",
+        "club_knit3",
+        "club_knit4",
+        "club_knit5",
+        "club_knit6",
+        "club_knit7",
+        "club_knit8",
+        "club_knit9",
+        "francoise_sweater1",
+        "francoise_sweater2",
+        "july_fourth1",
+        "july_fourth2",
+        "july_fourth3",
+        "july_fourth4",
+        "july_fourth5",
+        "july_fourth6",
+        "july_fourth7",
+        "vibrant01",
+        "vibrant02",
+        "vibrant03",
+        "vibrant04",
+        "vibrant05",
+        "vibrant06",
+        "vibrant07",
+        "vibrant08",
+        "vibrant09",
+        "vibrant10"
+    ],
+    "creationTimestamp": 1026111600,
+    "description": "<P>\n<P>\nFelix's little brain is starting to ignite.  He's very inquisitive;  he's paying close attention to every little thing that goes on around him; he's starting to figure out little problems for himself.\n\n<p>\nAt the beginning of the week, he starting banging stuff together, after a month of watching Dean and Lucie do it.  At the end of the week, while Grandma Harriet was showing him some birds, he started babbling (with consonants) for the first time.  Buh-buh-buh, yay!\n</p>\n\n<p>\nThis week's <a href=\"video/\">videos</a>.\n</p>\n\n<p>",
+    "pathComponent": "2002/07-08",
+    "summary": "",
+    "thumbnailChild": "vibrant10",
+    "title": "July 8"
+}

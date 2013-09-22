@@ -1,0 +1,155 @@
+{
+    "children": {
+        "moving1": {
+            "description": "Put down the camera, Dad, and grab a box!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/09/images/moving1.jpg",
+                "width": null
+            },
+            "pathComponent": "moving1.jpg",
+            "title": "Moving 1"
+        },
+        "moving2": {
+            "description": "Are we moving to Paris, Texas?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/09/images/moving2.jpg",
+                "width": null
+            },
+            "pathComponent": "moving2.jpg",
+            "title": "Moving 2"
+        },
+        "moving3": {
+            "description": "Nana and Felix double-team a load of toys.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/09/images/moving3.jpg",
+                "width": null
+            },
+            "pathComponent": "moving3.jpg",
+            "title": "Moving 3"
+        },
+        "moving4": {
+            "description": "Moving tip:  remember where you packed your checkbook.   Movers like getting paid.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/09/images/moving4.jpg",
+                "width": null
+            },
+            "pathComponent": "moving4.jpg",
+            "title": "Moving 4"
+        },
+        "moving5": {
+            "description": "8:30 Saturday morning.  Chan's Movers arrive in an unmarked nondescript white truck.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/09/images/moving5.jpg",
+                "width": null
+            },
+            "pathComponent": "moving5.jpg",
+            "title": "Moving 5"
+        },
+        "moving6": {
+            "description": "Moving everything takes 5 cigarette breaks, 4 lattes, 3 Big Macs, 2 trips across the bridge, and 1 run-in with our irate landlord over the movers' indelicacy going down 100-year old marble stairs.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/09/images/moving6.jpg",
+                "width": null
+            },
+            "pathComponent": "moving6.jpg",
+            "title": "Moving 6"
+        },
+        "sunday1": {
+            "description": "Sunday brunch at the *new* local coffehouse:  Espresso Roma.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/09/images/sunday1.jpg",
+                "width": null
+            },
+            "pathComponent": "sunday1.jpg",
+            "title": "Sunday 1"
+        },
+        "sunday2": {
+            "description": "Watch out for the hand!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/09/images/sunday2.jpg",
+                "width": null
+            },
+            "pathComponent": "sunday2.jpg",
+            "title": "Sunday 2"
+        },
+        "sunday3": {
+            "description": "That sneaky hand can come from anywhere.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/09/images/sunday3.jpg",
+                "width": null
+            },
+            "pathComponent": "sunday3.jpg",
+            "title": "Sunday 3"
+        },
+        "sunday4": {
+            "description": "Mother and child in the dappled sunlight.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/09/images/sunday4.jpg",
+                "width": null
+            },
+            "pathComponent": "sunday4.jpg",
+            "title": "Sunday 4"
+        },
+        "yard1": {
+            "description": "The new yard has room for trikes, trucks and wagons.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/09/images/yard1.jpg",
+                "width": null
+            },
+            "pathComponent": "yard1.jpg",
+            "title": "Yard 1"
+        },
+        "yard2": {
+            "description": "Felix takes a Nana-powered spin in his old black pickup.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/09/images/yard2.jpg",
+                "width": null
+            },
+            "pathComponent": "yard2.jpg",
+            "title": "Yard 2"
+        },
+        "yard3": {
+            "description": "They're training to be a train.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/05/09/images/yard3.jpg",
+                "width": null
+            },
+            "pathComponent": "yard3.jpg",
+            "title": "Yard 3"
+        }
+    },
+    "childrenOrder": [
+        "moving1",
+        "moving2",
+        "moving3",
+        "moving4",
+        "moving5",
+        "moving6",
+        "sunday1",
+        "sunday2",
+        "sunday3",
+        "sunday4",
+        "yard1",
+        "yard2",
+        "yard3"
+    ],
+    "creationTimestamp": 1084086000,
+    "description": "<P>\n<P>\nWe moved!  We are now residents of Berkeley, California.  Nana was there  to help, which was good, because Felix managed to get his very first ear infection the morning of the move.  He was very sick the whole day.\n</p>\n\n<p>\nWe haven't met many of the neighbors yet, but the ones we have are nice.  There's an 8-ish year old boy living behind us, who took great interest in the move.  Anna, next door, collects planes.  Felix is fascinated by the one on her porch, made out of beer cans.\n</p>\n\n<p>\nAs of Sunday night, barely 24 hours after the moving truck left, the house is livable.  There are tables, chairs, and couches at all the right places.  The kitchen is all there.   And Felix has already created an airport in his room.\n</p>\n\n<p>\nHome ownership hit with a vengeance:  we already have a leaking toilet and water heater to fix.\n</p>",
+    "pathComponent": "2004/05-09",
+    "summary": "",
+    "thumbnailChild": "moving1",
+    "title": "May 9"
+}

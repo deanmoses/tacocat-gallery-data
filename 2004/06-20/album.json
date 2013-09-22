@@ -1,0 +1,111 @@
+{
+    "children": {
+        "chair": {
+            "description": "New chair.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/06/20/images/chair.jpg",
+                "width": null
+            },
+            "pathComponent": "chair.jpg",
+            "title": "Chair"
+        },
+        "crab1": {
+            "description": "There's a fish market near our house.  Felix is fascinated by its crab tank.  Finally, after many visits, he begged Lucie to buy a crab to eat.  We talked a long time about the fisherman catching the crab, bringing it to the store, the store selling it to us, and us cooking and eating it.  We even played it out, with him as the crab.\n\n<p>\nHe was all excited to eat it, but when it came he didn't like it.  So Dean cut up a hot dog, called it a crab, and he chowed down.\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/06/20/images/crab1.jpg",
+                "width": null
+            },
+            "pathComponent": "crab1.jpg",
+            "title": "Crab 1"
+        },
+        "crab2": {
+            "description": "We, not being crab-eating people, had no shell cracker.  \n\n<p>\nFelix approves of our improvised technique.\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/06/20/images/crab2.jpg",
+                "width": null
+            },
+            "pathComponent": "crab2.jpg",
+            "title": "Crab 2"
+        },
+        "felix_room": {
+            "description": "We hang out a lot in the Felix suite.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/06/20/images/felix_room.jpg",
+                "width": null
+            },
+            "pathComponent": "felix_room.jpg",
+            "title": "Felix Room"
+        },
+        "painting1": {
+            "description": "Dean is methodically painting every room of the house.  Some rooms he's even painting twice -- he didn't like the yellow in the Grandma room the first time around.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/06/20/images/painting1.jpg",
+                "width": null
+            },
+            "pathComponent": "painting1.jpg",
+            "title": "Painting 1"
+        },
+        "painting2": {
+            "description": "Felix is inspired by Dean to do his own painting.\n<p>\nNotice how he is holding the brush with his left hand in this photo, and in his right hand in the next. He is still ambidextrous.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/06/20/images/painting2.jpg",
+                "width": null
+            },
+            "pathComponent": "painting2.jpg",
+            "title": "Painting 2"
+        },
+        "painting3": {
+            "description": "Felix has never been one to scribble randomly.  He's drawing a mountain (the big circle), a train track (in blue) and a train (a locomotive + a caboose).  The train is from the book <i>The Little Blue Engine that Could</i>, and is taking toys and candy to the good little boys and girls on the other side of the mountain.\n\n<p>Really.</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/06/20/images/painting3.jpg",
+                "width": null
+            },
+            "pathComponent": "painting3.jpg",
+            "title": "Painting 3"
+        },
+        "wedding1": {
+            "description": "We went to Chris and Anna's wedding and forgot to take picures of the happy couple.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/06/20/images/wedding1.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding1.jpg",
+            "title": "Wedding 1"
+        },
+        "wedding2": {
+            "description": "Put down the camera, Mike, and say fromage!\n<p>\nHey! Looks like we even managed to catch the happy newlyweds in the background (bottom right).",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/06/20/images/wedding2.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding2.jpg",
+            "title": "Wedding 2"
+        }
+    },
+    "childrenOrder": [
+        "chair",
+        "crab1",
+        "crab2",
+        "felix_room",
+        "painting1",
+        "painting2",
+        "painting3",
+        "wedding1",
+        "wedding2"
+    ],
+    "creationTimestamp": 1087714800,
+    "description": "Felix is the cutest, most adorable, and most enjoyable little boy.  In times past we had a pleasurable feeling of anticipation, waiting for him to do some new skill or to start talking more.  Now we're a little awed by how fast he's learning, and we look at older kids and think, \"No!  We're not ready!  We haven't had him long enough like he is right now!\"   He's <i>that</i> fun.\n\n<p>\nOne morning this week he woke up, padded into our room, shook Dean on the shoulder, and said, \"Love you, papa!\"  That definitely woke Dean up.\n</p>\n\n<p>\nSchool's good.  He had a play date with Phoebe, an older woman from his class.  She's three.   They get along well.  And the other day, the class was talking about babies and he said, sadly, \"my baby no come yet\".\n</p>\n\n<p>\nOn the potty training front, he did his first premeditated poop.\n</p>",
+    "pathComponent": "2004/06-20",
+    "summary": "",
+    "thumbnailChild": "crab2",
+    "title": "June 20"
+}

@@ -1,0 +1,276 @@
+{
+    "children": {
+        "apples1": {
+            "description": "An apple a day keeps boredom away.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/12/03/slides/apples1.jpg",
+                "width": null
+            },
+            "pathComponent": "apples1.jpg",
+            "title": "Apples 1"
+        },
+        "apples2": {
+            "description": "I see you!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/12/03/slides/apples2.jpg",
+                "width": null
+            },
+            "pathComponent": "apples2.jpg",
+            "title": "Apples 2"
+        },
+        "atschool1": {
+            "description": "Milo likes his own class at school more and more. He used to whine in the morning about wanting to stay with Felix, but now he likes to hang out with the other two year olds.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/12/03/slides/atschool1.jpg",
+                "width": null
+            },
+            "pathComponent": "atschool1.jpg",
+            "title": "Atschool 1"
+        },
+        "atschool2": {
+            "description": "Milo, pushing Leo on the swing.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/12/03/slides/atschool2.jpg",
+                "width": null
+            },
+            "pathComponent": "atschool2.jpg",
+            "title": "Atschool 2"
+        },
+        "birthday": {
+            "description": "Felix is VERY much looking forward to his birthday party next weekend. He's putting a lot of thought into who will be there, what presents he wants, and what type of cake we should bake. <p class=\"para\">\nThe fact that we have been to many birthday parties lately (Owen's last week, Kahlil's on Saturday and Jasper's on Sunday) only adds to the excitement. \n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/12/03/slides/birthday.jpg",
+                "width": null
+            },
+            "pathComponent": "birthday.jpg",
+            "title": "Birthday"
+        },
+        "kahlil01": {
+            "description": "This is Rowan, on a cool trapeze bar in Kahlil's house.  Kahlil celebrated turning 4 on Saturday.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/12/03/slides/kahlil01.jpg",
+                "width": null
+            },
+            "pathComponent": "kahlil01.jpg",
+            "title": "Kahlil 1"
+        },
+        "kahlil02": {
+            "description": "What was that pink cloud swooshing by?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/12/03/slides/kahlil02.jpg",
+                "width": null
+            },
+            "pathComponent": "kahlil02.jpg",
+            "title": "Kahlil 2"
+        },
+        "kahlil03": {
+            "description": "Georgie!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/12/03/slides/kahlil03.jpg",
+                "width": null
+            },
+            "pathComponent": "kahlil03.jpg",
+            "title": "Kahlil 3"
+        },
+        "kahlil04": {
+            "description": "Milo tries to swing with the big dogs",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/12/03/slides/kahlil04.jpg",
+                "width": null
+            },
+            "pathComponent": "kahlil04.jpg",
+            "title": "Kahlil 4"
+        },
+        "kahlil05": {
+            "description": "Not bad! Georgie gives Milo a few pointers.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/12/03/slides/kahlil05.jpg",
+                "width": null
+            },
+            "pathComponent": "kahlil05.jpg",
+            "title": "Kahlil 5"
+        },
+        "kahlil06": {
+            "description": "Emmet spun so fast, all we saw was a blur.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/12/03/slides/kahlil06.jpg",
+                "width": null
+            },
+            "pathComponent": "kahlil06.jpg",
+            "title": "Kahlil 6"
+        },
+        "kahlil07": {
+            "description": "Milo and Torin, smooching.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/12/03/slides/kahlil07.jpg",
+                "width": null
+            },
+            "pathComponent": "kahlil07.jpg",
+            "title": "Kahlil 7"
+        },
+        "kahlil08": {
+            "description": "Best. Birthday. Cake. Ever. \n<p class=\"para\">\nThe cake itself was chocolate, with squirming gummy worms inside. The decorations were all edible: meringue mushrooms, green sugar grass, chocolate rocks, real flowers and berries, and candy rabbits.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/12/03/slides/kahlil08.jpg",
+                "width": null
+            },
+            "pathComponent": "kahlil08.jpg",
+            "title": "Kahlil 8"
+        },
+        "kahlil09": {
+            "description": "Solange, mother of the birthday boy and chief cake choreographer.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/12/03/slides/kahlil09.jpg",
+                "width": null
+            },
+            "pathComponent": "kahlil09.jpg",
+            "title": "Kahlil 9"
+        },
+        "kahlil10": {
+            "description": "Kahlil was very appreciative of his birthday cake.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/12/03/slides/kahlil10.jpg",
+                "width": null
+            },
+            "pathComponent": "kahlil10.jpg",
+            "title": "Kahlil 10"
+        },
+        "kahlil11": {
+            "description": "Make a wish!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/12/03/slides/kahlil11.jpg",
+                "width": null
+            },
+            "pathComponent": "kahlil11.jpg",
+            "title": "Kahlil 11"
+        },
+        "kahlil12": {
+            "description": "Douglas cuts the backup cake. To the right of Douglas is Rowan, Kahlil's older brother.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/12/03/slides/kahlil12.jpg",
+                "width": null
+            },
+            "pathComponent": "kahlil12.jpg",
+            "title": "Kahlil 12"
+        },
+        "maria1": {
+            "description": "We visited Maria on Sunday morning. Milo acted bashful. It had been so long!\n<p class=para>\nMaria is in rehabilitation because on September 12 she was hit by a car while crossing Shattuck Ave near our house. She broke her pelvis and pubic bones and spent over 2 months in hospitals and nursing homes, not allowed to put weight on her legs. She is very excited to have finally graduated to a rehabilitation center. She proudly showed us how she can walk again (albeit slowly, and with a walker). She is scheduled to go home in another week or so.\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/12/03/slides/maria1.jpg",
+                "width": null
+            },
+            "pathComponent": "maria1.jpg",
+            "title": "Maria 1"
+        },
+        "park2": {
+            "description": "Milo, that's gross! Use a kleenex.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/12/03/slides/park2.jpg",
+                "width": null
+            },
+            "pathComponent": "park2.jpg",
+            "title": "Park 2"
+        },
+        "park3": {
+            "description": "The secret to immobilizing 2 boys long enough to be photographed with Mom? Give them a snack!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/12/03/slides/park3.jpg",
+                "width": null
+            },
+            "pathComponent": "park3.jpg",
+            "title": "Park 3"
+        },
+        "park4": {
+            "description": "Are you going to eat all that? Come on, Milo, give a cookie to your mom.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/12/03/slides/park4.jpg",
+                "width": null
+            },
+            "pathComponent": "park4.jpg",
+            "title": "Park 4"
+        },
+        "park5": {
+            "description": "Felix protects his loot.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/12/03/slides/park5.jpg",
+                "width": null
+            },
+            "pathComponent": "park5.jpg",
+            "title": "Park 5"
+        },
+        "park6": {
+            "description": "An armful of little boys is treat enough.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/12/03/slides/park6.jpg",
+                "width": null
+            },
+            "pathComponent": "park6.jpg",
+            "title": "Park 6"
+        },
+        "park7": {
+            "description": "All fall down.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/12/03/slides/park7.jpg",
+                "width": null
+            },
+            "pathComponent": "park7.jpg",
+            "title": "Park 7"
+        }
+    },
+    "childrenOrder": [
+        "apples1",
+        "apples2",
+        "atschool1",
+        "atschool2",
+        "birthday",
+        "kahlil01",
+        "kahlil02",
+        "kahlil03",
+        "kahlil04",
+        "kahlil05",
+        "kahlil06",
+        "kahlil07",
+        "kahlil08",
+        "kahlil09",
+        "kahlil10",
+        "kahlil11",
+        "kahlil12",
+        "maria1",
+        "park2",
+        "park3",
+        "park4",
+        "park5",
+        "park6",
+        "park7"
+    ],
+    "creationTimestamp": 1165132800,
+    "description": "Felix's 5th birthday is coming up and he's certainly moved into a new phase of his life.  He's gotten a massive confidence boost from going to the educational therapist and succeeding at learning sounds and letters.  One big change is he's become more open to challenges of every sort.  Today we went on a long bike ride (a first in itself), and he managed to hit a parked car and have a bad fall.  After the tears stopped flowing he hopped right back on the bike and kept at it.  The old Felix would have been done with biking for another few months.  Go Felix!\n\n<p>\nAnother example of his self confidence is in using a computer.  He used to be bashful of his bad mouse skills and afraid of, well, doing pretty much anything on the computer.  This week we played an eductational computer game we hadn't tried in four months and he knocked it out of the park!  His mousing improved by the minute, and on the pre-reading parts he was even starting to recognize the letters that words start with. Whereas before Dean couldn't get Felix to keep using the mouse and play the game himself, this time Dean couldn't get a helping finger on the mouse -- Felix wanted to figure it out all by himself.  A fantastic change.\n</p>\n\n<p>\nMilo's been in full athletics mode: always jumping, bouncing balls, and playing soccer. He actually plays soccer with a school friend, Finn.  They run around together dribbling.  It wasn't so long ago that he was still dribbling from the other end...\n</p>\n\n<p class=\"para\">\nDean thinks he has gray hair.  Just a bit, near the temples.  Lucie doesn't see it.  Dean thinks she's in denial.\n</p>",
+    "pathComponent": "2006/12-03",
+    "summary": "",
+    "thumbnailChild": "kahlil03",
+    "title": "December 3"
+}

@@ -1,0 +1,122 @@
+{
+    "children": {
+        "01": {
+            "description": "<u>Left to right</u>:   Tom, David, Conor, Tom.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/24/sailing/images/01.jpg",
+                "width": null
+            },
+            "pathComponent": "01.jpg",
+            "title": ""
+        },
+        "02": {
+            "description": "I'd like to say we were in capable hands with Cap'n Tom, but in fact he offshored all the work on us rank amateurs.  We did him proud and failed to break his boat.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/24/sailing/images/02.jpg",
+                "width": null
+            },
+            "pathComponent": "02.jpg",
+            "title": ""
+        },
+        "03": {
+            "description": "Dean tacks.  Or something.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/24/sailing/images/03.jpg",
+                "width": null
+            },
+            "pathComponent": "03.jpg",
+            "title": ""
+        },
+        "04": {
+            "description": "More Bay Bridge.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/24/sailing/images/04.jpg",
+                "width": null
+            },
+            "pathComponent": "04.jpg",
+            "title": ""
+        },
+        "05": {
+            "description": "More Bay Bridge.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/24/sailing/images/05.jpg",
+                "width": null
+            },
+            "pathComponent": "05.jpg",
+            "title": ""
+        },
+        "06": {
+            "description": "More Bay Bridge.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/24/sailing/images/06.jpg",
+                "width": null
+            },
+            "pathComponent": "06.jpg",
+            "title": ""
+        },
+        "07": {
+            "description": "The brick building under the Transamerica Pyramid is the Vignette office.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/24/sailing/images/07.jpg",
+                "width": null
+            },
+            "pathComponent": "07.jpg",
+            "title": ""
+        },
+        "08": {
+            "description": "For lunch we sailed to The Rock, a waterfront restaurant down in the industrial part of the bay.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/24/sailing/images/08.jpg",
+                "width": null
+            },
+            "pathComponent": "08.jpg",
+            "title": ""
+        },
+        "09": {
+            "description": "The baseball stadium has a great view of the water, and vice versa.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/24/sailing/images/09.jpg",
+                "width": null
+            },
+            "pathComponent": "09.jpg",
+            "title": ""
+        },
+        "10": {
+            "description": "The Bay Bridge is absolutely everywhere in your view.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/24/sailing/images/10.jpg",
+                "width": null
+            },
+            "pathComponent": "10.jpg",
+            "title": ""
+        }
+    },
+    "childrenOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10"
+    ],
+    "creationTimestamp": 1098601200,
+    "description": "</TD>\n</TR>\n</TABLE>\n<P>\n<P>\nDean went sailing in the San Francisco bay with friends from work.\n\n<p>\nReturn to <a href=\"../index.htm\">rest of the Oct 24 pictures</a>.\n</p>",
+    "pathComponent": "2004/10-24/sailing",
+    "summary": "",
+    "thumbnailChild": "02",
+    "title": "October 24"
+}

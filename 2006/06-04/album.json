@@ -1,0 +1,67 @@
+{
+    "children": {
+        "catamaran1": {
+            "description": "Felix's school has a woodshop, where the kids select their pieces of wood and mark where the adult should nail them together.  The kids have a kid hammer to finish each nail.\n\n<div class=\"para\">\nFelix had the idea to build a \"hawaiian boat\" (an outrigger canoe), and it came out really well.  Here he tests it at home for floatability.\n</div>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/04/slides/catamaran1.jpg",
+                "width": null
+            },
+            "pathComponent": "catamaran1.jpg",
+            "title": "Catamaran 1"
+        },
+        "catamaran2": {
+            "description": "Yup, it floats.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/04/slides/catamaran2.jpg",
+                "width": null
+            },
+            "pathComponent": "catamaran2.jpg",
+            "title": "Catamaran 2"
+        },
+        "science1": {
+            "description": "Lucie and Felix went to a class at the Lawrence Hall of Science, called \"life in a pond\".",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/04/slides/science1.jpg",
+                "width": null
+            },
+            "pathComponent": "science1.jpg",
+            "title": "Science 1"
+        },
+        "science2": {
+            "description": "Looking for life...",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/04/slides/science2.jpg",
+                "width": null
+            },
+            "pathComponent": "science2.jpg",
+            "title": "Science 2"
+        },
+        "science3": {
+            "description": "Turns out there's lots of crawfish in that pond.   Lucie was totally ready for a crawfish boil, but was informed it was strictly catch and release.\n\n<p class=\"para\">\nFelix and Lucie signed up for another one in August, called \"buzzing with the bees\", where\nthey'll get to see an observation hive.\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/04/slides/science3.jpg",
+                "width": null
+            },
+            "pathComponent": "science3.jpg",
+            "title": "Science 3"
+        }
+    },
+    "childrenOrder": [
+        "catamaran1",
+        "catamaran2",
+        "science1",
+        "science2",
+        "science3"
+    ],
+    "creationTimestamp": 1149404400,
+    "description": "What with the recent camping in Mendocino and beaching in Hawaii, we're suffering from photographic exhaustion.  It's slim pickings this week.\n\n<p>\nMilo definitely knows some colors:  blue and green, for sure.\n</p>\n\n<p>\nMilo has been asking Dean to count stuff all week: fingers, balls, french fries.  One day he came out with a 'one two three' on his own.  A day later he did 'un deux trois' with Lucie -- and she hadn't really been counting much with him.   He seems to get the French and English terms for something at almost the same time, regardless of how much he's heard one or the other.\n</p>\n\nYou can <a href=\"new_office/index.html\">read more about Dean's company</a>.",
+    "pathComponent": "2006/06-04",
+    "summary": "",
+    "thumbnailChild": "science2",
+    "title": "June 4"
+}

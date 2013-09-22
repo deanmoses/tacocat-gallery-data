@@ -1,0 +1,100 @@
+{
+    "children": {
+        "bjorn": {
+            "description": "Milo doesn't care much for the stroller. He much prefers travelling by sling or by the Baby Bjorn as you see here.  He graduated to facing outward a week or two ago.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/12/19/images/bjorn.jpg",
+                "width": null
+            },
+            "pathComponent": "bjorn.jpg",
+            "title": "Bjorn"
+        },
+        "brothers": {
+            "description": "When it's cold outside, it's still warm and toasty in Felix's sun-drenched room.\n<p>\nNotice that Felix is wearing underwear. Potty-training is still touch and go. Indeed, there was an \"accident\" only minutes after this photo was taken.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/12/19/images/brothers.jpg",
+                "width": null
+            },
+            "pathComponent": "brothers.jpg",
+            "title": "Brothers"
+        },
+        "drool": {
+            "description": "Milo is a drooler. Doudou the rabbit is approaching cautiously, and we sympathise: he knows he is about to get soaked with baby saliva.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/12/19/images/drool.jpg",
+                "width": null
+            },
+            "pathComponent": "drool.jpg",
+            "title": "Drool"
+        },
+        "lip": {
+            "description": "Milo is showing some early signs of teething. Aside from the drooling (which has been going on for weeks), he has started sucking on his lower lip (Felix used to do the same thing, right before his first teeth came in).",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/12/19/images/lip.jpg",
+                "width": null
+            },
+            "pathComponent": "lip.jpg",
+            "title": "Lip"
+        },
+        "rolling": {
+            "description": "Milo has been rolling from his back to his belly for weeks. Now he's working on going from belly to back. He manages to do it now and then, but not reliably.  Here, Lucie gives him a few pointers.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/12/19/images/rolling.jpg",
+                "width": null
+            },
+            "pathComponent": "rolling.jpg",
+            "title": "Rolling"
+        },
+        "snuggery": {
+            "description": "The Snuggery had a holiday pageant.  The kids sang \"Frosty the Snowman\", \"Jingle Bells\", \"Rudolf\" and other favorites. The parents jingled bells.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/12/19/images/snuggery.jpg",
+                "width": null
+            },
+            "pathComponent": "snuggery.jpg",
+            "title": "Snuggery"
+        },
+        "yoga-argil": {
+            "description": "Lucie and Milo are still meeting the other babies from the yoga mom's group. Here, Milo shares an infant gym with Argil for a nanosecond. Milo doesn't understand the concept of toys dangling from above... he immediately rolls into his belly, and then wonders where the toys went.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/12/19/images/yoga-argil.jpg",
+                "width": null
+            },
+            "pathComponent": "yoga-argil.jpg",
+            "title": "Yoga Argil"
+        },
+        "yoga-eli": {
+            "description": "Eli and Milo agree: being on your belly is where it's at.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/12/19/images/yoga-eli.jpg",
+                "width": null
+            },
+            "pathComponent": "yoga-eli.jpg",
+            "title": "Yoga Eli"
+        }
+    },
+    "childrenOrder": [
+        "bjorn",
+        "brothers",
+        "drool",
+        "lip",
+        "rolling",
+        "snuggery",
+        "yoga-argil",
+        "yoga-eli"
+    ],
+    "creationTimestamp": 1103443200,
+    "description": "Felix is going through a language phase that every kid does, where he applies rules incorrectly in an attempt to regularize his grammar.  Right now he's over-pluralizing nouns and over-conjugating verbs. Examples: <ul>\n<li>Don't touch my stuffses!</li>\n<li>My bulldozer's teethses pick up lots of dirtses.</li>\n<li>I don't want to be dresseded!</li>\n</ul>\n\n<p>\nIt's absolutely adorable.\n</p>\n\n<p>\nMilo can sit if he has a little back support, but he's not that interested in doing it.  Pretty quickly he wants to grab or chew something on the ground and does a nose dive.\n</p>",
+    "pathComponent": "2004/12-19",
+    "summary": "",
+    "thumbnailChild": "snuggery",
+    "title": "December 19"
+}

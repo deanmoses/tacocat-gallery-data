@@ -1,0 +1,155 @@
+{
+    "children": {
+        "bedroom1": {
+            "description": "The apartment is getting into shape.  All the cardboard boxes are gone; there's some art on the walls; our DSL network connection is installed; and our bedroom has turned into a nice place to hang out and be cuddly.  Felix loves being able to climb onto the bed by himself (the bedframe at Holly Park was much too high).",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/02/23/images/bedroom1.jpg",
+                "width": null
+            },
+            "pathComponent": "bedroom1.jpg",
+            "title": "Bedroom 1"
+        },
+        "bedroom2": {
+            "description": "The boy loves being upside down.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/02/23/images/bedroom2.jpg",
+                "width": null
+            },
+            "pathComponent": "bedroom2.jpg",
+            "title": "Bedroom 2"
+        },
+        "bedroom3": {
+            "description": "Are Dean and Felix developing their gymnastics act?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/02/23/images/bedroom3.jpg",
+                "width": null
+            },
+            "pathComponent": "bedroom3.jpg",
+            "title": "Bedroom 3"
+        },
+        "bedroom4": {
+            "description": "He takes his naps on our bed.   When he wakes up, if he's feeling good about the world, he'll just get out of bed by himself and find us (rather than crying for us to come).  He's slow to wake up:  he'll walk into the living room, rubbing his eyes, and blearily set to playing again.\n\n<p>\nOk, we admit we staged the soccer ball in this picture for Grandma Harriet.\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/02/23/images/bedroom4.jpg",
+                "width": null
+            },
+            "pathComponent": "bedroom4.jpg",
+            "title": "Bedroom 4"
+        },
+        "car": {
+            "description": "He figured out how to go backwards.   Frontwards will come any day now.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/02/23/images/car.jpg",
+                "width": null
+            },
+            "pathComponent": "car.jpg",
+            "title": "Car"
+        },
+        "cherry_trees": {
+            "description": "The cherry trees in front of the apartment continue to evolve.  Two weeks ago they were mostly <a href=\"../../2003.02.03-09/images/move07.jpg\">bare</a>.  A week ago there were mostly <a href=\"../../2003.02.10-16/images/cherry_trees.jpg\">blossoms</a>.  Now they're mostly leaves.  Bye bye cherry blossoms!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/02/23/images/cherry_trees.jpg",
+                "width": null
+            },
+            "pathComponent": "cherry_trees.jpg",
+            "title": "Cherry Trees"
+        },
+        "cozy_corner": {
+            "description": "The cozy corner in the living room now has a very cute carpet.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/02/23/images/cozy_corner.jpg",
+                "width": null
+            },
+            "pathComponent": "cozy_corner.jpg",
+            "title": "Cozy Corner"
+        },
+        "hair1": {
+            "description": "Look at Felix's hair.  This is the last picture you'll see it this long.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/02/23/images/hair1.jpg",
+                "width": null
+            },
+            "pathComponent": "hair1.jpg",
+            "title": "Hair 1"
+        },
+        "hair2": {
+            "description": "Boom, short hair!  The cutting experience, while an ordeal, wasn't the apocalyptic event we had feared.  We put Felix in front of the sink, let him play with the running water, had Dean help with the amusement, while Lucie wielded the scissors.\n\n<p>\nWe learned that wet hair is much longer than dry hair.  Next time we'll leave more in the front.\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/02/23/images/hair2.jpg",
+                "width": null
+            },
+            "pathComponent": "hair2.jpg",
+            "title": "Hair 2"
+        },
+        "kitchen": {
+            "description": "Hi, Lucie!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/02/23/images/kitchen.jpg",
+                "width": null
+            },
+            "pathComponent": "kitchen.jpg",
+            "title": "Kitchen"
+        },
+        "out1": {
+            "description": "Felix is starting to want to walk, instead of be carried.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/02/23/images/out1.jpg",
+                "width": null
+            },
+            "pathComponent": "out1.jpg",
+            "title": "Out 1"
+        },
+        "out2": {
+            "description": "Unfortunately, his idea of a destination and Dean's idea rarely coincide.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/02/23/images/out2.jpg",
+                "width": null
+            },
+            "pathComponent": "out2.jpg",
+            "title": "Out 2"
+        },
+        "out3": {
+            "description": "Northbound father and southbound baby.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/02/23/images/out3.jpg",
+                "width": null
+            },
+            "pathComponent": "out3.jpg",
+            "title": "Out 3"
+        }
+    },
+    "childrenOrder": [
+        "bedroom1",
+        "bedroom2",
+        "bedroom3",
+        "bedroom4",
+        "car",
+        "cherry_trees",
+        "cozy_corner",
+        "hair1",
+        "hair2",
+        "kitchen",
+        "out1",
+        "out2",
+        "out3"
+    ],
+    "creationTimestamp": 1045987200,
+    "description": "<P>\n<P>\nMilestones this week:\n<ul>\n\t<li>\n\t\tThe last cardboard box is out of the apartment.\n\t</li>\n\t<li>\n\t\tHolly Park had its first open house, with 60 parties visiting!  Lots of people said it was what they were looking for.  One more open house next Sunday.  Wish us luck.\n\t</li>\n\t<li>\n\t\tLucie turned 30.  We celebrated by failing to find a babysitter, replacing burnt out lightbulbs in Holly Park, eating take out sushi, then collapsing into bed.  Felix and Dean owe Lucie a party, big time.\n\t</li>\n\t<li>\n\t\tFelix has said many words:  \"Babar\" (the French cartoon elephant), \"boo\" (peekaboo), \"meow\" (sound the cat makes), \"papa\", \"mama\", and a few more.  The only one he says by himself (without us saying it first) is \"boo\", when he plays peekaboo.\n\t</li>\n\t<li>\n\t\tWe warm up his bottle by microwaving it for one minute.  We count down the last five seconds.  He shakes his finger on each number with us.  Of course, now he tries shaking his finger for the other 55 seconds too, in the hopes of speeding it up.\n\t</li>\n\t<li>\n\t\tHe eats his yogurt with a spoon, by himself.  We've been able to start reading the morning newspaper again.\n\t</li>\n\t<li>\n\t\tHe's started going to sleep at night by himself, in his crib, rather than having to be rocked in our arms.  The nighttime rocking-to-sleep was nice and cuddly, but the new routine is certainly more convenient for us.\n\t</li>\n\t<li>\n\t\tHe dances!  When music is on, he moves in gentle lopsided spiral, like a leaf going down a drain.\n\t</li>\n\n</ul>\n\nHe's been an adorable, charming, rapidly developing little boy.\n\n<p>",
+    "pathComponent": "2003/02-23",
+    "summary": "",
+    "thumbnailChild": "out1",
+    "title": "February 23"
+}

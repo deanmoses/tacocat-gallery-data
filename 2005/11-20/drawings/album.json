@@ -1,0 +1,45 @@
+{
+    "children": {
+        "drawing-f": {
+            "description": "He learned <b>F</b> a year ago and is just now adding some of <b>F</b>'s <b>f</b>riends.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/20/drawings/slides/drawing-f.jpg",
+                "width": null
+            },
+            "pathComponent": "drawing-f.jpg",
+            "title": "Drawing F"
+        },
+        "drawing-g": {
+            "description": "<b>G</b>ee, a <b>g</b>orilla!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/20/drawings/slides/drawing-g.jpg",
+                "width": null
+            },
+            "pathComponent": "drawing-g.jpg",
+            "title": "Drawing G"
+        },
+        "drawing-s": {
+            "description": "<b>B</b> is for <b>b</b>utcher, as in what Dean did to Superman's body.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/20/drawings/slides/drawing-s.jpg",
+                "width": null
+            },
+            "pathComponent": "drawing-s.jpg",
+            "title": "Drawing S"
+        }
+    },
+    "childrenOrder": [
+        "drawing-f",
+        "drawing-g",
+        "drawing-s"
+    ],
+    "creationTimestamp": 1132473600,
+    "description": "Felix seems ready to learn to read.  When the mood strikes, we grab a sheet of paper and introduce him to a new letter.\n\n<p>\nGo back to the rest of <a href=\"../slides/drawing-r.html\">November 20</a>.\n</p>",
+    "pathComponent": "2005/11-20/drawings",
+    "summary": "",
+    "thumbnailChild": "drawing-s",
+    "title": "November 20"
+}

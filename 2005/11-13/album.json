@@ -1,0 +1,122 @@
+{
+    "children": {
+        "boots1": {
+            "description": "Milo has a thing for Felix's new boots.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/13/slides/boots1.jpg",
+                "width": null
+            },
+            "pathComponent": "boots1.jpg",
+            "title": "Boots 1"
+        },
+        "boots2": {
+            "description": "Felix doesn't mind Milo in his footwear as long as he can upgrade to Papa's.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/13/slides/boots2.jpg",
+                "width": null
+            },
+            "pathComponent": "boots2.jpg",
+            "title": "Boots 2"
+        },
+        "fall": {
+            "description": "Fall is here.  The sidewalk's covered with beautiful leaves from our sugar gumball tree.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/13/slides/fall.jpg",
+                "width": null
+            },
+            "pathComponent": "fall.jpg",
+            "title": "Fall"
+        },
+        "felixtoys1": {
+            "description": "Felix and Dean watched the original Star Wars last week, and he fell in love with that universe.  He plays with his figurines constantly.   It's even decreased the number of Superman sightings on Grant street.  Here, Felix's finger is a lightsaber.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/13/slides/felixtoys1.jpg",
+                "width": null
+            },
+            "pathComponent": "felixtoys1.jpg",
+            "title": "Felixtoys 1"
+        },
+        "felixtoys2": {
+            "description": "Chewbacca and the guys like to mingle with T-Rex and the panther family.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/13/slides/felixtoys2.jpg",
+                "width": null
+            },
+            "pathComponent": "felixtoys2.jpg",
+            "title": "Felixtoys 2"
+        },
+        "felixtoys3": {
+            "description": "Did you know that R2D2 can fix spaceships <i>while they're flying in space?!</i>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/13/slides/felixtoys3.jpg",
+                "width": null
+            },
+            "pathComponent": "felixtoys3.jpg",
+            "title": "Felixtoys 3"
+        },
+        "nana1": {
+            "description": "Nana and Felix bonded over the dinosaurs at the Lawrence Hall of Science. Since then he's been pretending to be an archaeologist, assembling stegosaurus skeletons out of pasta and olives.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/13/slides/nana1.jpg",
+                "width": null
+            },
+            "pathComponent": "nana1.jpg",
+            "title": "Nana 1"
+        },
+        "nana2": {
+            "description": "What do you do when Milo fusses?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/13/slides/nana2.jpg",
+                "width": null
+            },
+            "pathComponent": "nana2.jpg",
+            "title": "Nana 2"
+        },
+        "nana3": {
+            "description": "You find his ticklish spot.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/13/slides/nana3.jpg",
+                "width": null
+            },
+            "pathComponent": "nana3.jpg",
+            "title": "Nana 3"
+        },
+        "storytime": {
+            "description": "Felix has been super cuddly the last few months.  Or maybe that's just what it seems like in comparison to Mr. Stand-Back-I'm-On-A-Mission Milo.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/13/slides/storytime.jpg",
+                "width": null
+            },
+            "pathComponent": "storytime.jpg",
+            "title": "Storytime"
+        }
+    },
+    "childrenOrder": [
+        "boots1",
+        "boots2",
+        "fall",
+        "felixtoys1",
+        "felixtoys2",
+        "felixtoys3",
+        "nana1",
+        "nana2",
+        "nana3",
+        "storytime"
+    ],
+    "creationTimestamp": 1131868800,
+    "description": "Nana came for a visit.   Milo started saying \"Nana\" right away.  He doesn't say \"Felix\" yet, so we suggested to Felix that we give him a simple nickname for Milo to use.  He was indignant:  \"No!  Milo needs to learn to say 'Felix'\"!\n\n<p>\nLucie's started working three days a week (instead of two).   Finding a nanny for the extra day was an ordeal, but we finally found someone we like.  Her name is Lucy!  Lucy also takes care of another kid, Jorah, who is 21 months old.  We were very nervous the first day because the last shared nanny fired Milo after a few days of being  inconsolably mom-sick.  But it went great:  Milo and Jorah had a good time together and so did the nanny.  We're keeping our fingers crossed that it continues to work out!\n</p>\n\nMilo still hasn't learned how to not kill himself.  Just today he got scrapes from a stunt on a playground slide, a tumble off a high piece of furniture, and a fall down a short flight of stairs.  In this evening's bath he looked like he'd gone several rounds in a boxing ring.   We're not sure whether it's an extra dose of adventurousness or clumsiness lately.",
+    "pathComponent": "2005/11-13",
+    "summary": "",
+    "thumbnailChild": "nana1",
+    "title": "November 13"
+}

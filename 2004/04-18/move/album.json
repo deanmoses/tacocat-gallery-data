@@ -1,0 +1,56 @@
+{
+    "children": {
+        "1": {
+            "description": "We box up all our toys and books, and put them into a big truck.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/18/move/images/1.jpg",
+                "width": null
+            },
+            "pathComponent": "1.jpg",
+            "title": ""
+        },
+        "2": {
+            "description": "After loading the truck, it goes across the bridge, to our new house.\n\n<p>\nIn this household, \"over the bridge\" means exactly one thing:  going to Berkeley. \n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/18/move/images/2.jpg",
+                "width": null
+            },
+            "pathComponent": "2.jpg",
+            "title": ""
+        },
+        "3": {
+            "description": "The truck stops at our new house.  We put all the boxes inside.  Upstairs, Felix has his own room with a real bed that he can get in and out of.\n\n<p>\nFelix has mixed feelings about the concept of a new bed.  He likes the sound of it, but he definitely gives a worried look towards his crib.\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/18/move/images/3.jpg",
+                "width": null
+            },
+            "pathComponent": "3.jpg",
+            "title": ""
+        },
+        "4": {
+            "description": "As part of clearing up the misunderstanding about Nana living in Berkeley, Felix insisted that we draw \"Nana's\" beach house, including Nana's SUV and the red convertible.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/18/move/images/4.jpg",
+                "width": null
+            },
+            "pathComponent": "4.jpg",
+            "title": ""
+        }
+    },
+    "childrenOrder": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "creationTimestamp": 1082271600,
+    "description": "<P>\n<P>\nFelix commissioned Dean and Lucie to do these drawings of the upcoming move.",
+    "pathComponent": "2004/04-18/move",
+    "summary": "Moving",
+    "thumbnailChild": "1",
+    "title": "April 18"
+}

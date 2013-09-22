@@ -1,0 +1,133 @@
+{
+    "children": {
+        "carseats": {
+            "description": "Both boys outgrew their car seats, so we had a little game of musical chairs.  Milo got Felix's old seat and Felix got a new one.\n<p>\nMilo loves the new sitting arangement. He used to cry a lot in the car, but we have not heard a peep from him since the switch. Felix also likes his new seat, because it allows him to sit cross-legged.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/01/09/slides/carseats.jpg",
+                "width": null
+            },
+            "pathComponent": "carseats.jpg",
+            "title": "Carseats"
+        },
+        "comics": {
+            "description": "Moses attempts to read a comic book while entertaining Milo with a toy. Anything requiring higher brain functions than a comic book could not withstand this reading method.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/01/09/slides/comics.jpg",
+                "width": null
+            },
+            "pathComponent": "comics.jpg",
+            "title": "Comics"
+        },
+        "couch": {
+            "description": "What is Milo so fascinated by? TV! His first TV experience was a Baby Mozart DVD. His second experience was Star Wars, which we had rented so Felix could see his Christmas toy starring in a movie.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/01/09/slides/couch.jpg",
+                "width": null
+            },
+            "pathComponent": "couch.jpg",
+            "title": "Couch"
+        },
+        "crawling": {
+            "description": "Look at the beautiful crawling technique!  Milo can get on all fours, though his belly still mostly drags on the ground during the actual motion. He only crawls when there's something really enticing, like one of Felix's toys. He is not yet into crawling for the sake of crawling.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/01/09/slides/crawling.jpg",
+                "width": null
+            },
+            "pathComponent": "crawling.jpg",
+            "title": "Crawling"
+        },
+        "haircut": {
+            "description": "Lucie got a new haircut.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/01/09/slides/haircut.jpg",
+                "width": null
+            },
+            "pathComponent": "haircut.jpg",
+            "title": "Haircut"
+        },
+        "nursing1": {
+            "description": "Milo's diet is 99.9% breast milk. Now and then we put a spoonful of rice cereal or carrot puree in his mouth, but he shows no interest. He categorically refuses bottles.\n<p>\nIn fact, noone drinks bottles in our house. A few days after his third birthday, Felix stopped asking for his naptime and nighttime bottles.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/01/09/slides/nursing1.jpg",
+                "width": null
+            },
+            "pathComponent": "nursing1.jpg",
+            "title": "Nursing 1"
+        },
+        "nursing2": {
+            "description": "Nursing is as much a source of comfort as it is a source of food. Milo often falls asleep during a feeding (especially if it takes place in the rocking chair). He loves touching Lucie's face or hair while nursing.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/01/09/slides/nursing2.jpg",
+                "width": null
+            },
+            "pathComponent": "nursing2.jpg",
+            "title": "Nursing 2"
+        },
+        "painting": {
+            "description": "Dean got bitten by the painting bug again. Our dining room is looking better for it.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/01/09/slides/painting.jpg",
+                "width": null
+            },
+            "pathComponent": "painting.jpg",
+            "title": "Painting"
+        },
+        "sit": {
+            "description": "This is a staged photo:  we usually put a pillow behind him.  He is good at sitting, but often topples backward, forward or sideways.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/01/09/slides/sit.jpg",
+                "width": null
+            },
+            "pathComponent": "sit.jpg",
+            "title": "Sit"
+        },
+        "thumb1": {
+            "description": "He just figured out how to suck his thumb and has been doing it constantly ever since.   This is good news because it frees up Lucie's fingers, which are the only other things he agrees to suck on.  We have no idea why he hates pacifiers.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/01/09/slides/thumb1.jpg",
+                "width": null
+            },
+            "pathComponent": "thumb1.jpg",
+            "title": "Thumb 1"
+        },
+        "thumb2": {
+            "description": "Thumbs up to thumb sucking!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/01/09/slides/thumb2.jpg",
+                "width": null
+            },
+            "pathComponent": "thumb2.jpg",
+            "title": "Thumb 2"
+        }
+    },
+    "childrenOrder": [
+        "carseats",
+        "comics",
+        "couch",
+        "crawling",
+        "haircut",
+        "nursing1",
+        "nursing2",
+        "painting",
+        "sit",
+        "thumb1",
+        "thumb2"
+    ],
+    "creationTimestamp": 1105257600,
+    "description": "Felix knows left and right.  He answers correctly without a moment's hesitation, and he even brings it up himself:  \"Left hand is monster.  Right hand is Buzz Lightyear getting monster.  Pow! Pow!\"  Dean's worked on directions with him on his tricycle a bit, but this must have mostly come from the Snuggery.  He's given every sign of being a good navigator, unlike his parents.",
+    "pathComponent": "2005/01-09",
+    "summary": "",
+    "thumbnailChild": "sit",
+    "title": "January 9"
+}

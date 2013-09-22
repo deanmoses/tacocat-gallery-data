@@ -1,0 +1,452 @@
+{
+    "children": {
+        "a_token_pic": {
+            "description": "This is the picture of an abandoned child.  His father went to Mexico with some friends and left him behind.\n\n<p>\nIf you follow this website just for the cute pictures of Felix, this is the only one this week.  You can turn off your computer and go for a walk.\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/a_token_pic.jpg",
+                "width": null
+            },
+            "pathComponent": "a_token_pic.jpg",
+            "title": "A Token Pic"
+        },
+        "arrive1": {
+            "description": "Dean and friends arrive at Porto Nuevo, a small town near Rosarito, 40km south of the border.  We had flown in to San Diego and the tour outfitter picked us up at the airport.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/arrive1.jpg",
+                "width": null
+            },
+            "pathComponent": "arrive1.jpg",
+            "title": "Arrive 1"
+        },
+        "arrive2": {
+            "description": "The guys are pleased with the hotel's many amenities, such as a lush frisbee-throwing lawn.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/arrive2.jpg",
+                "width": null
+            },
+            "pathComponent": "arrive2.jpg",
+            "title": "Arrive 2"
+        },
+        "arrive3": {
+            "description": "None of us have ridden offroad before.  The tour guide dresses us in primary colors so children and livestock can more easily avoid us.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/arrive3.jpg",
+                "width": null
+            },
+            "pathComponent": "arrive3.jpg",
+            "title": "Arrive 3"
+        },
+        "arrive4": {
+            "description": "Miles says, \"Hi Mum!\"",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/arrive4.jpg",
+                "width": null
+            },
+            "pathComponent": "arrive4.jpg",
+            "title": "Arrive 4"
+        },
+        "arrive5": {
+            "description": "Scott works on his shirt.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/arrive5.jpg",
+                "width": null
+            },
+            "pathComponent": "arrive5.jpg",
+            "title": "Arrive 5"
+        },
+        "arrive6": {
+            "description": "Roar.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/arrive6.jpg",
+                "width": null
+            },
+            "pathComponent": "arrive6.jpg",
+            "title": "Arrive 6"
+        },
+        "arrive7": {
+            "description": "Everyone finally gets all their various pants, shirts, helmets, gloves, and shoes on.  Is it time to rock out yet?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/arrive7.jpg",
+                "width": null
+            },
+            "pathComponent": "arrive7.jpg",
+            "title": "Arrive 7"
+        },
+        "day1_dunes1": {
+            "description": "First stop:  the sand dunes.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day1_dunes1.jpg",
+                "width": null
+            },
+            "pathComponent": "day1_dunes1.jpg",
+            "title": "Day1 Dunes 1"
+        },
+        "day1_dunes2": {
+            "description": "Quick status meeting.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day1_dunes2.jpg",
+                "width": null
+            },
+            "pathComponent": "day1_dunes2.jpg",
+            "title": "Day1 Dunes 2"
+        },
+        "day1_dunes3": {
+            "description": "Dean thinks about life, the universe and gravity.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day1_dunes3.jpg",
+                "width": null
+            },
+            "pathComponent": "day1_dunes3.jpg",
+            "title": "Day1 Dunes 3"
+        },
+        "day1_dunes4": {
+            "description": "Dan is one with his machine.  And his water bottle.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day1_dunes4.jpg",
+                "width": null
+            },
+            "pathComponent": "day1_dunes4.jpg",
+            "title": "Day1 Dunes 4"
+        },
+        "day1_dunes5": {
+            "description": "One of the guides, Sven, can really jump.  Noone in our group actually caught air, at least on purpose.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day1_dunes5.jpg",
+                "width": null
+            },
+            "pathComponent": "day1_dunes5.jpg",
+            "title": "Day1 Dunes 5"
+        },
+        "day1_lunch_1": {
+            "description": "We drove our offroad vehicles down the road for lunch.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day1_lunch_1.jpg",
+                "width": null
+            },
+            "pathComponent": "day1_lunch_1.jpg",
+            "title": "Day1 Lunch 1"
+        },
+        "day1_lunch_2": {
+            "description": "Operating an ATV is even harder on the thumbs than operating a Nintendo.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day1_lunch_2.jpg",
+                "width": null
+            },
+            "pathComponent": "day1_lunch_2.jpg",
+            "title": "Day1 Lunch 2"
+        },
+        "day1_lunch_dean": {
+            "description": "Dean likes Mexican coke.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day1_lunch_dean.jpg",
+                "width": null
+            },
+            "pathComponent": "day1_lunch_dean.jpg",
+            "title": "Day1 Lunch Dean"
+        },
+        "day1_lunch_ethan": {
+            "description": "Ethan.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day1_lunch_ethan.jpg",
+                "width": null
+            },
+            "pathComponent": "day1_lunch_ethan.jpg",
+            "title": "Day1 Lunch Ethan"
+        },
+        "day1_lunch_miles": {
+            "description": "Miles.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day1_lunch_miles.jpg",
+                "width": null
+            },
+            "pathComponent": "day1_lunch_miles.jpg",
+            "title": "Day1 Lunch Miles"
+        },
+        "day1_trails1": {
+            "description": "No hill is so scenic or pastoral that it can't be improved by a bunch of noisy dust-raising internal combustion engines.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day1_trails1.jpg",
+                "width": null
+            },
+            "pathComponent": "day1_trails1.jpg",
+            "title": "Day1 Trails 1"
+        },
+        "day1_trails2": {
+            "description": "We saw wild horses and rattlesnakes.  No pigs, but John here is ham enough.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day1_trails2.jpg",
+                "width": null
+            },
+            "pathComponent": "day1_trails2.jpg",
+            "title": "Day1 Trails 2"
+        },
+        "day1_trails3": {
+            "description": "If I were this rattlesnake, I'd run away from John's B.O. too.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day1_trails3.jpg",
+                "width": null
+            },
+            "pathComponent": "day1_trails3.jpg",
+            "title": "Day1 Trails 3"
+        },
+        "day1_zend1": {
+            "description": "End of day one.  No broken bones, four scraped elbows, one slightly bent ATV.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day1_zend1.jpg",
+                "width": null
+            },
+            "pathComponent": "day1_zend1.jpg",
+            "title": "Day1 Zend 1"
+        },
+        "day1_zend2": {
+            "description": "Our aches were borne away on floating aerobies.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day1_zend2.jpg",
+                "width": null
+            },
+            "pathComponent": "day1_zend2.jpg",
+            "title": "Day1 Zend 2"
+        },
+        "day1_znite_1": {
+            "description": "The nightclubs of Baja are filled with high school and college people having a last fling before the start of the school year.  We felt like a zillion years old.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day1_znite_1.jpg",
+                "width": null
+            },
+            "pathComponent": "day1_znite_1.jpg",
+            "title": "Day1 Znite 1"
+        },
+        "day1_znite_2": {
+            "description": "Feeling old, however, didn't prevent us from acting like clueless jerks.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day1_znite_2.jpg",
+                "width": null
+            },
+            "pathComponent": "day1_znite_2.jpg",
+            "title": "Day1 Znite 2"
+        },
+        "day1_znite_3": {
+            "description": "Lesser men might have retreated in the face of such overwhelming youth.  Mighty titans that we are, we dance with strength, grace, and passion.  Ethan selflessly remains at our table to safeguard our bucket o' beer.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day1_znite_3.jpg",
+                "width": null
+            },
+            "pathComponent": "day1_znite_3.jpg",
+            "title": "Day1 Znite 3"
+        },
+        "day1_znite_bull1": {
+            "description": "What's the best antidote to a day of being in the saddle?  Riding a mechanical bull!  This bull is controlled by a diabolically evil old coot, an expert at spinning and throwing people.  Our rides only last 10 or 20 seconds each.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day1_znite_bull1.jpg",
+                "width": null
+            },
+            "pathComponent": "day1_znite_bull1.jpg",
+            "title": "Day1 Znite Bull 1"
+        },
+        "day1_znite_bull2": {
+            "description": "It's not so much flying off as falling without any style whatsoever.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day1_znite_bull2.jpg",
+                "width": null
+            },
+            "pathComponent": "day1_znite_bull2.jpg",
+            "title": "Day1 Znite Bull 2"
+        },
+        "day1_znite_bull3": {
+            "description": "Miles measures his mettle against the beast o' metal.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day1_znite_bull3.jpg",
+                "width": null
+            },
+            "pathComponent": "day1_znite_bull3.jpg",
+            "title": "Day1 Znite Bull 3"
+        },
+        "day1_znite_bull4": {
+            "description": "Scott's few fleeting seconds atop the Brahma from Baja.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day1_znite_bull4.jpg",
+                "width": null
+            },
+            "pathComponent": "day1_znite_bull4.jpg",
+            "title": "Day1 Znite Bull 4"
+        },
+        "day1_znite_bull5": {
+            "description": "Dan, seconds before his date with the floor.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day1_znite_bull5.jpg",
+                "width": null
+            },
+            "pathComponent": "day1_znite_bull5.jpg",
+            "title": "Day1 Znite Bull 5"
+        },
+        "day1_znite_bull6": {
+            "description": "Dan picks up a manly leg scar on this fall.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day1_znite_bull6.jpg",
+                "width": null
+            },
+            "pathComponent": "day1_znite_bull6.jpg",
+            "title": "Day1 Znite Bull 6"
+        },
+        "day1_znite_bull7": {
+            "description": "Dean chases glory where none is to be had.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day1_znite_bull7.jpg",
+                "width": null
+            },
+            "pathComponent": "day1_znite_bull7.jpg",
+            "title": "Day1 Znite Bull 7"
+        },
+        "day2_1": {
+            "description": "Day two.   Rural cantina.  The locals suspect we may not be from around these parts.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day2_1.jpg",
+                "width": null
+            },
+            "pathComponent": "day2_1.jpg",
+            "title": "Day2 1"
+        },
+        "day2_3": {
+            "description": "The other patron of the cantina had an organic form of offroad locomotion.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day2_3.jpg",
+                "width": null
+            },
+            "pathComponent": "day2_3.jpg",
+            "title": "Day2 3"
+        },
+        "day2_4": {
+            "description": "Bjoern, our guide.  Germans dig adventure travel.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day2_4.jpg",
+                "width": null
+            },
+            "pathComponent": "day2_4.jpg",
+            "title": "Day2 4"
+        },
+        "day2_5": {
+            "description": "Bjoern needed frequent rest breaks.  The rest of us, of course, could have ridden all day without stopping, just drinking the sweat wrung out of our own handkerchiefs.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/day2_5.jpg",
+                "width": null
+            },
+            "pathComponent": "day2_5.jpg",
+            "title": "Day2 5"
+        },
+        "end1": {
+            "description": "<u>Left to right</u>:  Dan, Ethan, Dean, Miles, Scott, John.\n<br>\n<u>Not pictured</u>:  Many bruises, several deep cuts, quite a few blisters, and 5 palsied thumbs.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/end1.jpg",
+                "width": null
+            },
+            "pathComponent": "end1.jpg",
+            "title": "End 1"
+        },
+        "end2": {
+            "description": "On the road back to San Diego.  I think those are smiles.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/end2.jpg",
+                "width": null
+            },
+            "pathComponent": "end2.jpg",
+            "title": "End 2"
+        },
+        "end3": {
+            "description": "Ethan took this pretty shot of a palm tree.  Go Ethan.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/24/images/end3.jpg",
+                "width": null
+            },
+            "pathComponent": "end3.jpg",
+            "title": "End 3"
+        }
+    },
+    "childrenOrder": [
+        "a_token_pic",
+        "arrive1",
+        "arrive2",
+        "arrive3",
+        "arrive4",
+        "arrive5",
+        "arrive6",
+        "arrive7",
+        "day1_dunes1",
+        "day1_dunes2",
+        "day1_dunes3",
+        "day1_dunes4",
+        "day1_dunes5",
+        "day1_lunch_1",
+        "day1_lunch_2",
+        "day1_lunch_dean",
+        "day1_lunch_ethan",
+        "day1_lunch_miles",
+        "day1_trails1",
+        "day1_trails2",
+        "day1_trails3",
+        "day1_zend1",
+        "day1_zend2",
+        "day1_znite_1",
+        "day1_znite_2",
+        "day1_znite_3",
+        "day1_znite_bull1",
+        "day1_znite_bull2",
+        "day1_znite_bull3",
+        "day1_znite_bull4",
+        "day1_znite_bull5",
+        "day1_znite_bull6",
+        "day1_znite_bull7",
+        "day2_1",
+        "day2_3",
+        "day2_4",
+        "day2_5",
+        "end1",
+        "end2",
+        "end3"
+    ],
+    "creationTimestamp": 1061708400,
+    "description": "<P>\n<P>\nFelix can jump!  Both feet get off the ground.  Sometimes he even manages to not land on his butt.\n\n<p>\nHe says \"ouch\" when he gets hurt now.  This is a vast improvement over crying.  He'll knock his head, say \"ouch\" very calmly, then proceed with what he was doing.\n</p>\n\n<p>\nGrandma Francoise arrived in town this weekend, for a three week visit.  On the same day, Dean went to Mexico to ride motorcycles.\n</p>\n\n<p>",
+    "pathComponent": "2003/08-24",
+    "summary": "",
+    "thumbnailChild": "day2_3",
+    "title": "August 24"
+}

@@ -1,0 +1,221 @@
+{
+    "children": {
+        "chalk1": {
+            "description": "Over the last few months we've been stockpiling toys to give to Felix once Milo was born.  Now we're slowly releasing the toys into the ecosystem.  Here, we play with sidewalk chalk.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/28/images/chalk1.jpg",
+                "width": null
+            },
+            "pathComponent": "chalk1.jpg",
+            "title": "Chalk 1"
+        },
+        "chalk2": {
+            "description": "Dean's having more fun with the chalk than Felix.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/28/images/chalk2.jpg",
+                "width": null
+            },
+            "pathComponent": "chalk2.jpg",
+            "title": "Chalk 2"
+        },
+        "garage": {
+            "description": "Another toy:  a take-apart car, with a toy electric screwdriver.  This one is a BIG hit.  Felix can disassemble and assemble it all by himself.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/28/images/garage.jpg",
+                "width": null
+            },
+            "pathComponent": "garage.jpg",
+            "title": "Garage"
+        },
+        "milo": {
+            "description": "Milo.  Sleeping.  As he is wont to do.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/28/images/milo.jpg",
+                "width": null
+            },
+            "pathComponent": "milo.jpg",
+            "title": "Milo"
+        },
+        "milo2": {
+            "description": "Another sleeping baby picture.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/28/images/milo2.jpg",
+                "width": null
+            },
+            "pathComponent": "milo2.jpg",
+            "title": "Milo 2"
+        },
+        "milos_room": {
+            "description": "Milo has a colorful room.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/28/images/milos_room.jpg",
+                "width": null
+            },
+            "pathComponent": "milos_room.jpg",
+            "title": "Milo's Room"
+        },
+        "milos_room1": {
+            "description": "Felix and Milo hang out in his crib.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/28/images/milos_room1.jpg",
+                "width": null
+            },
+            "pathComponent": "milos_room1.jpg",
+            "title": "Milo's Room 1"
+        },
+        "milos_room2": {
+            "description": "Felix sings <i>Wheels on the Bus</i> for Milo.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/28/images/milos_room2.jpg",
+                "width": null
+            },
+            "pathComponent": "milos_room2.jpg",
+            "title": "Milo's Room 2"
+        },
+        "milos_room3": {
+            "description": "Felix tries out his old mobile.   I don't think he remembers it.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/28/images/milos_room3.jpg",
+                "width": null
+            },
+            "pathComponent": "milos_room3.jpg",
+            "title": "Milo's Room 3"
+        },
+        "milos_room4": {
+            "description": "Milo's room has the rocking chair with the view.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/28/images/milos_room4.jpg",
+                "width": null
+            },
+            "pathComponent": "milos_room4.jpg",
+            "title": "Milo's Room 4"
+        },
+        "milos_room5": {
+            "description": "Nana and Milo.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/28/images/milos_room5.jpg",
+                "width": null
+            },
+            "pathComponent": "milos_room5.jpg",
+            "title": "Milo's Room 5"
+        },
+        "monkey1": {
+            "description": "As befits a big brother, Felix practices being an unmannered gorilla.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/28/images/monkey1.jpg",
+                "width": null
+            },
+            "pathComponent": "monkey1.jpg",
+            "title": "Monkey 1"
+        },
+        "monkey2": {
+            "description": "Primal grunt, anyone?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/28/images/monkey2.jpg",
+                "width": null
+            },
+            "pathComponent": "monkey2.jpg",
+            "title": "Monkey 2"
+        },
+        "monkey3": {
+            "description": "ooka ooka ooka",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/28/images/monkey3.jpg",
+                "width": null
+            },
+            "pathComponent": "monkey3.jpg",
+            "title": "Monkey 3"
+        },
+        "ymca": {
+            "description": "Fireman, construction worker... we're just a few shy of a rock group.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/28/images/ymca.jpg",
+                "width": null
+            },
+            "pathComponent": "ymca.jpg",
+            "title": "Ymca"
+        },
+        "zoo1": {
+            "description": "Nana and Felix went to the zoo.  Felix picked out the airplane he wanted to ride, and told the lady all by himself.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/28/images/zoo1.jpg",
+                "width": null
+            },
+            "pathComponent": "zoo1.jpg",
+            "title": "Zoo 1"
+        },
+        "zoo2": {
+            "description": "The pilot's ready, but the control tower hasn't given the signal.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/28/images/zoo2.jpg",
+                "width": null
+            },
+            "pathComponent": "zoo2.jpg",
+            "title": "Zoo 2"
+        },
+        "zoo3": {
+            "description": "Felix also rides a fire engine.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/28/images/zoo3.jpg",
+                "width": null
+            },
+            "pathComponent": "zoo3.jpg",
+            "title": "Zoo 3"
+        },
+        "zoo4c": {
+            "description": "...and a jeep.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/07/28/images/zoo4c.jpg",
+                "width": null
+            },
+            "pathComponent": "zoo4c.jpg",
+            "title": "Zoo4c"
+        }
+    },
+    "childrenOrder": [
+        "chalk1",
+        "chalk2",
+        "garage",
+        "milo",
+        "milo2",
+        "milos_room",
+        "milos_room1",
+        "milos_room2",
+        "milos_room3",
+        "milos_room4",
+        "milos_room5",
+        "monkey1",
+        "monkey2",
+        "monkey3",
+        "ymca",
+        "zoo1",
+        "zoo2",
+        "zoo3",
+        "zoo4c"
+    ],
+    "creationTimestamp": 1090998000,
+    "description": "Days 4 & 5 of Milo.  So far, Milo's been as good as we could have possibly asked for.  He's sleeping three or even  four hours at a time, and at night he usually goes right back to sleep after feeding.  He's eating great.  There's none of the nursing problems that we had with Felix.  Amazingly, we actually feel rested and in control.\n\n<p>\nNana's been taking care of everything that needs to be taken care of -- cooking, washing, Felix-sitting, Milo-sitting, you name it.   She's made it a really easy few days for us.  Thanks, Nana!\n</p>\n\n<p>\nFelix is doing well, although he's had a few meltdowns and is extra extra attached to Dean.  These indicate that he's anxious about what changes Milo is going to bring.  We've been making sure he gets a whole lotta lovin', as these pictures show.  He already seems to be getting better as he sees that both Mom and Dad are still around, and still have time to play with him.\n</p>",
+    "pathComponent": "2004/07-28",
+    "summary": "",
+    "thumbnailChild": "milo2",
+    "title": "July 28"
+}

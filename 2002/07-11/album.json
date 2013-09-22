@@ -1,0 +1,67 @@
+{
+    "children": {
+        "hat": {
+            "description": "Felix is wearing a half-knit baby hat.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/11/images/hat.jpg",
+                "width": null
+            },
+            "pathComponent": "hat.jpg",
+            "title": "Hat"
+        },
+        "leila1": {
+            "description": "Leila and Felix.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/11/images/leila1.jpg",
+                "width": null
+            },
+            "pathComponent": "leila1.jpg",
+            "title": "Leila 1"
+        },
+        "leila2": {
+            "description": "Felix was fascinated by this cat.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/11/images/leila2.jpg",
+                "width": null
+            },
+            "pathComponent": "leila2.jpg",
+            "title": "Leila 2"
+        },
+        "leila3": {
+            "description": "The cat liked Felix.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/11/images/leila3.jpg",
+                "width": null
+            },
+            "pathComponent": "leila3.jpg",
+            "title": "Leila 3"
+        },
+        "leila4": {
+            "description": "That is, the cat liked Felix until Felix got grabby.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/11/images/leila4.jpg",
+                "width": null
+            },
+            "pathComponent": "leila4.jpg",
+            "title": "Leila 4"
+        }
+    },
+    "childrenOrder": [
+        "hat",
+        "leila1",
+        "leila2",
+        "leila3",
+        "leila4"
+    ],
+    "creationTimestamp": 1026370800,
+    "description": "<P>\n<P>\nFelix is babbling a lot!  He turned 7 months old, but we didn't do much to celebrate.  I think he got a new flavor of baby food...\n\n<p>\nThis section only covers a few days:  the rest of the week is in the next section, which covers the Mosii family vacation.\n</p>\n\n<p>",
+    "pathComponent": "2002/07-11",
+    "summary": "",
+    "thumbnailChild": "leila3",
+    "title": "July 11"
+}

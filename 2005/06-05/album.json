@@ -1,0 +1,199 @@
+{
+    "children": {
+        "breakfast1": {
+            "description": "Lucie, for once, is having an uninterrupted breakfast.  Felix is still sleeping.  What about Milo?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/05/slides/breakfast1.jpg",
+                "width": null
+            },
+            "pathComponent": "breakfast1.jpg",
+            "title": "Breakfast 1"
+        },
+        "breakfast2": {
+            "description": "He's crusing for a bruising.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/05/slides/breakfast2.jpg",
+                "width": null
+            },
+            "pathComponent": "breakfast2.jpg",
+            "title": "Breakfast 2"
+        },
+        "breakfast3": {
+            "description": "He doesn't mind being left alone as long as it's to do something dangerous.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/05/slides/breakfast3.jpg",
+                "width": null
+            },
+            "pathComponent": "breakfast3.jpg",
+            "title": "Breakfast 3"
+        },
+        "breakfast4": {
+            "description": "Waiter! Where's my sippy cup?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/05/slides/breakfast4.jpg",
+                "width": null
+            },
+            "pathComponent": "breakfast4.jpg",
+            "title": "Breakfast 4"
+        },
+        "breakfast5": {
+            "description": "Once you've figured out how to climb, why stop halfway?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/05/slides/breakfast5.jpg",
+                "width": null
+            },
+            "pathComponent": "breakfast5.jpg",
+            "title": "Breakfast 5"
+        },
+        "brothers1": {
+            "description": "Felix and Milo often lust after the same toy at the same time.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/05/slides/brothers1.jpg",
+                "width": null
+            },
+            "pathComponent": "brothers1.jpg",
+            "title": "Brothers 1"
+        },
+        "brothers2": {
+            "description": "Peekaboo!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/05/slides/brothers2.jpg",
+                "width": null
+            },
+            "pathComponent": "brothers2.jpg",
+            "title": "Brothers 2"
+        },
+        "playhouse1": {
+            "description": "Our <a href=\"http://www.tacocat.com/pix/2005/05/01/slides/playhouse2.html\">first attempt</a> at building this playhouse was a comedy of errors: it collapsed into bits of wood trying to get the roof together. This time Austin came the rescue.  He brought his tools and his mad carpentry skillz.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/05/slides/playhouse1.jpg",
+                "width": null
+            },
+            "pathComponent": "playhouse1.jpg",
+            "title": "Playhouse 1"
+        },
+        "playhouse2": {
+            "description": "How many adults does it take to build a simple kid's playhouse?  Three:  one to entertain Felix, one to keep Milo at bay, and one to do everything else.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/05/slides/playhouse2.jpg",
+                "width": null
+            },
+            "pathComponent": "playhouse2.jpg",
+            "title": "Playhouse 2"
+        },
+        "playhouse3": {
+            "description": "Felix immediately set up ice cream shop. What flavor do you want?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/05/slides/playhouse3.jpg",
+                "width": null
+            },
+            "pathComponent": "playhouse3.jpg",
+            "title": "Playhouse 3"
+        },
+        "shave": {
+            "description": "A morning ritual:  chewing on the electric shaver while Dean shaves.  The vibrations must feel good on his gums.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/05/slides/shave.jpg",
+                "width": null
+            },
+            "pathComponent": "shave.jpg",
+            "title": "Shave"
+        },
+        "tent1": {
+            "description": "This little tent, a hand-me-down from the Joyces, has seen a lot of action from both boys.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/05/slides/tent1.jpg",
+                "width": null
+            },
+            "pathComponent": "tent1.jpg",
+            "title": "Tent 1"
+        },
+        "tent2": {
+            "description": "The problem with crawling?   No free hands.  Thank goodness for the mouth.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/05/slides/tent2.jpg",
+                "width": null
+            },
+            "pathComponent": "tent2.jpg",
+            "title": "Tent 2"
+        },
+        "zoo1": {
+            "description": "Milo is fascinated by any pigeon, cat or dog he meets. So we took him to the zoo. The giraffes were okay but not as cool as the neighbor's cat.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/05/slides/zoo1.jpg",
+                "width": null
+            },
+            "pathComponent": "zoo1.jpg",
+            "title": "Zoo 1"
+        },
+        "zoo2": {
+            "description": "Wild animal about to pounce!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/05/slides/zoo2.jpg",
+                "width": null
+            },
+            "pathComponent": "zoo2.jpg",
+            "title": "Zoo 2"
+        },
+        "zoo3": {
+            "description": "The fearsome beast knows how to make its kill:  go directly for the sun-regulation device.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/05/slides/zoo3.jpg",
+                "width": null
+            },
+            "pathComponent": "zoo3.jpg",
+            "title": "Zoo 3"
+        },
+        "zoo4": {
+            "description": "His prey will roast nicely in the sun.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/06/05/slides/zoo4.jpg",
+                "width": null
+            },
+            "pathComponent": "zoo4.jpg",
+            "title": "Zoo 4"
+        }
+    },
+    "childrenOrder": [
+        "breakfast1",
+        "breakfast2",
+        "breakfast3",
+        "breakfast4",
+        "breakfast5",
+        "brothers1",
+        "brothers2",
+        "playhouse1",
+        "playhouse2",
+        "playhouse3",
+        "shave",
+        "tent1",
+        "tent2",
+        "zoo1",
+        "zoo2",
+        "zoo3",
+        "zoo4"
+    ],
+    "creationTimestamp": 1117954800,
+    "description": "New baby signs this week:\n<ul>\n<li> <u>[waving]</u>: <i>bye bye</i>. Every baby and adult uses this sign. Milo had waved before, but now he truly gets it and waves bye bye appropriately.\n<li> <u>[fingers in mouth]</u>: <i>drink</i>. Sometimes during meals he puts his fingers in his mouth. We are still not sure whether he is asking for a drink, or complaining about teething pain.\n</ul>\n\nWhen Lucie talks in French to Felix, he is likely to re-use the same French words she just did. However, the grammar is all English.\n<div style=\"margin-left:20px;margin-top:5px\">\n\n<br><u>Lucie</u>: Est-ce que le chien a abboy&eacute; toute la nuit? (did the dog bark all night?)\n<br><u>Felix</u>: No, the chien did not abboy&eacute; all nuit.\n<p>\n<u>Lucie</u>: Je ne sais pas. (I don't know)\n<br><u>Felix</u>: I sais pas either.\n<p>\n<u>Lucie</u>: Mange! (eat!)\n<br><u>Felix</u>: I'm mangeing!\n<p>\n<u>Lucie</u>: Devine ce qu'on a pour le dessert, &ccedil;a commence par un F. Ffffrrr... (guess what we are having for desert, it starts with an F)\n<br><u>Felix</u>: Strawberries! (in French: Fraises)\n</div>",
+    "pathComponent": "2005/06-05",
+    "summary": "",
+    "thumbnailChild": "breakfast3",
+    "title": "June 5"
+}

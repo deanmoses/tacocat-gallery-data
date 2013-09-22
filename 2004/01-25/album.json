@@ -1,0 +1,45 @@
+{
+    "children": {
+        "ezekiel": {
+            "description": "Play date with Ezekiel.  Ezekiel is as unselfconsciously extroverted as ever.  When Dean growled at him, he growled back.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/01/25/images/ezekiel.jpg",
+                "width": null
+            },
+            "pathComponent": "ezekiel.jpg",
+            "title": "Ezekiel"
+        },
+        "giraffe": {
+            "description": "One of Felix's few remaining baby signs is hands near the neck for \"giraffe\".   Giraffe is hard to say.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/01/25/images/giraffe.jpg",
+                "width": null
+            },
+            "pathComponent": "giraffe.jpg",
+            "title": "Giraffe"
+        },
+        "mouth": {
+            "description": "Felix is starting to make all sorts of funny mouths.  We think he picked it up from Evan.  Felix also practices walking funny:  stiff legs, or arms in the air, or frog-hops.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/01/25/images/mouth.jpg",
+                "width": null
+            },
+            "pathComponent": "mouth.jpg",
+            "title": "Mouth"
+        }
+    },
+    "childrenOrder": [
+        "ezekiel",
+        "giraffe",
+        "mouth"
+    ],
+    "creationTimestamp": 1075017600,
+    "description": "Felix is turning into a very empathetic kid with a lot of self control.   He's always been very interested and concerned when other kids cry.  But now, when he sees a kid he's acquainted with crying, he'll sometimes offer a hug.  And today at supper he was whining about wanting some cake.  We told him he wouldn't get any if he didn't stop whining.  He actually stopped whining, and instead reminded us every few minutes that he was owed cake.  You can bet we gave him effusive praise for not whining!\n\n<p>\nHe's still shy in new situations, but warms up quickly.  Sometimes he'll forget that he's shy and wave at people on the street.  Sometimes he'll decide that someone new is a friend right away, grab their hand and drag them off to see his toys.\n</p>\n\n<p>\nOn the language front, he's talking more and more in sentences.   There are two types:\n\n<ul>\n<li>\nOne type is customary phrases.   They are grammatically correct and always English.  Each one functions as a solid block:  it cannot be taken apart into single words.  Examples:  \"What are you doing?\", \"I do it\", \"I want some\", \"I don't like it\", \"Are you okay?\", \"See you later.\"\n</li>\n<li>\nAnother type is strings of words or phrases, assembled for a specific situation. Though usually ungrammatical, they feel more like \"real\" sentences because the words are working together to produce a unique meaning.  Example:  \"Pomme, coupe, I do it.\"  Translation:  \"I want to cut the apple myself.\"\n</li>\n</ul>\n</p>\n\n<p>\nAlso, he'll say \"Felix\" now, though it sounds more like \"Feek\".  Before he wouldn't identify himself in photos or respond to \"What's your name?\"\n</p>",
+    "pathComponent": "2004/01-25",
+    "summary": "",
+    "thumbnailChild": "giraffe",
+    "title": "January 25"
+}

@@ -1,0 +1,177 @@
+{
+    "children": {
+        "bedtime": {
+            "description": "Until this week, Felix used his bottle to fall asleep (for naptime or bedtime).  This week, however, we switched to a bigger aperture nipple so meals are faster and not so nap-inducing.  We switched because he was getting frustrated with the speed of the daytime meals.\n\n<p>\nWe now put him to bed while he's still awake.  He cries anywhere from 5 to 15 minutes before falling asleep. Hopefully, he will soon learn to drift to sleep by himself more peacefully.\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/28/images/bedtime.jpg",
+                "width": null
+            },
+            "pathComponent": "bedtime.jpg",
+            "title": "Bedtime"
+        },
+        "birthday1": {
+            "description": "Felix and Dean both got pairs of Converse All Stars for Dean's birthday on the 22nd.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/28/images/birthday1.jpg",
+                "width": null
+            },
+            "pathComponent": "birthday1.jpg",
+            "title": "Birthday 1"
+        },
+        "birthday2": {
+            "description": "Papa and son birthday portrait.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/28/images/birthday2.jpg",
+                "width": null
+            },
+            "pathComponent": "birthday2.jpg",
+            "title": "Birthday 2"
+        },
+        "jen": {
+            "description": "Felix and Nathaniel give Jennifer a feel for what having twins would be like.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/28/images/jen.jpg",
+                "width": null
+            },
+            "pathComponent": "jen.jpg",
+            "title": "Jen"
+        },
+        "pool1": {
+            "description": "Making the most of a summer day.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/28/images/pool1.jpg",
+                "width": null
+            },
+            "pathComponent": "pool1.jpg",
+            "title": "Pool 1"
+        },
+        "pool2": {
+            "description": "This Frenchie has a wind-up froggie.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/28/images/pool2.jpg",
+                "width": null
+            },
+            "pathComponent": "pool2.jpg",
+            "title": "Pool 2"
+        },
+        "pool3": {
+            "description": "Looking for the poolside attendant.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/28/images/pool3.jpg",
+                "width": null
+            },
+            "pathComponent": "pool3.jpg",
+            "title": "Pool 3"
+        },
+        "standing1": {
+            "description": "The following series of standing-while-holding-on-to-something pictures was taken hours before Felix made the great evolutionary leap between man and monkey:  upright bipedal locomotion!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/28/images/standing1.jpg",
+                "width": null
+            },
+            "pathComponent": "standing1.jpg",
+            "title": "Standing 1"
+        },
+        "standing2": {
+            "description": "Look Ma, one hand!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/28/images/standing2.jpg",
+                "width": null
+            },
+            "pathComponent": "standing2.jpg",
+            "title": "Standing 2"
+        },
+        "standing3": {
+            "description": "Enjoying the scene.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/28/images/standing3.jpg",
+                "width": null
+            },
+            "pathComponent": "standing3.jpg",
+            "title": "Standing 3"
+        },
+        "standing4": {
+            "description": "It's a bird!  It's a plane!  No, it's just Dad standing on a cabinet with a camera.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/28/images/standing4.jpg",
+                "width": null
+            },
+            "pathComponent": "standing4.jpg",
+            "title": "Standing 4"
+        },
+        "standing5": {
+            "description": "We had just told him that his education IRA was in bonds, not equities.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/28/images/standing5.jpg",
+                "width": null
+            },
+            "pathComponent": "standing5.jpg",
+            "title": "Standing 5"
+        },
+        "tv1": {
+            "description": "Felix has his own remote.  Batteries not included.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/28/images/tv1.jpg",
+                "width": null
+            },
+            "pathComponent": "tv1.jpg",
+            "title": "Tv 1"
+        },
+        "tv2": {
+            "description": "Felix is starting to watch some TV.  He's seen Sesame Street, the Teletubbies and some random cartoons.  He likes the hyperactive Muppets the best.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/28/images/tv2.jpg",
+                "width": null
+            },
+            "pathComponent": "tv2.jpg",
+            "title": "Tv 2"
+        },
+        "z_idiot": {
+            "description": "Dean managed to superglue his thumb to the shower while attempting a simple repair.  It took an X-acto knife and a few sweaty, delicate minutes to get free.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/07/28/images/z_idiot.jpg",
+                "width": null
+            },
+            "pathComponent": "z_idiot.jpg",
+            "title": "Z Idiot"
+        }
+    },
+    "childrenOrder": [
+        "bedtime",
+        "birthday1",
+        "birthday2",
+        "jen",
+        "pool1",
+        "pool2",
+        "pool3",
+        "standing1",
+        "standing2",
+        "standing3",
+        "standing4",
+        "standing5",
+        "tv1",
+        "tv2",
+        "z_idiot"
+    ],
+    "creationTimestamp": 1027839600,
+    "description": "<P>\n<P>\nThis week was spent working hard, hard, hard on standing.  All the effort paid off on Sunday:  Felix began standing by himself for a few seconds!  He also began pulling himself from lying on his belly to sitting, but he can only do it when he's not thinking about it.\n\n<p>\nThis week's <a href=\"video/\">videos</a>.\n</p>\n\n<p>",
+    "pathComponent": "2002/07-28",
+    "summary": "",
+    "thumbnailChild": "standing1",
+    "title": "July 28"
+}

@@ -1,0 +1,67 @@
+{
+    "children": {
+        "iris": {
+            "description": "Irises.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/05/27/garden/images/iris.jpg",
+                "width": null
+            },
+            "pathComponent": "iris.jpg",
+            "title": "Iris"
+        },
+        "lobelia": {
+            "description": "Lobelia.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/05/27/garden/images/lobelia.jpg",
+                "width": null
+            },
+            "pathComponent": "lobelia.jpg",
+            "title": "Lobelia"
+        },
+        "pansy": {
+            "description": "Pansies.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/05/27/garden/images/pansy.jpg",
+                "width": null
+            },
+            "pathComponent": "pansy.jpg",
+            "title": "Pansy"
+        },
+        "poppy": {
+            "description": "Poppies.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/05/27/garden/images/poppy.jpg",
+                "width": null
+            },
+            "pathComponent": "poppy.jpg",
+            "title": "Poppy"
+        },
+        "rose": {
+            "description": "Roses.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/05/27/garden/images/rose.jpg",
+                "width": null
+            },
+            "pathComponent": "rose.jpg",
+            "title": "Rose"
+        }
+    },
+    "childrenOrder": [
+        "iris",
+        "lobelia",
+        "pansy",
+        "poppy",
+        "rose"
+    ],
+    "creationTimestamp": 1022482800,
+    "description": "<P>\n<P>\nThe garden is blooming.\n\n<p>\nReturn to this week's <a href=\"../index.htm\">pictures</a>.\n</p>\n\n<p>",
+    "pathComponent": "2002/05-27/garden",
+    "summary": "Week 24",
+    "thumbnailChild": "pansy",
+    "title": "May 27"
+}

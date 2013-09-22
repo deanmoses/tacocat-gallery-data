@@ -1,0 +1,155 @@
+{
+    "children": {
+        "babysign1": {
+            "description": "\"Papa, look at the funny hat this guy is wearing!\"\n<p>\nThis is Milo's favorite new baby sign: patting his head everytime he spots a hat.\n</p>\n<div class=\"para\">\nNote that, as of this week, we no longer sleep on a mattress on the floor; we have a real bed frame like real grown-ups... about time!\n</div>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/09/05/slides/babysign1.jpg",
+                "width": null
+            },
+            "pathComponent": "babysign1.jpg",
+            "title": "Babysign 1"
+        },
+        "babysign2": {
+            "description": "The universal baby sign for \"pick me up!\"",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/09/05/slides/babysign2.jpg",
+                "width": null
+            },
+            "pathComponent": "babysign2.jpg",
+            "title": "Babysign 2"
+        },
+        "babysign3": {
+            "description": "The universal baby sign for \"I am so cute, you will do everything I want\".",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/09/05/slides/babysign3.jpg",
+                "width": null
+            },
+            "pathComponent": "babysign3.jpg",
+            "title": "Babysign 3"
+        },
+        "circus": {
+            "description": "Another circus?!?  Yes, this one is the Ringling Brothers circus, which calls itself the \"Greatest Show On Earth\".  We don't know if it's the <i>greatest</i>, but they <i>do</i> shoot people out of a cannon.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/09/05/slides/circus.jpg",
+                "width": null
+            },
+            "pathComponent": "circus.jpg",
+            "title": "Circus"
+        },
+        "evan1": {
+            "description": "Superhero tea time.\n<div class=\"para\">\nBoth Felix and Evan love superheroes. Felix wears his Superman cape many hours a day.  Evan is Spiderman. \n</div>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/09/05/slides/evan1.jpg",
+                "width": null
+            },
+            "pathComponent": "evan1.jpg",
+            "title": "Evan 1"
+        },
+        "evan2": {
+            "description": "Evan's cool as a cucumber in his Spiderman sunglasses.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/09/05/slides/evan2.jpg",
+                "width": null
+            },
+            "pathComponent": "evan2.jpg",
+            "title": "Evan 2"
+        },
+        "felix1": {
+            "description": "Felix is a serious, sensitive child.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/09/05/slides/felix1.jpg",
+                "width": null
+            },
+            "pathComponent": "felix1.jpg",
+            "title": "Felix 1"
+        },
+        "felix2": {
+            "description": "... reflecting upon our nihilistic existence with bemused detachment.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/09/05/slides/felix2.jpg",
+                "width": null
+            },
+            "pathComponent": "felix2.jpg",
+            "title": "Felix 2"
+        },
+        "garden1": {
+            "description": "Our garden is developing a nice lush look. Some of the pretty weeds are coming back, and the new plants are starting to develop a 5 o'clock shadow. We like it.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/09/05/slides/garden1.jpg",
+                "width": null
+            },
+            "pathComponent": "garden1.jpg",
+            "title": "Garden 1"
+        },
+        "garden2": {
+            "description": "The drool, the drool! There must be some new teeth coming in.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/09/05/slides/garden2.jpg",
+                "width": null
+            },
+            "pathComponent": "garden2.jpg",
+            "title": "Garden 2"
+        },
+        "giggle": {
+            "description": "Milo is ticklish. We show no mercy.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/09/05/slides/giggle.jpg",
+                "width": null
+            },
+            "pathComponent": "giggle.jpg",
+            "title": "Giggle"
+        },
+        "plum": {
+            "description": "A plum shot.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/09/05/slides/plum.jpg",
+                "width": null
+            },
+            "pathComponent": "plum.jpg",
+            "title": "Plum"
+        },
+        "teletubbies": {
+            "description": "Many, many times a day, Milo points at stuff with an inquisitive \"dah?\".\n<div class=\"para\">\nHere, he delights in the Teletubbies coming out of their Teletubby house. \"Look mom, another one!\"\n</div>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/09/05/slides/teletubbies.jpg",
+                "width": null
+            },
+            "pathComponent": "teletubbies.jpg",
+            "title": "Teletubbies"
+        }
+    },
+    "childrenOrder": [
+        "babysign1",
+        "babysign2",
+        "babysign3",
+        "circus",
+        "evan1",
+        "evan2",
+        "felix1",
+        "felix2",
+        "garden1",
+        "garden2",
+        "giggle",
+        "plum",
+        "teletubbies"
+    ],
+    "creationTimestamp": 1125903600,
+    "description": "We spent this week getting over jet lag and settling back into our routines, though Felix's school was closed all week.  Tomorrow will be the first day of his school's fall semester.\n\n<p>\nMilo has made the transition to a single nap a day.  That's one more thing making him feel like a full fledged toddler.  His babyhood feels far behind him now.\n</p>\n\n<p>\nMilo is baby signing more and more, plus a few spoken words and heartfelt grunts.  Today, he and Dean had an actual conversation:\n<br /> - Milo signed bird, probably in response to something he thought we were saying.\n<br /> - Dean asked \"Where is the bird?\"\n<br /> - Milo signed I don't know.\n</p>\n\nThe latest additions to his vocabulary:\n<ul>\n<li> <u>uh oh</u>: <i>I dropped something</i>\n<li> <u>[touching ear]</u>: <i>I hear</i>, usually followed by another sign... his first sentences! For example: [touching ear] + [flapping arm] = <i>I hear a bird</i>\n<li> <u>[brushing finger against teeth]</u>: <i>toothbrush</i>.\n<li> <u>[back of hand against nose]</u>: <i>elephant</i>.\n<li> <u>[twirling hands together]</u>: <i>anything that turns.  </i> Example: a fan\n<li> <u>'atty cay'</u>: <i>patty cake</i>, accompanied by clapping hands\n<li> <u>[open-palm shrug]</u>:  <i>I don't know where it is.</i>\n</ul>",
+    "pathComponent": "2005/09-05",
+    "summary": "",
+    "thumbnailChild": "giggle",
+    "title": "September 5"
+}

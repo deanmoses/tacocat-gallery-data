@@ -1,0 +1,78 @@
+{
+    "children": {
+        "ipod": {
+            "description": "Hey Apple!  Here's your next iPod ad.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/07/slides/ipod.jpg",
+                "width": null
+            },
+            "pathComponent": "ipod.jpg",
+            "title": "Ipod"
+        },
+        "jens1": {
+            "description": "Jens' birthday pary at the Berkeley marina. There were lots of Felix's classmates. We flew kites, ate cake, and enjoyed the view.\n<div class=\"para\">\n<u>Left to right:</u> Darshan, Grant in his usual weekend attire (a.k.a. baby Simone), Jens, Ezri.\n</div>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/07/slides/jens1.jpg",
+                "width": null
+            },
+            "pathComponent": "jens1.jpg",
+            "title": "Jens 1"
+        },
+        "jens2": {
+            "description": "Jens turned 4.  He can ride a bike with <i>no training wheels</i>!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/07/slides/jens2.jpg",
+                "width": null
+            },
+            "pathComponent": "jens2.jpg",
+            "title": "Jens 2"
+        },
+        "jens3": {
+            "description": "Felix's bike may have training wheels, but it's still the coolest of them all. Jules takes it for a spin.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/07/slides/jens3.jpg",
+                "width": null
+            },
+            "pathComponent": "jens3.jpg",
+            "title": "Jens 3"
+        },
+        "prince1": {
+            "description": "The Martin Luther King middle school is on our street, just a few blocks away.  What's all the commotion?  Why the armed guards on the roof?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/07/slides/prince1.jpg",
+                "width": null
+            },
+            "pathComponent": "prince1.jpg",
+            "title": "Prince 1"
+        },
+        "prince2": {
+            "description": "It's Prince Charles!   He has a passion for organic farming, and was touring the school's organic garden.  All Berkeley schools have an organic garden.  They're sponsored by Alice Waters, the owner-chef of the world-famous restaurant Chez Panisse (also near us).",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/11/07/slides/prince2.jpg",
+                "width": null
+            },
+            "pathComponent": "prince2.jpg",
+            "title": "Prince 2"
+        }
+    },
+    "childrenOrder": [
+        "ipod",
+        "jens1",
+        "jens2",
+        "jens3",
+        "prince1",
+        "prince2"
+    ],
+    "creationTimestamp": 1131350400,
+    "description": "The last few weeks were overfull:  we threw block parties, halloween parties, helped with bazaars, and so on.   This week we played it mellow.   Pretty much the only thing we did was have Charles over.  You know Charles, right?   His Royal Highness the Prince of Wales, Duke of Cornwall, Duke of Rothesay, Earl of Carrick, Lord of Renfrew, Lord of the Isles, Prince and Great Steward of Scotland and Earl of Chester.\n<p>\nWe just call him Chuck.",
+    "pathComponent": "2005/11-07",
+    "summary": "",
+    "thumbnailChild": "prince2",
+    "title": "November 7"
+}

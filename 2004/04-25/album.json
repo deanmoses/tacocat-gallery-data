@@ -1,0 +1,89 @@
+{
+    "children": {
+        "bike1": {
+            "description": "In anticipation of our new house with a garage, Dean got a motorcycle.  (He had sold his old one when moving to Church St because of lack of parking.)",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/25/images/bike1.jpg",
+                "width": null
+            },
+            "pathComponent": "bike1.jpg",
+            "title": "Bike 1"
+        },
+        "bike2": {
+            "description": "Felix got a motorcycle, too.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/25/images/bike2.jpg",
+                "width": null
+            },
+            "pathComponent": "bike2.jpg",
+            "title": "Bike 2"
+        },
+        "brothers1": {
+            "description": "For the first time this week, Felix felt his brother kick. His eyes lit up, and he gently talked to the belly: \"Come, baby come! Want read book? Want play toy? Come baby, toy fun!\"\n<p>\nSince then, even though the baby did NOT come out to play, Felix often talks to his baby brother and gives him kisses.  He's giving real thought to what a new baby means:  we were describing how the baby would have his own room with toys, and Felix furrows his brow and asks, \"Share books?\"  He <i>is</i> attached to his books.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/25/images/brothers1.jpg",
+                "width": null
+            },
+            "pathComponent": "brothers1.jpg",
+            "title": "Brothers 1"
+        },
+        "brothers2": {
+            "description": "\"Watch, baby, my caco\"\n<p>\nFelix loves to show things to his brother. As long as Lucie's shirt is lifted, Felix assumes the baby can see.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/25/images/brothers2.jpg",
+                "width": null
+            },
+            "pathComponent": "brothers2.jpg",
+            "title": "Brothers 2"
+        },
+        "garden": {
+            "description": "What's so interesting in the flower pot? Snails!\n<p>\nWhen Lucie offered to put one on Felix's hand, his first reaction was \"no! peur!\" (afraid). Felix is getting good at recognizing (and labeling) his emotions.\n<p>\nAfter seeing one harmlessly slide on Lucie's hand, Felix changed his mind and held a snail.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/25/images/garden.jpg",
+                "width": null
+            },
+            "pathComponent": "garden.jpg",
+            "title": "Garden"
+        },
+        "handwashing": {
+            "description": "New landmark on the road to self-reliance: Felix can get up to the sink, turn on the faucet, and wash his hands all by himself. He doesn't do a very good job, though, so we usually still assist.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/25/images/handwashing.jpg",
+                "width": null
+            },
+            "pathComponent": "handwashing.jpg",
+            "title": "Handwashing"
+        },
+        "mealtime": {
+            "description": "We are getting creative in our quest to get Felix to try new food. Pictured here: proscuitto hair, potatoe eyes with pecan pupils, gherkin nose and tomato mouth. \n<p>\nOnly the hair got eaten. Oh well, we're trying.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/04/25/images/mealtime.jpg",
+                "width": null
+            },
+            "pathComponent": "mealtime.jpg",
+            "title": "Mealtime"
+        }
+    },
+    "childrenOrder": [
+        "bike1",
+        "bike2",
+        "brothers1",
+        "brothers2",
+        "garden",
+        "handwashing",
+        "mealtime"
+    ],
+    "creationTimestamp": 1082876400,
+    "description": "</TD>\n</TR>\n</TABLE>\n<P>\n<P>\nFelix is getting more confident that other people will understand him.  A first for him:  he went up to a boy at the playground who was building a sandcastle and said, \"Nice!\"   Then, after watching a while, said \"Want play?\"  And they went off and played together.   Also, he's started to sing:  he'll softly sing the first line to \"Row your boat\", except he'll sing it \"Row, row, row bateau!\"  \n\n<p>\nWe are getting ready for the move in two weeks, finding a doctor for Lucie and a preschool and pediatrician for Felix.  Felix has been going on most of the preschool interviews.  He's fully aware what's going on.  Leaving one of them, we asked whether he'd rather that one or one we visited previously.  He was absolutely for that one.  A few thoughtful minutes later, he asked \"Mommy come too?\"  No sweetie, Mom's not staying with you at school...\n</p>",
+    "pathComponent": "2004/04-25",
+    "summary": "",
+    "thumbnailChild": "garden",
+    "title": "April 25"
+}

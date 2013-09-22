@@ -1,0 +1,199 @@
+{
+    "children": {
+        "acuddle": {
+            "description": "TV time is cuddling time.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/09/slides/acuddle.jpg",
+                "width": null
+            },
+            "pathComponent": "acuddle.jpg",
+            "title": "Acuddle"
+        },
+        "creek1": {
+            "description": "We like to wander through UC Berkeley's campus. A creek runs through it, with cute little bridges.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/09/slides/creek1.jpg",
+                "width": null
+            },
+            "pathComponent": "creek1.jpg",
+            "title": "Creek 1"
+        },
+        "creek2": {
+            "description": "You can even go UNDER most of the bridges and hunt for all sort of treasures.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/09/slides/creek2.jpg",
+                "width": null
+            },
+            "pathComponent": "creek2.jpg",
+            "title": "Creek 2"
+        },
+        "dinosaur": {
+            "description": "Sometimes we stop by the Paleontology department to check out the T-Rex and the pterodactyl.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/09/slides/dinosaur.jpg",
+                "width": null
+            },
+            "pathComponent": "dinosaur.jpg",
+            "title": "Dinosaur"
+        },
+        "fountain": {
+            "description": "We've left a small fortune in pennies in the fountain at the center of campus.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/09/slides/fountain.jpg",
+                "width": null
+            },
+            "pathComponent": "fountain.jpg",
+            "title": "Fountain"
+        },
+        "liveoak1": {
+            "description": "Another day, another creek. This is Live Oak Park.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/09/slides/liveoak1.jpg",
+                "width": null
+            },
+            "pathComponent": "liveoak1.jpg",
+            "title": "Liveoak 1"
+        },
+        "liveoak2": {
+            "description": "There's lots to do at a creek. You can poke the water with a stick.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/09/slides/liveoak2.jpg",
+                "width": null
+            },
+            "pathComponent": "liveoak2.jpg",
+            "title": "Liveoak 2"
+        },
+        "liveoak3": {
+            "description": "Or you can look for a good rock...",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/09/slides/liveoak3.jpg",
+                "width": null
+            },
+            "pathComponent": "liveoak3.jpg",
+            "title": "Liveoak 3"
+        },
+        "liveoak4": {
+            "description": "... and make a splash.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/09/slides/liveoak4.jpg",
+                "width": null
+            },
+            "pathComponent": "liveoak4.jpg",
+            "title": "Liveoak 4"
+        },
+        "maria": {
+            "description": "Maria has been very sick for the last 3 weeks. She is finally back on her feet. We are all very happy to have her back.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/09/slides/maria.jpg",
+                "width": null
+            },
+            "pathComponent": "maria.jpg",
+            "title": "Maria"
+        },
+        "skunk-proofing": {
+            "description": "Some animal, presumably a skunk, is still ransacking our lawn. We patched every hole in our fence.  That worked for 2 or 3 weeks but last night the beast was back.\n<p class=\"para\">\nToday Lucie and Felix meticulously hunted for more possible points of entry in our garden, and closed them with wood and bricks. Time will tell how good a job we did. \n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/09/slides/skunk-proofing.jpg",
+                "width": null
+            },
+            "pathComponent": "skunk-proofing.jpg",
+            "title": "Skunk Proofing"
+        },
+        "stomprocket1": {
+            "description": "Lucie, supergluing the monkey rocket back together.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/09/slides/stomprocket1.jpg",
+                "width": null
+            },
+            "pathComponent": "stomprocket1.jpg",
+            "title": "Stomprocket 1"
+        },
+        "stomprocket2": {
+            "description": "Milo can operate the stomp rocket all by himself. <p class=\"para\">\nStep one: load the rocket...\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/09/slides/stomprocket2.jpg",
+                "width": null
+            },
+            "pathComponent": "stomprocket2.jpg",
+            "title": "Stomprocket 2"
+        },
+        "stomprocket3": {
+            "description": "Step two: stomp!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/09/slides/stomprocket3.jpg",
+                "width": null
+            },
+            "pathComponent": "stomprocket3.jpg",
+            "title": "Stomprocket 3"
+        },
+        "waterballoon1": {
+            "description": "Felix gets creative on ways to pop a water balloon.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/09/slides/waterballoon1.jpg",
+                "width": null
+            },
+            "pathComponent": "waterballoon1.jpg",
+            "title": "Waterballoon 1"
+        },
+        "waterballoon2": {
+            "description": "Pop!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/09/slides/waterballoon2.jpg",
+                "width": null
+            },
+            "pathComponent": "waterballoon2.jpg",
+            "title": "Waterballoon 2"
+        },
+        "waterballoon3": {
+            "description": "Milo feels for the water balloon. \n<p class=\"para\">\nMilo has a funny relationship with water balloons. Sometimes he explodes them with glee, and sometimes he gets really upset when one pops. \n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/07/09/slides/waterballoon3.jpg",
+                "width": null
+            },
+            "pathComponent": "waterballoon3.jpg",
+            "title": "Waterballoon 3"
+        }
+    },
+    "childrenOrder": [
+        "acuddle",
+        "creek1",
+        "creek2",
+        "dinosaur",
+        "fountain",
+        "liveoak1",
+        "liveoak2",
+        "liveoak3",
+        "liveoak4",
+        "maria",
+        "skunk-proofing",
+        "stomprocket1",
+        "stomprocket2",
+        "stomprocket3",
+        "waterballoon1",
+        "waterballoon2",
+        "waterballoon3"
+    ],
+    "creationTimestamp": 1152428400,
+    "description": "Felix must have a growth spurt coming on: he's been devoring an amazing amount of food. He says he's eating a lot to grow as big as Keenan.\n<p class=\"para\">\nMilo is making more and more sentences, such as \"want read that book\", \"it's my turn\", or \"Felix sorti bain\" (Felix is coming out of the tub).\n</p>",
+    "pathComponent": "2006/07-09",
+    "summary": "",
+    "thumbnailChild": "stomprocket1",
+    "title": "July 9"
+}

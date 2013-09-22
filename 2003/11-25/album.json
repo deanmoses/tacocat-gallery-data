@@ -1,0 +1,78 @@
+{
+    "children": {
+        "catalog": {
+            "description": "Felix loves reading all the Christmas toy catalogs that come in the mail.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/25/images/catalog.jpg",
+                "width": null
+            },
+            "pathComponent": "catalog.jpg",
+            "title": "Catalog"
+        },
+        "kitchen1": {
+            "description": "Hide and go seek.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/25/images/kitchen1.jpg",
+                "width": null
+            },
+            "pathComponent": "kitchen1.jpg",
+            "title": "Kitchen 1"
+        },
+        "kitchen2": {
+            "description": "Dean struggles to understand why anyone would want to pretend to clean a kitchen.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/25/images/kitchen2.jpg",
+                "width": null
+            },
+            "pathComponent": "kitchen2.jpg",
+            "title": "Kitchen 2"
+        },
+        "socks": {
+            "description": "Felix likes his new teddy bear socks.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/25/images/socks.jpg",
+                "width": null
+            },
+            "pathComponent": "socks.jpg",
+            "title": "Socks"
+        },
+        "truck": {
+            "description": "The elephant and the trucker have a thing for each other.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/25/images/truck.jpg",
+                "width": null
+            },
+            "pathComponent": "truck.jpg",
+            "title": "Truck"
+        },
+        "vegas": {
+            "description": "Dean's ready to rock & roll at the Hard Rock Hotel in Las Vegas.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/11/25/images/vegas.jpg",
+                "width": null
+            },
+            "pathComponent": "vegas.jpg",
+            "title": "Vegas"
+        }
+    },
+    "childrenOrder": [
+        "catalog",
+        "kitchen1",
+        "kitchen2",
+        "socks",
+        "truck",
+        "vegas"
+    ],
+    "creationTimestamp": 1069747200,
+    "description": "Dean and Lucie spent the weekend in Las Vegas with some friends, failing to win any money.  Felix spent the weekend with his nanny Sylvie.   Everybody enjoyed their respective trip.\n\n<p>\nFelix is starting to explore disobedience.   A few times recently he has refused to do something, saying \"No!\" very defiantly, and watching us carefully to see how we'll react.    In America, this phase is called the terrible twos.   While many would find it exasperating, we find it fascinating.  It's much more sophisticated behavior than we've seen from him before.\n</p>\n\n<p>\nNow that he's shown himself sophisticated enough to refuse to do things, we've begun to ask him to do simple tasks, like helping us pick up toys.  He'll often refuse, we'll insist, and he'll dissolve in tears.  After a lot of talking, he'll agree to do what we asked.  The conversations are a lot of fun:\n<ul>\n<u>Dean</u>:  Stepping on toys hurts.  Can you help us pick them off the floor?\n<br /><u>Felix</u>:  No!\n<br /><u>Dean</u>:  But you put them there.\n<br /><u>Felix</u>:  No!\n<br /><u>Dean</u>:  You didn't?  Then who did?\n<br /><u>Felix</u>:  Mommy!\n<br /><u>Dean</u>:  Those are Mom's toys?\n<br /><u>Felix</u>:  Yes!\n</ul>\n</p>\n\n\n<p>\nAlso:  he learned his first color, yellow.  He'll point at yellow things and say \"jaune!\"   However, no matter how many times we go over red, blue or green he just doesn't have them yet.\n</p>",
+    "pathComponent": "2003/11-25",
+    "summary": "",
+    "thumbnailChild": "kitchen2",
+    "title": "November 25"
+}

@@ -1,0 +1,45 @@
+{
+    "children": {
+        "felix_hat": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/14/images/felix_hat.jpg",
+                "width": null
+            },
+            "pathComponent": "felix_hat.jpg",
+            "title": "Felix Hat"
+        },
+        "lulix_bed": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/14/images/lulix_bed.jpg",
+                "width": null
+            },
+            "pathComponent": "lulix_bed.jpg",
+            "title": "Lulix Bed"
+        },
+        "lulix_blueroom": {
+            "description": "",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2001/12/14/images/lulix_blueroom.jpg",
+                "width": null
+            },
+            "pathComponent": "lulix_blueroom.jpg",
+            "title": "Lulix Blueroom"
+        }
+    },
+    "childrenOrder": [
+        "felix_hat",
+        "lulix_bed",
+        "lulix_blueroom"
+    ],
+    "creationTimestamp": 1008316800,
+    "description": "",
+    "pathComponent": "2001/12-14",
+    "summary": "First Day Home Ever",
+    "thumbnailChild": "felix_hat",
+    "title": "December 14"
+}

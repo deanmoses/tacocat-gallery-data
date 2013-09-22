@@ -1,0 +1,122 @@
+{
+    "children": {
+        "bear1": {
+            "description": "Felix wows Dean with some spiffy new climbing skills.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/17/images/bear1.jpg",
+                "width": null
+            },
+            "pathComponent": "bear1.jpg",
+            "title": "Bear 1"
+        },
+        "bear2": {
+            "description": "The judges give him a 10!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/17/images/bear2.jpg",
+                "width": null
+            },
+            "pathComponent": "bear2.jpg",
+            "title": "Bear 2"
+        },
+        "garden": {
+            "description": "Felix discovers his inner flower child.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/17/images/garden.jpg",
+                "width": null
+            },
+            "pathComponent": "garden.jpg",
+            "title": "Garden"
+        },
+        "newspaper1": {
+            "description": "His first household chore:  fetching the morning newspaper.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/17/images/newspaper1.jpg",
+                "width": null
+            },
+            "pathComponent": "newspaper1.jpg",
+            "title": "Newspaper 1"
+        },
+        "newspaper2": {
+            "description": "Joyful and proud the courier speeds.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/17/images/newspaper2.jpg",
+                "width": null
+            },
+            "pathComponent": "newspaper2.jpg",
+            "title": "Newspaper 2"
+        },
+        "newspaper3": {
+            "description": "Once the paper's on the table, Felix gets annoyed if breakfast doesn't start posthaste.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/17/images/newspaper3.jpg",
+                "width": null
+            },
+            "pathComponent": "newspaper3.jpg",
+            "title": "Newspaper 3"
+        },
+        "rainbow": {
+            "description": "We're trying to teach him colors.  No dice so far.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/17/images/rainbow.jpg",
+                "width": null
+            },
+            "pathComponent": "rainbow.jpg",
+            "title": "Rainbow"
+        },
+        "sink": {
+            "description": "The hands were clean long ago, but Felix washes on.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/17/images/sink.jpg",
+                "width": null
+            },
+            "pathComponent": "sink.jpg",
+            "title": "Sink"
+        },
+        "slide1": {
+            "description": "Another sunny day in San Francisco, where the slides are fast and the mothers permissive.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/17/images/slide1.jpg",
+                "width": null
+            },
+            "pathComponent": "slide1.jpg",
+            "title": "Slide 1"
+        },
+        "slide2": {
+            "description": "Whoa!  Felix goes UP his first slide.  He's been wanting to be able do this for months.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/08/17/images/slide2.jpg",
+                "width": null
+            },
+            "pathComponent": "slide2.jpg",
+            "title": "Slide 2"
+        }
+    },
+    "childrenOrder": [
+        "bear1",
+        "bear2",
+        "garden",
+        "newspaper1",
+        "newspaper2",
+        "newspaper3",
+        "rainbow",
+        "sink",
+        "slide1",
+        "slide2"
+    ],
+    "creationTimestamp": 1061103600,
+    "description": "<P>\n<P>\nFelix's monkey ancestors made their genes felt this week.  He's had a sudden attack of dexterity.  He can climb up (some) slides, climb up the back stairs of our house without crawling, and today he suddenly appeared on top of the kitchen table.\n\n<p>\nHe says \"papa\" a lot, which makes Dean happy.\n</p>\n\n<p>\nHe can be very deliberate with his communication.  When he wants something and feels we're not paying attention, he'll say \"papa\" or \"mama\", wait until we have eye contact, then tell us what he wants.\n</p>\n\n<p>\nHe makes up his own words and uses them consistently, even when we don't understand.  \"Caco\" means a bike or motorcycle, but it took several days of him going \"caco caco caco\" like a maniac before we figured it out.  Another favorite is \"ayzho\". He's been saying it for days.  We have no idea what it means.\n</p>\n\n<p>\nSee this week's <a href=\"video\">videos</a>.\n</p>\n\n<p>",
+    "pathComponent": "2003/08-17",
+    "summary": "",
+    "thumbnailChild": "rainbow",
+    "title": "August 17"
+}

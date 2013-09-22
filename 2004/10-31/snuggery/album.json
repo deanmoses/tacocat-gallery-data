@@ -1,0 +1,100 @@
+{
+    "children": {
+        "snug0": {
+            "description": "On Friday, The Snuggery Preschool held its annual Halloween party.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/31/snuggery/images/snug0.jpg",
+                "width": null
+            },
+            "pathComponent": "snug0.jpg",
+            "title": "Snug"
+        },
+        "snug1": {
+            "description": "Japer (lion), Evan (Bob the Builder), Ramona (pirate), teacher Connie (cat) and Alex (Buzz Lightyear).",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/31/snuggery/images/snug1.jpg",
+                "width": null
+            },
+            "pathComponent": "snug1.jpg",
+            "title": "Snug 1"
+        },
+        "snug2": {
+            "description": "The princesses and Albert the lion make the well-known hand gestures of the Snuggery Circle Time Song, which teacher Nancy sings every morning.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/31/snuggery/images/snug2.jpg",
+                "width": null
+            },
+            "pathComponent": "snug2.jpg",
+            "title": "Snug 2"
+        },
+        "snug3": {
+            "description": "Teacher Maddie (Felix's favorite) rearranges a dalmatian's ears.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/31/snuggery/images/snug3.jpg",
+                "width": null
+            },
+            "pathComponent": "snug3.jpg",
+            "title": "Snug 3"
+        },
+        "snug4": {
+            "description": "Orange snacks are <i>de rigueur</i> for Halloween.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/31/snuggery/images/snug4.jpg",
+                "width": null
+            },
+            "pathComponent": "snug4.jpg",
+            "title": "Snug 4"
+        },
+        "snug5": {
+            "description": "The Snuggery kids did a little parade around the block. Torin-the-skeleton got Dean and Lucie's vote for Best Costume.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/31/snuggery/images/snug5.jpg",
+                "width": null
+            },
+            "pathComponent": "snug5.jpg",
+            "title": "Snug 5"
+        },
+        "snug6": {
+            "description": "Dario is Max from Where The Wild Things Are. According to Molly, his mom, it's an extremely fitting costume.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/31/snuggery/images/snug6.jpg",
+                "width": null
+            },
+            "pathComponent": "snug6.jpg",
+            "title": "Snug 6"
+        },
+        "snug7": {
+            "description": "In the front is cowboy Max, followed by the usual suspects.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/10/31/snuggery/images/snug7.jpg",
+                "width": null
+            },
+            "pathComponent": "snug7.jpg",
+            "title": "Snug 7"
+        }
+    },
+    "childrenOrder": [
+        "snug0",
+        "snug1",
+        "snug2",
+        "snug3",
+        "snug4",
+        "snug5",
+        "snug6",
+        "snug7"
+    ],
+    "creationTimestamp": 1099206000,
+    "description": "</TD>\n</TR>\n</TABLE>\n<P>\n<P>\nIt's Halloween Time at the Snuggery.",
+    "pathComponent": "2004/10-31/snuggery",
+    "summary": "",
+    "thumbnailChild": "snug0",
+    "title": "October 31"
+}

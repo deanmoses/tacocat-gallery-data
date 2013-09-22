@@ -1,0 +1,386 @@
+{
+    "children": {
+        "canoe1": {
+            "description": "<span class=\"comment\">First order of business?  Rent a canoe for the week.   \n\n<p class=\"para\">\nNana talks to Tom and Arianna, the people from whom we're renting the house.\n</p></span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/canoe1.jpg",
+                "width": null
+            },
+            "pathComponent": "canoe1.jpg",
+            "title": "Canoe 1"
+        },
+        "canoe2": {
+            "description": "<span class=\"comment\">The boat saw more action on land than water.  Here, Felix practices his crabbing technique while Milo get sets to row (he loved rowing while we sang 'Row Row Row Your Boat').</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/canoe2.jpg",
+                "width": null
+            },
+            "pathComponent": "canoe2.jpg",
+            "title": "Canoe 2"
+        },
+        "canoe3": {
+            "description": "<span class=\"comment\">The coolest thing we saw from the canoe were <b><i>big friggin' flappin' stingrays</i></b>, on several occasions.  They flew around lazily just under the surface, and sometimes their wingtips would breech.  Thanks to the marvels of the internet, we now know they are <i>cownose rays</i>, they don't use their stingers on people often (except that one did nearly kill the very famous James Smith, the founder of the first permanent English colony in the New World).\n<p class=\"para\">\nShown:  Francoise, Felix and Lucie shove off.   Noone fell victim to the terrible sting of the cownose ray.\n</p></span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/canoe3.jpg",
+                "width": null
+            },
+            "pathComponent": "canoe3.jpg",
+            "title": "Canoe 3"
+        },
+        "cooking": {
+            "description": "<span class=\"comment\">Francoise and Felix bonded over cooking this vacation.  Milo tried to keep up, but he just couldn't swing with the big dawgs.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/cooking.jpg",
+                "width": null
+            },
+            "pathComponent": "cooking.jpg",
+            "title": "Cooking"
+        },
+        "crab1": {
+            "description": "<span class=\"comment\">No Chesapeake vacation is complete without crabbing.  Our little stretch of water, Long Haul Creek, is chockablock with the pinchy little things.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/crab1.jpg",
+                "width": null
+            },
+            "pathComponent": "crab1.jpg",
+            "title": "Crab 1"
+        },
+        "crab2": {
+            "description": "<span class=\"comment\">Three crabs at a time! And a good cook in the house.  So sorry, crabbies.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/crab2.jpg",
+                "width": null
+            },
+            "pathComponent": "crab2.jpg",
+            "title": "Crab 2"
+        },
+        "crab3": {
+            "description": "<span class=\"comment\">Another day, another haul.  Dean attempts to shake the last crab out but it must have gotten wind of what was in store:  it held on for dear crabby life.    Finally we tricked it by dipping the cage in the water.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/crab3.jpg",
+                "width": null
+            },
+            "pathComponent": "crab3.jpg",
+            "title": "Crab 3"
+        },
+        "crab4": {
+            "description": "<span class=\"comment\">This type of trap is called a hand trap.  As we learned, they don't actually trap any crabs.  At least, not for us.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/crab4.jpg",
+                "width": null
+            },
+            "pathComponent": "crab4.jpg",
+            "title": "Crab 4"
+        },
+        "crab5": {
+            "description": "<span class=\"comment\">Mmm, supper.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/crab5.jpg",
+                "width": null
+            },
+            "pathComponent": "crab5.jpg",
+            "title": "Crab 5"
+        },
+        "crab6": {
+            "description": "<span class=\"comment\">Nana demonstrates the proper crab handling technique.   Noone else was quite up to trying.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/crab6.jpg",
+                "width": null
+            },
+            "pathComponent": "crab6.jpg",
+            "title": "Crab 6"
+        },
+        "crab7": {
+            "description": "<span class=\"comment\">Milo loves every part of the crab catching, hammering and eating experience.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/crab7.jpg",
+                "width": null
+            },
+            "pathComponent": "crab7.jpg",
+            "title": "Crab 7"
+        },
+        "crab8": {
+            "description": "<span class=\"comment\">Felix finds a good way to practice his hand trap experience.  He had just as much luck there as the ones at the dock.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/crab8.jpg",
+                "width": null
+            },
+            "pathComponent": "crab8.jpg",
+            "title": "Crab 8"
+        },
+        "ferry1": {
+            "description": "<span class=\"comment\">Day trip to Oxford, another little town on the bay.  Rule #47 of a Chesapeake Bay vacation:  never take a road when a ferry will do.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/ferry1.jpg",
+                "width": null
+            },
+            "pathComponent": "ferry1.jpg",
+            "title": "Ferry 1"
+        },
+        "ferry2": {
+            "description": "<span class=\"comment\">We stayed behind the red line.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/ferry2.jpg",
+                "width": null
+            },
+            "pathComponent": "ferry2.jpg",
+            "title": "Ferry 2"
+        },
+        "ferry3": {
+            "description": "<span class=\"comment\">We went to Oxford in search of a sandy beach.  This 10 foot stretch was it.   It was beautiful, except for the 100\u00b0 weather and the BILLIONS of poisonous jellyfish that were actually washing up on shore.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/ferry3.jpg",
+                "width": null
+            },
+            "pathComponent": "ferry3.jpg",
+            "title": "Ferry 3"
+        },
+        "hug": {
+            "description": "<span class=\"comment\">While vegging out before bed, Milo wrapped his arm around Felix.  We don't know if it's Milo getting older or the lack of other kids to play with, but they've been super fantastic with each other this week.  Pretty much the only bickering has been a legitimate and totally understandable difference in taste between Iron Giant and Sesame Street.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/hug.jpg",
+                "width": null
+            },
+            "pathComponent": "hug.jpg",
+            "title": "Hug"
+        },
+        "nana": {
+            "description": "<span class=\"comment\">Milo's really into the alphabet.  His favorite letter is \"W\", but he can recognize a few others as well.\n\n<p class=\"para\">\nAs soon as Nana suggests reading a book he shouts \"ABCs!\" and races off to find one of the many alphabet books around the house.\n</p></span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/nana.jpg",
+                "width": null
+            },
+            "pathComponent": "nana.jpg",
+            "title": "Nana"
+        },
+        "sprinkler1": {
+            "description": "<span class=\"comment\">Felix discovered the joys of sprinklers.  We just don't get enough hot days in Berkeley to do it.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/sprinkler1.jpg",
+                "width": null
+            },
+            "pathComponent": "sprinkler1.jpg",
+            "title": "Sprinkler 1"
+        },
+        "sprinkler2": {
+            "description": "<span class=\"comment\">Like a gazelle streaker, he is.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/sprinkler2.jpg",
+                "width": null
+            },
+            "pathComponent": "sprinkler2.jpg",
+            "title": "Sprinkler 2"
+        },
+        "sprinkler3": {
+            "description": "<span class=\"comment\">Whee!</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/sprinkler3.jpg",
+                "width": null
+            },
+            "pathComponent": "sprinkler3.jpg",
+            "title": "Sprinkler 3"
+        },
+        "sprinkler4": {
+            "description": "<span class=\"comment\">Dean gets in on the fun.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/sprinkler4.jpg",
+                "width": null
+            },
+            "pathComponent": "sprinkler4.jpg",
+            "title": "Sprinkler 4"
+        },
+        "taxi01": {
+            "description": "<span class=\"comment\">It's a bird, it's a plane, it's a... Nana in a water taxi, headed to pick the rest of us up.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/taxi01.jpg",
+                "width": null
+            },
+            "pathComponent": "taxi01.jpg",
+            "title": "Taxi 1"
+        },
+        "taxi02": {
+            "description": "<span class=\"comment\">Nana's friend Joyce came out for a day.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/taxi02.jpg",
+                "width": null
+            },
+            "pathComponent": "taxi02.jpg",
+            "title": "Taxi 2"
+        },
+        "taxi03": {
+            "description": "<span class=\"comment\">Joyce lives in Baltimore, a very easy drive from St. Michaels.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/taxi03.jpg",
+                "width": null
+            },
+            "pathComponent": "taxi03.jpg",
+            "title": "Taxi 3"
+        },
+        "taxi04": {
+            "description": "<span class=\"comment\">It was so hot that Milo drank all the water taxi captain's water.  The captain seemed to be touched that a two year old bogarted all his drink.  He was a nice guy.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/taxi04.jpg",
+                "width": null
+            },
+            "pathComponent": "taxi04.jpg",
+            "title": "Taxi 4"
+        },
+        "tilghman": {
+            "description": "<span class=\"comment\">Near St. Michaels is Tilghman Island.  On a busy day the drawbridge is more up than down.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/tilghman.jpg",
+                "width": null
+            },
+            "pathComponent": "tilghman.jpg",
+            "title": "Tilghman"
+        },
+        "tilghman1": {
+            "description": "<span class=\"comment\">On Tilghman island we took a boat tour that showed us all about the fishing and crabbing industry.  But first they introduced us to the primitive-looking horseshoe crabs in their tank.  We actually saw a lot of horseshoe crab shells from the canoe -- they molt, just like snakes.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/tilghman1.jpg",
+                "width": null
+            },
+            "pathComponent": "tilghman1.jpg",
+            "title": "Tilghman 1"
+        },
+        "tilghman2": {
+            "description": "<span class=\"comment\">We had the boat to ourselves.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/tilghman2.jpg",
+                "width": null
+            },
+            "pathComponent": "tilghman2.jpg",
+            "title": "Tilghman 2"
+        },
+        "tilghman3": {
+            "description": "<span class=\"comment\">We found that boats NEVER wait for that drawbridge.  The drawkeeper (that's the real word for the guy) just doesn't like cars or something.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/tilghman3.jpg",
+                "width": null
+            },
+            "pathComponent": "tilghman3.jpg",
+            "title": "Tilghman 3"
+        },
+        "tilghman4": {
+            "description": "<span class=\"comment\">Milo, happy as one of the many bottom dwelling crustaceans harvested in the bay.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/tilghman4.jpg",
+                "width": null
+            },
+            "pathComponent": "tilghman4.jpg",
+            "title": "Tilghman 4"
+        },
+        "tilghman5": {
+            "description": "<span class=\"comment\">He only tried to jump overboard once or twice.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/tilghman5.jpg",
+                "width": null
+            },
+            "pathComponent": "tilghman5.jpg",
+            "title": "Tilghman 5"
+        },
+        "tilghman6": {
+            "description": "<span class=\"comment\">Lucie was very well behaved. She didn't try to jump overboard at all.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/tilghman6.jpg",
+                "width": null
+            },
+            "pathComponent": "tilghman6.jpg",
+            "title": "Tilghman 6"
+        },
+        "undertow": {
+            "description": "<span class=\"comment\">Day trip to the Atlantic.  A town called Bethany Beach.  It was still scorching hot but 1) they rented umbrellas, and 2) the waters were blissfully jellyfish-free.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/undertow.jpg",
+                "width": null
+            },
+            "pathComponent": "undertow.jpg",
+            "title": "Undertow"
+        },
+        "weather": {
+            "description": "<span class=\"comment\">On Saturday, the last day, the temperature dropped 10 degrees.  Wow, what a difference!  Suddenly it was nice enough to eat, walk and play outside.  We had a great time just enjoying life.</span>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/08/06/slides/weather.jpg",
+                "width": null
+            },
+            "pathComponent": "weather.jpg",
+            "title": "Weather"
+        }
+    },
+    "childrenOrder": [
+        "canoe1",
+        "canoe2",
+        "canoe3",
+        "cooking",
+        "crab1",
+        "crab2",
+        "crab3",
+        "crab4",
+        "crab5",
+        "crab6",
+        "crab7",
+        "crab8",
+        "ferry1",
+        "ferry2",
+        "ferry3",
+        "hug",
+        "nana",
+        "sprinkler1",
+        "sprinkler2",
+        "sprinkler3",
+        "sprinkler4",
+        "taxi01",
+        "taxi02",
+        "taxi03",
+        "taxi04",
+        "tilghman",
+        "tilghman1",
+        "tilghman2",
+        "tilghman3",
+        "tilghman4",
+        "tilghman5",
+        "tilghman6",
+        "undertow",
+        "weather"
+    ],
+    "creationTimestamp": 1154847600,
+    "description": "We generally don't write about the weather, but it's been a major presence on this vacation.  It's been 200 degrees every single day.  Well, okay, 95 to 100&#176;F before you factor in the 90% humidity.  \n\n<p>\nTo cook the crabs we just take them out of the trap and leave them on the dock for a few minutes.\n</p>\n\n<p class=\"para\">\nFinally, on the last day, the temperature dropped 10 degrees and it we found ourselves having a perfect Chesapeake Bay summer day.  Just wish we had more of them!\n</p>",
+    "pathComponent": "2006/08-06",
+    "summary": "",
+    "thumbnailChild": "taxi02",
+    "title": "August 6"
+}

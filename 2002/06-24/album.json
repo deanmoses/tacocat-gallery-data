@@ -1,0 +1,331 @@
+{
+    "children": {
+        "backpack1": {
+            "description": "The baby backpack is a big success.  Here we're going over Bernal Hill, near our house, on the way to the Mission for brunch.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/backpack1.jpg",
+                "width": null
+            },
+            "pathComponent": "backpack1.jpg",
+            "title": "Backpack 1"
+        },
+        "backpack2": {
+            "description": "Felix likes those dramatic, wind-swept poses.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/backpack2.jpg",
+                "width": null
+            },
+            "pathComponent": "backpack2.jpg",
+            "title": "Backpack 2"
+        },
+        "backpack3": {
+            "description": "I'm thinking of a number between 1 and 10...",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/backpack3.jpg",
+                "width": null
+            },
+            "pathComponent": "backpack3.jpg",
+            "title": "Backpack 3"
+        },
+        "backpack4": {
+            "description": "You guessed it!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/backpack4.jpg",
+                "width": null
+            },
+            "pathComponent": "backpack4.jpg",
+            "title": "Backpack 4"
+        },
+        "carrot1": {
+            "description": "Felix continues to expand his culinary horizon.  Pictured here: his first carrots.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/carrot1.jpg",
+                "width": null
+            },
+            "pathComponent": "carrot1.jpg",
+            "title": "Carrot 1"
+        },
+        "carrot2": {
+            "description": "Drinking water from a sippy cup is tricky at first, but he is getting better at it.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/carrot2.jpg",
+                "width": null
+            },
+            "pathComponent": "carrot2.jpg",
+            "title": "Carrot 2"
+        },
+        "cute": {
+            "description": "Daddy's boy.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/cute.jpg",
+                "width": null
+            },
+            "pathComponent": "cute.jpg",
+            "title": "Cute"
+        },
+        "ezekiel1": {
+            "description": "Playdate with pal Ezekiel.  They couldn't take their eyes off each other.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/ezekiel1.jpg",
+                "width": null
+            },
+            "pathComponent": "ezekiel1.jpg",
+            "title": "Ezekiel 1"
+        },
+        "ezekiel2": {
+            "description": "Heather watches as Ezekiel grabs a toy from Felix.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/ezekiel2.jpg",
+                "width": null
+            },
+            "pathComponent": "ezekiel2.jpg",
+            "title": "Ezekiel 2"
+        },
+        "ezekiel3": {
+            "description": "Felix and Ezekiel kept playing with each other's toys and giving each other big wet kisses.  Either that, or they were teething on each other.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/ezekiel3.jpg",
+                "width": null
+            },
+            "pathComponent": "ezekiel3.jpg",
+            "title": "Ezekiel 3"
+        },
+        "kitchen1": {
+            "description": "This was the first time that Felix helped Mom with supper.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/kitchen1.jpg",
+                "width": null
+            },
+            "pathComponent": "kitchen1.jpg",
+            "title": "Kitchen 1"
+        },
+        "kitchen2": {
+            "description": "We think he was attempting a souffle.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/kitchen2.jpg",
+                "width": null
+            },
+            "pathComponent": "kitchen2.jpg",
+            "title": "Kitchen 2"
+        },
+        "nate-supper": {
+            "description": "Supper date with buddy Nathaniel and Nathaniel's dad, Steve.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/nate-supper.jpg",
+                "width": null
+            },
+            "pathComponent": "nate-supper.jpg",
+            "title": "Nate Supper"
+        },
+        "nate-walker": {
+            "description": "Felix test drove Nathaniel's walker.  He gave it a mixed review:  motion is good, but that thing is hard to steer.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/nate-walker.jpg",
+                "width": null
+            },
+            "pathComponent": "nate-walker.jpg",
+            "title": "Nate Walker"
+        },
+        "peekaboo": {
+            "description": "Peekaboo!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/peekaboo.jpg",
+                "width": null
+            },
+            "pathComponent": "peekaboo.jpg",
+            "title": "Peekaboo"
+        },
+        "standing": {
+            "description": "Felix is trying very hard to stand unassisted.  The best he's gotten so far is bookcase belly support.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/standing.jpg",
+                "width": null
+            },
+            "pathComponent": "standing.jpg",
+            "title": "Standing"
+        },
+        "swimming": {
+            "description": "All right, this is a stupid picture.  But we forgot to take pictures of Felix's first swim class.  For the next 10 weeks, every Tuesday Lucie and Felix head to the pool, where parents and babies splash around and, they tell us, maybe even learn how to swim.  Both Lucie and Felix had a grand time at the first one.  Pictured here are special watertight \"swim diapers\":  they keep each individual liquid on the correct side of the diaper.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/swimming.jpg",
+                "width": null
+            },
+            "pathComponent": "swimming.jpg",
+            "title": "Swimming"
+        },
+        "teething": {
+            "description": "For the last two weeks, Felix has been sucking on his lower lip to massage his tender, teething gums. His first tooth is well out now, and the second tooth is peeking out.  But now, at the end of the week, he seems to have stopped sucking.\n<p>\nInstead, he's started to vocalize more:  yowling, mewling, screetching and generally sounding like a lovesick cat.  There's a few consonants mixed in, but they sound kind of unintentional.  Of course, we're loving it, but our fellow restaurant goers give it a thumbs down.  Maybe next week he'll have moved on to babbling?\n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/teething.jpg",
+                "width": null
+            },
+            "pathComponent": "teething.jpg",
+            "title": "Teething"
+        },
+        "up": {
+            "description": "What game shall we play next?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/up.jpg",
+                "width": null
+            },
+            "pathComponent": "up.jpg",
+            "title": "Up"
+        },
+        "upside_down": {
+            "description": "Upside down baby!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/upside_down.jpg",
+                "width": null
+            },
+            "pathComponent": "upside_down.jpg",
+            "title": "Upside Down"
+        },
+        "wedding1": {
+            "description": "Dave Thau and Kirsten, after two weeks of pre-wedding parties, tie the knot.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/wedding1.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding1.jpg",
+            "title": "Wedding 1"
+        },
+        "wedding2": {
+            "description": "For the wedding, Dean dressed to impress.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/wedding2.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding2.jpg",
+            "title": "Wedding 2"
+        },
+        "wedding3": {
+            "description": "Left to right:  Austin, Seth, Felix, Dean.  Seth's been hiding in Portland, Oregon for the last two years and pulled a surprise visit.  Yay!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/wedding3.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding3.jpg",
+            "title": "Wedding 3"
+        },
+        "wedding4": {
+            "description": "Felix getting to know Dean Gaudet and his beard.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/wedding4.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding4.jpg",
+            "title": "Wedding 4"
+        },
+        "wedding5": {
+            "description": "Seth and a goat.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/wedding5.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding5.jpg",
+            "title": "Wedding 5"
+        },
+        "wedding6": {
+            "description": "Julie and Craig.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/wedding6.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding6.jpg",
+            "title": "Wedding 6"
+        },
+        "wedding7": {
+            "description": "Mikek and a plant.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/wedding7.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding7.jpg",
+            "title": "Wedding 7"
+        },
+        "wedding8": {
+            "description": "The wedding was held at an eccentric millionaire's mansion.  It had a view of Bernal Hill, on whose slopes we live.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/wedding8.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding8.jpg",
+            "title": "Wedding 8"
+        },
+        "wedding9": {
+            "description": "When night fell, Dean frolicked in the mansion's grounds with the elephants.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2002/06/24/images/wedding9.jpg",
+                "width": null
+            },
+            "pathComponent": "wedding9.jpg",
+            "title": "Wedding 9"
+        }
+    },
+    "childrenOrder": [
+        "backpack1",
+        "backpack2",
+        "backpack3",
+        "backpack4",
+        "carrot1",
+        "carrot2",
+        "cute",
+        "ezekiel1",
+        "ezekiel2",
+        "ezekiel3",
+        "kitchen1",
+        "kitchen2",
+        "nate-supper",
+        "nate-walker",
+        "peekaboo",
+        "standing",
+        "swimming",
+        "teething",
+        "up",
+        "upside_down",
+        "wedding1",
+        "wedding2",
+        "wedding3",
+        "wedding4",
+        "wedding5",
+        "wedding6",
+        "wedding7",
+        "wedding8",
+        "wedding9"
+    ],
+    "creationTimestamp": 1024902000,
+    "description": "<P>\n<P>\nFelix has been a bundle of squirmy joy this week.  He loves non-milk food (the messier the better), and his second tooth is already rushing in place to help eat it.\n\n<p>\nCheck out this week's <a href=\"video/\">videos</a>.\n</p>\n\n<p>",
+    "pathComponent": "2002/06-24",
+    "summary": "",
+    "thumbnailChild": "cute",
+    "title": "June 24"
+}

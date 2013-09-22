@@ -1,0 +1,210 @@
+{
+    "children": {
+        "cooking": {
+            "description": "Felix still loves to cook with Lucie.  Chocolate chip cookies?  Crazy delicious!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/11/slides/cooking.jpg",
+                "width": null
+            },
+            "pathComponent": "cooking.jpg",
+            "title": "Cooking"
+        },
+        "georgi": {
+            "description": "Georgi came for a sleepover.  In the morning the kids watched a cartoon while Dean and Lucie made waffles.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/11/slides/georgi.jpg",
+                "width": null
+            },
+            "pathComponent": "georgi.jpg",
+            "title": "Georgi"
+        },
+        "grass": {
+            "description": "We got some fresh grass laid a few weeks ago.   Someone or something has started peeling it neatly back at night, so neatly that we can roll it back in the morning.   Our guess?  Skunks.  We've seen one in our yard before, and we've heard they dig in the dirt for tasty little bugs.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/11/slides/grass.jpg",
+                "width": null
+            },
+            "pathComponent": "grass.jpg",
+            "title": "Grass"
+        },
+        "joyces": {
+            "description": "Milo, Terry and Keenan surf the web.   Milo's  getting into in looking up stuff on the computer, like pictures of submarines and Big Bird.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/11/slides/joyces.jpg",
+                "width": null
+            },
+            "pathComponent": "joyces.jpg",
+            "title": "Joyces"
+        },
+        "kahlil1": {
+            "description": "Kahlil, a friend from school, came over for a playdate.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/11/slides/kahlil1.jpg",
+                "width": null
+            },
+            "pathComponent": "kahlil1.jpg",
+            "title": "Kahlil 1"
+        },
+        "kahlil2": {
+            "description": "Milo's been pantsless a lot this week, learning to use the potty.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/11/slides/kahlil2.jpg",
+                "width": null
+            },
+            "pathComponent": "kahlil2.jpg",
+            "title": "Kahlil 2"
+        },
+        "kahlil3": {
+            "description": "Space kitty Milo gives galactic snuggles to Kahlil.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/11/slides/kahlil3.jpg",
+                "width": null
+            },
+            "pathComponent": "kahlil3.jpg",
+            "title": "Kahlil 3"
+        },
+        "potty1": {
+            "description": "The little guy is just <i>so</i> proud of his new skills.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/11/slides/potty1.jpg",
+                "width": null
+            },
+            "pathComponent": "potty1.jpg",
+            "title": "Potty 1"
+        },
+        "potty2": {
+            "description": "Not content with just learning the potty this week, Milo's also scaling the big 'un.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/11/slides/potty2.jpg",
+                "width": null
+            },
+            "pathComponent": "potty2.jpg",
+            "title": "Potty 2"
+        },
+        "potty3": {
+            "description": "Experimenting with his new electric toothbrush everywhere but his mouth.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/11/slides/potty3.jpg",
+                "width": null
+            },
+            "pathComponent": "potty3.jpg",
+            "title": "Potty 3"
+        },
+        "studiogrow1": {
+            "description": "There's a new kid hangout in Berkeley:  Studio Grow.   You pay a small amount of money for a day pass and there's all sorts of stuff to do.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/11/slides/studiogrow1.jpg",
+                "width": null
+            },
+            "pathComponent": "studiogrow1.jpg",
+            "title": "Studiogrow 1"
+        },
+        "studiogrow2": {
+            "description": "Studio Grow's art room.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/11/slides/studiogrow2.jpg",
+                "width": null
+            },
+            "pathComponent": "studiogrow2.jpg",
+            "title": "Studiogrow 2"
+        },
+        "studiogrow3": {
+            "description": "Studio Grow's dance studio.  Felix got into the hula hoop.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/11/slides/studiogrow3.jpg",
+                "width": null
+            },
+            "pathComponent": "studiogrow3.jpg",
+            "title": "Studiogrow 3"
+        },
+        "studiogrow4": {
+            "description": "No kid's space would be complete without a pool o' balls.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/11/slides/studiogrow4.jpg",
+                "width": null
+            },
+            "pathComponent": "studiogrow4.jpg",
+            "title": "Studiogrow 4"
+        },
+        "studiogrow5": {
+            "description": "Studio Grow's play kitchen.  Why do kids love pretend setting the table so much more than the real thing?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/11/slides/studiogrow5.jpg",
+                "width": null
+            },
+            "pathComponent": "studiogrow5.jpg",
+            "title": "Studiogrow 5"
+        },
+        "studiogrow6": {
+            "description": "Another of the many areas of Studio Grow.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/11/slides/studiogrow6.jpg",
+                "width": null
+            },
+            "pathComponent": "studiogrow6.jpg",
+            "title": "Studiogrow 6"
+        },
+        "studiogrow7": {
+            "description": "Yet more Studio Grow.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/11/slides/studiogrow7.jpg",
+                "width": null
+            },
+            "pathComponent": "studiogrow7.jpg",
+            "title": "Studiogrow 7"
+        },
+        "studiogrow8": {
+            "description": "Hi!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/06/11/slides/studiogrow8.jpg",
+                "width": null
+            },
+            "pathComponent": "studiogrow8.jpg",
+            "title": "Studiogrow 8"
+        }
+    },
+    "childrenOrder": [
+        "cooking",
+        "georgi",
+        "grass",
+        "joyces",
+        "kahlil1",
+        "kahlil2",
+        "kahlil3",
+        "potty1",
+        "potty2",
+        "potty3",
+        "studiogrow1",
+        "studiogrow2",
+        "studiogrow3",
+        "studiogrow4",
+        "studiogrow5",
+        "studiogrow6",
+        "studiogrow7",
+        "studiogrow8"
+    ],
+    "creationTimestamp": 1150009200,
+    "description": "Milo is on a blazing hot developmental streak.  Some highlights:\n<ul style=\"margin-top:0px;margin-bottom:0px\">\n\t<li>\n\t\t<u>Colors</u>:  Last week we thought he might know 'boo' and 'geen'.  Now we know he knows those and yellow and purple and red and others.  As always, he seems to learn the French and the English terms simultaneously and uses each one with the appropriate people.\n\t</li>\n\t<li>\n\t\t<u>Numbers</u>:  Last week he suddenly started counting to 3, in both French and English.  This week he recited up to 11 in English, several times.\n\t</li>\n\t<li>\n\t\t<u>Potty</u>:  Last week he started using the potty a bit, especially around bathtime.  This week he's blazing through potty training milestones:\n\t\t<ul>\n\t\t\t<li>Monday: First whole afternoon diaperless at home (peeing and pooping in the potty)</li>\n\t\t\t<li>Tuesday: First asking to get out of the bath to pee.</li>\n\t\t\t<li>Wednesday: First pee in public bathroom.</li>\n\t\t\t<li>Sunday: Learned to take down his pants himself.  Hasn't used it in a potty situation yet, but he was <i>so</i> proud of himself.</li>\n\t\t</ul>\n\t</li>\n\t<li>\n\t\t<u>Verbs</u>:  He started to use verbs, though not in sentences.  For example he'll sometimes say \"read\" instead of \"book\", or \"watch\" instead of \"tv\". \n\t</li>\n\t<li>\n\t\t<u>Terrible Twos</u>:  He started the \"terrible twos\":  fiercely possessive of toys, using 'mine' and 'no' more often, and throwing tantrums when he doesn't get his way.  He's hitting it exactly when Felix did.  Felix's was very brief, maybe a few weeks.  Who knows with Milo -- they're so different!\n\t</li>\n\t<li>\n\t\t<u>Frisbee</u>:  He can throw a frisbee with a nice spin.  More than half the time it goes where he intends it.\n\t</li>\n</ul>",
+    "pathComponent": "2006/06-11",
+    "summary": "",
+    "thumbnailChild": "studiogrow2",
+    "title": "June 11"
+}

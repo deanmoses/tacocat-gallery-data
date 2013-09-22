@@ -1,0 +1,89 @@
+{
+    "children": {
+        "berkeley1": {
+            "description": "A park in Berkeley.  Lots of green.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/01/11/images/berkeley1.jpg",
+                "width": null
+            },
+            "pathComponent": "berkeley1.jpg",
+            "title": "Berkeley 1"
+        },
+        "berkeley2": {
+            "description": "Bouncy rider.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/01/11/images/berkeley2.jpg",
+                "width": null
+            },
+            "pathComponent": "berkeley2.jpg",
+            "title": "Berkeley 2"
+        },
+        "fence": {
+            "description": "Felix and a half-mom.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/01/11/images/fence.jpg",
+                "width": null
+            },
+            "pathComponent": "fence.jpg",
+            "title": "Fence"
+        },
+        "park1": {
+            "description": "Hi.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/01/11/images/park1.jpg",
+                "width": null
+            },
+            "pathComponent": "park1.jpg",
+            "title": "Park 1"
+        },
+        "park2": {
+            "description": "Sometimes you just can't figure out what they're thinking.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/01/11/images/park2.jpg",
+                "width": null
+            },
+            "pathComponent": "park2.jpg",
+            "title": "Park 2"
+        },
+        "wyatt1": {
+            "description": "Lately we've been trying to get to know the east bay better: it's more kid-friendly than San Francisco.   We went to Oakland to visit Amy, a co-worker of Dean's.  Here she is with her son Wyatt.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/01/11/images/wyatt1.jpg",
+                "width": null
+            },
+            "pathComponent": "wyatt1.jpg",
+            "title": "Wyatt 1"
+        },
+        "wyatt2": {
+            "description": "Wyatt and Felix compare swinging techniques.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2004/01/11/images/wyatt2.jpg",
+                "width": null
+            },
+            "pathComponent": "wyatt2.jpg",
+            "title": "Wyatt 2"
+        }
+    },
+    "childrenOrder": [
+        "berkeley1",
+        "berkeley2",
+        "fence",
+        "park1",
+        "park2",
+        "wyatt1",
+        "wyatt2"
+    ],
+    "creationTimestamp": 1073808000,
+    "description": "</TD>\n</TR>\n</TABLE>\n<P>\n<P>\nEverybody's finally over all their various holiday sicknesses.  Felix is adorable.  Even the weather is better.\n\n<p>\nFelix has a new phrase:  \"I do it.\"  It means he wants to do it himself.  Good when the task is going down a slide, not so good when the task is getting dressed.\n</p>",
+    "pathComponent": "2004/01-11",
+    "summary": "",
+    "thumbnailChild": "berkeley1",
+    "title": "January 11"
+}

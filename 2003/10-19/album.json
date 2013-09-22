@@ -1,0 +1,232 @@
+{
+    "children": {
+        "basket": {
+            "description": "Felix likes to be covered in toys in his Moses basket.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/images/basket.jpg",
+                "width": null
+            },
+            "pathComponent": "basket.jpg",
+            "title": "Basket"
+        },
+        "caco1": {
+            "description": "Nana got a basket and a bell for the caco.  Felix provided the bear.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/images/caco1.jpg",
+                "width": null
+            },
+            "pathComponent": "caco1.jpg",
+            "title": "Caco 1"
+        },
+        "caco2": {
+            "description": "Felix isn't interested in learning how to pedal;  that's what Dean's for.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/images/caco2.jpg",
+                "width": null
+            },
+            "pathComponent": "caco2.jpg",
+            "title": "Caco 2"
+        },
+        "fleetweek1": {
+            "description": "The Navy put on a show with the Blue Angel fighter planes.  Felix approves.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/images/fleetweek1.jpg",
+                "width": null
+            },
+            "pathComponent": "fleetweek1.jpg",
+            "title": "Fleetweek 1"
+        },
+        "fleetweek2": {
+            "description": "For the Navy show, there were all sorts of boats in the bay.  Felix doubly approves.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/images/fleetweek2.jpg",
+                "width": null
+            },
+            "pathComponent": "fleetweek2.jpg",
+            "title": "Fleetweek 2"
+        },
+        "fleetweek3": {
+            "description": "Felix also approved of the sea lions at Fisherman's Wharf.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/images/fleetweek3.jpg",
+                "width": null
+            },
+            "pathComponent": "fleetweek3.jpg",
+            "title": "Fleetweek 3"
+        },
+        "nana1": {
+            "description": "Nana and Felix at brunch.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/images/nana1.jpg",
+                "width": null
+            },
+            "pathComponent": "nana1.jpg",
+            "title": "Nana 1"
+        },
+        "nana2": {
+            "description": "Nana brought many books for Felix.  This one, about Elmo and fire trucks, instantly became his favorite book.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/images/nana2.jpg",
+                "width": null
+            },
+            "pathComponent": "nana2.jpg",
+            "title": "Nana 2"
+        },
+        "nanabook1": {
+            "description": "Dean takes a turn reading the fire truck book.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/images/nanabook1.jpg",
+                "width": null
+            },
+            "pathComponent": "nanabook1.jpg",
+            "title": "Nanabook 1"
+        },
+        "nanabook2": {
+            "description": "Lucie takes a turn at the fire truck book.  This book is being read a LOT.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/images/nanabook2.jpg",
+                "width": null
+            },
+            "pathComponent": "nanabook2.jpg",
+            "title": "Nanabook 2"
+        },
+        "nounours1": {
+            "description": "Nounours went dodo in the shopping basket.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/images/nounours1.jpg",
+                "width": null
+            },
+            "pathComponent": "nounours1.jpg",
+            "title": "Nounours 1"
+        },
+        "nounours2": {
+            "description": "Nounours gets a proper tucking in.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/images/nounours2.jpg",
+                "width": null
+            },
+            "pathComponent": "nounours2.jpg",
+            "title": "Nounours 2"
+        },
+        "richmond-gas1": {
+            "description": "Felix, Nana, and Lucie journey across town to the Richmond Recreation Center.  We don't go there much, but it has an excellent selection of cars and car accessories.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/images/richmond-gas1.jpg",
+                "width": null
+            },
+            "pathComponent": "richmond-gas1.jpg",
+            "title": "Richmond Gas 1"
+        },
+        "richmond-gas2": {
+            "description": "Felix filled up every single car in the joint.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/images/richmond-gas2.jpg",
+                "width": null
+            },
+            "pathComponent": "richmond-gas2.jpg",
+            "title": "Richmond Gas 2"
+        },
+        "richmond-paint1": {
+            "description": "The rec center also caters to artists.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/images/richmond-paint1.jpg",
+                "width": null
+            },
+            "pathComponent": "richmond-paint1.jpg",
+            "title": "Richmond Paint 1"
+        },
+        "richmond-paint2": {
+            "description": "Nana gives Felix some tips on abstract primitivism.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/images/richmond-paint2.jpg",
+                "width": null
+            },
+            "pathComponent": "richmond-paint2.jpg",
+            "title": "Richmond Paint 2"
+        },
+        "richmond-screw": {
+            "description": "The rec center also provides shop classes.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/images/richmond-screw.jpg",
+                "width": null
+            },
+            "pathComponent": "richmond-screw.jpg",
+            "title": "Richmond Screw"
+        },
+        "zick1": {
+            "description": "Much of the week of Oct 13 Felix was sick.  Doesn't he look sick?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/images/zick1.jpg",
+                "width": null
+            },
+            "pathComponent": "zick1.jpg",
+            "title": "Zick 1"
+        },
+        "zick2": {
+            "description": "But then he got better.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/images/zick2.jpg",
+                "width": null
+            },
+            "pathComponent": "zick2.jpg",
+            "title": "Zick 2"
+        },
+        "zzend": {
+            "description": "Dean's moved on from calico.  He's now a platinum blonde.  Felix still loves him.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2003/10/19/images/zzend.jpg",
+                "width": null
+            },
+            "pathComponent": "zzend.jpg",
+            "title": "Zzend"
+        }
+    },
+    "childrenOrder": [
+        "basket",
+        "caco1",
+        "caco2",
+        "fleetweek1",
+        "fleetweek2",
+        "fleetweek3",
+        "nana1",
+        "nana2",
+        "nanabook1",
+        "nanabook2",
+        "nounours1",
+        "nounours2",
+        "richmond-gas1",
+        "richmond-gas2",
+        "richmond-paint1",
+        "richmond-paint2",
+        "richmond-screw",
+        "zick1",
+        "zick2",
+        "zzend"
+    ],
+    "creationTimestamp": 1066546800,
+    "description": "This Felix update spans two weeks because part of the time Felix's been sick and not sleeping. In our sleep-deprived state, we just haven't gotten it together to put out last week's edition.\n\n<p>\nHave you been wondering what to get Felix for his birthday or Christmas?  It's easy -- pick from his <a href=\"http://www.amazon.com/o/registry/2TSE04ZOF0WH9\">wishlist</a> on Amazon.com!\n</p>\n\n<p>\nGrandma Harriet was here for the weekend of the 11th.  Felix knew exactly who she was, her name (Nana), and gave her the biggest longest hug.  They got along like long lost buddies.\n</p>\n\n<p>\nTeeth:  his lower left molar came in, after a lot of painful teething.\n</p>\n\n<p>\nThe weekend of the 18th Dean visited his father in Terre Haute, Indiana.  <a href=\"terre_haute/index.htm\">Here's the pix</a>.\n</p>\n\n<p>",
+    "pathComponent": "2003/10-19",
+    "summary": "",
+    "thumbnailChild": "fleetweek2",
+    "title": "October 19"
+}

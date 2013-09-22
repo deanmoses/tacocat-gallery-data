@@ -1,0 +1,177 @@
+{
+    "children": {
+        "climb1": {
+            "description": "Milo's a climber.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/08/07/slides/climb1.jpg",
+                "width": null
+            },
+            "pathComponent": "climb1.jpg",
+            "title": "Climb 1"
+        },
+        "climb2": {
+            "description": "And up...",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/08/07/slides/climb2.jpg",
+                "width": null
+            },
+            "pathComponent": "climb2.jpg",
+            "title": "Climb 2"
+        },
+        "climb3": {
+            "description": "He vastly prefers being on top of something to playing on the ground.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/08/07/slides/climb3.jpg",
+                "width": null
+            },
+            "pathComponent": "climb3.jpg",
+            "title": "Climb 3"
+        },
+        "delta1": {
+            "description": "Dean went on a motorycle trip through the Sacramento river delta.  There were lots of drawbridges.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/08/07/slides/delta1.jpg",
+                "width": null
+            },
+            "pathComponent": "delta1.jpg",
+            "title": "Delta 1"
+        },
+        "delta2": {
+            "description": "... and where there weren't drawbridges, there were cute little ferries.   They took just four cars at a time.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/08/07/slides/delta2.jpg",
+                "width": null
+            },
+            "pathComponent": "delta2.jpg",
+            "title": "Delta 2"
+        },
+        "felix": {
+            "description": "Felix has two feet.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/08/07/slides/felix.jpg",
+                "width": null
+            },
+            "pathComponent": "felix.jpg",
+            "title": "Felix"
+        },
+        "milo": {
+            "description": "Milo has five teeth.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/08/07/slides/milo.jpg",
+                "width": null
+            },
+            "pathComponent": "milo.jpg",
+            "title": "Milo"
+        },
+        "rocket1": {
+            "description": "Felix loves space. He and Dean followed the latest space shuttle mission via the newspaper and videos on the internet.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/08/07/slides/rocket1.jpg",
+                "width": null
+            },
+            "pathComponent": "rocket1.jpg",
+            "title": "Rocket 1"
+        },
+        "rocket2": {
+            "description": "Stomp! Up goes the rocket!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/08/07/slides/rocket2.jpg",
+                "width": null
+            },
+            "pathComponent": "rocket2.jpg",
+            "title": "Rocket 2"
+        },
+        "standing": {
+            "description": "Milo no longer crawls. And as if mastering walking wasn't enough of a challenge, he has a fondness for carrying bulky, heavy objects.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/08/07/slides/standing.jpg",
+                "width": null
+            },
+            "pathComponent": "standing.jpg",
+            "title": "Standing"
+        },
+        "superman": {
+            "description": "It's a bird... it's a plane... it's Superman! \n<p>\nFelix came home from school one day with a paper cape. He had so much fun with it that we decided to educate him about superheroes.  Lucie made him a snazzy fabric cape with a lightning bolt, and Dean got some Superman comic books and rented the original movie.  He's in love.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/08/07/slides/superman.jpg",
+                "width": null
+            },
+            "pathComponent": "superman.jpg",
+            "title": "Superman"
+        },
+        "superman2": {
+            "description": "Superman shows off his supernatural strength.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/08/07/slides/superman2.jpg",
+                "width": null
+            },
+            "pathComponent": "superman2.jpg",
+            "title": "Superman 2"
+        },
+        "superman3": {
+            "description": "What does Superman do when the villain attacks with ferocious lions?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/08/07/slides/superman3.jpg",
+                "width": null
+            },
+            "pathComponent": "superman3.jpg",
+            "title": "Superman 3"
+        },
+        "superman4": {
+            "description": "That's right! Don't go messin' with Superman.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/08/07/slides/superman4.jpg",
+                "width": null
+            },
+            "pathComponent": "superman4.jpg",
+            "title": "Superman 4"
+        },
+        "wrestle": {
+            "description": "This may look idyllic, but appearances are deceiving. Felix and Milo are not co-habitating very peacefully anymore.  Milo wants to do the exact same thing that Felix is doing; and he is getting strong and fast enough to get into everything. Felix gets annoyed at having his baby brother constantly in his face. We try to redirect Milo, but he is getting too old to be easily distracted, and too stubborn to take no for an answer.  Here, Felix is frustrated that Milo's horning in on his wrestling match with Dean, and Milo's frustrated that the wrestling's so rough.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2005/08/07/slides/wrestle.jpg",
+                "width": null
+            },
+            "pathComponent": "wrestle.jpg",
+            "title": "Wrestle"
+        }
+    },
+    "childrenOrder": [
+        "climb1",
+        "climb2",
+        "climb3",
+        "delta1",
+        "delta2",
+        "felix",
+        "milo",
+        "rocket1",
+        "rocket2",
+        "standing",
+        "superman",
+        "superman2",
+        "superman3",
+        "superman4",
+        "wrestle"
+    ],
+    "creationTimestamp": 1123398000,
+    "description": "The last day that Milo crawled was his first birthday.   He's graduated from babydom and is a full-on toddler.   It also means he's falling down from a greater height.  He's got several bumps and bruises on his noggin.\n\n<p>\nHe's been -- uncharacteristically -- cranky for the last few days.  We think it's on account of some new teeth coming in.\n</p>\n\n<p>\nFelix had a tough time at school last week.  He decided he didn't like the New School, and didn't have any friends, and was crying when we dropped him off.  We were all pretty depressed about it.  But what a difference  a week makes!  He really likes his teacher Karen who just came back from vacation, and he made a new friend: Owen. We have had a couple of play dates with him, and now Felix says he wants to live with Owen.\n</p>\nTo prepare Felix for our imminent trip to France, Lucie pretends to be Iris, Felix's 3-year-old cousin who doesn't speak any English:\n<div style=\"margin-left:20px;margin-top:5px\">\n<u>L</u>: Bonjour, comment tu t'appelles?\n<br><u>F</u>: Felix. What's your name?\n<br><u>L</u>: Je ne comprends pas. Demandes le moi en fran&ccedil;ais.\n<br><u>F</u>: But I don't know how to say \"what's your name\" in fran&ccedil;ais.\n<br><u>L</u>: On dit: comment tu t'appelles\n<br><u>F</u> (concentrating): Comment how your name is?\n<br><u>L</u>: Presque: Comment tu t'appelles?\n<br><u>F</u>: Comment you t'appelles?\n<br><u>L</u>: Iris.\n</div>\n<p>\n\nNew words and baby signs in the last couple of weeks:\n<ul>\n<li> <u>bye bye</u>: complete with a wave of the hand\n<li> <u>[moving fist up and down as if blowing a whistle]</u>: <i>train</i>.\n<li> <u>[patting head]</u>: <i>hat</i>.\n<li> <u>[sniffing]</u>: <i>flower</i>.\n<li> <u>[clicking tongue]</u>: <i>rabbit</i>, in particular, Owen's rabbit Mickey.\n</ul>",
+    "pathComponent": "2005/08-07",
+    "summary": "",
+    "thumbnailChild": "standing",
+    "title": "August 7"
+}

@@ -1,0 +1,144 @@
+{
+    "children": {
+        "centralpark1": {
+            "description": "We celebrated the sunshine by taking a trip to San Ramon's Central Park. It's a bit of a trek, but their water playground is superb.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/23/slides/centralpark1.jpg",
+                "width": null
+            },
+            "pathComponent": "centralpark1.jpg",
+            "title": "Centralpark 1"
+        },
+        "centralpark2": {
+            "description": "The boys were excited to trade their boots and jackets for shorts and baseball hats.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/23/slides/centralpark2.jpg",
+                "width": null
+            },
+            "pathComponent": "centralpark2.jpg",
+            "title": "Centralpark 2"
+        },
+        "centralpark3": {
+            "description": "Picnic in San Ramon.\n<p class=\"para\">\nNotice Mimi?  Milo increasingly wants to bring him everywhere. \n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/23/slides/centralpark3.jpg",
+                "width": null
+            },
+            "pathComponent": "centralpark3.jpg",
+            "title": "Centralpark 3"
+        },
+        "easter1": {
+            "description": "Amy, one of the yogamoms, organized a post-Easter egg hunt in her backyard. It was a Kodak moment: 10 toddlers (and Felix) earnestly egg hunting, and 10 moms snapping photos. \n<p class=\"para\">\nWe gave Felix a handicap: he could only pick up blue eggs. \n</p>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/23/slides/easter1.jpg",
+                "width": null
+            },
+            "pathComponent": "easter1.jpg",
+            "title": "Easter 1"
+        },
+        "easter2": {
+            "description": "<u>Standing up, left to right:</u> Saia, Eliot and Kai.\n<br><u>Sitting down, left to right:</u> Leo, Argil (half hidden), Jaime, Felix, Milo, Lexi (a recent addition to our group), Ariel and Peter.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/23/slides/easter2.jpg",
+                "width": null
+            },
+            "pathComponent": "easter2.jpg",
+            "title": "Easter 2"
+        },
+        "easter3": {
+            "description": "What are Argil and Felix looking at?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/23/slides/easter3.jpg",
+                "width": null
+            },
+            "pathComponent": "easter3.jpg",
+            "title": "Easter 3"
+        },
+        "easter4": {
+            "description": "Bubbles! \n<p>\nMilo is more interested in the marshmallow Peeps.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/23/slides/easter4.jpg",
+                "width": null
+            },
+            "pathComponent": "easter4.jpg",
+            "title": "Easter 4"
+        },
+        "easter5": {
+            "description": "Milo and Kai have a tea party. This is one of Milo's very favorite games of the moment. He loves the pouring, the drinking, and the sharing. He hands you a cup with a most delightful \"tea?\"",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/23/slides/easter5.jpg",
+                "width": null
+            },
+            "pathComponent": "easter5.jpg",
+            "title": "Easter 5"
+        },
+        "haircut1": {
+            "description": "Dean got a haircut. Some shagginess and sideburn remain, but the look is more surfer and less homeless shelter.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/23/slides/haircut1.jpg",
+                "width": null
+            },
+            "pathComponent": "haircut1.jpg",
+            "title": "Haircut 1"
+        },
+        "haircut2": {
+            "description": "Lucie also got a haircut. It's reminiscent of one she had in high school, when she met Dean.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/23/slides/haircut2.jpg",
+                "width": null
+            },
+            "pathComponent": "haircut2.jpg",
+            "title": "Haircut 2"
+        },
+        "totland1": {
+            "description": "Mom, put <i>down</i> the camera and play ball!",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/23/slides/totland1.jpg",
+                "width": null
+            },
+            "pathComponent": "totland1.jpg",
+            "title": "Totland 1"
+        },
+        "totland2": {
+            "description": "Did we mention how good it feels to be in shorts and sandals again?",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/23/slides/totland2.jpg",
+                "width": null
+            },
+            "pathComponent": "totland2.jpg",
+            "title": "Totland 2"
+        }
+    },
+    "childrenOrder": [
+        "centralpark1",
+        "centralpark2",
+        "centralpark3",
+        "easter1",
+        "easter2",
+        "easter3",
+        "easter4",
+        "easter5",
+        "haircut1",
+        "haircut2",
+        "totland1",
+        "totland2"
+    ],
+    "creationTimestamp": 1145775600,
+    "description": "At long last, a sunny week! The bay area is breathing a giant collective sigh of relief.",
+    "pathComponent": "2006/04-23",
+    "summary": "",
+    "thumbnailChild": "totland2",
+    "title": "April 23"
+}

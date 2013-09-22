@@ -1,0 +1,254 @@
+{
+    "children": {
+        "mall1": {
+            "description": "We were supposed to go to D.C. two weeks ago but missed our flight.  (D'oh)",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/09/slides/mall1.jpg",
+                "width": null
+            },
+            "pathComponent": "mall1.jpg",
+            "title": "Mall 1"
+        },
+        "mall2": {
+            "description": "We had a full schedule.  Both kids got a stroller so we could hit our full museum countdown before boy meltdown.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/09/slides/mall2.jpg",
+                "width": null
+            },
+            "pathComponent": "mall2.jpg",
+            "title": "Mall 2"
+        },
+        "mall3": {
+            "description": "Life, liberty, and the Grandmother way.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/09/slides/mall3.jpg",
+                "width": null
+            },
+            "pathComponent": "mall3.jpg",
+            "title": "Mall 3"
+        },
+        "mall4": {
+            "description": "Wait... I am getting a sense of <a  href=\"http://www.tacocat.com/pix/2003/05/13/html/dc22-mall2.htm\">d&eacute;ja vu</a>",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/09/slides/mall4.jpg",
+                "width": null
+            },
+            "pathComponent": "mall4.jpg",
+            "title": "Mall 4"
+        },
+        "mall5": {
+            "description": "Felix loves sculptures.  He picked a tour of the sculpture garden over the bug museum!  This is Cesar's thumb.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/09/slides/mall5.jpg",
+                "width": null
+            },
+            "pathComponent": "mall5.jpg",
+            "title": "Mall 5"
+        },
+        "mall6": {
+            "description": "Milo's favorite?  The bike rack exhibit.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/09/slides/mall6.jpg",
+                "width": null
+            },
+            "pathComponent": "mall6.jpg",
+            "title": "Mall 6"
+        },
+        "mall7": {
+            "description": "Notice that Felix's shoe lights up as he jumps.  He just got new shoes, exactly like his old ones, except that he claims the lights are brighter, and therefore make the shoes go even faster",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/09/slides/mall7.jpg",
+                "width": null
+            },
+            "pathComponent": "mall7.jpg",
+            "title": "Mall 7"
+        },
+        "mall8": {
+            "description": "All this culture jamming is exhausting.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/09/slides/mall8.jpg",
+                "width": null
+            },
+            "pathComponent": "mall8.jpg",
+            "title": "Mall 8"
+        },
+        "mall9": {
+            "description": "First Milo, then Felix. Time to ride the Metro back to Nana's house.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/09/slides/mall9.jpg",
+                "width": null
+            },
+            "pathComponent": "mall9.jpg",
+            "title": "Mall 9"
+        },
+        "nanas": {
+            "description": "Nana lives on the 17th floor of an apartment building in downtown Arlington, right next to the Metro.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/09/slides/nanas.jpg",
+                "width": null
+            },
+            "pathComponent": "nanas.jpg",
+            "title": "Nanas"
+        },
+        "playground1": {
+            "description": "Exploring Arlington's playgrounds. Felix fell asleep, but Milo had a great time.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/09/slides/playground1.jpg",
+                "width": null
+            },
+            "pathComponent": "playground1.jpg",
+            "title": "Playground 1"
+        },
+        "playground2": {
+            "description": "Another day, another playground, the same suspects.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/09/slides/playground2.jpg",
+                "width": null
+            },
+            "pathComponent": "playground2.jpg",
+            "title": "Playground 2"
+        },
+        "space1": {
+            "description": "The National Air and Space Museum is awesome. It's a huge hangar filled with planes, spaceships and even a real space shuttle.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/09/slides/space1.jpg",
+                "width": null
+            },
+            "pathComponent": "space1.jpg",
+            "title": "Space 1"
+        },
+        "space2": {
+            "description": "Little (and big) boy paradise.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/09/slides/space2.jpg",
+                "width": null
+            },
+            "pathComponent": "space2.jpg",
+            "title": "Space 2"
+        },
+        "taqueria": {
+            "description": "This was one of our most successful family restaurant experiences ever. Not only did both boys sit nicely for the entire meal, but they also ate copiously, and even managed to have fun. Felix and Nana made \"nanaritos\".",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/09/slides/taqueria.jpg",
+                "width": null
+            },
+            "pathComponent": "taqueria.jpg",
+            "title": "Taqueria"
+        },
+        "zoo1": {
+            "description": "Even rain didn't put us off our schedule. On Saturday, we went to the National Zoo.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/09/slides/zoo1.jpg",
+                "width": null
+            },
+            "pathComponent": "zoo1.jpg",
+            "title": "Zoo 1"
+        },
+        "zoo2": {
+            "description": "In the background is Tai Chan, the eight-month old baby panda that is the zoo's pride and joy.  The zoo rents his parents from China for a million dollars a year, but not Tai Chan:  he will be sent to China on his 2nd birthday.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/09/slides/zoo2.jpg",
+                "width": null
+            },
+            "pathComponent": "zoo2.jpg",
+            "title": "Zoo 2"
+        },
+        "zoo3": {
+            "description": "It's less and less about being carried, and more and more about having a nice high launch platform.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/09/slides/zoo3.jpg",
+                "width": null
+            },
+            "pathComponent": "zoo3.jpg",
+            "title": "Zoo 3"
+        },
+        "zoo4": {
+            "description": "The cheetah family (a mom and five kids as big as her) was very cute, wrestling and licking each other.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/09/slides/zoo4.jpg",
+                "width": null
+            },
+            "pathComponent": "zoo4.jpg",
+            "title": "Zoo 4"
+        },
+        "zoo5": {
+            "description": "If you ever plan a trip to the D.C. zoo, hope for rain.   There's lots of indoor exhibits and the rain keeps the crowds away.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/09/slides/zoo5.jpg",
+                "width": null
+            },
+            "pathComponent": "zoo5.jpg",
+            "title": "Zoo 5"
+        },
+        "zoo6": {
+            "description": "Milo, transfixed by a tiger.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/09/slides/zoo6.jpg",
+                "width": null
+            },
+            "pathComponent": "zoo6.jpg",
+            "title": "Zoo 6"
+        },
+        "zoom": {
+            "description": "Berkeley playgrounds only have sensible little cars.  THIS bad puppy took kiddie motorsports to a whole 'nother level, especially with Dean's power slides.",
+            "fullSizeImage": {
+                "height": null,
+                "url": "http://tacocat.com/pix/2006/04/09/slides/zoom.jpg",
+                "width": null
+            },
+            "pathComponent": "zoom.jpg",
+            "title": "Zoom"
+        }
+    },
+    "childrenOrder": [
+        "mall1",
+        "mall2",
+        "mall3",
+        "mall4",
+        "mall5",
+        "mall6",
+        "mall7",
+        "mall8",
+        "mall9",
+        "nanas",
+        "playground1",
+        "playground2",
+        "space1",
+        "space2",
+        "taqueria",
+        "zoo1",
+        "zoo2",
+        "zoo3",
+        "zoo4",
+        "zoo5",
+        "zoo6",
+        "zoom"
+    ],
+    "creationTimestamp": 1144566000,
+    "description": "We spent 4 days in Washington visiting Nana.  We hit all the spots on Felix's \"most wanted\" list: the dinosaurs at the Natural History Museum, the Apollo landing capsule and the Space Shuttle at the (multiple) Air & Space Museums, the baby giant panda at the National Zoo, and the sculpture garden. The long flight and jetlag were hard on Milo, but other than that, he loved going places and meeting people.\n<p>\nMilo has gotten amazingly physical and strong. He is always jumping, climbing or throwing things with infectious enthusiasm.  His joy for life is wonderful to witness and makes even casual onlookers smile.  This boundless energy is also just starting to show up in some X-treme tantrums.  There's only been a few so far.   He hurls himself into the air, screaming and thrashing, and lands in every odd angle imaginable.  Quite impressive.\n</p>\n<p>\nWhen Felix learned to talk, some words came out in French and some came out in English, but he only had a single word for each thing.  For example, he would always say \"bateau\" and never \"boat\", even when singing (\"row row row bateau\").  And he'd never repeat after us: for example, if Lucie asked him to say \"grenouille\", he would reply \"frog\", translating instead of repeating.\n</p>\nMilo is taking a different approach. He is eager to repeat after us, or at least give it a good try. Some words exist in different languages in his vocabulary (he says both \"merci\" and \"thank you\", \"cheese\" and \"fromage\", etc). Furthermore, he knows when to use which language. He asks Dean for a \"book\", but asks Lucie for a \"livre\". His Spanish-speaking nanny reports he says \"comer\" when hungry, which he never says to us. His speech is still mostly single words, with only the occasional two-word sentence.",
+    "pathComponent": "2006/04-09",
+    "summary": "",
+    "thumbnailChild": "space2",
+    "title": "April 9"
+}
