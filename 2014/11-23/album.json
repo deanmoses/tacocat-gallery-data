@@ -1,0 +1,113 @@
+{
+  "id": 64150,
+  "title": "November 23",
+  "description": "Lucie is very excited to be sewing one brown stripe on her green Cuong Nhu belt. It had been about 18 months since her last belt test. <p>To attend a belt test at our dojo, you have to wait until Sensei John invites you. He is the one who decides whether you are ready to move up to the next level. Because of that rule, you are pretty much sure you will succeed at your belt test unless you really make a mess of it. Still, there is something nerve racking about taking a test, no matter the odds.</p>",
+  "keywords": null,
+  "summary": "",
+  "pathComponent": "11-23",
+  "entityType": "GalleryAlbumItem",
+  "creationTimestamp": 1416890844,
+  "ownerId": 6,
+  "url": "v/2014/11-23/",
+  "thumbnail": {
+    "id": 64154,
+    "width": 100,
+    "height": 99,
+    "mimeType": "image/jpeg",
+    "url": "http://tacocat.com/pictures/d/64154-2/11-23.jpg"
+  },
+  "children": [
+    {
+      "id": 64151,
+      "title": "Belt Test",
+      "description": "About a dozen teenagers and half a dozen adults attended this particular belt test. It lasted an exhausting two and a half hours. We all went out to Picante to celebrate afterward. <p>The graduates from the Parents Class are:</p><ul><li>Tom (1 green stripe)</li><li>Kim (2 green stripes)</li><li>Alicia (brown belt)</li><li>Stephen (green belt)</li><li>Lucie (1 brown stripe)</li><li>Igor (1 green stripe)</li></ul>",
+      "keywords": null,
+      "summary": "",
+      "pathComponent": "belt-test.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1416890903,
+      "ownerId": 6,
+      "url": "v/2014/11-23/belt-test.jpg.html",
+      "thumbnail": {
+        "id": 64153,
+        "width": 100,
+        "height": 99,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/64153-2/belt-test.jpg"
+      },
+      "width": 2560,
+      "height": 1709,
+      "mimeType": "image/jpeg",
+      "size": 235897
+    },
+    {
+      "id": 64155,
+      "title": "Brown Stripe",
+      "description": "As a good luck charm, Lucie painted one brown stripe on each of her fingernails and toenails. ",
+      "keywords": "",
+      "summary": "",
+      "pathComponent": "fingernail.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1416890941,
+      "ownerId": 6,
+      "url": "v/2014/11-23/fingernail.jpg.html",
+      "thumbnail": {
+        "id": 64157,
+        "width": 100,
+        "height": 100,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/64157-2/fingernail.jpg"
+      },
+      "width": 2448,
+      "height": 2448,
+      "mimeType": "image/jpeg",
+      "size": 2043983
+    },
+    {
+      "id": 64158,
+      "title": "Sparring",
+      "description": "The excellent belt test photo comes from Patrick, Kim's husband. He also pulled out of his camera this very nice shot of Felix taken at last week's sparring tournament. Thanks, Patrick!",
+      "keywords": "",
+      "summary": "",
+      "pathComponent": "sparring.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1416890942,
+      "ownerId": 6,
+      "url": "v/2014/11-23/sparring.jpg.html",
+      "thumbnail": {
+        "id": 64160,
+        "width": 100,
+        "height": 99,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/64160-2/sparring.jpg"
+      },
+      "width": 2560,
+      "height": 1709,
+      "mimeType": "image/jpeg",
+      "size": 275658
+    },
+    {
+      "id": 64161,
+      "title": "Michelle",
+      "description": "Cousin Will is in town and so is his half-sister Michelle. We took the Texans for a walk through the UC campus and downtown Berkeley.<p> We stopped by the Life Science building to say hi to our friend the T-Rex.</p>",
+      "keywords": null,
+      "summary": "",
+      "pathComponent": "trex.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1416891016,
+      "ownerId": 6,
+      "url": "v/2014/11-23/trex.jpg.html",
+      "thumbnail": {
+        "id": 64163,
+        "width": 100,
+        "height": 100,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/64163-2/trex.jpg"
+      },
+      "width": 5472,
+      "height": 3648,
+      "mimeType": "image/jpeg",
+      "size": 5811123
+    }
+  ]
+}
