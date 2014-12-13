@@ -1,0 +1,159 @@
+{
+  "id": 8046,
+  "title": "June 15",
+  "description": "<p>Summer vacation is here!</p><p>Lucie and the kids celebrated by going camping with Evan, Janice and Jason.</p><p>Dean spent the weekend at a motorcycle school.  He crashed and totaled one of the school's motorcycles, but he's all right except for a bit of road rash.  He has a good story, though!</p>",
+  "keywords": null,
+  "summary": "",
+  "pathComponent": "06-15",
+  "entityType": "GalleryAlbumItem",
+  "creationTimestamp": 1213676607,
+  "ownerId": 6,
+  "url": "v/2008/06-15/",
+  "thumbnail": {
+    "id": 8052,
+    "width": 100,
+    "height": 100,
+    "mimeType": "image/jpeg",
+    "url": "http://tacocat.com/pictures/d/8052-4/06-15.jpg"
+  },
+  "children": [
+    {
+      "id": 8049,
+      "title": "Camping",
+      "description": "Lucie picked up the boys from their last day of school with the car already packed, and drove off to Petaluma (about an hour North), for a week-end of camping. The first day of summer vacation was spent playing in the pool, catching bugs, and eating ice cream. It bodes well for the rest of the summer.",
+      "keywords": null,
+      "summary": "",
+      "pathComponent": "camping1.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1213678535,
+      "ownerId": 6,
+      "url": "v/2008/06-15/camping1.jpg.html",
+      "thumbnail": {
+        "id": 8051,
+        "width": 100,
+        "height": 100,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/8051-4/camping1.jpg"
+      },
+      "width": 1024,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "size": 196630
+    },
+    {
+      "id": 8053,
+      "title": "Camp mates",
+      "description": "We camped with the Frasers, and a whole bunch of other families whose little boys used to go to the same preschool as Evan. They were all nice people, and we enjoyed roasting our hot dogs and marshmallows with them.",
+      "keywords": null,
+      "summary": "",
+      "pathComponent": "camping2.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1213678542,
+      "ownerId": 6,
+      "url": "v/2008/06-15/camping2.jpg.html",
+      "thumbnail": {
+        "id": 8055,
+        "width": 100,
+        "height": 100,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/8055-4/camping2.jpg"
+      },
+      "width": 1024,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "size": 220425
+    },
+    {
+      "id": 8056,
+      "title": "Evan",
+      "description": "Here's Evan in his fancy rental  bike. Unfortunately, Evan got a bad fever on Saturday, and he and his parents had to cut their trip short.  And that's after Janice drove all the way back to San Francisco in the middle of the night on Friday night, to pick up extra blankets because they were all so cold.",
+      "keywords": null,
+      "summary": "",
+      "pathComponent": "camping3.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1213678546,
+      "ownerId": 6,
+      "url": "v/2008/06-15/camping3.jpg.html",
+      "thumbnail": {
+        "id": 8058,
+        "width": 100,
+        "height": 100,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/8058-4/camping3.jpg"
+      },
+      "width": 1024,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "size": 253133
+    },
+    {
+      "id": 8059,
+      "title": "Milo",
+      "description": "Milo and Lucky Number Seven. ",
+      "keywords": "",
+      "summary": "",
+      "pathComponent": "camping4.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1213678551,
+      "ownerId": 6,
+      "url": "v/2008/06-15/camping4.jpg.html",
+      "thumbnail": {
+        "id": 8061,
+        "width": 100,
+        "height": 100,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/8061-4/camping4.jpg"
+      },
+      "width": 1024,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "size": 187773
+    },
+    {
+      "id": 8062,
+      "title": "Push",
+      "description": "Milo gives Felix a hand on the uphill. ",
+      "keywords": "",
+      "summary": "",
+      "pathComponent": "camping5.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1213678555,
+      "ownerId": 6,
+      "url": "v/2008/06-15/camping5.jpg.html",
+      "thumbnail": {
+        "id": 8064,
+        "width": 100,
+        "height": 100,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/8064-4/camping5.jpg"
+      },
+      "width": 1024,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "size": 136268
+    },
+    {
+      "id": 8065,
+      "title": "New School kids",
+      "description": "Surprise! We ran into old friends from OUR preschool. Olivier, whose mom is French, just graduated from New School. We had never met Clementine, another French kid, but Milo was delighted to hear that she will be in New School this summer as well. Milo kept saying \"Clementine, c'est ma copine!\" (<i>Clementine, she is my friend!</i>). Then again, perhaps he was just making rhymes, because he also kept saying \"Clementine, c'est une coquine!\" (<i>Clementine, she is a rascal!</i>)<p><u>from left to right</u>: Clementine, Milo, Olivier, Felix</p>",
+      "keywords": null,
+      "summary": "",
+      "pathComponent": "camping6.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1213678560,
+      "ownerId": 6,
+      "url": "v/2008/06-15/camping6.jpg.html",
+      "thumbnail": {
+        "id": 8067,
+        "width": 100,
+        "height": 100,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/8067-4/camping6.jpg"
+      },
+      "width": 1024,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "size": 230575
+    }
+  ]
+}
