@@ -1,0 +1,136 @@
+{
+  "id": 20442,
+  "title": "August 9",
+  "description": "Dean's cousin Will is staying with us for a few days.  He just graduated from the University of Texas and is on his very first job interview!<p>The last time Will was in town he was shopping for a college.  Both he and Felix have <a href=\"http://tacocat.com/pix/2003/12/14/html/will6.htm\">grown up a lot since then</a>.</p><p>We've all been busy beavers.  Dean's wrapped up in his new job at Credit.com.  Lucie was on a business trip in Boston most of the week.  Felix and Milo had a blast at a new camp called Steve & Kate's.</p><p>Yet, as always, we all found time to make those special moments and snuggle together.</p>",
+  "keywords": null,
+  "summary": "Cousin Will rolls into town",
+  "pathComponent": "08-09",
+  "entityType": "GalleryAlbumItem",
+  "creationTimestamp": 1249880372,
+  "ownerId": 6,
+  "url": "v/2009/08-09/",
+  "thumbnail": {
+    "id": 20446,
+    "width": 100,
+    "height": 100,
+    "mimeType": "image/jpeg",
+    "url": "http://tacocat.com/pictures/d/20446-4/08-09.jpg"
+  },
+  "children": [
+    {
+      "id": 20443,
+      "title": "Texerkley",
+      "description": "Will and Dean brought a little Texas to Berkeley one evening when they shot pool, drank beer and watched the new G.I. Joe movie with the biggest damn tub of popcorn they could lay hands on.",
+      "keywords": null,
+      "summary": "",
+      "pathComponent": "pool.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1249880459,
+      "ownerId": 6,
+      "url": "v/2009/08-09/pool.jpg.html",
+      "thumbnail": {
+        "id": 20445,
+        "width": 100,
+        "height": 100,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/20445-4/pool.jpg"
+      },
+      "width": 1024,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "size": 112242
+    },
+    {
+      "id": 20447,
+      "title": "Windy City",
+      "description": "San Francisco is known for its windy summers.",
+      "keywords": "",
+      "summary": "",
+      "pathComponent": "windy1.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1249880461,
+      "ownerId": 6,
+      "url": "v/2009/08-09/windy1.jpg.html",
+      "thumbnail": {
+        "id": 20449,
+        "width": 100,
+        "height": 100,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/20449-4/windy1.jpg"
+      },
+      "width": 1024,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "size": 179330
+    },
+    {
+      "id": 20450,
+      "title": "Very Windy",
+      "description": "Will and Dean had something of a contest to see how windy they could make it.",
+      "keywords": null,
+      "summary": "",
+      "pathComponent": "windy2.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1249880464,
+      "ownerId": 6,
+      "url": "v/2009/08-09/windy2.jpg.html",
+      "thumbnail": {
+        "id": 20452,
+        "width": 100,
+        "height": 100,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/20452-7/windy2.jpg"
+      },
+      "width": 1024,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "size": 184751
+    },
+    {
+      "id": 20453,
+      "title": "Twin Peaks",
+      "description": "Two cousins on Twin Peaks.",
+      "keywords": null,
+      "summary": "",
+      "pathComponent": "zpeaks1.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1249880466,
+      "ownerId": 6,
+      "url": "v/2009/08-09/zpeaks1.jpg.html",
+      "thumbnail": {
+        "id": 20455,
+        "width": 100,
+        "height": 100,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/20455-4/zpeaks1.jpg"
+      },
+      "width": 1024,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "size": 157436
+    },
+    {
+      "id": 20456,
+      "title": "Twin Clowns",
+      "description": "The plan was to rollerblade down.",
+      "keywords": "",
+      "summary": "",
+      "pathComponent": "zpeaks2.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1249880469,
+      "ownerId": 6,
+      "url": "v/2009/08-09/zpeaks2.jpg.html",
+      "thumbnail": {
+        "id": 20458,
+        "width": 100,
+        "height": 100,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/20458-4/zpeaks2.jpg"
+      },
+      "width": 1024,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "size": 180358
+    }
+  ]
+}
