@@ -1,0 +1,113 @@
+{
+  "id": 27080,
+  "title": "August 8",
+  "description": "Just a few days left before moving to France!<p>We've been on a massive house purge.   Things are getting thrown away, packed in the garage, or mailed to France.   The place is looking empty.</p><p>We've been seeing a few old friends one last time, with lots of promises that people will come to visit.</p>",
+  "keywords": "skin cancer, knee, sprain, orthopedic",
+  "summary": "Health &amp; packing",
+  "pathComponent": "08-08",
+  "entityType": "GalleryAlbumItem",
+  "creationTimestamp": 1281345921,
+  "ownerId": 6,
+  "url": "v/2010/08-08/",
+  "thumbnail": {
+    "id": 27086,
+    "width": 100,
+    "height": 98,
+    "mimeType": "image/jpeg",
+    "url": "http://tacocat.com/pictures/d/27086-5/08-08.jpg"
+  },
+  "children": [
+    {
+      "id": 27083,
+      "title": "Allowance 1",
+      "description": "When we learned Felix had somehow saved up $50, and the only thing he chose to spend a portion of that money on was a present for Milo, we decided it was past time to give him an allowance.<p>We're giving him 8 dollars or euros per month: one $/€ per year of age.</p><p>It's not contingent on accomplishing any chores, but we are asking him to help more around the house - such as taking in a few dishes from the table that aren't his own.</p>",
+      "keywords": null,
+      "summary": "",
+      "pathComponent": "allowance1.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1281346044,
+      "ownerId": 6,
+      "url": "v/2010/08-08/allowance1.jpg.html",
+      "thumbnail": {
+        "id": 27085,
+        "width": 100,
+        "height": 98,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/27085-3/allowance1.jpg"
+      },
+      "width": 1024,
+      "height": 680,
+      "mimeType": "image/jpeg",
+      "size": 219393
+    },
+    {
+      "id": 27087,
+      "title": "Allowance 2",
+      "description": "He asked for $4 now and €4 later.",
+      "keywords": "",
+      "summary": "",
+      "pathComponent": "allowance2.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1281346049,
+      "ownerId": 6,
+      "url": "v/2010/08-08/allowance2.jpg.html",
+      "thumbnail": {
+        "id": 27089,
+        "width": 100,
+        "height": 98,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/27089-3/allowance2.jpg"
+      },
+      "width": 1024,
+      "height": 680,
+      "mimeType": "image/jpeg",
+      "size": 178727
+    },
+    {
+      "id": 27090,
+      "title": "Dean's Knee",
+      "description": "Dean hurt his knee last weekend and wasn't able to walk most of the week.  It's only THIS weekend he's been ambulatory without crutches or cane.<p>The doctors think it's either a knee sprain or a torn cartilege (meniscus).  Either way, the treatment is ice and elevation.   That's what he's been doing most of the week.</p><p>It definitely put a cramp in our efforts to pack up the house.  For instance, he was going to sell the motorcycle, but now it'll just have to get mothballed.</p><p>Fortunately, THIS weekend he's doing much better and will be able to walk onto the plane.  Yay!</p>",
+      "keywords": "xray, x-ray, orthopedic, orthopaedic",
+      "summary": "",
+      "pathComponent": "knee-xray.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1281346050,
+      "ownerId": 6,
+      "url": "v/2010/08-08/knee-xray.jpg.html",
+      "thumbnail": {
+        "id": 27092,
+        "width": 99,
+        "height": 100,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/27092-3/knee-xray.jpg"
+      },
+      "width": 791,
+      "height": 1024,
+      "mimeType": "image/jpeg",
+      "size": 51864
+    },
+    {
+      "id": 27093,
+      "title": "Stitches",
+      "description": "In other health news, Dean found out that he had a nonlethal skin cancer!  It's on his left forearm and is called \"squamous cell carcinoma in situ\" a.k.a. Bowen's disease.   It's not usually dangerous.<p>The doctor cut it out and sent it to the lab to make sure he got it all.  </p><p>This has left Dean with 14 stitches:  it looks like Dr. Frankenstein sewed his arm on.</p><p>The stitches may get removed Monday; otherwise, we'll be trying out Europe's heath services sooner than hoped for.  Their insurance CAN'T be any worse to deal with than America's.</p>",
+      "keywords": null,
+      "summary": "",
+      "pathComponent": "stitches.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1281346052,
+      "ownerId": 6,
+      "url": "v/2010/08-08/stitches.jpg.html",
+      "thumbnail": {
+        "id": 27095,
+        "width": 100,
+        "height": 98,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/27095-3/stitches.jpg"
+      },
+      "width": 1024,
+      "height": 680,
+      "mimeType": "image/jpeg",
+      "size": 156052
+    }
+  ]
+}
