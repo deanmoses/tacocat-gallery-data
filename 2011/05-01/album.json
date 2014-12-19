@@ -1,0 +1,90 @@
+{
+  "id": 33316,
+  "title": "May 1",
+  "description": "Nothing much to report this week. The kids are back in school. We haven't had any overnight guests since Monday and the next ones aren't due until next Wednesday. The house feels very quiet.<p>May 1 is labor day in France. Mostly, it gets celebrated by not working. In keeping with the spirit of La Fête du Travail, we did little this weekend and took very few photos. Enjoy the downtime before the next round of frenetic adventures.</p>",
+  "keywords": null,
+  "summary": "",
+  "pathComponent": "05-01",
+  "entityType": "GalleryAlbumItem",
+  "creationTimestamp": 1304277193,
+  "ownerId": 6,
+  "url": "v/2011/05-01/",
+  "thumbnail": {
+    "id": 33322,
+    "width": 100,
+    "height": 98,
+    "mimeType": "image/jpeg",
+    "url": "http://tacocat.com/pictures/d/33322-5/05-01.jpg"
+  },
+  "children": [
+    {
+      "id": 33319,
+      "title": "Muguet",
+      "description": "It's considered good luck to give some <i>muguet</i> (Lily of the Valley) on May 1st. <p>Apparently, <i>muguet</i> has been associated with good luck and  springtime for a long time but it's only under Pétain that it became specifically tied with May 1st. This was in an effort to de-emphasize the communist heritage of Labor Day. Before World War II, red rosehip was the preferred flower on May 1st (then called <i>La Fête des Travailleurs</i> instead of <i>La Fête du Travail</i>)</p>",
+      "keywords": null,
+      "summary": "",
+      "pathComponent": "muguet.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1304277425,
+      "ownerId": 6,
+      "url": "v/2011/05-01/muguet.jpg.html",
+      "thumbnail": {
+        "id": 33321,
+        "width": 100,
+        "height": 98,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/33321-3/muguet.jpg"
+      },
+      "width": 1024,
+      "height": 680,
+      "mimeType": "image/jpeg",
+      "size": 209498
+    },
+    {
+      "id": 33323,
+      "title": "Haircut",
+      "description": "Dean got a haircut. ",
+      "keywords": "",
+      "summary": "",
+      "pathComponent": "nohair.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1304277431,
+      "ownerId": 6,
+      "url": "v/2011/05-01/nohair.jpg.html",
+      "thumbnail": {
+        "id": 33325,
+        "width": 100,
+        "height": 98,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/33325-3/nohair.jpg"
+      },
+      "width": 1024,
+      "height": 680,
+      "mimeType": "image/jpeg",
+      "size": 213376
+    },
+    {
+      "id": 33326,
+      "title": "Roses",
+      "description": "The lilac and the ceanothe are fading away from our garden but one of the rosebushes is in full bloom. <p>We are taking ample time to smell the roses.</p>",
+      "keywords": null,
+      "summary": "",
+      "pathComponent": "rose.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1304277437,
+      "ownerId": 6,
+      "url": "v/2011/05-01/rose.jpg.html",
+      "thumbnail": {
+        "id": 33328,
+        "width": 100,
+        "height": 98,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/33328-3/rose.jpg"
+      },
+      "width": 1024,
+      "height": 680,
+      "mimeType": "image/jpeg",
+      "size": 255182
+    }
+  ]
+}
