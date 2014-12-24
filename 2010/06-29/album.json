@@ -1,0 +1,159 @@
+{
+  "id": 26376,
+  "title": "Hetch Hetchy",
+  "description": "Dean and Papa John hiked around the Hetch Hetchy Reservoir, which provides San Francisco with an alternative to drinking Perrier and San Pellegrino.<p>The reservoir was created by damming the Tuolomne River in the 1920's.  The valley they elected to flood was -- according to the famous naturalist John Muir -- second only to Yosemite Valley in grandeur.</p><p>People still call upon the government to “Restore Hetch Hetchy”. </p><p>Even so, the setting is majestic, and it's cool to think about the pristine unfiltered water travelling 160 miles via gravity to quench the thirst of millions in the bay area.</p><p><a href=\"../\">Return to June 30, 2010</a>.</p>",
+  "keywords": null,
+  "summary": "",
+  "pathComponent": "hetch-hetchy",
+  "entityType": "GalleryAlbumItem",
+  "creationTimestamp": 1278314099,
+  "ownerId": 6,
+  "url": "v/2010/06-30/hetch-hetchy/",
+  "thumbnail": {
+    "id": 26381,
+    "width": 100,
+    "height": 100,
+    "mimeType": "image/jpeg",
+    "url": "http://tacocat.com/pictures/d/26381-3/hetch-hetchy.jpg"
+  },
+  "children": [
+    {
+      "id": 26134,
+      "title": "Hetch Hetchy Spillway",
+      "description": "The O'Shaughnessy Dam's spillways raise and lower to control the level of the water in the Hetch Hetchy reservoir.",
+      "keywords": null,
+      "summary": "",
+      "pathComponent": "hetch-hetchy1.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1278277027,
+      "ownerId": 6,
+      "url": "v/2010/06-30/hetch-hetchy/hetch-hetchy1.jpg.html",
+      "thumbnail": {
+        "id": 26136,
+        "width": 100,
+        "height": 100,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/26136-3/hetch-hetchy1.jpg"
+      },
+      "width": 1024,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "size": 250968
+    },
+    {
+      "id": 26137,
+      "title": "Spillway 2",
+      "description": "The roaring torrent tumbles down the mountain to the Tuolumne River, far below.",
+      "keywords": null,
+      "summary": "",
+      "pathComponent": "hetch-hetchy2.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1278277030,
+      "ownerId": 6,
+      "url": "v/2010/06-30/hetch-hetchy/hetch-hetchy2.jpg.html",
+      "thumbnail": {
+        "id": 26139,
+        "width": 100,
+        "height": 100,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/26139-3/hetch-hetchy2.jpg"
+      },
+      "width": 1024,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "size": 183355
+    },
+    {
+      "id": 26140,
+      "title": "Water Jets",
+      "description": "Yet more water spurting out of the dam.  There was LOTS of rain and snow this year.",
+      "keywords": null,
+      "summary": "",
+      "pathComponent": "hetch-hetchy3.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1278277031,
+      "ownerId": 6,
+      "url": "v/2010/06-30/hetch-hetchy/hetch-hetchy3.jpg.html",
+      "thumbnail": {
+        "id": 26142,
+        "width": 100,
+        "height": 100,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/26142-3/hetch-hetchy3.jpg"
+      },
+      "width": 1024,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "size": 170474
+    },
+    {
+      "id": 26143,
+      "title": "Shower",
+      "description": "Shower, anyone?",
+      "keywords": null,
+      "summary": "",
+      "pathComponent": "hetch-hetchy4.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1278277033,
+      "ownerId": 6,
+      "url": "v/2010/06-30/hetch-hetchy/hetch-hetchy4.jpg.html",
+      "thumbnail": {
+        "id": 26145,
+        "width": 100,
+        "height": 100,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/26145-3/hetch-hetchy4.jpg"
+      },
+      "width": 1024,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "size": 107614
+    },
+    {
+      "id": 26146,
+      "title": "Hetch Hetchy",
+      "description": "The naturalist John Muir was very much against building the O'Shaughnessy Dam:<p style=\"margin:1em;width:250px;\"><cite>\"Dam Hetch Hetchy! As well dam for water-tanks the people's cathedrals and churches, for no holier temple has ever been consecrated by the heart of man.\"</cite> </p>-- John Muir",
+      "keywords": null,
+      "summary": "",
+      "pathComponent": "hetch-hetchy5.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1278277035,
+      "ownerId": 6,
+      "url": "v/2010/06-30/hetch-hetchy/hetch-hetchy5.jpg.html",
+      "thumbnail": {
+        "id": 26148,
+        "width": 100,
+        "height": 100,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/26148-3/hetch-hetchy5.jpg"
+      },
+      "width": 1024,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "size": 160317
+    },
+    {
+      "id": 26149,
+      "title": "Tunnel",
+      "description": "One side of the dam ends in a dank and drippy granite tunnel that takes you through a mountain to a hike to Wapama Falls, one of the tallest falls in North America.",
+      "keywords": "",
+      "summary": "",
+      "pathComponent": "hetch-hetchy6.jpg",
+      "entityType": "GalleryPhotoItem",
+      "creationTimestamp": 1278277037,
+      "ownerId": 6,
+      "url": "v/2010/06-30/hetch-hetchy/hetch-hetchy6.jpg.html",
+      "thumbnail": {
+        "id": 26151,
+        "width": 100,
+        "height": 100,
+        "mimeType": "image/jpeg",
+        "url": "http://tacocat.com/pictures/d/26151-3/hetch-hetchy6.jpg"
+      },
+      "width": 1024,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "size": 177416
+    }
+  ]
+}
